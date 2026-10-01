@@ -21,7 +21,7 @@ jobs:
             [ -z "$name" ] && continue
             [ -f "stock/$name.mp4" ] && continue
             curl -sSL --fail -o "tmp/$name.mov" "$url" || { echo "fail $name"; continue; }
-            ffmpeg -v error -y -i "tmp/$name.mov" -t 14 -vf "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,fps=30" -an -c:v libx264 -crf 25 -preset veryfast -pix_fmt yuv420p "stock/$name.mp4" && echo "ok $name $(stat -c%s stock/$name.mp4)"
+            ffmpeg -nostdin -v error -y -i "tmp/$name.mov" -t 14 -vf "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,fps=30" -an -c:v libx264 -crf 25 -preset veryfast -pix_fmt yuv420p "stock/$name.mp4" && echo "ok $name $(stat -c%s stock/$name.mp4)"
           done < stock.txt
       - name: Commit
         run: |
