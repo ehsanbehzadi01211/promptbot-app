@@ -1,0 +1,29 @@
+{
+  "feeds": [
+    {"name": "OpenAI", "url": "https://openai.com/news/rss.xml", "official": true},
+    {"name": "Google", "url": "https://blog.google/technology/ai/rss/", "official": true},
+    {"name": "Google DeepMind", "url": "https://deepmind.google/blog/rss.xml", "official": true},
+    {"name": "Microsoft", "url": "https://blogs.microsoft.com/ai/feed/", "official": true},
+    {"name": "NVIDIA", "url": "https://blogs.nvidia.com/feed/", "official": true},
+    {"name": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml", "official": true},
+    {"name": "The Verge", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "official": false},
+    {"name": "TechCrunch", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "official": false},
+    {"name": "VentureBeat", "url": "https://venturebeat.com/category/ai/feed/", "official": false},
+    {"name": "MIT Technology Review", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed", "official": false},
+    {"name": "Product Hunt", "url": "https://www.producthunt.com/feed?category=artificial-intelligence", "official": false, "tools": true}
+  ],
+  "pages": [
+    {"name": "Anthropic", "url": "https://www.anthropic.com/news", "base": "https://www.anthropic.com", "pattern": "^/news/[a-z0-9-]+$", "official": true}
+  ],
+  "google_news": [
+    "OpenAI OR ChatGPT OR Sora OR Codex",
+    "Anthropic OR \"Claude AI\" OR \"Claude Code\"",
+    "\"Google Gemini\" OR \"Gemini app\" OR \"Google AI Studio\" OR NotebookLM OR Veo",
+    "\"Meta AI\" OR Llama OR xAI OR Grok OR \"Mistral AI\" OR DeepSeek OR Qwen",
+    "Midjourney OR \"Runway AI\" OR ElevenLabs OR Kling OR Suno OR \"Adobe Firefly\" OR Perplexity",
+    "\"Microsoft Copilot\" OR \"GitHub Copilot\" OR Cursor OR \"AI agent\" launch"
+  ],
+  "launch_words": ["launch", "launches", "introduc", "unveil", "announc", "release", "rolls out", "rolling out", "now available", "new model", "new feature", "debut", "update", "agent", "free"],
+  "max_posts_per_run": 3,
+  "max_posts_per_day": 16
+}

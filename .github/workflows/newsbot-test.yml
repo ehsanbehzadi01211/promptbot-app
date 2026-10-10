@@ -1,0 +1,26 @@
+name: newsbot-test
+on:
+  push:
+    branches: [reels-media]
+    paths: [newsbot/test.txt]
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: reels-media
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -q feedparser
+      - run: python newsbot/news.py fetch 2>&1 | tee newsbot/fetch_log.txt
+      - name: Commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add newsbot
+          git commit -m "newsbot test fetch" || exit 0
+          git pull --rebase -q && git push
