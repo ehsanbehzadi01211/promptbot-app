@@ -1,6 +1,1 @@
-c6_cover.jpg https://res.cloudinary.com/qecsawrr/image/upload/v1791657428/ehbehzad/carousel/c6_cover.jpg
-c6_bg.jpg https://res.cloudinary.com/qecsawrr/image/upload/v1791657432/ehbehzad/carousel/c6_bg.jpg
-c7_cover.jpg https://res.cloudinary.com/qecsawrr/image/upload/v1791657439/ehbehzad/carousel/c7_cover.jpg
-c7_bg.jpg https://res.cloudinary.com/qecsawrr/image/upload/v1791657443/ehbehzad/carousel/c7_bg.jpg
-c8_cover.jpg https://res.cloudinary.com/qecsawrr/image/upload/v1791657450/ehbehzad/carousel/c8_cover.jpg
-c8_bg.jpg https://res.cloudinary.com/qecsawrr/image/upload/v1791657455/ehbehzad/carousel/c8_bg.jpg
+web2_v4.mp3 https://storage.googleapis.com/xi-backend/database/workspace/b0ead3f0aecf4caeb1f9371f42e45c3b/content_generation/p27LHQ7rOqOkF7KcOcWX/Zvce8EHMnQbjpDG13KuC/content.mp3?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=xi-backend-prod%40xi-labs.iam.gserviceaccount.com%2F20261010%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261010T221043Z&X-Goog-Expires=7200&X-Goog-SignedHeaders=host&X-Goog-Signature=55b804978875fefd0d602cb314d0459243ca65937a688d16ab562b7ab83d9bc23aa310b6971c5d8925244f98c91d0c2c00ef8ab0e31b645eff1dbdca1a45492f277b9550724941a3852d1680a81c8a867e214a8d8cdd848574f7783208cb35e46b51e8709d6629dd7ad3ce0f7e707300b4000b7f9b74a7ddd0d63e40c788295e6d5d06c0c658f345c8edb73b0c02c9506ae9be102f8d1c0eaced21152dd7b4f79effb72560e066e97df0583c53aedc6a334941ea476e1a4feae47a036fd821d6e49149391e10399a2ec01473b8858930106fa879e9579f160e8162514305d670f0c01c1b61ef19f715ba9d3144c9791f29312484d9490d35d0d6aac3cf428777
