@@ -1,0 +1,18 @@
+[0.00-2.44] Three things you should never fully hand over to AI.
+   Three(0.66) things(0.99) you(1.00) should(1.00) never(1.00) fully(1.00) hand(1.00) over(1.00) to(1.00) AI.(0.98)
+[3.70-5.28] 1. Medical diagnosis.
+   1.(0.56) Medical(1.00) diagnosis.(0.82)
+[6.68-10.68] It's fine for general info, but diagnosis and treatment belong to a doctor.
+   It's(1.00) fine(1.00) for(1.00) general(1.00) info,(1.00) but(1.00) diagnosis(1.00) and(1.00) treatment(1.00) belong(1.00) to(1.00) a(1.00) doctor.(1.00)
+[11.58-14.98] 2. Big financial and legal decisions.
+   2.(1.00) Big(1.00) financial(1.00) and(1.00) legal(1.00) decisions.(1.00)
+[15.86-18.02] Always talk to an expert first.
+   Always(1.00) talk(1.00) to(1.00) an(1.00) expert(1.00) first.(1.00)
+[19.26-21.42] 3. Confidential work data.
+   3.(1.00) Confidential(1.00) work(1.00) data.(1.00)
+[22.12-26.48] Don't paste contracts, passwords, or customer data into a chat.
+   Don't(1.00) paste(1.00) contracts,(1.00) passwords,(1.00) or(1.00) customer(1.00) data(1.00) into(1.00) a(1.00) chat.(1.00)
+[26.98-29.18] Instead, use it to prepare your questions.
+   Instead,(1.00) use(1.00) it(1.00) to(1.00) prepare(1.00) your(1.00) questions.(1.00)
+[29.18-33.64] questions. Then talk to the expert. Send this to someone who asks AI about everything.
+   questions.(0.15) Then(0.98) talk(0.96) to(1.00) the(1.00) expert.(1.00) Send(1.00) this(1.00) to(1.00) someone(1.00) who(1.00) asks(1.00) AI(0.99) about(1.00) everything.(1.00)

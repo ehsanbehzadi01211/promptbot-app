@@ -1,0 +1,22 @@
+[0.00-2.78] Before you send your resume, let AI critique it.
+   Before(0.96) you(1.00) send(1.00) your(1.00) resume,(0.98) let(1.00) AI(0.97) critique(1.00) it.(1.00)
+[2.92-7.48] Write, like a strict hiring manager, critique my resume for this job.
+   Write,(0.93) like(0.71) a(1.00) strict(1.00) hiring(1.00) manager,(1.00) critique(0.98) my(1.00) resume(1.00) for(1.00) this(1.00) job.(1.00)
+[7.66-10.82] List three weak points and give a suggestion for each.
+   List(1.00) three(0.97) weak(1.00) points(1.00) and(0.99) give(1.00) a(1.00) suggestion(1.00) for(1.00) each.(1.00)
+[11.48-12.32] Why strict?
+   Why(1.00) strict?(1.00)
+[13.12-14.92] Because you won't get fake praise.
+   Because(1.00) you(1.00) won't(1.00) get(1.00) fake(1.00) praise.(1.00)
+[15.40-18.14] You get real feedback before you get rejected.
+   You(1.00) get(1.00) real(1.00) feedback(1.00) before(1.00) you(1.00) get(1.00) rejected.(1.00)
+[18.70-23.48] For example, instead of, I was in charge of sales, it suggests you write the result.
+   For(1.00) example,(1.00) instead(1.00) of,(1.00) I(1.00) was(1.00) in(1.00) charge(1.00) of(1.00) sales,(1.00) it(1.00) suggests(1.00) you(1.00) write(1.00) the(1.00) result.(1.00)
+[23.66-24.52] With a number.
+   With(0.99) a(1.00) number.(1.00)
+[25.10-26.08] Just one thing.
+   Just(1.00) one(1.00) thing.(1.00)
+[26.40-28.52] Remove your phone number and address first.
+   Remove(1.00) your(1.00) phone(1.00) number(1.00) and(1.00) address(1.00) first.(1.00)
+[29.06-31.08] Send this to someone who's looking for a job
+   Send(0.56) this(0.99) to(1.00) someone(1.00) who's(0.89) looking(1.00) for(1.00) a(1.00) job(1.00)

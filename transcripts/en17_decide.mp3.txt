@@ -1,0 +1,22 @@
+[0.00-1.12] Stuck between two choices?
+   Stuck(0.96) between(1.00) two(0.98) choices?(1.00)
+[1.78-3.30] AI can help you decide.
+   AI(0.96) can(1.00) help(1.00) you(1.00) decide.(1.00)
+[3.74-6.28] Right, I'm torn between these two.
+   Right,(0.47) I'm(0.99) torn(1.00) between(1.00) these(1.00) two.(1.00)
+[6.92-9.70] Make a table of the pros and cons of each.
+   Make(1.00) a(1.00) table(1.00) of(1.00) the(1.00) pros(1.00) and(1.00) cons(1.00) of(1.00) each.(1.00)
+[10.76-12.86] Then ask me three questions that help me decide.
+   Then(1.00) ask(0.99) me(1.00) three(0.97) questions(1.00) that(1.00) help(1.00) me(1.00) decide.(1.00)
+[13.92-15.92] For example, you have two job offers.
+   For(1.00) example,(1.00) you(1.00) have(1.00) two(1.00) job(1.00) offers.(1.00)
+[16.72-19.58] You get a comparison table plus three key questions.
+   You(1.00) get(1.00) a(1.00) comparison(1.00) table(1.00) plus(0.62) three(1.00) key(1.00) questions.(1.00)
+[20.78-22.20] But the final call is yours.
+   But(1.00) the(1.00) final(1.00) call(1.00) is(1.00) yours.(1.00)
+[22.86-24.80] AI just helps you think clearly.
+   AI(1.00) just(1.00) helps(1.00) you(1.00) think(1.00) clearly.(1.00)
+[25.84-27.38] What are you torn between right now?
+   What(1.00) are(1.00) you(1.00) torn(1.00) between(1.00) right(1.00) now?(1.00)
+[27.82-29.02] Tell me in the comments.
+   Tell(1.00) me(1.00) in(1.00) the(1.00) comments.(1.00)

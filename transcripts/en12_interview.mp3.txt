@@ -1,0 +1,24 @@
+[0.00-2.66] Before your next job interview, practice with AI.
+   Before(0.97) your(1.00) next(1.00) job(1.00) interview,(1.00) practice(1.00) with(1.00) AI.(0.99)
+[3.34-5.66] No stress as many times as you want.
+   No(0.99) stress(1.00) as(1.00) many(1.00) times(1.00) as(1.00) you(1.00) want.(1.00)
+[6.32-7.08] Write this.
+   Write(1.00) this.(1.00)
+[7.62-9.64] You are the interviewer for this job.
+   You(1.00) are(1.00) the(1.00) interviewer(1.00) for(1.00) this(1.00) job.(1.00)
+[10.48-12.40] Ask me questions one at a time.
+   Ask(1.00) me(1.00) questions(1.00) one(1.00) at(1.00) a(1.00) time.(1.00)
+[12.94-17.08] Give feedback after each answer, and at the end, give me a score.
+   Give(1.00) feedback(1.00) after(1.00) each(1.00) answer,(1.00) and(1.00) at(1.00) the(1.00) end,(1.00) give(1.00) me(1.00) a(1.00) score.(1.00)
+[17.94-19.00] Why does it work?
+   Why(1.00) does(1.00) it(1.00) work?(1.00)
+[19.10-22.34] Because it asks real questions that fit that exact job,
+   Because(1.00) it(1.00) asks(1.00) real(1.00) questions(1.00) that(1.00) fit(1.00) that(1.00) exact(1.00) job,(1.00)
+[22.48-26.38] and it shows your weak spots, so you know where to answer better.
+   and(1.00) it(1.00) shows(1.00) your(1.00) weak(1.00) spots,(1.00) so(1.00) you(1.00) know(1.00) where(1.00) to(1.00) answer(1.00) better.(1.00)
+[27.02-27.76] Pro tip.
+   Pro(1.00) tip.(0.95)
+[27.76-31.86] Tip. Turn on voice mode and answer out loud like a real interview.
+   Tip.(0.33) Turn(1.00) on(1.00) voice(0.94) mode(1.00) and(0.95) answer(1.00) out(1.00) loud(1.00) like(1.00) a(1.00) real(1.00) interview.(1.00)
+[32.86-34.88] Send this to someone who's looking for a job.
+   Send(1.00) this(1.00) to(1.00) someone(1.00) who's(0.99) looking(1.00) for(1.00) a(1.00) job.(1.00)

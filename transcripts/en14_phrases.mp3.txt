@@ -1,0 +1,22 @@
+[0.00-2.56] Three phrases that make AI answers way better.
+   Three(0.45) phrases(0.97) that(1.00) make(1.00) AI(0.98) answers(0.98) way(0.99) better.(1.00)
+[4.08-6.60] 1. Ask me questions before you answer.
+   1.(0.33) Ask(0.96) me(0.99) questions(1.00) before(1.00) you(1.00) answer.(1.00)
+[6.76-9.12] That way it knows exactly what you want.
+   That(1.00) way(1.00) it(0.86) knows(1.00) exactly(1.00) what(1.00) you(1.00) want.(1.00)
+[10.30-12.30] 2. Explain step-by-step.
+   2.(1.00) Explain(1.00) step(0.96) -by(0.67) -step.(1.00)
+[12.56-14.02] Great for complex problems.
+   Great(1.00) for(1.00) complex(1.00) problems.(1.00)
+[14.54-17.38] 3. Tell me the weak points of your answer.
+   3.(1.00) Tell(1.00) me(1.00) the(1.00) weak(1.00) points(1.00) of(1.00) your(1.00) answer.(1.00)
+[17.88-20.88] That way it critiques its own answer and makes it better.
+   That(1.00) way(1.00) it(0.67) critiques(1.00) its(1.00) own(1.00) answer(1.00) and(1.00) makes(1.00) it(1.00) better.(1.00)
+[21.44-24.68] For example, and instead of just saying, give me a workout plan,
+   For(1.00) example,(1.00) and(0.73) instead(1.00) of(1.00) just(1.00) saying,(1.00) give(0.95) me(1.00) a(1.00) workout(1.00) plan,(1.00)
+[25.36-26.92] add ask me questions first.
+   add(0.99) ask(0.84) me(0.98) questions(1.00) first.(1.00)
+[27.00-28.24] Which one will you try first?
+   Which(1.00) one(1.00) will(1.00) you(1.00) try(1.00) first?(1.00)
+[28.40-29.34] Tell me in the comments.
+   Tell(1.00) me(1.00) in(1.00) the(1.00) comments.(1.00)

@@ -1,0 +1,24 @@
+[0.00-3.50] The video prompt formula that works in any AI video generator.
+   The(0.76) video(0.82) prompt(0.99) formula(1.00) that(1.00) works(1.00) in(1.00) any(1.00) AI(0.98) video(0.97) generator.(1.00)
+[3.90-5.24] It has four parts.
+   It(1.00) has(1.00) four(0.91) parts.(1.00)
+[6.16-8.94] Scene. Who, where, doing what.
+   Scene.(0.94) Who,(1.00) where,(0.99) doing(1.00) what.(1.00)
+[9.62-11.76] Camera move. Like a slow zoom.
+   Camera(1.00) move.(0.97) Like(1.00) a(1.00) slow(1.00) zoom.(1.00)
+[11.96-14.70] Light and mood. Like cinematic and warm.
+   Light(1.00) and(1.00) mood.(1.00) Like(1.00) cinematic(1.00) and(1.00) warm.(1.00)
+[14.88-16.76] And length. Like five seconds.
+   And(1.00) length.(1.00) Like(1.00) five(0.58) seconds.(1.00)
+[16.98-18.50] You don't have to write it yourself.
+   You(1.00) don't(1.00) have(1.00) to(1.00) write(1.00) it(1.00) yourself.(1.00)
+[19.20-24.16] Tell ChatGPT, write three scenes for a 15-second video about this topic
+   Tell(1.00) ChatGPT,(0.92) write(1.00) three(1.00) scenes(1.00) for(1.00) a(1.00) 15(1.00) -second(0.92) video(1.00) about(1.00) this(1.00) topic(1.00)
+[24.16-26.48] and give a video prompt for each scene.
+   and(0.66) give(1.00) a(1.00) video(1.00) prompt(1.00) for(1.00) each(1.00) scene.(1.00)
+[26.48-30.20] Pro tip, ask for just one movement per scene.
+   Pro(0.77) tip,(0.45) ask(0.98) for(1.00) just(1.00) one(0.96) movement(0.99) per(1.00) scene.(0.98)
+[30.40-32.54] A busy prompt gives you a messy video.
+   A(0.99) busy(0.99) prompt(1.00) gives(0.99) you(1.00) a(1.00) messy(1.00) video.(1.00)
+[33.52-35.50] Save this for your first AI video.
+   Save(0.99) this(1.00) for(1.00) your(1.00) first(1.00) AI(0.98) video.(1.00)

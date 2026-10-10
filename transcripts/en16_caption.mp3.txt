@@ -1,0 +1,24 @@
+[0.00-1.90] Let AI write your Instagram captions.
+   Let(0.92) AI(0.95) write(0.99) your(1.00) Instagram(0.99) captions.(0.98)
+[3.06-4.26] With just this one prompt,
+   With(0.99) just(1.00) this(1.00) one(0.99) prompt,(1.00)
+[5.26-7.84] write, write an Instagram caption about my post topic.
+   write,(0.97) write(0.90) an(1.00) Instagram(1.00) caption(1.00) about(1.00) my(1.00) post(1.00) topic.(1.00)
+[8.74-10.50] Friendly tone, five lines max,
+   Friendly(1.00) tone,(1.00) five(0.95) lines(1.00) max,(1.00)
+[11.22-13.58] end with a question and give five relevant hashtags.
+   end(0.99) with(1.00) a(1.00) question(1.00) and(0.31) give(1.00) five(1.00) relevant(1.00) hashtags.(1.00)
+[15.04-15.60] Why a question?
+   Why(1.00) a(1.00) question?(1.00)
+[15.78-18.18] Because a question at the end brings comments
+   Because(1.00) a(1.00) question(1.00) at(1.00) the(1.00) end(1.00) brings(1.00) comments(1.00)
+[18.18-20.18] and comments mean more engagement.
+   and(0.75) comments(1.00) mean(1.00) more(1.00) engagement.(1.00)
+[21.70-25.16] Pro tip, ask for three versions and pick the best one.
+   Pro(1.00) tip,(0.99) ask(1.00) for(1.00) three(1.00) versions(1.00) and(1.00) pick(1.00) the(1.00) best(1.00) one.(1.00)
+[26.26-27.82] Just remember, keep your own voice.
+   Just(1.00) remember,(1.00) keep(1.00) your(1.00) own(1.00) voice.(1.00)
+[27.82-29.68] The caption should sound like you.
+   The(0.45) caption(0.72) should(1.00) sound(1.00) like(1.00) you.(0.99)
+[30.68-32.68] Save this and try it on your next post.
+   Save(0.98) this(1.00) and(0.83) try(1.00) it(0.99) on(0.99) your(1.00) next(1.00) post.(1.00)

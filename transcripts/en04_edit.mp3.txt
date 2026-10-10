@@ -1,0 +1,24 @@
+[0.00-3.04] Did you know you can edit photos right inside ChatGPT?
+   Did(0.99) you(1.00) know(1.00) you(0.99) can(1.00) edit(1.00) photos(1.00) right(1.00) inside(1.00) ChatGPT?(0.96)
+[3.16-4.58] No? Photoshop.
+   No?(0.99) Photoshop.(0.99)
+[4.92-7.64] Tap any image it made to open the editing tools.
+   Tap(1.00) any(1.00) image(1.00) it(1.00) made(1.00) to(1.00) open(1.00) the(1.00) editing(0.99) tools.(1.00)
+[7.86-10.74] You can also upload your own photo and say what to change.
+   You(1.00) can(1.00) also(1.00) upload(1.00) your(1.00) own(1.00) photo(1.00) and(1.00) say(1.00) what(1.00) to(1.00) change.(1.00)
+[11.04-12.72] There are four useful tools.
+   There(1.00) are(1.00) four(0.95) useful(1.00) tools.(1.00)
+[13.08-14.00] Remove background.
+   Remove(1.00) background.(0.71)
+[14.72-16.64] Eraser for unwanted objects.
+   Eraser(1.00) for(0.62) unwanted(1.00) objects.(1.00)
+[17.44-19.24] Resize, for example, for stories.
+   Resize,(1.00) for(1.00) example,(1.00) for(1.00) stories.(0.99)
+[19.92-20.30] And comment.
+   And(1.00) comment.(0.88)
+[20.50-22.42] Write on the image what should change.
+   Write(0.99) on(1.00) the(1.00) image(1.00) what(1.00) should(1.00) change.(1.00)
+[22.86-27.02] Just remember, don't edit or share photos of other people without their permission.
+   Just(1.00) remember,(1.00) don't(1.00) edit(1.00) or(1.00) share(1.00) photos(1.00) of(1.00) other(1.00) people(1.00) without(1.00) their(1.00) permission.(1.00)
+[27.02-29.94] Send this to a friend who still fights with Photoshop.
+   Send(0.65) this(0.99) to(1.00) a(1.00) friend(1.00) who(0.99) still(0.98) fights(0.99) with(1.00) Photoshop.(0.94)

@@ -1,0 +1,22 @@
+[0.00-1.38] Can ChatGPT make videos?
+   Can(0.92) ChatGPT(0.95) make(0.99) videos?(1.00)
+[1.80-3.04] Here's the honest answer.
+   Here's(0.98) the(1.00) honest(1.00) answer.(1.00)
+[3.48-4.28] Directly, no.
+   Directly,(0.99) no.(0.98)
+[5.66-8.88] Sora, OpenAI's video app, was shut down this spring.
+   Sora,(0.99) OpenAI's(1.00) video(1.00) app,(1.00) was(1.00) shut(1.00) down(1.00) this(1.00) spring.(0.98)
+[9.12-10.90] But it's great at three things.
+   But(1.00) it's(0.90) great(1.00) at(1.00) three(0.98) things.(1.00)
+[11.20-14.44] It writes the script, builds a scene-by-scene storyboard,
+   It(1.00) writes(1.00) the(1.00) script,(1.00) builds(1.00) a(1.00) scene(1.00) -by(0.99) -scene(1.00) storyboard,(1.00)
+[14.56-16.70] and writes a prompt for every scene.
+   and(1.00) writes(1.00) a(1.00) prompt(1.00) for(1.00) every(1.00) scene.(1.00)
+[16.92-19.00] Then you give those prompts to a video tool
+   Then(1.00) you(1.00) give(1.00) those(1.00) prompts(1.00) to(1.00) a(1.00) video(1.00) tool(1.00)
+[19.00-20.50] like Veo or Kling.
+   like(0.95) Veo(0.94) or(1.00) Kling.(0.94)
+[21.28-23.74] Next video, the video prompt formula.
+   Next(1.00) video,(1.00) the(0.99) video(0.85) prompt(1.00) formula.(1.00)
+[24.02-25.78] Subscribe so you don't miss it.
+   Subscribe(1.00) so(0.96) you(1.00) don't(1.00) miss(1.00) it.(1.00)

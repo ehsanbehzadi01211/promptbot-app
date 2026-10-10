@@ -1,0 +1,20 @@
+[0.00-1.70] An easier way to make AI videos.
+   An(0.73) easier(0.95) way(1.00) to(1.00) make(1.00) AI(0.98) videos.(0.99)
+[2.00-4.66] Make the image first, then bring it to life.
+   Make(0.96) the(1.00) image(0.99) first,(1.00) then(1.00) bring(1.00) it(1.00) to(1.00) life.(1.00)
+[5.32-9.04] Step 1. Create the scene image with ChatGPT.
+   Step(0.88) 1.(0.76) Create(1.00) the(1.00) scene(0.98) image(1.00) with(1.00) ChatGPT.(0.95)
+[9.46-12.40] Step 2. Upload it to a video generator.
+   Step(1.00) 2.(1.00) Upload(1.00) it(1.00) to(1.00) a(1.00) video(1.00) generator.(1.00)
+[13.02-15.62] Step 3. Say what should move.
+   Step(1.00) 3.(1.00) Say(1.00) what(1.00) should(1.00) move.(1.00)
+[16.40-17.74] Why is this better?
+   Why(1.00) is(1.00) this(1.00) better?(1.00)
+[18.34-22.92] Because you control the look, and characters and colors don't change halfway through.
+   Because(1.00) you(1.00) control(1.00) the(1.00) look,(1.00) and(1.00) characters(1.00) and(1.00) colors(1.00) don't(1.00) change(1.00) halfway(1.00) through.(1.00)
+[24.08-25.72] Keep the motion prompt simple, too.
+   Keep(1.00) the(1.00) motion(0.99) prompt(1.00) simple,(1.00) too.(1.00)
+[26.30-30.96] For example, the camera slowly zooms in and her hair moves in the wind.
+   For(0.92) example,(1.00) the(0.95) camera(1.00) slowly(1.00) zooms(1.00) in(1.00) and(0.83) her(1.00) hair(1.00) moves(1.00) in(1.00) the(1.00) wind.(1.00)
+[31.50-35.00] Which part of this series helped you most? Tell me in the comments.
+   Which(0.99) part(1.00) of(1.00) this(0.98) series(1.00) helped(0.99) you(0.98) most?(0.95) Tell(0.99) me(1.00) in(1.00) the(1.00) comments.(1.00)

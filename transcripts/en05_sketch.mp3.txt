@@ -1,0 +1,24 @@
+[0.00-1.48] Can't draw? Doesn't matter.
+   Can't(0.98) draw?(0.99) Doesn't(1.00) matter.(1.00)
+[2.34-5.44] ChatGPT turns a simple doodle into a pro image.
+   ChatGPT(0.99) turns(1.00) a(1.00) simple(1.00) doodle(0.99) into(1.00) a(1.00) pro(0.95) image.(0.99)
+[5.66-6.60] It's called Sketch.
+   It's(1.00) called(1.00) Sketch.(0.93)
+[7.54-10.36] Draw something simple like a mountain and a sun,
+   Draw(1.00) something(1.00) simple(1.00) like(0.82) a(1.00) mountain(1.00) and(1.00) a(1.00) sun,(1.00)
+[10.48-12.48] and it turns it into a full image.
+   and(1.00) it(1.00) turns(1.00) it(1.00) into(1.00) a(1.00) full(1.00) image.(1.00)
+[13.04-14.80] Open images from the menu.
+   Open(1.00) images(0.58) from(1.00) the(1.00) menu.(1.00)
+[15.34-16.34] Choose Sketch.
+   Choose(1.00) Sketch.(0.99)
+[16.56-19.70] Draw your idea and describe the style you want.
+   Draw(1.00) your(1.00) idea(1.00) and(0.99) describe(1.00) the(1.00) style(1.00) you(1.00) want.(1.00)
+[20.26-23.34] The best part? You decide where everything goes.
+   The(1.00) best(1.00) part?(1.00) You(1.00) decide(1.00) where(1.00) everything(1.00) goes.(1.00)
+[24.04-26.56] Perfect for posters, logos, and covers.
+   Perfect(1.00) for(1.00) posters,(1.00) logos,(1.00) and(1.00) covers.(1.00)
+[27.72-28.46] What would you draw first?
+   What(1.00) would(1.00) you(1.00) draw(1.00) first?(1.00)
+[28.46-30.54] first? Tell me in the comments.
+   first?(0.24) Tell(0.97) me(1.00) in(0.99) the(1.00) comments.(0.99)
