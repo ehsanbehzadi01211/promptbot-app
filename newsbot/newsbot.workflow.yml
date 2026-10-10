@@ -1,0 +1,38 @@
+# Copy to .github/workflows/newsbot.yml on the repo's DEFAULT branch (cron only runs there)
+# and add the secret TELEGRAM_BOT_TOKEN in Settings -> Secrets and variables -> Actions.
+name: newsbot
+on:
+  schedule:
+    - cron: "7 */2 * * *"     # news every 2 hours
+    - cron: "50 4 * * *"      # 08:20 Tehran: weekly schedule to the owner
+  push:
+    paths: [content/schedule.json]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: newsbot
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -q feedparser
+      - run: python newsbot/discover.py
+      - if: github.event_name == 'schedule' && github.event.schedule == '7 */2 * * *' || github.event_name == 'workflow_dispatch'
+        run: python newsbot/news.py fetch && python newsbot/news.py post
+      - if: github.event_name == 'schedule' && github.event.schedule == '50 4 * * *' || github.event_name == 'workflow_dispatch'
+        run: python newsbot/schedule.py daily
+      - if: github.event_name == 'push'
+        run: python newsbot/schedule.py new
+      - name: Save state
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add newsbot
+          git commit -m "newsbot state" || exit 0
+          git pull --rebase -q && git push
