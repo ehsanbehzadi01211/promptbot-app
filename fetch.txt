@@ -1,10 +1,6 @@
-c1_cover.jpg https://res.cloudinary.com/qecsawrr/image/upload/v1791655957/ehbehzad/carousel/c1_cover.jpg
-c1_bg.jpg https://res.cloudinary.com/qecsawrr/image/upload/v1791655968/ehbehzad/carousel/c1_bg.jpg
-c2_cover.jpg https://res.cloudinary.com/qecsawrr/image/upload/v1791655991/ehbehzad/carousel/c2_cover.jpg
-c2_bg.jpg https://res.cloudinary.com/qecsawrr/image/upload/v1791655998/ehbehzad/carousel/c2_bg.jpg
-c3_cover.jpg https://res.cloudinary.com/qecsawrr/image/upload/v1791656020/ehbehzad/carousel/c3_cover.jpg
-c3_bg.jpg https://res.cloudinary.com/qecsawrr/image/upload/v1791656042/ehbehzad/carousel/c3_bg.jpg
-c4_cover.jpg https://res.cloudinary.com/qecsawrr/image/upload/v1791656061/ehbehzad/carousel/c4_cover.jpg
-c4_bg.jpg https://res.cloudinary.com/qecsawrr/image/upload/v1791656080/ehbehzad/carousel/c4_bg.jpg
-c5_cover.jpg https://res.cloudinary.com/qecsawrr/image/upload/v1791656094/ehbehzad/carousel/c5_cover.jpg
-c5_bg.jpg https://res.cloudinary.com/qecsawrr/image/upload/v1791656110/ehbehzad/carousel/c5_bg.jpg
+c6_cover.jpg https://res.cloudinary.com/qecsawrr/image/upload/v1791657428/ehbehzad/carousel/c6_cover.jpg
+c6_bg.jpg https://res.cloudinary.com/qecsawrr/image/upload/v1791657432/ehbehzad/carousel/c6_bg.jpg
+c7_cover.jpg https://res.cloudinary.com/qecsawrr/image/upload/v1791657439/ehbehzad/carousel/c7_cover.jpg
+c7_bg.jpg https://res.cloudinary.com/qecsawrr/image/upload/v1791657443/ehbehzad/carousel/c7_bg.jpg
+c8_cover.jpg https://res.cloudinary.com/qecsawrr/image/upload/v1791657450/ehbehzad/carousel/c8_cover.jpg
+c8_bg.jpg https://res.cloudinary.com/qecsawrr/image/upload/v1791657455/ehbehzad/carousel/c8_bg.jpg
