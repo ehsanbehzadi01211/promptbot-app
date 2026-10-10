@@ -83,10 +83,45 @@ def scene_html(sc, st, dur):
 
 B5.scene_html = scene_html
 
+# English (YouTube) mode: left-to-right layout, Latin display font, English UI labels
+EN_CSS = """
+html,body{font-family:Poppins,V,sans-serif}
+.segs,.head,.scene,.sboard,.tl{direction:ltr}
+.chat,.io-in,.io-out,.cmp,.st{text-align:left}
+.seg i,.tl u,.cmp.bad .strike{transform-origin:left}
+.seg i{background:linear-gradient(90deg,#fff,var(--a))}
+.chat-h .cp{margin-right:0;margin-left:auto}
+.cmp.bad .strike{right:42px;left:150px}
+.rail{right:auto;left:62px}
+.tl i{right:auto;left:0;animation-name:playL}
+@keyframes playL{from{left:0}to{left:calc(100% - 8px)}}
+.stk{right:auto;left:70px;transform:rotate(-3deg);direction:ltr}
+.tname small,.tnote{direction:ltr}
+.hub .bx b{text-align:left}
+.hook-t,.p-t,.cta-t{line-height:1.12;letter-spacing:-1px}
+"""
+EN_WORDS = {"پیام تو به هوش مصنوعی": "Your message to AI", " ارسال": " Send", "تو می‌فرستی": "You send",
+            "جواب هوش مصنوعی": "AI replies", "+ فالو": "Subscribe", "کامنت کن": "Comment below",
+            "تو می‌دی": "You give it", "تحویل می‌گیری": "You get", "دایرکت پیام بده": "Send me a message",
+            ">مقایسه<": ">Compare<", ">مثال<": ">Example<", "اشتباه ": "Mistake ", "قدم ": "Step "}
+
+def _english():
+    B5.CSS += EN_CSS
+    B5.FA = B6.FA = "0123456789"
+    inner = B5.scene_html
+    def en(sc, st, dur):
+        out = inner(sc, st, dur)
+        for fa, e in EN_WORDS.items():
+            out = out.replace(fa, e)
+        return out
+    B5.scene_html = en
+
 def run(key, voice, specfile="scripts10.json"):
     """`silent: <seconds>` + `scuts` in the spec -> music-and-text reel with no voiceover"""
     import json, os, subprocess
     spec = json.load(open(os.path.join(B5.ROOT, specfile)))[key]
+    if spec.get("lang") == "en":
+        _english()
     if spec.get("story"):
         global STICKER
         B5.CSS += STORY_CSS; STICKER = f'<div class="stk">{esc(spec["story"])}</div>'
