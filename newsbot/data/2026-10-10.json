@@ -1,0 +1,74 @@
+[
+ {
+  "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+  "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+  "url": "https://openai.com/index/sophos",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "time": "2026-10-09T07:00:00+00:00",
+  "id": "edd58468d564448f",
+  "title_fa": "Sophos با OpenAI Daybreak زمان بررسی تهدید را تا 96 درصد کاهش داد",
+  "summary_fa": "کشف کنید که چگونه Sophos از OpenAI's Daybreak برای کاهش 96 درصدی زمان بررسی تهدیدات سایبری و خودکارسازی 52 درصد موارد MDR و در عین حال حفظ نظارت انسانی استفاده می‌کند."
+ },
+ {
+  "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+  "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+  "url": "https://openai.com/index/asana-browser-agent",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "time": "2026-10-09T07:00:00+00:00",
+  "id": "90995f7dbc9c2674",
+  "title_fa": "آسانا در تست های مرورگر با GPT-6.1 Sol قیمت مدل را 76 برابر کاهش می دهد",
+  "summary_fa": "Asana با استفاده از GPT-6 Astra در Codex، عامل مرورگر خود را 76 برابر ارزان‌تر و 5 برابر سریع‌تر در آزمایش‌ها کرد تا مدل‌های توانمندتری را به مشتریان ارائه دهد."
+ },
+ {
+  "title": "Impactful scheduling for GPU clusters",
+  "summary": "",
+  "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "time": "2026-10-09T15:20:29+00:00",
+  "id": "43ef54e74d276082",
+  "title_fa": "زمان‌بندی تاثیرگذار برای خوشه‌های GPU",
+  "summary_fa": ""
+ },
+ {
+  "title": "Google Launches Gemini Agent to Rival OpenAI, Microsoft [2026] - https://tech-insider.org/",
+  "summary": "Google Launches Gemini Agent to Rival OpenAI, Microsoft [2026] https://tech-insider.org/",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mRWZ0d084cjgycktsYU1SMjRqQUYtX2FGZkVLZ09JRl9QYTBOVVdyeFdZSU1sS1FYM2o3VVI5OExhbEctckhDMGtKYm9DTU1LVzZwUjBsSVpzbFZ2VFozUnpFTjRzRkpUdFJyLVlaaU5VSmpBdWo2dXRn?oc=5",
+  "source": "Google News",
+  "official": false,
+  "tools": false,
+  "time": "2026-10-10T09:45:55+00:00",
+  "id": "f93ad394dfd5719c",
+  "title_fa": "گوگل عامل Gemini را برای رقابت با OpenAI، مایکروسافت [2026] راه اندازی کرد - https://tech-insider.org/",
+  "summary_fa": "گوگل عامل Gemini را برای رقابت با OpenAI، مایکروسافت [2026] راه اندازی کرد https://tech-insider.org/"
+ },
+ {
+  "title": "Claude Management Agent Launches Dynamic Workflow: Up to 1000 AI Agents Can Be Concurrently Scheduled at Once",
+  "summary": "Claude Management Agent Launches Dynamic Workflow: Up to 1000 AI Agents Can Be Concurrently Scheduled at Once AIBase",
+  "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CRlJQMWtZLS05bzR1bHZMWTJab1l5c1VJOFhwTW5yWW51N0kyMGdSQTVSNTE4a1RGZ2s0SlZmOVVYRTRtb2FjQ0lB?oc=5",
+  "source": "AIBase",
+  "official": false,
+  "tools": false,
+  "time": "2026-10-10T08:07:07+00:00",
+  "id": "0480baf07c58143b",
+  "title_fa": "Claude Management Agent گردش کار پویا را راه اندازی می کند: حداکثر 1000 عامل هوش مصنوعی را می توان همزمان برنامه ریزی کرد",
+  "summary_fa": "Claude Management Agent گردش کار پویا را راه اندازی می کند: حداکثر 1000 عامل AI را می توان همزمان در AIBase برنامه ریزی کرد"
+ },
+ {
+  "title": "Google launches enterprise AI agent for workspace automation with multi-platform integrations",
+  "summary": "Google launches enterprise AI agent for workspace automation with multi-platform integrations Adgully.com",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQODBQYUVNUUk0V3lqTXJLSlBfMGNxTFhHYkRnWm1BdXFOQ3pIZEZSWDFZalF1TXFFVTFyZTdZRlBLNDJHSDlIRGZVbVZUYWVrRzQtR1BCZWJJRzlpaFBuRkVzdkhISkdueHBCWHlqMERxRHY4cXFQU2tsMlY3bDNSTnhsUTJ3Tkt4QlVsbFc2T2FRWXJCVlkta19BVjhGSFZ4eXZ0SFQ0aEpWX2FoX3JJLUJwWEtiaVlmbDg0a0tod1dVSDZaMldZ?oc=5",
+  "source": "Adgully.com",
+  "official": false,
+  "tools": false,
+  "time": "2026-10-10T03:56:00+00:00",
+  "id": "8c0fe1484f4b30d9",
+  "title_fa": "گوگل عامل هوش مصنوعی سازمانی را برای اتوماسیون فضای کاری با ادغام چند پلت فرم راه اندازی می کند",
+  "summary_fa": "گوگل عامل هوش مصنوعی سازمانی را برای اتوماسیون فضای کاری با ادغام های چند پلتفرمی راه اندازی کرد Adgully.com"
+ }
+]

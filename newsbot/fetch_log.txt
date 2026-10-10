@@ -1,0 +1,19 @@
+OpenAI: 2 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+feed fail Microsoft HTTP Error 410: Gone
+NVIDIA: 0 fresh
+Hugging Face: 1 fresh
+The Verge: 8 fresh
+TechCrunch: 11 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 1 fresh
+Product Hunt: 11 fresh
+Anthropic: 11 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 6
