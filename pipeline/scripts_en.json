@@ -45,7 +45,7 @@
     "kicker": "Its real job",
     "icon": "spark",
     "inp": "Today the weather is really…",
-    "out": "hot 62% · cold 21% · nice 12%"
+    "out": "hot 62% · cold 21%"
    },
    {
     "type": "point",

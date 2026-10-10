@@ -16,7 +16,7 @@ V["en01_think"] = dict(
     scenes=[
         S("hook", "s512055248", "Does ChatGPT really think? Here's the answer in thirty seconds.", title="Does ChatGPT\nreally [[think?]]", sub="The answer in 30 seconds"),
         S("point", "s573012784", "First, these models are trained on a huge amount of text. Books, websites, articles.", num="1", kicker="Step 1", title="It read a huge\namount of text", sub="During training", chips=["Books", "Websites", "Articles"]),
-        S("io", "s624757079", "Then they do one thing: predict the next word. Today the weather is really... hot.", kicker="Its real job", icon="spark", inp="Today the weather is really…", out="hot 62% · cold 21% · nice 12%"),
+        S("io", "s624757079", "Then they do one thing: predict the next word. Today the weather is really... hot.", kicker="Its real job", icon="spark", inp="Today the weather is really…", out="hot 62% · cold 21%"),
         S("point", "s602810685", "Word by word, very fast. That's how the whole answer gets built.", num="2", kicker="Step 2", title="Word by word", sub="That's how every answer is built"),
         S("point", "s615849265", "That's why it's sometimes confidently wrong. It looks for the likely answer, not always the true one.", mark="bad", num="!", kicker="The catch", title="That's why it's\nsometimes wrong", sub="Likely answer ≠ correct answer"),
         S("cta", "s539425946", "So use it for ideas and drafts, but check the facts yourself. Subscribe to learn more.", title="Great for drafts.\n[[Check the facts]]", sub="Subscribe for more AI tips"),
