@@ -56,3 +56,13 @@ and must report instead of improvising.
 ## Posting-time test (until 24 Oct 2026), Tehran time, d = days since 11 Oct 2026
 d%3 = 0 → 16:00, 1 → 21:00, 2 → 10:00. A scheduled task on 24 Oct picks the winning hour for later posts.
 Weekly scheduled task (Thursdays) prepares specs and voices for the following week; the daily task renders them.
+
+## Publishing through Chrome (owner, 11 Oct 2026 — permanent)
+The owner wants uploads done through his own Chrome with the **Claude in Chrome** extension (Chrome signed in,
+Instagram and YouTube Studio open), in every session, not only via Metricool. At the start of every session check
+whether `mcp__claude-in-chrome__*` tools are present (ToolSearch "claude-in-chrome"); if they are, call
+tabs_context_mcp first and publish through the browser (download the media from its URL, upload, exact caption/title,
+AI label, check the profile first so nothing goes up twice), then set the matching Metricool post back to draft.
+If the tools are missing, tell the owner in one line that the Chrome extension is not connected to this chat and
+give him a ready-to-paste message for the extension's side panel (media URLs + exact caption/title/description/tags
++ time), as was done on 11 Oct.
