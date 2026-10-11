@@ -62,6 +62,47 @@ def entry_time(e):
     return None
 
 
+IMG_EXT = re.compile(r"\.(jpe?g|png|webp)(\?|$)", re.I)
+BAD_IMG = re.compile(r"(gstatic\.com|googleusercontent\.com|google\.com/logos|favicon|logo|avatar|1x1|pixel|spacer)", re.I)
+
+
+def good_img(u):
+    return bool(u) and u.startswith("http") and not BAD_IMG.search(u)
+
+
+def entry_image(e):
+    """Picture shipped with the feed entry (media:content / media:thumbnail / enclosure / first <img>)."""
+    cands = []
+    for m in (e.get("media_content") or []) + (e.get("media_thumbnail") or []):
+        if m.get("url") and (m.get("medium") in (None, "image") or IMG_EXT.search(m["url"])):
+            cands.append(m["url"])
+    for enc in e.get("enclosures") or []:
+        if (enc.get("type") or "").startswith("image") and enc.get("href"):
+            cands.append(enc["href"])
+    for field in ("summary", "content"):
+        raw = e.get(field)
+        if isinstance(raw, list):
+            raw = " ".join(c.get("value", "") for c in raw)
+        m = re.search(r'<img[^>]+src="([^"]+)"', raw or "")
+        if m:
+            cands.append(html.unescape(m.group(1)))
+    return next((u for u in cands if good_img(u)), "")
+
+
+def page_image(url):
+    """og:image / twitter:image of the article page."""
+    try:
+        page = get(url, timeout=15)[:400000].decode("utf-8", "ignore")
+    except Exception:
+        return ""
+    for pat in (r'<meta[^>]+(?:property|name)=["\'](?:og:image|og:image:url|twitter:image)["\'][^>]+content=["\']([^"\']+)',
+                r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\'](?:og:image|twitter:image)'):
+        m = re.search(pat, page, re.I)
+        if m and good_img(html.unescape(m.group(1))):
+            return html.unescape(m.group(1))
+    return ""
+
+
 def from_feed(src):
     out = []
     try:
@@ -81,7 +122,7 @@ def from_feed(src):
                 title, source = m.group(1).strip(), m.group(2).strip()
         out.append({"title": title, "summary": clean(e.get("summary"), 400), "url": e.get("link"),
                     "source": source, "official": src.get("official", False), "tools": src.get("tools", False),
-                    "gnews": bool(src.get("gnews")), "time": (t or NOW).isoformat()})
+                    "gnews": bool(src.get("gnews")), "time": (t or NOW).isoformat(), "image": entry_image(e)})
     print(f"{src['name']}: {len(out)} fresh")
     return out
 
@@ -236,11 +277,64 @@ def tg(method, **params):
         return json.loads(r.read())
 
 
-def fmt(it):
+def visible_len(text):
+    return len(html.unescape(re.sub(r"<[^>]+>", "", text)))
+
+
+def caption(it):
+    """fmt() trimmed to Telegram's 1024-character photo caption limit."""
+    n = 350
+    while True:
+        text = fmt(it, n)
+        if visible_len(text) <= 1024 or n <= 60:
+            return text
+        n -= 60
+
+
+def tg_photo_upload(chat, path, cap):
+    token = os.environ["TELEGRAM_BOT_TOKEN"]
+    boundary = "----ehbehzad" + hashlib.sha1(cap.encode()).hexdigest()[:12]
+    parts = []
+    for k, v in (("chat_id", str(chat)), ("caption", cap), ("parse_mode", "HTML")):
+        parts.append(f'--{boundary}\r\nContent-Disposition: form-data; name="{k}"\r\n\r\n{v}\r\n'.encode())
+    parts.append(f'--{boundary}\r\nContent-Disposition: form-data; name="photo"; filename="card.jpg"\r\n'
+                 f'Content-Type: image/jpeg\r\n\r\n'.encode() + open(path, "rb").read() + b"\r\n")
+    parts.append(f"--{boundary}--\r\n".encode())
+    req = urllib.request.Request(f"https://api.telegram.org/bot{token}/sendPhoto", data=b"".join(parts),
+                                 headers={"Content-Type": f"multipart/form-data; boundary={boundary}"})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        return json.loads(r.read())
+
+
+def send_news(channel, it):
+    """Photo from the story itself if possible, otherwise a branded card about the story, otherwise text only."""
+    cap = caption(it)
+    img = it.get("image") or ("" if it.get("gnews") else page_image(it["url"]))
+    if img:
+        try:
+            r = tg("sendPhoto", chat_id=channel, photo=img, caption=cap, parse_mode="HTML")
+            if r.get("ok"):
+                return "photo"
+        except Exception as ex:
+            print("photo url refused", ex)
+    try:
+        from card import card
+        path = os.path.join("/tmp", it.get("id", "news") + ".jpg")
+        card(it.get("title_fa") or it["title"], it["source"], path)
+        r = tg_photo_upload(channel, path, cap)
+        if r.get("ok"):
+            return "card"
+    except Exception as ex:
+        print("card fail", ex)
+    tg("sendMessage", chat_id=channel, text=fmt(it), parse_mode="HTML", disable_web_page_preview="false")
+    return "text"
+
+
+def fmt(it, summary_len=350):
     title = it.get("title_fa") or it["title"]
     lines = [f"🆕 <b>{html.escape(title)}</b>"]
     if it.get("summary_fa"):
-        lines.append(html.escape(clean(it["summary_fa"], 350)))
+        lines.append(html.escape(clean(it["summary_fa"], summary_len)))
     lines.append(f"<i>{html.escape(it['title'])}</i>")
     tag = TAGS.get(it["source"], "")
     lines.append(f"🔗 <a href=\"{html.escape(it['url'])}\">منبع: {html.escape(it['source'])}</a>")
@@ -275,9 +369,8 @@ def post():
             break
         queue.pop(0)
         try:
-            r = tg("sendMessage", chat_id=channel, text=fmt(it), parse_mode="HTML",
-                   disable_web_page_preview="false")
-            print("sent", r.get("ok"), it["title"][:60])
+            how = send_news(channel, it)
+            print("sent", how, it["title"][:60])
             sent += 1
         except Exception as ex:
             print("send fail", ex)
