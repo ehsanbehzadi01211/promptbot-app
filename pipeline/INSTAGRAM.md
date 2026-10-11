@@ -18,7 +18,9 @@ copy `pipeline/*` to /home/claude/reels, npm install, pip install playwright num
 ## Standing rules
 - Daily: exactly **one carousel post + one reel**. All reels go out as **TRIAL_REEL** (isAiGenerated true).
 - Stories are welcome too (free-tool / AI-tip stories, `story.py`, `scripts_story.json`).
-- Caption footer on every post: `▶️ یوتیوب: youtube.com/@ehbehzad` / `📷 اینستاگرام: @ehbehzad`, then max 5 hashtags.
+- Caption footer on every post (owner, 11 Oct 2026: all three IDs in every post): `▶️ یوتیوب: youtube.com/@ehbehzad` /
+  `📷 اینستاگرام: @ehbehzad` / `📢 تلگرام: @ehbehzad_ai` (the Telegram AI-news CHANNEL), then max 5 hashtags.
+  All Instagram posts pending on 11 Oct (reels to 29 Oct, carousels to 17 Oct) were updated in Metricool.
 - Some content should be website-design promos ending with a DM offer
   ("دایرکت پیام بده، برات طراحی می‌کنم", sample work elvaleather.ir).
 - No comment-keyword → DM-link automation (he dropped it).

@@ -245,6 +245,8 @@ def fmt(it):
     tag = TAGS.get(it["source"], "")
     lines.append(f"🔗 <a href=\"{html.escape(it['url'])}\">منبع: {html.escape(it['source'])}</a>")
     lines.append(" ".join(x for x in ["#هوش_مصنوعی", tag, "#خبر"] if x))
+    lines.append('📢 @ehbehzad_ai | 📷 <a href="https://instagram.com/ehbehzad">اینستاگرام</a> | '
+                 '▶️ <a href="https://youtube.com/@ehbehzad">یوتیوب</a>')
     return "\n\n".join(lines)
 
 
