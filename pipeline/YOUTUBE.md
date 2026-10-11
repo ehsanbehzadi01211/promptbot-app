@@ -31,6 +31,16 @@ One Short per day in key order: entry n (en01 = 1) goes on 11 Oct 2026 + (n-1) d
 (The old plan had en01 and en02 both on 11 Oct; every entry from en02 on therefore moves one day later when its
 video is attached: en02 -> 12 Oct 21:00, en03 -> 13 Oct 10:00, ... en20 -> 30 Oct 21:00.)
 
+## Standing rule: Metricool fails -> post directly (owner, 11 Oct 2026)
+If Metricool does not publish a scheduled YouTube Short at its time (account limit or any other error), connect to
+YouTube directly and post it yourself at that same hour: browser on the owner's computer -> studio.youtube.com ->
+upload `youtube/shorts/<key>.mp4` as a public Short with the English title, description (YouTube + Instagram +
+Telegram IDs) and tags from scripts_en.json; not made for kids, category Education, altered/synthetic content = yes.
+Check the channel first so nothing is uploaded twice, then set the Metricool post back to draft.
+The scheduled task "YouTube publish check + direct upload fallback" runs at 10:05, 16:05 and 21:05 Tehran for this.
+It needs the owner's computer (Claude desktop app open, signed in to YouTube); a cloud-only run cannot reach a browser
+and must report instead of improvising.
+
 ## State on 11 Oct 2026
 - 20 English Shorts written (en01_think ... en20_no), all 20 voices in media/en*.mp3, all 20 transcripts done,
   scene cuts for all 20 written into scripts_en.json.
