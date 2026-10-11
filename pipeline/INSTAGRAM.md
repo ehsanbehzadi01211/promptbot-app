@@ -1,5 +1,8 @@
 # Instagram desk (@ehbehzad) — handoff
 
+> **Since 11 Oct 2026 22:30 Tehran the separate desks are cancelled — one agent runs everything; read pipeline/PLAYBOOK.md first. Publishing goes through content/queue.json and the Chrome publisher task.**
+
+
 Owner: Ehsan Behzadi. Reply to him in Persian only. Instagram content is in natural colloquial Persian.
 He wants everything produced and published automatically (no approval step), and a report about
 Instagram only. YouTube is handled by a separate chat (see YOUTUBE.md); never post Persian videos to YouTube.

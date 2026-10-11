@@ -1,5 +1,8 @@
 # YouTube desk (@ehbehzad, channel UCRnAOq3X6Tl0EAy79s71nMA) — handoff
 
+> **Since 11 Oct 2026 22:30 Tehran the separate desks are cancelled — one agent runs everything; read pipeline/PLAYBOOK.md first. Publishing goes through content/queue.json and the Chrome publisher task.**
+
+
 Owner: Ehsan Behzadi. Reply to him in Persian only, but **everything on YouTube is English only**: English voice,
 English on-screen text, English title, description and tags. He wants it produced and published automatically and a
 report about YouTube only. Instagram is handled by a separate chat (see INSTAGRAM.md).
