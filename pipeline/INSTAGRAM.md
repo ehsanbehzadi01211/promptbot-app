@@ -15,6 +15,11 @@ copy `pipeline/*` to /home/claude/reels, npm install, pip install playwright num
   reel30s is still unrendered. In reel29s the step labels should read "Settings → Capabilities" / "Customize → Skills"
   (LTR run, the arrow currently points the wrong way) before any future render.
 
+- 11 Oct: owner complained that the news reel (news_claude_ws) had no voiceover. **He expects a Persian voiceover on reels**;
+  do not ship silent reels unless he asks. Voiced version: `reels11/news_claude_ws_voiced.mp4` (spec `news_claude_ws_v`,
+  voice `media/news_claude_ws_v2.mp3`, verified by transcript). Not published yet: Metricool refused the 10:00 post (account limit).
+- He asked for manual upload from his computer; that session had no linked computer and no browser tools.
+
 ## Standing rules
 - Daily: exactly **one carousel post + one reel**. All reels go out as **TRIAL_REEL** (isAiGenerated true).
 - Stories are welcome too (free-tool / AI-tip stories, `story.py`, `scripts_story.json`).
