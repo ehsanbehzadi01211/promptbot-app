@@ -1,2 +1,23 @@
-Sun Oct 11 18:51:11 UTC 2026
+Sun Oct 11 19:01:18 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 0 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 0 fresh
+Hugging Face: 0 fresh
+The Verge: 6 fresh
+TechCrunch: 7 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 0 fresh
+Product Hunt: 2 fresh
+Anthropic: 11 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 27 fresh
+Google News: 28 fresh
+new items: 1
+translated via clients5
+translated via clients5
+sent card Your AI agents can execute every tool call correctly and sti

@@ -367,5 +367,17 @@
   "gnews": true,
   "time": "2026-10-10T13:00:00+00:00",
   "id": "4e6d332b34c26b4f"
+ },
+ {
+  "title": "Your AI agents can execute every tool call correctly and still break every enterprise rule",
+  "summary": "Your AI agents can execute every tool call correctly and still break every enterprise rule VentureBeat",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMWRyWVFWSWlQV1ZtUURtaURMbjlJUXFad05xaEVhOFdyTG9pV2wyY1VkOUxaYldrTURFX1BTYzlMQXV5eFh2ZjNNT1lMSVdRaGRQeUwyVU9YMHpVaTA2NFpPejVtWW5XdFItTEJMeUN5RlltbzVDQl9IcUhNZnd6aXptNjBNN3lwODZidTVHbExtRHFWVEFBZUhjblJCeTJKT2F6Nk1lV2g5eXZtaUZQUVVQaHh6bi1RX3F3SkVnTzkzVlhXdHRR?oc=5",
+  "source": "VentureBeat",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-11T19:00:00+00:00",
+  "image": "",
+  "id": "246b7b3d2df7482d"
  }
 ]
