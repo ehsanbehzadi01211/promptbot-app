@@ -109,17 +109,49 @@ def from_page(src):
     return out[:15]
 
 
+def _first_str(x):
+    if isinstance(x, str):
+        return x
+    if isinstance(x, list):
+        for y in x:
+            s = _first_str(y)
+            if s:
+                return s
+    return ""
+
+
+def _gtx(text):
+    q = urllib.parse.urlencode({"client": "gtx", "sl": "auto", "tl": "fa", "dt": "t", "q": text})
+    data = json.loads(get("https://translate.googleapis.com/translate_a/single?" + q))
+    return "".join(part[0] for part in data[0] if part[0])
+
+
+def _clients5(text):
+    q = urllib.parse.urlencode({"client": "dict-chrome-ex", "sl": "auto", "tl": "fa", "q": text})
+    return _first_str(json.loads(get("https://clients5.google.com/translate_a/t?" + q)))
+
+
+def _mymemory(text):
+    q = urllib.parse.urlencode({"q": text[:480], "langpair": "en|fa"})
+    data = json.loads(get("https://api.mymemory.translated.net/get?" + q))
+    out = (data.get("responseData") or {}).get("translatedText") or ""
+    return "" if "MYMEMORY WARNING" in out.upper() or data.get("responseStatus") not in (200, "200") else out
+
+
 def translate(text):
+    """Free endpoints are rate-limited per IP on shared runners, so try three in turn."""
     if not text:
         return ""
-    q = urllib.parse.urlencode({"client": "gtx", "sl": "auto", "tl": "fa", "dt": "t", "q": text})
-    for wait in (0, 6, 15):
-        time.sleep(wait)
+    for name, fn in (("gtx", _gtx), ("clients5", _clients5), ("mymemory", _mymemory)):
         try:
-            data = json.loads(get("https://translate.googleapis.com/translate_a/single?" + q))
-            return "".join(part[0] for part in data[0] if part[0]).strip()
+            out = html.unescape(fn(text)).strip()
+            if out and re.search(r"[\u0600-\u06FF]", out):
+                print("translated via", name)
+                return out
+            print("translate empty", name)
         except Exception as ex:
-            print("translate fail", ex)
+            print("translate fail", name, ex)
+        time.sleep(2)
     return ""
 
 
