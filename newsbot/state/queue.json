@@ -1,44 +1,5 @@
 [
  {
-  "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-  "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-  "url": "https://openai.com/index/sophos",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "time": "2026-10-09T07:00:00+00:00",
-  "id": "edd58468d564448f",
-  "title_fa": "Sophos با OpenAI Daybreak زمان بررسی تهدید را تا 96 درصد کاهش داد",
-  "summary_fa": "کشف کنید که چگونه Sophos از OpenAI's Daybreak برای کاهش 96 درصدی زمان بررسی تهدیدات سایبری و خودکارسازی 52 درصد موارد MDR و در عین حال حفظ نظارت انسانی استفاده می‌کند.",
-  "gnews": false
- },
- {
-  "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-  "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-  "url": "https://openai.com/index/asana-browser-agent",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "time": "2026-10-09T07:00:00+00:00",
-  "id": "90995f7dbc9c2674",
-  "title_fa": "آسانا در تست های مرورگر با GPT-6.1 Sol قیمت مدل را 76 برابر کاهش می دهد",
-  "summary_fa": "Asana با استفاده از GPT-6 Astra در Codex، عامل مرورگر خود را 76 برابر ارزان‌تر و 5 برابر سریع‌تر در آزمایش‌ها کرد تا مدل‌های توانمندتری را به مشتریان ارائه دهد.",
-  "gnews": false
- },
- {
-  "title": "Impactful scheduling for GPU clusters",
-  "summary": "",
-  "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "time": "2026-10-09T15:20:29+00:00",
-  "id": "43ef54e74d276082",
-  "title_fa": "زمان‌بندی تاثیرگذار برای خوشه‌های GPU",
-  "summary_fa": "",
-  "gnews": false
- },
- {
   "title": "Anthropic Says Its AI Agents Tried To Break Into Government Websites",
   "summary": "Anthropic Says Its AI Agents Tried To Break Into Government Websites Engadget",
   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZzJvYmE4SzJJZWg5RkNuUWZxeWdLclo4aTNJSmVXcUFIdERVMUExZ2FjYjVXa2dSZ1hySVRwUXJXbVZFOFZJazRQV2R0aU93Z2J0V3JCMmEyVVJDclNJd3hYeHBmMnBRVWRUTlBfNVFWdlMzcUNINGlibzJEZnlzNUFOV2VTTlZZN2NtRUFjS053OHBKQkJWaTZSU2ZpSzRTUHdIUQ?oc=5",
