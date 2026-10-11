@@ -3,7 +3,6 @@
     {"name": "OpenAI", "url": "https://openai.com/news/rss.xml", "official": true},
     {"name": "Google", "url": "https://blog.google/technology/ai/rss/", "official": true},
     {"name": "Google DeepMind", "url": "https://deepmind.google/blog/rss.xml", "official": true},
-    {"name": "Microsoft", "url": "https://blogs.microsoft.com/ai/feed/", "official": true},
     {"name": "NVIDIA", "url": "https://blogs.nvidia.com/feed/", "official": true},
     {"name": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml", "official": true},
     {"name": "The Verge", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "official": false},

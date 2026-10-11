@@ -15,6 +15,13 @@
  },
  {
   "date": "2026-10-11",
+  "time": "10:00",
+  "platform": "instagram",
+  "kind": "reel",
+  "topic": "Claude در گوگل داکس، شیت و اسلاید"
+ },
+ {
+  "date": "2026-10-11",
   "time": "16:00",
   "platform": "youtube",
   "kind": "short",
@@ -32,14 +39,14 @@
   "time": "21:00",
   "platform": "instagram",
   "kind": "carousel",
-  "topic": "GPT-6 برای همه؛ ۶ پرامپت آماده"
+  "topic": "۶ ابزار رایگان هوش مصنوعی"
  },
  {
   "date": "2026-10-12",
   "time": "10:00",
   "platform": "instagram",
   "kind": "carousel",
-  "topic": "۶ ابزار رایگان هوش مصنوعی"
+  "topic": "۸ پرامپت آماده‌ی روزانه"
  },
  {
   "date": "2026-10-12",
@@ -74,7 +81,7 @@
   "time": "16:00",
   "platform": "instagram",
   "kind": "carousel",
-  "topic": "۸ پرامپت آماده‌ی روزانه"
+  "topic": "خلاصه‌ی خبرهای هفته"
  },
  {
   "date": "2026-10-13",
@@ -102,14 +109,14 @@
   "time": "21:00",
   "platform": "instagram",
   "kind": "carousel",
-  "topic": "خلاصه‌ی خبرهای هفته"
+  "topic": "۶ کانال یوتیوب برای یادگیری AI"
  },
  {
   "date": "2026-10-15",
   "time": "10:00",
   "platform": "instagram",
   "kind": "carousel",
-  "topic": "۶ کانال یوتیوب برای یادگیری AI"
+  "topic": "۵ اشتباه که جواب هوش مصنوعی رو خراب می‌کنه"
  },
  {
   "date": "2026-10-15",
@@ -134,6 +141,13 @@
  },
  {
   "date": "2026-10-16",
+  "time": "16:00",
+  "platform": "instagram",
+  "kind": "carousel",
+  "topic": "پرامپت مخصوص شغل تو"
+ },
+ {
+  "date": "2026-10-16",
   "time": "21:00",
   "platform": "instagram",
   "kind": "reel",
@@ -152,6 +166,13 @@
   "platform": "youtube",
   "kind": "short",
   "topic": "اول عکس، بعد ویدیو"
+ },
+ {
+  "date": "2026-10-17",
+  "time": "21:00",
+  "platform": "instagram",
+  "kind": "carousel",
+  "topic": "سایتت این ۶ تا رو داره؟ (طراحی سایت)"
  },
  {
   "date": "2026-10-18",

@@ -8,6 +8,13 @@ Setup for a fresh session: see SETUP.md (clone branch `reels-media` of ehsanbehz
 copy `pipeline/*` to /home/claude/reels, npm install, pip install playwright numpy). Commit as
 "Ehsan Behzadi <ehsanbehzadi01211.eb@gmail.com>".
 
+## Owner instructions, 11 Oct 2026
+- **No new Instagram videos for now** ("ویدیو جدید دیگه نساز برای اینستاگرام فعلا"). Do not render or schedule new reels
+  until he says otherwise; already-scheduled reels stay. Carousels and stories are not affected.
+- reel28s/reel29s were rendered on 11 Oct but NOT pushed or scheduled (render was stopped on his request);
+  reel30s is still unrendered. In reel29s the step labels should read "Settings → Capabilities" / "Customize → Skills"
+  (LTR run, the arrow currently points the wrong way) before any future render.
+
 ## Standing rules
 - Daily: exactly **one carousel post + one reel**. All reels go out as **TRIAL_REEL** (isAiGenerated true).
 - Stories are welcome too (free-tool / AI-tip stories, `story.py`, `scripts_story.json`).
@@ -34,7 +41,9 @@ A scheduled task on 24 Oct analyses the results and moves later posts to the win
 ## Metricool
 blogId 7161172, timezone Asia/Tehran. Updating a post needs the full info JSON; the id changes, uuid stays.
 **Account limit:** every post from 9 Oct 2026 onward failed with "You have reached your Metricool account limit."
-The owner has to check/upgrade the Metricool plan. Failed posts to re-schedule once fixed:
+The owner has to check/upgrade the Metricool plan. Metricool's help centre says the free plan publishes at most
+20 posts per calendar month (resets on the 1st), which matches these errors; still failing on 10 Oct 22:15.
+Scheduling is accepted, the refusal happens at publish time, so PENDING does not mean it will go out. Failed posts to re-schedule once fixed:
 reel "پیج اینستاگرامت مال تو نیست", reel "سایت کند یعنی مشتری رفته", carousel GPT-6 (c1_gpt6), 4 stories.
 
 ## Scheduled (as of 11 Oct 2026)
@@ -46,5 +55,10 @@ made by the weekly scheduled task (Thursdays 18:47 Tehran). Ready but unschedule
 ## Telegram AI-news bot (lives with this desk)
 Code in `newsbot/` (news.py fetch/post, discover.py, schedule.py, newsbot.workflow.yml). The bot token must never be
 committed (repo is public): it has to go in a GitHub secret `TELEGRAM_BOT_TOKEN`, ideally in a new private repo.
-Waiting on the owner: permission to store the secret / create the private repo, /start to the bot, channel username.
+11 Oct: owner said the public repo is fine, the bot is started and is admin of the channel. Workflow installed as
+`.github/workflows/newsbot.yml` on main (cron) and reels-media (push); it checks out reels-media, writes
+`newsbot/run_log.txt` and commits state. A push whose message contains "[news]" and touches `newsbot/run.txt` runs a
+fetch+post immediately. Still needed from the owner: the repository secret `TELEGRAM_BOT_TOKEN` (cannot be set from
+a Claude session). If the channel is not discovered (Telegram keeps updates only 24 h), set repo variable
+`TELEGRAM_CHANNEL` or put the id in `newsbot/state/chats.json`.
 News → public channel; daily content schedule → owner's private chat with the bot.

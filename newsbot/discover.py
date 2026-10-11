@@ -4,7 +4,9 @@ import json, os, urllib.request
 HERE = os.path.dirname(os.path.abspath(__file__))
 path = os.path.join(HERE, "state", "chats.json")
 chats = json.load(open(path)) if os.path.exists(path) else {}
-token = os.environ["TELEGRAM_BOT_TOKEN"]
+token = os.environ.get("TELEGRAM_BOT_TOKEN")
+if not token:
+    print("TELEGRAM_BOT_TOKEN secret is not set; nothing to do"); raise SystemExit(0)
 data = json.loads(urllib.request.urlopen(f"https://api.telegram.org/bot{token}/getUpdates?allowed_updates=%5B%22message%22%2C%22channel_post%22%2C%22my_chat_member%22%5D", timeout=30).read())
 for u in data.get("result", []):
     for key in ("message", "channel_post", "my_chat_member"):
