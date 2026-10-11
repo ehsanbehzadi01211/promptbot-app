@@ -9,7 +9,7 @@ on:
     - cron: "50 4 * * *"      # 08:20 Tehran: 7-day content schedule to the owner
   push:
     branches: [reels-media]
-    paths: [content/schedule.json, newsbot/run.txt]
+    paths: [content/schedule.json, content/queue.json, newsbot/run.txt]
   workflow_dispatch:
 permissions:
   contents: write
@@ -38,6 +38,8 @@ jobs:
         run: python newsbot/schedule.py daily 2>&1 | tee -a newsbot/run_log.txt
       - if: github.event_name == 'push'
         run: python newsbot/schedule.py new 2>&1 | tee -a newsbot/run_log.txt
+      - name: Announce new Instagram/YouTube posts in the channel
+        run: python newsbot/promo.py 2>&1 | tee -a newsbot/run_log.txt
       - name: Save state
         run: |
           git config user.name "github-actions"

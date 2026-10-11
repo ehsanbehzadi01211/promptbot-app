@@ -1,0 +1,488 @@
+[
+ {
+  "platform": "instagram",
+  "kind": "carousel",
+  "when": "2026-10-12T10:00",
+  "topic": "۸ پرامپت آماده‌ی روزانه",
+  "metricool_uuid": "-3084739721890149245",
+  "metricool_date": "2026-10-12T10:00",
+  "status": "queued",
+  "id": "in-2026-10-12-carousel"
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "when": "2026-10-12T16:00",
+  "topic": "فرمول پرامپت عکس",
+  "metricool_uuid": "6848124961263274650",
+  "metricool_date": "2026-10-12T16:00",
+  "status": "queued",
+  "id": "in-2026-10-12-reel"
+ },
+ {
+  "platform": "instagram",
+  "kind": "story",
+  "when": "2026-10-12T19:00",
+  "topic": "استوری ابزار رایگان",
+  "metricool_uuid": "700904045452738783",
+  "metricool_date": "2026-10-12T19:00",
+  "status": "queued",
+  "id": "in-2026-10-12-story"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "when": "2026-10-12T21:00",
+  "topic": "Does ChatGPT Really Think? Explained in 30 Seconds",
+  "key": "en01_think",
+  "media": "youtube/shorts/en01_think.mp4",
+  "status": "queued",
+  "id": "yo-2026-10-12-short"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "when": "2026-10-13T10:00",
+  "topic": "Claude Now Works Inside Google Docs, Sheets & Slides",
+  "key": "en02_claude_ws",
+  "media": "youtube/shorts/en02_claude_ws.mp4",
+  "status": "queued",
+  "id": "yo-2026-10-13-short"
+ },
+ {
+  "platform": "instagram",
+  "kind": "carousel",
+  "when": "2026-10-13T16:00",
+  "topic": "خلاصه‌ی خبرهای هفته",
+  "metricool_uuid": "7557742734752303249",
+  "metricool_date": "2026-10-13T16:00",
+  "status": "queued",
+  "id": "in-2026-10-13-carousel"
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "when": "2026-10-13T21:00",
+  "topic": "ادیت عکس با ChatGPT",
+  "metricool_uuid": "7748542105142839202",
+  "metricool_date": "2026-10-13T21:00",
+  "status": "queued",
+  "id": "in-2026-10-13-reel"
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "when": "2026-10-14T10:00",
+  "topic": "Sketch: از خط‌خطی تا تصویر",
+  "metricool_uuid": "-2791165289377937338",
+  "metricool_date": "2026-10-14T10:00",
+  "status": "queued",
+  "id": "in-2026-10-14-reel"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "when": "2026-10-14T16:00",
+  "topic": "The 4-Part ChatGPT Image Prompt Formula",
+  "key": "en03_imgprompt",
+  "media": "youtube/shorts/en03_imgprompt.mp4",
+  "status": "queued",
+  "id": "yo-2026-10-14-short"
+ },
+ {
+  "platform": "instagram",
+  "kind": "carousel",
+  "when": "2026-10-14T21:00",
+  "topic": "۶ کانال یوتیوب آموزش AI",
+  "metricool_uuid": "-7740810086580074371",
+  "metricool_date": "2026-10-14T21:00",
+  "status": "queued",
+  "id": "in-2026-10-14-carousel"
+ },
+ {
+  "platform": "instagram",
+  "kind": "carousel",
+  "when": "2026-10-15T10:00",
+  "topic": "۵ اشتباه با هوش مصنوعی",
+  "metricool_uuid": "5493370638966017409",
+  "metricool_date": "2026-10-15T10:00",
+  "status": "queued",
+  "id": "in-2026-10-15-carousel"
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "when": "2026-10-15T16:00",
+  "topic": "ChatGPT ویدیو می‌سازه؟",
+  "metricool_uuid": "-7732423347664695699",
+  "metricool_date": "2026-10-15T16:00",
+  "status": "queued",
+  "id": "in-2026-10-15-reel"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "when": "2026-10-15T21:00",
+  "topic": "Edit Photos Inside ChatGPT, No Photoshop Needed",
+  "key": "en04_edit",
+  "media": "youtube/shorts/en04_edit.mp4",
+  "status": "queued",
+  "id": "yo-2026-10-15-short"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "when": "2026-10-16T10:00",
+  "topic": "From Doodle to Full Image with ChatGPT Sketch",
+  "key": "en05_sketch",
+  "media": "youtube/shorts/en05_sketch.mp4",
+  "status": "queued",
+  "id": "yo-2026-10-16-short"
+ },
+ {
+  "platform": "instagram",
+  "kind": "carousel",
+  "when": "2026-10-16T16:00",
+  "topic": "پرامپت مخصوص هر شغل",
+  "metricool_uuid": "8739003403456038578",
+  "metricool_date": "2026-10-16T16:00",
+  "status": "queued",
+  "id": "in-2026-10-16-carousel"
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "when": "2026-10-16T21:00",
+  "topic": "فرمول پرامپت ویدیو",
+  "metricool_uuid": "6692371980436719945",
+  "metricool_date": "2026-10-16T21:00",
+  "status": "queued",
+  "id": "in-2026-10-16-reel"
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "when": "2026-10-17T10:00",
+  "topic": "اول عکس، بعد ویدیو",
+  "metricool_uuid": "-51815492003544779",
+  "metricool_date": "2026-10-17T10:00",
+  "status": "queued",
+  "id": "in-2026-10-17-reel"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "when": "2026-10-17T16:00",
+  "topic": "Can ChatGPT Make Videos? The Honest Answer",
+  "key": "en06_video",
+  "media": "youtube/shorts/en06_video.mp4",
+  "status": "queued",
+  "id": "yo-2026-10-17-short"
+ },
+ {
+  "platform": "instagram",
+  "kind": "carousel",
+  "when": "2026-10-17T21:00",
+  "topic": "چک‌لیست ۶ مورد سایت (طراحی سایت)",
+  "metricool_uuid": "4853501713172025095",
+  "metricool_date": "2026-10-17T21:00",
+  "status": "queued",
+  "id": "in-2026-10-17-carousel"
+ },
+ {
+  "platform": "instagram",
+  "kind": "carousel",
+  "when": "2026-10-18T10:00",
+  "topic": "GPT-6 برای همه + ۶ پرامپت",
+  "metricool_uuid": "-4018271053849214172",
+  "metricool_date": "2026-10-11T16:00",
+  "status": "queued",
+  "id": "in-2026-10-18-carousel"
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "when": "2026-10-18T16:00",
+  "topic": "هوش مصنوعی معلم خصوصی",
+  "metricool_uuid": "-642830934189980614",
+  "metricool_date": "2026-10-18T16:00",
+  "status": "queued",
+  "id": "in-2026-10-18-reel"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "when": "2026-10-18T21:00",
+  "topic": "The AI Video Prompt Formula That Works Everywhere",
+  "key": "en07_vprompt",
+  "media": "youtube/shorts/en07_vprompt.mp4",
+  "status": "queued",
+  "id": "yo-2026-10-18-short"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "when": "2026-10-19T10:00",
+  "topic": "Easiest Way to Make AI Video: Image First, Then Animate",
+  "key": "en08_img2vid",
+  "media": "youtube/shorts/en08_img2vid.mp4",
+  "status": "queued",
+  "id": "yo-2026-10-19-short"
+ },
+ {
+  "platform": "instagram",
+  "kind": "carousel",
+  "when": "2026-10-19T16:00",
+  "topic": "۶ ابزار رایگان هوش مصنوعی",
+  "metricool_uuid": "7230705970948555791",
+  "metricool_date": "2026-10-11T21:00",
+  "status": "queued",
+  "id": "in-2026-10-19-carousel"
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "when": "2026-10-19T21:00",
+  "topic": "فقط یه عکس بده",
+  "metricool_uuid": "8901563185603628675",
+  "metricool_date": "2026-10-19T21:00",
+  "status": "queued",
+  "id": "in-2026-10-19-reel"
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "when": "2026-10-20T10:00",
+  "topic": "۵ کار در ۱ دقیقه",
+  "metricool_uuid": "6968041368260462128",
+  "metricool_date": "2026-10-20T10:00",
+  "status": "queued",
+  "id": "in-2026-10-20-reel"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "when": "2026-10-20T16:00",
+  "topic": "Turn AI Into Your Personal Tutor (Copy This Prompt)",
+  "key": "en09_teacher",
+  "media": "youtube/shorts/en09_teacher.mp4",
+  "status": "queued",
+  "id": "yo-2026-10-20-short"
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "when": "2026-10-21T16:00",
+  "topic": "تمرین مصاحبه‌ی کاری",
+  "metricool_uuid": "-8624930692332303810",
+  "metricool_date": "2026-10-21T16:00",
+  "status": "queued",
+  "id": "in-2026-10-21-reel"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "when": "2026-10-21T21:00",
+  "topic": "3 Things AI Can Do With Just One Photo",
+  "key": "en10_photo",
+  "media": "youtube/shorts/en10_photo.mp4",
+  "status": "queued",
+  "id": "yo-2026-10-21-short"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "when": "2026-10-22T10:00",
+  "topic": "5 Things AI Does for You in 1 Minute",
+  "key": "en11_tasks",
+  "media": "youtube/shorts/en11_tasks.mp4",
+  "status": "queued",
+  "id": "yo-2026-10-22-short"
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "when": "2026-10-22T21:00",
+  "topic": "مکالمه‌ی انگلیسی",
+  "metricool_uuid": "-4529746557893328670",
+  "metricool_date": "2026-10-22T21:00",
+  "status": "queued",
+  "id": "in-2026-10-22-reel"
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "when": "2026-10-23T10:00",
+  "topic": "۳ جمله برای جواب بهتر",
+  "metricool_uuid": "-1664758064496750873",
+  "metricool_date": "2026-10-23T10:00",
+  "status": "queued",
+  "id": "in-2026-10-23-reel"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "when": "2026-10-23T16:00",
+  "topic": "Practice Job Interviews With AI (Copy This Prompt)",
+  "key": "en12_interview",
+  "media": "youtube/shorts/en12_interview.mp4",
+  "status": "queued",
+  "id": "yo-2026-10-23-short"
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "when": "2026-10-24T16:00",
+  "topic": "۳ کاری که نباید بسپاری",
+  "metricool_uuid": "5467700907011424616",
+  "metricool_date": "2026-10-24T16:00",
+  "status": "queued",
+  "id": "in-2026-10-24-reel"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "when": "2026-10-24T21:00",
+  "topic": "Practice Speaking Any Language With AI, 10 Minutes a Day",
+  "key": "en13_language",
+  "media": "youtube/shorts/en13_language.mp4",
+  "status": "queued",
+  "id": "yo-2026-10-24-short"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "when": "2026-10-25T10:00",
+  "topic": "3 Phrases That Make ChatGPT's Answers Way Better",
+  "key": "en14_phrases",
+  "media": "youtube/shorts/en14_phrases.mp4",
+  "status": "queued",
+  "id": "yo-2026-10-25-short"
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "when": "2026-10-25T21:00",
+  "topic": "کپشن اینستاگرام با AI",
+  "metricool_uuid": "5117316827222917434",
+  "metricool_date": "2026-10-25T21:00",
+  "status": "queued",
+  "id": "in-2026-10-25-reel"
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "when": "2026-10-26T10:00",
+  "topic": "تصمیم سخت",
+  "metricool_uuid": "8594292400012739134",
+  "metricool_date": "2026-10-26T10:00",
+  "status": "queued",
+  "id": "in-2026-10-26-reel"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "when": "2026-10-26T16:00",
+  "topic": "3 Things You Shouldn't Hand Over to AI",
+  "key": "en15_dont",
+  "media": "youtube/shorts/en15_dont.mp4",
+  "status": "queued",
+  "id": "yo-2026-10-26-short"
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "when": "2026-10-27T16:00",
+  "topic": "نقد رزومه",
+  "metricool_uuid": "1032403482078105447",
+  "metricool_date": "2026-10-27T16:00",
+  "status": "queued",
+  "id": "in-2026-10-27-reel"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "when": "2026-10-27T21:00",
+  "topic": "Write Instagram Captions With AI (Copy This Prompt)",
+  "key": "en16_caption",
+  "media": "youtube/shorts/en16_caption.mp4",
+  "status": "queued",
+  "id": "yo-2026-10-27-short"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "when": "2026-10-28T10:00",
+  "topic": "Stuck Between Two Choices? Try This AI Prompt",
+  "key": "en17_decide",
+  "media": "youtube/shorts/en17_decide.mp4",
+  "status": "queued",
+  "id": "yo-2026-10-28-short"
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "when": "2026-10-28T21:00",
+  "topic": "مهارت در ۳۰ روز",
+  "metricool_uuid": "6481136569033441615",
+  "metricool_date": "2026-10-28T21:00",
+  "status": "queued",
+  "id": "in-2026-10-28-reel"
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "when": "2026-10-29T10:00",
+  "topic": "«نه» گفتن مؤدبانه",
+  "metricool_uuid": "-8281566411686526764",
+  "metricool_date": "2026-10-29T10:00",
+  "status": "queued",
+  "id": "in-2026-10-29-reel"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "when": "2026-10-29T16:00",
+  "topic": "Let AI Roast Your Resume Before a Recruiter Does",
+  "key": "en18_resume",
+  "media": "youtube/shorts/en18_resume.mp4",
+  "status": "queued",
+  "id": "yo-2026-10-29-short"
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "when": "2026-10-30T16:00",
+  "topic": "خبر: Claude در گوگل داکس، شیت و اسلاید",
+  "metricool_uuid": "-661815568252124700",
+  "metricool_date": "2026-10-11T10:00",
+  "status": "queued",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/reels11/news_claude_ws_voiced.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/reels11/news_claude_ws_cover.jpg"
+  },
+  "id": "in-2026-10-30-reel"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "when": "2026-10-30T21:00",
+  "topic": "Learn Any Skill in 30 Days With an AI Plan",
+  "key": "en19_skill",
+  "media": "youtube/shorts/en19_skill.mp4",
+  "status": "queued",
+  "id": "yo-2026-10-30-short"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "when": "2026-10-31T10:00",
+  "topic": "Hard to Say No? Let AI Write It for You",
+  "key": "en20_no",
+  "media": "youtube/shorts/en20_no.mp4",
+  "status": "queued",
+  "id": "yo-2026-10-31-short"
+ }
+]

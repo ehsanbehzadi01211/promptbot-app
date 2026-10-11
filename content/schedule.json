@@ -1,54 +1,5 @@
 [
  {
-  "date": "2026-10-08",
-  "time": "18:00",
-  "platform": "instagram",
-  "kind": "reel",
-  "topic": "تبلیغ طراحی سایت (ELVA)"
- },
- {
-  "date": "2026-10-11",
-  "time": "10:00",
-  "platform": "youtube",
-  "kind": "short",
-  "topic": "هوش مصنوعی شغلت رو می‌گیره؟"
- },
- {
-  "date": "2026-10-11",
-  "time": "10:00",
-  "platform": "instagram",
-  "kind": "reel",
-  "topic": "Claude در گوگل داکس، شیت و اسلاید"
- },
- {
-  "date": "2026-10-11",
-  "time": "16:00",
-  "platform": "youtube",
-  "kind": "short",
-  "topic": "ChatGPT واقعاً فکر می‌کنه؟"
- },
- {
-  "date": "2026-10-11",
-  "time": "16:00",
-  "platform": "instagram",
-  "kind": "carousel",
-  "topic": "GPT-6 برای همه؛ ۶ پرامپت آماده"
- },
- {
-  "date": "2026-10-11",
-  "time": "19:00",
-  "platform": "instagram",
-  "kind": "story",
-  "topic": "استوری ابزار رایگان امروز"
- },
- {
-  "date": "2026-10-11",
-  "time": "21:00",
-  "platform": "instagram",
-  "kind": "carousel",
-  "topic": "۶ ابزار رایگان هوش مصنوعی"
- },
- {
   "date": "2026-10-12",
   "time": "10:00",
   "platform": "instagram",
@@ -67,21 +18,21 @@
   "time": "19:00",
   "platform": "instagram",
   "kind": "story",
-  "topic": "استوری ابزار رایگان امروز"
+  "topic": "استوری ابزار رایگان"
  },
  {
   "date": "2026-10-12",
   "time": "21:00",
   "platform": "youtube",
   "kind": "short",
-  "topic": "فرمول پرامپت عکس"
+  "topic": "Does ChatGPT Really Think? Explained in 30 Seconds"
  },
  {
   "date": "2026-10-13",
   "time": "10:00",
   "platform": "youtube",
   "kind": "short",
-  "topic": "ادیت عکس با ChatGPT"
+  "topic": "Claude Now Works Inside Google Docs, Sheets & Slides"
  },
  {
   "date": "2026-10-13",
@@ -109,21 +60,21 @@
   "time": "16:00",
   "platform": "youtube",
   "kind": "short",
-  "topic": "Sketch: از خط‌خطی تا تصویر"
+  "topic": "The 4-Part ChatGPT Image Prompt Formula"
  },
  {
   "date": "2026-10-14",
   "time": "21:00",
   "platform": "instagram",
   "kind": "carousel",
-  "topic": "۶ کانال یوتیوب برای یادگیری AI"
+  "topic": "۶ کانال یوتیوب آموزش AI"
  },
  {
   "date": "2026-10-15",
   "time": "10:00",
   "platform": "instagram",
   "kind": "carousel",
-  "topic": "۵ اشتباه که جواب هوش مصنوعی رو خراب می‌کنه"
+  "topic": "۵ اشتباه با هوش مصنوعی"
  },
  {
   "date": "2026-10-15",
@@ -137,21 +88,21 @@
   "time": "21:00",
   "platform": "youtube",
   "kind": "short",
-  "topic": "ChatGPT ویدیو می‌سازه؟"
+  "topic": "Edit Photos Inside ChatGPT, No Photoshop Needed"
  },
  {
   "date": "2026-10-16",
   "time": "10:00",
   "platform": "youtube",
   "kind": "short",
-  "topic": "فرمول پرامپت ویدیو"
+  "topic": "From Doodle to Full Image with ChatGPT Sketch"
  },
  {
   "date": "2026-10-16",
   "time": "16:00",
   "platform": "instagram",
   "kind": "carousel",
-  "topic": "پرامپت مخصوص شغل تو"
+  "topic": "پرامپت مخصوص هر شغل"
  },
  {
   "date": "2026-10-16",
@@ -172,14 +123,21 @@
   "time": "16:00",
   "platform": "youtube",
   "kind": "short",
-  "topic": "اول عکس، بعد ویدیو"
+  "topic": "Can ChatGPT Make Videos? The Honest Answer"
  },
  {
   "date": "2026-10-17",
   "time": "21:00",
   "platform": "instagram",
   "kind": "carousel",
-  "topic": "سایتت این ۶ تا رو داره؟ (طراحی سایت)"
+  "topic": "چک‌لیست ۶ مورد سایت (طراحی سایت)"
+ },
+ {
+  "date": "2026-10-18",
+  "time": "10:00",
+  "platform": "instagram",
+  "kind": "carousel",
+  "topic": "GPT-6 برای همه + ۶ پرامپت"
  },
  {
   "date": "2026-10-18",
@@ -193,14 +151,21 @@
   "time": "21:00",
   "platform": "youtube",
   "kind": "short",
-  "topic": "هوش مصنوعی معلم خصوصی"
+  "topic": "The AI Video Prompt Formula That Works Everywhere"
  },
  {
   "date": "2026-10-19",
   "time": "10:00",
   "platform": "youtube",
   "kind": "short",
-  "topic": "فقط یه عکس بده"
+  "topic": "Easiest Way to Make AI Video: Image First, Then Animate"
+ },
+ {
+  "date": "2026-10-19",
+  "time": "16:00",
+  "platform": "instagram",
+  "kind": "carousel",
+  "topic": "۶ ابزار رایگان هوش مصنوعی"
  },
  {
   "date": "2026-10-19",
@@ -221,7 +186,7 @@
   "time": "16:00",
   "platform": "youtube",
   "kind": "short",
-  "topic": "۵ کار در ۱ دقیقه"
+  "topic": "Turn AI Into Your Personal Tutor (Copy This Prompt)"
  },
  {
   "date": "2026-10-21",
@@ -235,14 +200,14 @@
   "time": "21:00",
   "platform": "youtube",
   "kind": "short",
-  "topic": "تمرین مصاحبه‌ی کاری"
+  "topic": "3 Things AI Can Do With Just One Photo"
  },
  {
   "date": "2026-10-22",
   "time": "10:00",
   "platform": "youtube",
   "kind": "short",
-  "topic": "مکالمه‌ی انگلیسی"
+  "topic": "5 Things AI Does for You in 1 Minute"
  },
  {
   "date": "2026-10-22",
@@ -263,7 +228,7 @@
   "time": "16:00",
   "platform": "youtube",
   "kind": "short",
-  "topic": "۳ جمله برای جواب بهتر"
+  "topic": "Practice Job Interviews With AI (Copy This Prompt)"
  },
  {
   "date": "2026-10-24",
@@ -277,14 +242,14 @@
   "time": "21:00",
   "platform": "youtube",
   "kind": "short",
-  "topic": "۳ کاری که نباید بسپاری"
+  "topic": "Practice Speaking Any Language With AI, 10 Minutes a Day"
  },
  {
   "date": "2026-10-25",
   "time": "10:00",
   "platform": "youtube",
   "kind": "short",
-  "topic": "کپشن اینستاگرام با AI"
+  "topic": "3 Phrases That Make ChatGPT's Answers Way Better"
  },
  {
   "date": "2026-10-25",
@@ -305,7 +270,7 @@
   "time": "16:00",
   "platform": "youtube",
   "kind": "short",
-  "topic": "تصمیم سخت"
+  "topic": "3 Things You Shouldn't Hand Over to AI"
  },
  {
   "date": "2026-10-27",
@@ -319,21 +284,21 @@
   "time": "21:00",
   "platform": "youtube",
   "kind": "short",
-  "topic": "نقد رزومه"
+  "topic": "Write Instagram Captions With AI (Copy This Prompt)"
  },
  {
   "date": "2026-10-28",
   "time": "10:00",
   "platform": "youtube",
   "kind": "short",
-  "topic": "یادگیری مهارت در ۳۰ روز"
+  "topic": "Stuck Between Two Choices? Try This AI Prompt"
  },
  {
   "date": "2026-10-28",
   "time": "21:00",
   "platform": "instagram",
   "kind": "reel",
-  "topic": "یادگیری مهارت در ۳۰ روز"
+  "topic": "مهارت در ۳۰ روز"
  },
  {
   "date": "2026-10-29",
@@ -347,6 +312,27 @@
   "time": "16:00",
   "platform": "youtube",
   "kind": "short",
-  "topic": "«نه» گفتن مؤدبانه"
+  "topic": "Let AI Roast Your Resume Before a Recruiter Does"
+ },
+ {
+  "date": "2026-10-30",
+  "time": "16:00",
+  "platform": "instagram",
+  "kind": "reel",
+  "topic": "خبر: Claude در گوگل داکس، شیت و اسلاید"
+ },
+ {
+  "date": "2026-10-30",
+  "time": "21:00",
+  "platform": "youtube",
+  "kind": "short",
+  "topic": "Learn Any Skill in 30 Days With an AI Plan"
+ },
+ {
+  "date": "2026-10-31",
+  "time": "10:00",
+  "platform": "youtube",
+  "kind": "short",
+  "topic": "Hard to Say No? Let AI Write It for You"
  }
 ]
