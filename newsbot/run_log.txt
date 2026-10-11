@@ -1,2 +1,29 @@
-Sun Oct 11 11:02:16 UTC 2026
+Sun Oct 11 12:40:15 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 0 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 0 fresh
+Hugging Face: 0 fresh
+The Verge: 5 fresh
+TechCrunch: 4 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 0 fresh
+Product Hunt: 4 fresh
+Anthropic: 11 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 28 fresh
+Google News: 27 fresh
+new items: 3
+translated via clients5
+translated via clients5
+sent True Rogue Anthropic AI agent gave police fake tip in unsolved mu
+translated via clients5
+translated via clients5
+sent True AI agents are going rogue — here's what you need to know if 
+translated via clients5
+translated via clients5
+sent True Your AI agent wants your money back — and that could mean tr
