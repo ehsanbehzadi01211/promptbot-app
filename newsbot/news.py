@@ -13,6 +13,7 @@ STATE = os.path.join(HERE, "state")
 DATA = os.path.join(HERE, "data")
 UA = "Mozilla/5.0 (compatible; ai-news-bot/1.0)"
 CFG = json.load(open(os.path.join(HERE, "sources.json")))
+TRUSTED = {s.lower() for s in CFG["trusted_publishers"]}
 NOW = datetime.now(timezone.utc)
 MAX_AGE = timedelta(hours=36)
 
@@ -80,7 +81,7 @@ def from_feed(src):
                 title, source = m.group(1).strip(), m.group(2).strip()
         out.append({"title": title, "summary": clean(e.get("summary"), 400), "url": e.get("link"),
                     "source": source, "official": src.get("official", False), "tools": src.get("tools", False),
-                    "time": (t or NOW).isoformat()})
+                    "gnews": bool(src.get("gnews")), "time": (t or NOW).isoformat()})
     print(f"{src['name']}: {len(out)} fresh")
     return out
 
@@ -112,16 +113,33 @@ def translate(text):
     if not text:
         return ""
     q = urllib.parse.urlencode({"client": "gtx", "sl": "auto", "tl": "fa", "dt": "t", "q": text})
-    try:
-        data = json.loads(get("https://translate.googleapis.com/translate_a/single?" + q))
-        return "".join(part[0] for part in data[0] if part[0]).strip()
-    except Exception as ex:
-        print("translate fail", ex)
-        return ""
+    for wait in (0, 6, 15):
+        time.sleep(wait)
+        try:
+            data = json.loads(get("https://translate.googleapis.com/translate_a/single?" + q))
+            return "".join(part[0] for part in data[0] if part[0]).strip()
+        except Exception as ex:
+            print("translate fail", ex)
+    return ""
 
 
 def item_id(it):
     return hashlib.sha1((it["url"] or it["title"]).encode()).hexdigest()[:16]
+
+
+def relevant(it):
+    """Official sources always pass. Everything else must be about AI, read like a launch/update,
+    come from a known publisher (Google News results) and not be finance/PR noise."""
+    if it["official"]:
+        return True
+    t = " " + it["title"].lower() + " "
+    if any(w in t for w in CFG["block_words"]):
+        return False
+    if not any(re.search(r"(?<![a-z0-9])" + re.escape(w) + r"(?![a-z0-9])", t) for w in CFG["ai_words"]):
+        return False
+    if it.get("gnews") and it["source"].lower() not in TRUSTED:
+        return False
+    return score(it) > 0
 
 
 def score(it):
@@ -153,16 +171,15 @@ def fetch():
         seen[iid] = NOW.isoformat()
         if any(similar(it["title"], r) for r in recent + [f["title"] for f in fresh]):
             continue
-        if not it["official"] and score(it) == 0:
+        if not relevant(it):
             continue
         it["id"] = iid
         fresh.append(it)
+    fresh = fresh[:CFG["max_new_per_fetch"]]
     # first run only records what exists, so the channel isn't flooded with old posts
     if first_run:
         fresh = [it for it in fresh if not it.get("page")][:6]
-    for it in fresh:
-        it["title_fa"] = translate(it["title"])
-        it["summary_fa"] = translate(it["summary"])
+    # Persian text is added in post(), a few items per run, so the translate endpoint is not hammered
     # forget ids older than 10 days
     cutoff = (NOW - timedelta(days=10)).isoformat()
     seen = {k: v for k, v in seen.items() if v > cutoff}
@@ -206,13 +223,23 @@ def post():
         print("no channel or token yet; skipping post")
         return
     queue = jload(os.path.join(STATE, "queue.json"), [])
+    stale = (NOW - timedelta(hours=CFG["max_queue_age_hours"])).isoformat()
+    queue = [it for it in queue if it["time"] > stale and relevant(it)]
     log = jload(os.path.join(STATE, "posted.json"), {})
     today = NOW.strftime("%Y-%m-%d")
     done_today = log.get(today, 0)
     room = min(CFG["max_posts_per_run"], CFG["max_posts_per_day"] - done_today)
     sent = 0
     while queue and sent < room:
-        it = queue.pop(0)
+        it = queue[0]
+        if not it.get("title_fa"):
+            it["title_fa"] = translate(it["title"])
+            time.sleep(1.5)
+            it["summary_fa"] = translate(it["summary"])
+        if not it["title_fa"]:   # the channel is Persian: never post an untranslated headline
+            print("no translation; will retry next run")
+            break
+        queue.pop(0)
         try:
             r = tg("sendMessage", chat_id=channel, text=fmt(it), parse_mode="HTML",
                    disable_web_page_preview="false")

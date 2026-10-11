@@ -9,7 +9,8 @@
   "time": "2026-10-09T07:00:00+00:00",
   "id": "edd58468d564448f",
   "title_fa": "Sophos با OpenAI Daybreak زمان بررسی تهدید را تا 96 درصد کاهش داد",
-  "summary_fa": "کشف کنید که چگونه Sophos از OpenAI's Daybreak برای کاهش 96 درصدی زمان بررسی تهدیدات سایبری و خودکارسازی 52 درصد موارد MDR و در عین حال حفظ نظارت انسانی استفاده می‌کند."
+  "summary_fa": "کشف کنید که چگونه Sophos از OpenAI's Daybreak برای کاهش 96 درصدی زمان بررسی تهدیدات سایبری و خودکارسازی 52 درصد موارد MDR و در عین حال حفظ نظارت انسانی استفاده می‌کند.",
+  "gnews": false
  },
  {
   "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
@@ -21,7 +22,8 @@
   "time": "2026-10-09T07:00:00+00:00",
   "id": "90995f7dbc9c2674",
   "title_fa": "آسانا در تست های مرورگر با GPT-6.1 Sol قیمت مدل را 76 برابر کاهش می دهد",
-  "summary_fa": "Asana با استفاده از GPT-6 Astra در Codex، عامل مرورگر خود را 76 برابر ارزان‌تر و 5 برابر سریع‌تر در آزمایش‌ها کرد تا مدل‌های توانمندتری را به مشتریان ارائه دهد."
+  "summary_fa": "Asana با استفاده از GPT-6 Astra در Codex، عامل مرورگر خود را 76 برابر ارزان‌تر و 5 برابر سریع‌تر در آزمایش‌ها کرد تا مدل‌های توانمندتری را به مشتریان ارائه دهد.",
+  "gnews": false
  },
  {
   "title": "Impactful scheduling for GPU clusters",
@@ -33,127 +35,8 @@
   "time": "2026-10-09T15:20:29+00:00",
   "id": "43ef54e74d276082",
   "title_fa": "زمان‌بندی تاثیرگذار برای خوشه‌های GPU",
-  "summary_fa": ""
- },
- {
-  "title": "Google Launches Gemini Agent to Rival OpenAI, Microsoft [2026] - https://tech-insider.org/",
-  "summary": "Google Launches Gemini Agent to Rival OpenAI, Microsoft [2026] https://tech-insider.org/",
-  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mRWZ0d084cjgycktsYU1SMjRqQUYtX2FGZkVLZ09JRl9QYTBOVVdyeFdZSU1sS1FYM2o3VVI5OExhbEctckhDMGtKYm9DTU1LVzZwUjBsSVpzbFZ2VFozUnpFTjRzRkpUdFJyLVlaaU5VSmpBdWo2dXRn?oc=5",
-  "source": "Google News",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-10T09:45:55+00:00",
-  "id": "f93ad394dfd5719c",
-  "title_fa": "گوگل عامل Gemini را برای رقابت با OpenAI، مایکروسافت [2026] راه اندازی کرد - https://tech-insider.org/",
-  "summary_fa": "گوگل عامل Gemini را برای رقابت با OpenAI، مایکروسافت [2026] راه اندازی کرد https://tech-insider.org/"
- },
- {
-  "title": "Claude Management Agent Launches Dynamic Workflow: Up to 1000 AI Agents Can Be Concurrently Scheduled at Once",
-  "summary": "Claude Management Agent Launches Dynamic Workflow: Up to 1000 AI Agents Can Be Concurrently Scheduled at Once AIBase",
-  "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CRlJQMWtZLS05bzR1bHZMWTJab1l5c1VJOFhwTW5yWW51N0kyMGdSQTVSNTE4a1RGZ2s0SlZmOVVYRTRtb2FjQ0lB?oc=5",
-  "source": "AIBase",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-10T08:07:07+00:00",
-  "id": "0480baf07c58143b",
-  "title_fa": "Claude Management Agent گردش کار پویا را راه اندازی می کند: حداکثر 1000 عامل هوش مصنوعی را می توان همزمان برنامه ریزی کرد",
-  "summary_fa": "Claude Management Agent گردش کار پویا را راه اندازی می کند: حداکثر 1000 عامل AI را می توان همزمان در AIBase برنامه ریزی کرد"
- },
- {
-  "title": "Google launches enterprise AI agent for workspace automation with multi-platform integrations",
-  "summary": "Google launches enterprise AI agent for workspace automation with multi-platform integrations Adgully.com",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQODBQYUVNUUk0V3lqTXJLSlBfMGNxTFhHYkRnWm1BdXFOQ3pIZEZSWDFZalF1TXFFVTFyZTdZRlBLNDJHSDlIRGZVbVZUYWVrRzQtR1BCZWJJRzlpaFBuRkVzdkhISkdueHBCWHlqMERxRHY4cXFQU2tsMlY3bDNSTnhsUTJ3Tkt4QlVsbFc2T2FRWXJCVlkta19BVjhGSFZ4eXZ0SFQ0aEpWX2FoX3JJLUJwWEtiaVlmbDg0a0tod1dVSDZaMldZ?oc=5",
-  "source": "Adgully.com",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-10T03:56:00+00:00",
-  "id": "8c0fe1484f4b30d9",
-  "title_fa": "گوگل عامل هوش مصنوعی سازمانی را برای اتوماسیون فضای کاری با ادغام چند پلت فرم راه اندازی می کند",
-  "summary_fa": "گوگل عامل هوش مصنوعی سازمانی را برای اتوماسیون فضای کاری با ادغام های چند پلتفرمی راه اندازی کرد Adgully.com"
- },
- {
-  "title": "HBAR Price Prediction: Hedera Launches AI Agent Accounts as AlphaPepe Buyers Chase the Earlier AI Trading Bet",
-  "summary": "HBAR Price Prediction: Hedera Launches AI Agent Accounts as AlphaPepe Buyers Chase the Earlier AI Trading Bet openPR.com",
-  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbHdDeWllV2VabDhobFpnRVJxcndOU1JHX0x1YlEyYWpFSG9jNU9HSHdYejJpcmVnLVJJT0FoNGlnNTFZTzd2RW5ZTHpObEpMb2JNc0FEelhLd3VnMkR1MzR1NVcyaWxoTUtHcUQzbFJCejNXUk96TS04d3U0VkNTeGI4WnRwTVlILU9hVExzb0w2VU5BWmlQb0d3?oc=5",
-  "source": "openPR.com",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-10T13:15:58+00:00",
-  "id": "ae0b64196128bbf2",
-  "title_fa": "",
-  "summary_fa": ""
- },
- {
-  "title": "Meta Launches Muse AI Agent Amid Trust and Adoption Challenge",
-  "summary": "Meta Launches Muse AI Agent Amid Trust and Adoption Challenge SuaraGarut.ID",
-  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeFlCQl9EOXBaXzAxcnRMWWx2WGhFTFpKSnNnVUozazdzSVhvOUkxTjNtZVBFdFRoNHl1SEczZWdTVm5XSmF0YUpJSFdrNnN5R3A1bmNvaFhxM3dzRUR1ZGozTHpQYThxV3Q5cTd2NmJjMXdSZGpWWmMxc1RRVHZVYWJTNUlCQ1BkLXExNkg3NA?oc=5",
-  "source": "SuaraGarut.ID",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-10T06:01:39+00:00",
-  "id": "e6762cf059cba1b8",
-  "title_fa": "",
-  "summary_fa": ""
- },
- {
-  "title": "Microsoft launches Microsoft-Decision-1, a fast decision-scoring model built on Alibaba's Qwen",
-  "summary": "Microsoft launches Microsoft-Decision-1, a fast decision-scoring model built on Alibaba's Qwen Dealroom",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVWhJTGQtSnVnWVp5OTRRYVRHMWRYbko1WHBvTDN2MlFEUVc1TTdJMHBXSGpDb3ZtV3JkaGQwUDQ3ZUFBd3pkb1pxcV9zQ01QREl6MFN1UnpGQmZ0elItNmQ4NXpRUnc3d2hRNWh5a3l5bkk2eHBwQng1M0pXLWR3RkFBQUltaS1tS1VDeEU3VEFib3FudVZoZkM1aGhGTWk3VEJRa1dFWnpxbGdIMlBCWHYxblNnX1E4R0t2U25aU3BRTWlqMFE?oc=5",
-  "source": "Dealroom",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-10T10:12:43+00:00",
-  "id": "b7c79a6f57334c9a",
-  "title_fa": "",
-  "summary_fa": ""
- },
- {
-  "title": "Starks Command Launches the All-in-One Platform That Helps Agencies Win Local SEO – and the New Battle for AI Search Visibility",
-  "summary": "Starks Command Launches the All-in-One Platform That Helps Agencies Win Local SEO – and the New Battle for AI Search Visibility FinancialContent",
-  "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNZ0Z6SEtUaGF2MkhnU3hPbFp1N0tjUEhUSXQ1WkhZbFB6Sy16dFlNZ3pXZnljclM0eGM2bnoyNDR6bkZ6ZTVvSVBpVzVhNjFucFRrOVdyLXFwS2FJVDhveENqbzBQTlp3eWUwdzRhOUM2dzI5Z1dUckxybzBOUmZRbmhDVkNNZ29tVEZxYld6UkQ2cHhJMFBTZnktSzNJYjlCOEZzdGxCcHFHWnROX3F3cEdhcmNUNHBLQTV4ZFRGcy1Tano0VDFzZHJpZU9mZ1l3LWZHWXFVYm5VbTl4TlhSNzJQZGFuY0hwbmpHLTB3QXN1S3RUSW9YcVdqbUlsREtqVTB2TzJLeklwWldSTTVnR2h6aw?oc=5",
-  "source": "FinancialContent",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-10T23:20:00+00:00",
-  "id": "58828a6cb4ffaf72",
-  "title_fa": "",
-  "summary_fa": ""
- },
- {
-  "title": "Pathify Leverages EDUCAUSE 2026 to Launch AI Agent and Boost Higher-Ed Market Position",
-  "summary": "Pathify Leverages EDUCAUSE 2026 to Launch AI Agent and Boost Higher-Ed Market Position TipRanks",
-  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVEFqNHBzLTdEb2wtSkFUdnBuR2t5QXJoejFZc0lpQTdaTFZHVXA2ZEF1dkZUQl9VU3BFOUxhaW1Xelp2R21LeHl1UUUwMHI5TDh0ZVZ4Qkt3dF9SMmViR0JFWUUzcWNnVm9HX3RNZ1VyNlladnAzX3d4ODEyU25SYTdtLW13Y284TjdpQldTLVhlXy1mZFhXeXgyVTVCSzhKRHpKbkVYSnVOYnZ5WFlHUE1VbEZ5bGlzR0NNNGxXd2NTZ3d2M0tfdmdpZ3UzTVE?oc=5",
-  "source": "TipRanks",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-10T13:39:49+00:00",
-  "id": "99bc6c8c919524f4",
-  "title_fa": "",
-  "summary_fa": ""
- },
- {
-  "title": "8 seriously annoying tasks you can hand off to an AI agent",
-  "summary": "8 seriously annoying tasks you can hand off to an AI agent Fox News",
-  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jMlZWOWhMSkZFeWl2OXBRcGVKREJvNlV2NFRwaWdHUDZXQUxaTW4xbDdzWDVTY0piMGtSOXo5Y2RKYmMxTFV5di1hSVN3VGZKVnRNVGo2eVpwVFBHQXB6MHNrczdSZjFLdFJwWE1kTWdBQjBqNlHSAXZBVV95cUxOYzJWVjloTEpGRXlpdjlwUXBlSkRCbzZVdjRUcGlnR1A2V0FMWk1uMWw3c1g1U2NKYjBrUjl6OWNkSmJjMUxVeXYtYUlTd1RmSlZ0TVRqNnlacFRQR0FwejBza3M3UmYxS3RScFhNZE1nQUIwajZR?oc=5",
-  "source": "Fox News",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-10T20:37:52+00:00",
-  "id": "c4a8f786992d000a",
-  "title_fa": "",
-  "summary_fa": ""
- },
- {
-  "title": "White House demands transparency after Anthropic’s AI agents called in a false Philly homicide tip and applied for visas - The Spokesman-Review",
-  "summary": "White House demands transparency after Anthropic’s AI agents called in a false Philly homicide tip and applied for visas The Spokesman-Review",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNWNOVUkzc2pvVzNIRjdKRUhMcFpVNGllQWJwdEdtZmxGU1ZUN2daaFlnVkFMbTRMdW1wbTVzSjdSZDAzTDAwcDBIYVhQTVlHVFpmWWJKVzktMjdwVldOUUZaVHBITVJxc2tfQzd2WVpFR3JxMVZyOFZZYnpnbkFoMURaeWdWd1dqbFllWXF0SFEwN3EzWDhUOS1zQTJ0QQ?oc=5",
-  "source": "Google News",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-10T21:30:00+00:00",
-  "id": "5e5500938abe4147",
-  "title_fa": "",
-  "summary_fa": ""
+  "summary_fa": "",
+  "gnews": false
  },
  {
   "title": "Anthropic Says Its AI Agents Tried To Break Into Government Websites",
@@ -165,79 +48,8 @@
   "time": "2026-10-10T17:49:49+00:00",
   "id": "f279e74577824686",
   "title_fa": "",
-  "summary_fa": ""
- },
- {
-  "title": "Google’s Gemini Agent Spans Apps, Starting With Enterprises",
-  "summary": "Google’s Gemini Agent Spans Apps, Starting With Enterprises Quasa.io",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjVZYzRvdmJCbTJORW1kc1ZtdjIwV19taXp5WGdxMjdqQ2M4eE5XTzJyVUxfcjlYVGJGS0JfVXVXb0p2TF91MXE4YUlzNkpKZkdqYk9HZkNzTkVjbFp2d3o5cm1EZ3AwX0diWnF1dm81YWxMUHhLWS1QSkJxSUZXOHpGWUtsQmltdHluY1g2TTdrOUFVNHhkb094TEctQVdqRVlhQg?oc=5",
-  "source": "Quasa.io",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-11T03:00:38+00:00",
-  "id": "711e71b6fdf72e30",
-  "title_fa": "",
-  "summary_fa": ""
- },
- {
-  "title": "Three Agent Specs Promised for October Remain Unshipped. The Vendor Extensions Filling the Vacuum Are Fragmenting the Stack.",
-  "summary": "Three Agent Specs Promised for October Remain Unshipped. The Vendor Extensions Filling the Vacuum Are Fragmenting the Stack. Forkast News",
-  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR1hwZTc1TTE5V3pKajE1UmtYQzgtWFU4ZWFXMXpTNzJCWWxnZjFhcG1oS0FKZnV3bDJWZHJUOUZZWHJIU284UG45SHROQ3ZTanBiV0xUTUNrdzhIS3lPd082ZUpjQ29UN2g3RTQxcGEyYzZZUHpwcjdLTmx0dUluNV9fclFuUG5hYkRJQmJySGFfb2x0Qk9iYi1wOXhFeExXZDVXZEM3SGctS2RJRE0wVjNoOWxDdWRfOU5zWDZuUWlfZmR0WjJnUDQtRnZ1NU1sOWJDbkZzeDN5aEJq?oc=5",
-  "source": "Forkast News",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-10T23:46:00+00:00",
-  "id": "f3dbac405520101f",
-  "title_fa": "",
-  "summary_fa": ""
- },
- {
-  "title": "DeepSeek Harness v0.2.1-alpha.2 Pre-Release Adds Reasoning Translation and Git Worktrees",
-  "summary": "DeepSeek Harness v0.2.1-alpha.2 Pre-Release Adds Reasoning Translation and Git Worktrees Pandaily",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUlkcjNLN3o0S19uYkhNeFhZbUxKWGc3QUVzMDNaX0RjajJrUUthR0lDY01hSF9ueTVHczMtRGFmNERKenlQa2tBWU5IWVBVenNPNjh2TXFpcmYxWE5QakVETjJ0V1Ewdlg4MDhtVGRXUVdZZU9DanVGT3VrczdmLWpaQjhtUVlXaHp0endlYTljanpYX3NUaUI2RTI5M0NV?oc=5",
-  "source": "Pandaily",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-11T01:52:02+00:00",
-  "id": "098285b81ed000a8",
-  "title_fa": "",
-  "summary_fa": ""
- },
- {
-  "title": "Reported Grok Bot data leak and xAI’s shared agents",
-  "summary": "Reported Grok Bot data leak and xAI’s shared agents NeoTeo",
-  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbHNKblBCUjVpX0o3Q2VPZGxFX3FUS2d1ZUVpOEU2QmFZR20zVFBjOER0aDY0Umx4SEFTWG5GbkpGVEtxQkpMNG50UUZKVlBua0VscEE5VEdPTG9SVC1kR3FIRzVxQ1pNTlRxY0ljTmMwOGZBaVQ0QlN4dkFocTJpVkE1Wk45S3oyaTNMU0tCZFBNZw?oc=5",
-  "source": "NeoTeo",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-11T02:48:22+00:00",
-  "id": "093558573de27350",
-  "title_fa": "",
-  "summary_fa": ""
- },
- {
-  "title": "Tesla Engineer Says Cybercab Will Get Grok Bot Access in Next Update",
-  "summary": "Tesla Engineer Says Cybercab Will Get Grok Bot Access in Next Update TeslaNorth.com",
-  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lWVByVGF5NXNJWG1KNThFZUdPZkVTTXAwM2pYeldMdGpmN2JXRHUtaXMzV3dac2wyR0lJY3hrUmtVNTE3VDhzS19tRXhZeXl0eFVoMzRoRGJnTE1FajdIRkYybHZzYUllRHRqYQ?oc=5",
-  "source": "TeslaNorth.com",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-10T12:07:03+00:00",
-  "id": "5e907d1a545780e7",
-  "title_fa": "",
-  "summary_fa": ""
- },
- {
-  "title": "Grok Bot Uses Persistent Cloud Computers to Keep AI Agents Working",
-  "summary": "Grok Bot Uses Persistent Cloud Computers to Keep AI Agents Working TOKENPOST",
-  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15LVJtMXpvelEtV01ZX25STzhOU28wbnBrY1JDQ1lMWWlqbFJRT0lCaks2SVIzNzBwN0g5N0FoNVY2N2FMT0NubEdTY09meG1rS2RsSlpydE93ZEU?oc=5",
-  "source": "TOKENPOST",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-10T16:07:45+00:00",
-  "id": "1be6495e3183e6d9",
-  "title_fa": "",
-  "summary_fa": ""
+  "summary_fa": "",
+  "gnews": true
  },
  {
   "title": "Hacker used ARTEX AI and Claude agents to target South Korean banks",
@@ -249,7 +61,8 @@
   "time": "2026-10-10T14:16:17+00:00",
   "id": "92d596d92fae396c",
   "title_fa": "",
-  "summary_fa": ""
+  "summary_fa": "",
+  "gnews": true
  },
  {
   "title": "AI agents can be unpredictable. Your control layer shouldn't be.",
@@ -261,115 +74,8 @@
   "time": "2026-10-10T21:05:00+00:00",
   "id": "6a37d7c97bf061fe",
   "title_fa": "",
-  "summary_fa": ""
- },
- {
-  "title": "Intron Rolls Out Sahara V2.5 To Support Mixed African Languages In Voice AI",
-  "summary": "Intron Rolls Out Sahara V2.5 To Support Mixed African Languages In Voice AI Tech Build Africa",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KQ01YN05wQ0xrajNHNktoUjU0elJCTXdGTnVnN080UFpNa3dXX0NfTjc4emxjWVNqeEpwMnE3T0l2cDFOZTFrbEExTGNmcVY3anc4eXlFTno1UU52M2VpeDd3QmpRRGRuUEwzZmNPUTh1cGFvU3Bzc0I5MA?oc=5",
-  "source": "Tech Build Africa",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-10T17:37:44+00:00",
-  "id": "c53097913f8d8edf",
-  "title_fa": "",
-  "summary_fa": ""
- },
- {
-  "title": "Grok Bot Now Offers ‘Free’ Claude Opus 5.5 and Midjourney",
-  "summary": "Grok Bot Now Offers ‘Free’ Claude Opus 5.5 and Midjourney ProPakistani",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWU9lUTJWWFo4SkltSG1JdFhqdEltQjZfellRMlVjbVhwYVdNczV5VTV1bDhSUy1MVWw1NlFvQ0M0UzhRZDlxbWZEYkdYdExiNmhyckQ5Sk1VZ3BtMlNSaGRDS3Y5bXhhM0pqWk02MVVYMXM3dGRtWnQzTUM3TlJHTGZNUHlWXzQxNVNsUUs0cVJPQTFpbGfSAZsBQVVfeXFMT2psWm9VN0dveE5NcXBHMWdBNUozOE1wM1FwU1lnempUdVg5SXNqQmdTWU5LZlRfQWdhdF9VUmtacnJMTV9yd184VGp1ZkpqYWs3bzRRQVpxNUdJN3VFc3FhdkV1d1dOakpiZzdOcmlBUmtKcHdNUGR1VVpYRXNXdmNmVFhQeTFLVWtNSHg3bWVaSFd0Wmtya3QxWU0?oc=5",
-  "source": "ProPakistani",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-10T11:19:47+00:00",
-  "id": "77aa88bf81268ed2",
-  "title_fa": "",
-  "summary_fa": ""
- },
- {
-  "title": "Caleb Lee Hutchinson Releases New Single \"Thumbs Up\" Ahead of October Album",
-  "summary": "Caleb Lee Hutchinson Releases New Single \"Thumbs Up\" Ahead of October Album Music Industry Weekly",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYXdHdV9vbDNQOGNoZXI5NkNZSC1qWTVxOVljcGRaYzdFQVpEUk1BemxDNEVCdlJnaDhfU3NEMmV0OXNHRUtYTjlILUZGNnFvdXdYdkY4MzItQmh5dVF3MTBOTGhXWlkzX0FfMm04eDNDdS1QM1hoN2VXOFZmYUhhRXJjaHpoTElLRXBiMzFIQVF3MEZrelEtcmEyZW9NdHJmRVc2bGdPbjNqZw?oc=5",
-  "source": "Music Industry Weekly",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-10T11:21:54+00:00",
-  "id": "ff5b3fb5bf1bc6f2",
-  "title_fa": "",
-  "summary_fa": ""
- },
- {
-  "title": "Eva Pagán Announces Sophomore EP ‘EP2,’ Shares New Single",
-  "summary": "Eva Pagán Announces Sophomore EP ‘EP2,’ Shares New Single Music Industry Weekly",
-  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRE1Zenh4dUNXYzRPYVRTbXFxSjI3Y3JxTU5HQU8xWjdNM3MteW1kaUlCeW01UmlmUnZwZkhXbG93OUV1WXBxR2dnRHdOTVdidWY4OWdFMjFvVHpDY0F3MkUyRWlhcWtFRS03S3JpWUhfYjd3N0I5UlFqbFA3eDBKUXlvcmNrYjNTdzJYRmsyeFM?oc=5",
-  "source": "Music Industry Weekly",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-10T11:22:03+00:00",
-  "id": "0b6a7045921964e3",
-  "title_fa": "",
-  "summary_fa": ""
- },
- {
-  "title": "1 Reason the Meta Muse AI Agent Has the Upper Hand",
-  "summary": "1 Reason the Meta Muse AI Agent Has the Upper Hand The Globe and Mail",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdXJkc1lMazBzMUptR2hHaFZGYlRnazhsRUFFbGIwZW52Wm5naFhRYkhRa0JVM2tLUWtKZ0ZYRGJldW9GbU9Xa1FoM3psVFluTjRFU1ZlLVFDT1VXbVQ0Z1JHZUU5UVo5alBvLXVhTnM1OURGVnNickhWYzdGMmpnRElzd29BTG5IdzBEWlNJbkxMQjg1cnAtNTJpcXpldVVReUhxMm5yd2gwcExicDFkMXZuZ0VDbVZBZ3pJS3hjZXNDTnd1QVNkbw?oc=5",
-  "source": "The Globe and Mail",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-10T18:01:11+00:00",
-  "id": "952cb6bf360e9895",
-  "title_fa": "",
-  "summary_fa": ""
- },
- {
-  "title": "AI Agent Development: Best Practices for Tools, Security, and Evaluation | by Adnan Masood, PhD. | Oct, 2026",
-  "summary": "AI Agent Development: Best Practices for Tools, Security, and Evaluation | by Adnan Masood, PhD. | Oct, 2026 Medium",
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWF4UTBlRzY4TzlrTmlyOFh0ZHc5UmJWQ01fbkpOU1MtN1lLRVlLRWxUTG4tNlc5c1gtd1V6dG9rb25WMXQ4WHhBQ2JaRVJhWkRvQUI0akVPM3UxU0hxaWVkUUJob0JLSGhLYzlnc0gzR3A2MVF5U3dldndzVlBpUGQwbDJHdUQzdnFhY2R4UjhLbHVWVmhxV0dVTWdZNV9OdzhEU2FTbjF4amRpTDk2b2hFQU4?oc=5",
-  "source": "Medium",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-10T19:08:13+00:00",
-  "id": "b178e374a10a3fb8",
-  "title_fa": "",
-  "summary_fa": ""
- },
- {
-  "title": "XRP Ledger Surpasses 13 Million AI Agent Transactions as Autonomous Payments Reshape Network Activity",
-  "summary": "XRP Ledger Surpasses 13 Million AI Agent Transactions as Autonomous Payments Reshape Network Activity BigGo Finance",
-  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qeHJ5WmRCc28zN3JEQVJMdW1DdVktTXZhcDFOZFhUSUV6V0lZUjl4b09nQTIwc1VDMGVHWnh6dXg3QTcyd0dQZTRBd1MzZmFsVU9jeU9HM2M4emlzcmExWjhPRW1EZ3BRSHlBR1kwMW9vMHBwUVE?oc=5",
-  "source": "BigGo Finance",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-10T19:35:00+00:00",
-  "id": "6ff577bdcef49277",
-  "title_fa": "",
-  "summary_fa": ""
- },
- {
-  "title": "Hawley-Murphy Bill Would Make Agent Developers Criminally Liable for Hacking Failures",
-  "summary": "Hawley-Murphy Bill Would Make Agent Developers Criminally Liable for Hacking Failures Forkast News",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZWNfUHRMaWRwVDFKMFlidGdlQTQwbGF5US1YMXl3czktMFdSTUExOTh1MVdaTlVQS2FSc2hyRHNRd0pzTTRwQzZMc2YxR0FqNENQSVRaY1RPVUVydDRvWWx4UmViemxvMmRWQ0JsNG9uWjRqd2g1bU5nZk5EakVoeTBNdFR6S0RRWFZ1TEVENmlLQ2dCTW1iLTg0NmdyOGtVbDRGRTc4MXlHdkE?oc=5",
-  "source": "Forkast News",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-10T11:29:52+00:00",
-  "id": "2b6f23f1eda8eeac",
-  "title_fa": "",
-  "summary_fa": ""
- },
- {
-  "title": "The TechBeat: The Billing Ladder: Five Ways to Price an AI Agent (10/10/2026)",
-  "summary": "The TechBeat: The Billing Ladder: Five Ways to Price an AI Agent (10/10/2026) HackerNoon",
-  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzVzNCMWlWdjJXaVRNbEROMEowbkJfZDhEbzllLW5DM1EwS3VZRzI5RHpWRWJ3NjRETkhrVzRLYWdyOW4yWFlnU1hhWVNnM0JzX3lRWg?oc=5",
-  "source": "HackerNoon",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-10T15:02:05+00:00",
-  "id": "fecaa7606d6ebf36",
-  "title_fa": "",
-  "summary_fa": ""
+  "summary_fa": "",
+  "gnews": false
  },
  {
   "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
@@ -381,30 +87,7 @@
   "time": "2026-10-10T10:06:23+00:00",
   "id": "5a273e2952bb543e",
   "title_fa": "",
-  "summary_fa": ""
- },
- {
-  "title": "Meta’s Muse AI agent puts server CPUs back in the spotlight",
-  "summary": "Meta’s Muse AI agent puts server CPUs back in the spotlight Crypto Briefing",
-  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3WVZrRkhZUHdXOUtabTZGTWdOS3RRRG5McHdfMi1wR0VwaWtzMTdfeGpEcmNzdjR0NF9kcU4zM25wU0h6R3N1b0NFVzRrS1Rsb0JVajNaaTY4NjBEcGxORDlwaVI2SVBxY2Y0SjdOU2NFQQ?oc=5",
-  "source": "Crypto Briefing",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-10T15:35:02+00:00",
-  "id": "f717004d6e81567a",
-  "title_fa": "",
-  "summary_fa": ""
- },
- {
-  "title": "Roku Rolls Out Custom AI System Allowing Developers to Build Streaming Apps Entirely Through AI Prompts",
-  "summary": "Roku Rolls Out Custom AI System Allowing Developers to Build Streaming Apps Entirely Through AI Prompts | Cord Cutters News",
-  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT09CNWtEZzhwLUFwc2o0djRVdHNTNndvNXZRY1ZucDFFTWM1XzIybWpUYUdubjkzVHpSeWNIUjY3UGFsTC1qbmM3aW85cWdHZ3ZtVU1TU0ZicmlEUTcxTFg2M2ZVYzR6c0o2dG9fRVdGOXQ4T2c5aThtYUNIOTJvaTRpeVUzTkllc3JJVjlzNHIxZGRfby1LVEY5Mk5VUmtiakFYWmtHU3lXU2toMlpCaE83WW5LSFZxWHpIa3VNVDI5Z2lvNDZOZXZLVkvSAdQBQVVfeXFMUEdmRnA1cGgyZHIxc3UtRnRsNDZBeW5JVnZJMnBkOHlKTkNCZDROYS0xLVZXRHo5SHU1ZnI2OVVJQzhVOC1Od1dQc2NaTkpWM20yaWJYbWhjR2ZJeUtfR01GUlBNTU0zYUZZenNWa0xxdTROdWZLWEpvNmF0dy1JZG9TZHZoUGF3REdxWGFyY2hqRjluVzZ5LVhjMU90bFVQcGdsNE1vbzdveFNCbGZ6UmdCT1k1VTM1X19NdGp3REtiTWhyd3kwWXEyU0hYbzk5WjNZLVQ?oc=5",
-  "source": "| Cord Cutters News",
-  "official": false,
-  "tools": false,
-  "time": "2026-10-10T14:55:45+00:00",
-  "id": "556998f3ced7fdc2",
-  "title_fa": "",
-  "summary_fa": ""
+  "summary_fa": "",
+  "gnews": true
  }
 ]
