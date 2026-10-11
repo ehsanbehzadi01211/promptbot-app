@@ -20,6 +20,19 @@ copy `pipeline/*` to /home/claude/reels, npm install, pip install playwright num
   voice `media/news_claude_ws_v2.mp3`, verified by transcript). Not published yet: Metricool refused the 10:00 post (account limit).
 - He asked for manual upload from his computer; that session had no linked computer and no browser tools.
 
+## Direct-post fallback (owner's rule, 11 Oct 2026)
+"If Metricool does not publish a post, connect directly and post it yourself at the same time." Whenever a session has a
+browser on the owner's computer with Instagram logged in, publish any Instagram post that Metricool left in ERROR/late
+directly on instagram.com (same media, same caption, AI label, Trial reel if the site offers it, otherwise a normal reel),
+after checking the profile so nothing is posted twice. A scheduled task "Instagram direct-post fallback (@ehbehzad)"
+checks at 10:07, 16:07, 19:07 and 21:07 Tehran. It was created as a cloud-only task (no computer bound), so it can only
+alert until the owner turns on "Require this computer" for it in the Claude desktop app on his laptop.
+
+### Direct-post overrides
+- Reel "Claude حالا مستقیم توی گوگل داکس، شیت و اسلاید کار می‌کنه" (11 Oct 10:00): do NOT use the Metricool media (silent version).
+  Use the voiced file https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/reels11/news_claude_ws_voiced.mp4
+  with cover https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/reels11/news_claude_ws_cover.jpg
+
 ## Standing rules
 - Daily: exactly **one carousel post + one reel**. All reels go out as **TRIAL_REEL** (isAiGenerated true).
 - Stories are welcome too (free-tool / AI-tip stories, `story.py`, `scripts_story.json`).
