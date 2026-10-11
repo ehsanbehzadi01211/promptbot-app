@@ -1,4 +1,4 @@
-Sun Oct 11 04:22:52 UTC 2026
+Sun Oct 11 04:24:56 UTC 2026
 TELEGRAM_BOT_TOKEN secret is not set; nothing to do
 OpenAI: 0 fresh
 Google: 0 fresh
@@ -17,62 +17,6 @@ Google News: 30 fresh
 Google News: 30 fresh
 Google News: 28 fresh
 Google News: 30 fresh
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-translate fail HTTP Error 429: Too Many Requests
-new items: 28
+new items: 0
 no channel or token yet; skipping post
 owner chat unknown; send /start to the bot
