@@ -21,18 +21,27 @@ Setup for a fresh session: see SETUP.md. Commit as "Ehsan Behzadi <ehsanbehzadi0
 - Description footer: "Follow for daily AI tips:\n▶️ YouTube: https://youtube.com/@ehbehzad\n📷 Instagram: https://instagram.com/ehbehzad".
 - youtubeData: type short, privacy public, category EDUCATION, madeForKids false, isAiGeneratedContent true.
 
+## Owner's rule (11 Oct 2026)
+**Build two English Shorts per day, publish one per day.** The daily scheduled task
+"YouTube daily: build 2 English Shorts, publish 1" (05:47 Tehran) renders the next two keys of scripts_en.json,
+stores them in `youtube/shorts/<key>.mp4`, pushes, and updates the matching Metricool draft (English video, title,
+description, tags, `draft:false`). The weekly Thursday task only prepares new specs/voices/draft posts; it never renders.
+One Short per day in key order: entry n (en01 = 1) goes on 11 Oct 2026 + (n-1) days, hour by the rotation below.
+(The old plan had en01 and en02 both on 11 Oct; every entry from en02 on therefore moves one day later when its
+video is attached: en02 -> 12 Oct 21:00, en03 -> 13 Oct 10:00, ... en20 -> 30 Oct 21:00.)
+
 ## State on 11 Oct 2026
-- 20 English Shorts written (en01_think … en20_no) and **all 20 English voices are in media/en*.mp3**.
-- Transcription of all 20 was running in GitHub Actions; check `transcripts/en*.mp3.json`.
-- **No English video rendered yet.** Next: encuts for all keys, render (en01, en02 first), push, then update each
-  Metricool draft (ids/uuids in scripts_en.json) with the English video, title, description, tags and `draft:false`.
-- The 20 YouTube posts in Metricool (11–29 Oct) still hold the old Persian media/text and are `draft:true` so nothing
-  Persian goes out. Never publish them as they are.
-- Metricool account limit: every post from 9 Oct onward failed ("You have reached your Metricool account limit").
-  Owner must fix the plan; until then scheduling may keep failing.
-- Channel banner/avatar designs exist (`yt_brand2.py`, three directions); they can't be uploaded through the API —
+- 20 English Shorts written (en01_think ... en20_no), all 20 voices in media/en*.mp3, all 20 transcripts done,
+  scene cuts for all 20 written into scripts_en.json.
+- Rendered and in `youtube/shorts/`: en01_think (Metricool: 11 Oct 16:00, draft false), en02_claude_ws
+  (Metricool: 12 Oct 21:00, draft false). A render takes ~20 min per video on 2 CPUs.
+- en03 ... en20: their Metricool posts still hold the old Persian media/text and are `draft:true`, on their old
+  dates. Never publish them as they are; the daily task replaces them two per day.
+- Metricool account limit: posts from 9 Oct onward failed earlier ("You have reached your Metricool account limit").
+  If a YouTube post fails for that reason, report it to the owner; do not retry in a loop.
+- Channel banner/avatar designs exist (`yt_brand2.py`, three directions); they can't be uploaded through the API -
   the owner uploads them manually in YouTube Studio.
 
 ## Posting-time test (until 24 Oct 2026), Tehran time, d = days since 11 Oct 2026
 d%3 = 0 → 16:00, 1 → 21:00, 2 → 10:00. A scheduled task on 24 Oct picks the winning hour for later posts.
-Weekly scheduled task (Thursdays) builds next week's English Shorts.
+Weekly scheduled task (Thursdays) prepares specs and voices for the following week; the daily task renders them.
