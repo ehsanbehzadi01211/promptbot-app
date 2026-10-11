@@ -91,7 +91,14 @@
    "category": "EDUCATION",
    "madeForKids": false,
    "isAiGeneratedContent": true
-  }
+  },
+  "cuts": [
+   4.61,
+   10.54,
+   16.37,
+   20.92,
+   27.3
+  ]
  },
  "en02_claude_ws": {
   "tag": "AI NEWS",
@@ -187,7 +194,13 @@
    "category": "EDUCATION",
    "madeForKids": false,
    "isAiGeneratedContent": true
-  }
+  },
+  "cuts": [
+   6.78,
+   19.8,
+   24.26,
+   27.3
+  ]
  },
  "en03_imgprompt": {
   "tag": "AI IMAGES",
@@ -282,7 +295,13 @@
    "category": "EDUCATION",
    "madeForKids": false,
    "isAiGeneratedContent": true
-  }
+  },
+  "cuts": [
+   3.73,
+   19.03,
+   27.65,
+   32.67
+  ]
  },
  "en04_edit": {
   "tag": "AI PHOTO EDIT",
@@ -382,7 +401,13 @@
    "category": "EDUCATION",
    "madeForKids": false,
    "isAiGeneratedContent": true
-  }
+  },
+  "cuts": [
+   4.75,
+   10.89,
+   22.64,
+   27.02
+  ]
  },
  "en05_sketch": {
   "tag": "AI IMAGES",
@@ -481,7 +506,13 @@
    "category": "EDUCATION",
    "madeForKids": false,
    "isAiGeneratedContent": true
-  }
+  },
+  "cuts": [
+   5.55,
+   12.76,
+   19.98,
+   27.01
+  ]
  },
  "en06_video": {
   "tag": "AI VIDEO",
@@ -574,7 +605,13 @@
    "category": "EDUCATION",
    "madeForKids": false,
    "isAiGeneratedContent": true
-  }
+  },
+  "cuts": [
+   3.26,
+   9.0,
+   16.81,
+   20.89
+  ]
  },
  "en07_vprompt": {
   "tag": "AI VIDEO",
@@ -673,7 +710,13 @@
    "category": "EDUCATION",
    "madeForKids": false,
    "isAiGeneratedContent": true
-  }
+  },
+  "cuts": [
+   3.7,
+   16.87,
+   26.48,
+   33.03
+  ]
  },
  "en08_img2vid": {
   "tag": "AI VIDEO",
@@ -764,7 +807,13 @@
    "category": "EDUCATION",
    "madeForKids": false,
    "isAiGeneratedContent": true
-  }
+  },
+  "cuts": [
+   4.99,
+   16.01,
+   23.39,
+   31.23
+  ]
  },
  "en09_teacher": {
   "tag": "USEFUL PROMPT",
@@ -859,7 +908,14 @@
    "category": "EDUCATION",
    "madeForKids": false,
    "isAiGeneratedContent": true
-  }
+  },
+  "cuts": [
+   4.44,
+   14.99,
+   21.24,
+   24.72,
+   30.03
+  ]
  },
  "en10_photo": {
   "tag": "AI TRICKS",
@@ -947,7 +1003,14 @@
    "category": "EDUCATION",
    "madeForKids": false,
    "isAiGeneratedContent": true
-  }
+  },
+  "cuts": [
+   3.65,
+   9.07,
+   16.26,
+   22.33,
+   26.46
+  ]
  },
  "en11_tasks": {
   "tag": "PRODUCTIVITY",
@@ -1048,7 +1111,15 @@
    "category": "EDUCATION",
    "madeForKids": false,
    "isAiGeneratedContent": true
-  }
+  },
+  "cuts": [
+   2.68,
+   9.98,
+   14.85,
+   19.65,
+   24.17,
+   29.81
+  ]
  },
  "en12_interview": {
   "tag": "CAREER HACK",
@@ -1140,7 +1211,14 @@
    "category": "EDUCATION",
    "madeForKids": false,
    "isAiGeneratedContent": true
-  }
+  },
+  "cuts": [
+   5.99,
+   17.51,
+   22.41,
+   26.7,
+   32.36
+  ]
  },
  "en13_language": {
   "tag": "LEARN LANGUAGES",
@@ -1235,7 +1313,14 @@
    "category": "EDUCATION",
    "madeForKids": false,
    "isAiGeneratedContent": true
-  }
+  },
+  "cuts": [
+   4.05,
+   13.43,
+   19.28,
+   23.73,
+   28.02
+  ]
  },
  "en14_phrases": {
   "tag": "AI TRICKS",
@@ -1322,7 +1407,14 @@
    "category": "EDUCATION",
    "madeForKids": false,
    "isAiGeneratedContent": true
-  }
+  },
+  "cuts": [
+   3.32,
+   9.71,
+   14.28,
+   21.16,
+   26.96
+  ]
  },
  "en15_dont": {
   "tag": "WARNING",
@@ -1418,7 +1510,14 @@
    "category": "EDUCATION",
    "madeForKids": false,
    "isAiGeneratedContent": true
-  }
+  },
+  "cuts": [
+   2.98,
+   11.13,
+   18.53,
+   26.73,
+   30.98
+  ]
  },
  "en16_caption": {
   "tag": "CONTENT CREATION",
@@ -1509,7 +1608,14 @@
    "category": "EDUCATION",
    "madeForKids": false,
    "isAiGeneratedContent": true
-  }
+  },
+  "cuts": [
+   4.68,
+   14.19,
+   20.82,
+   25.6,
+   30.18
+  ]
  },
  "en17_decide": {
   "tag": "DECISIONS",
@@ -1591,7 +1697,13 @@
    "category": "EDUCATION",
    "madeForKids": false,
    "isAiGeneratedContent": true
-  }
+  },
+  "cuts": [
+   4.41,
+   13.26,
+   20.05,
+   25.2
+  ]
  },
  "en18_resume": {
   "tag": "CAREER HACK",
@@ -1683,7 +1795,14 @@
    "category": "EDUCATION",
    "madeForKids": false,
    "isAiGeneratedContent": true
-  }
+  },
+  "cuts": [
+   2.85,
+   11.15,
+   18.42,
+   24.81,
+   28.79
+  ]
  },
  "en19_skill": {
   "tag": "LEARNING",
@@ -1780,7 +1899,13 @@
    "category": "EDUCATION",
    "madeForKids": false,
    "isAiGeneratedContent": true
-  }
+  },
+  "cuts": [
+   3.56,
+   12.15,
+   23.4,
+   29.69
+  ]
  },
  "en20_no": {
   "tag": "COMMUNICATION",
@@ -1861,6 +1986,12 @@
    "category": "EDUCATION",
    "madeForKids": false,
    "isAiGeneratedContent": true
-  }
+  },
+  "cuts": [
+   3.88,
+   12.66,
+   19.05,
+   24.6
+  ]
  }
 }
