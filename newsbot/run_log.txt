@@ -1,5 +1,5 @@
-Sun Oct 11 04:24:56 UTC 2026
-TELEGRAM_BOT_TOKEN secret is not set; nothing to do
+Sun Oct 11 04:34:24 UTC 2026
+{}
 OpenAI: 0 fresh
 Google: 0 fresh
 Google DeepMind: 0 fresh
@@ -16,7 +16,7 @@ Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 28 fresh
-Google News: 30 fresh
+Google News: 29 fresh
 new items: 0
 no channel or token yet; skipping post
 owner chat unknown; send /start to the bot
