@@ -34,7 +34,7 @@ uploads done in his own Chrome. Metricool is only a content store now. The sched
    items are waiting.
 
 ## Telegram channel @ehbehzad_ai (GitHub Actions, newsbot/)
-- AI news: every 2 hours, max 3 per run and 16 per day, Persian title + summary + source link.
+- AI news: every 2 hours, max 3 per run and 16 per day, Persian title + summary + source link, ALWAYS with a picture (owner, 11 Oct): the story's own image (feed media or og:image), otherwise a branded card about the story (newsbot/card.py).
 - Announcement in the channel each time an Instagram post or YouTube Short goes live (promo.py, from queue.json).
 - Owner's private chat: 7-day schedule every morning at 08:20 Tehran, plus a note whenever new items are queued.
 
