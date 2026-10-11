@@ -142,7 +142,7 @@ def translate(text):
     """Free endpoints are rate-limited per IP on shared runners, so try three in turn."""
     if not text:
         return ""
-    for name, fn in (("gtx", _gtx), ("clients5", _clients5), ("mymemory", _mymemory)):
+    for name, fn in (("clients5", _clients5), ("gtx", _gtx), ("mymemory", _mymemory)):
         try:
             out = html.unescape(fn(text)).strip()
             if out and re.search(r"[\u0600-\u06FF]", out):

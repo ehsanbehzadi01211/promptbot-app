@@ -58,7 +58,7 @@ committed (repo is public): it has to go in a GitHub secret `TELEGRAM_BOT_TOKEN`
 11 Oct: owner said the public repo is fine, the bot is started and is admin of the channel. Workflow installed as
 `.github/workflows/newsbot.yml` on main (cron) and reels-media (push); it checks out reels-media, writes
 `newsbot/run_log.txt` and commits state. A push whose message contains "[news]" and touches `newsbot/run.txt` runs a
-fetch+post immediately. Still needed from the owner: the repository secret `TELEGRAM_BOT_TOKEN` (cannot be set from
-a Claude session). If the channel is not discovered (Telegram keeps updates only 24 h), set repo variable
+fetch+post immediately. LIVE since 11 Oct 2026: secret set by the owner, channel @ehbehzad_ai, owner chat found, first 3 posts sent.
+Translation: translate.googleapis.com returns 429 on GitHub runners, clients5.google.com works (fallback chain in news.py). If the channel is not discovered (Telegram keeps updates only 24 h), set repo variable
 `TELEGRAM_CHANNEL` or put the id in `newsbot/state/chats.json`.
 News → public channel; daily content schedule → owner's private chat with the bot.
