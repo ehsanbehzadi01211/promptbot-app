@@ -18,7 +18,8 @@ Setup for a fresh session: see SETUP.md. Commit as "Ehsan Behzadi <ehsanbehzadi0
 - Render: `./render_en.sh <key> ...` (detached with setsid nohup; ~9 min per video on 2 CPUs; log logs_en.txt),
   output `out/<key>.mp4`. Check stills first: `FRAMES=1,6,12 python3 build7.py <key> <mp3> scripts_en.json`.
 - Push the mp4 to the repo and give Metricool the raw.githubusercontent URL pinned to the commit SHA.
-- Description footer: "Follow for daily AI tips:\n▶️ YouTube: https://youtube.com/@ehbehzad\n📷 Instagram: https://instagram.com/ehbehzad".
+- Description footer: "Follow for daily AI tips:\n▶️ YouTube: https://youtube.com/@ehbehzad\n📷 Instagram: https://instagram.com/ehbehzad\n✈️ Telegram: https://t.me/ehbehzad".
+  All three IDs (YouTube, Instagram, Telegram) must be in every YouTube description (owner, 11 Oct 2026).
 - youtubeData: type short, privacy public, category EDUCATION, madeForKids false, isAiGeneratedContent true.
 
 ## Owner's rule (11 Oct 2026)

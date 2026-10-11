@@ -1,7 +1,7 @@
 """English YouTube Shorts specs -> scripts_en.json (rendered with build7, lang=en)."""
 import json
 
-FOOT = ("\n\nFollow for daily AI tips:\n▶️ YouTube: https://youtube.com/@ehbehzad\n📷 Instagram: https://instagram.com/ehbehzad")
+FOOT = ("\n\nFollow for daily AI tips:\n▶️ YouTube: https://youtube.com/@ehbehzad\n📷 Instagram: https://instagram.com/ehbehzad\n✈️ Telegram: https://t.me/ehbehzad")
 
 def S(t, bg, voice, **k):
     d = {"type": t, "bg": bg, "voice": voice}; d.update(k); return d
