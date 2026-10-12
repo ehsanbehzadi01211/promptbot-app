@@ -1,2 +1,23 @@
-Mon Oct 12 12:31:34 UTC 2026
+Mon Oct 12 15:13:01 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 0 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 1 fresh
+Hugging Face: 0 fresh
+The Verge: 3 fresh
+TechCrunch: 6 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 0 fresh
+Product Hunt: 6 fresh
+Anthropic: 11 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 1
+translated via clients5
+translated via clients5
+sent photo OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Ver
