@@ -22,5 +22,41 @@
   "time": "2026-10-12T15:00:25+00:00",
   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310.jpg",
   "id": "9c679f3096ea2503"
+ },
+ {
+  "title": "Meta launches Muse Wonder, catching OpenAI, Anthropic: How to try it, benchmark results",
+  "summary": "Meta launches Muse Wonder, catching OpenAI, Anthropic: How to try it, benchmark results Mashable",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jQWhkclNlSmV2TEZzY19JYW8wQ3pkZVhFNzFLaElxdHh2bFprTGwyYWxIVmtMd2tEMEw3bjVaMFJfQU9xU0lVQ2Q1S2owb185YXFpdElfZzVxTnJ6b1FMSWdZaFJSTFFWb1dTRzBqbjJjcngyb0E?oc=5",
+  "source": "Mashable",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-12T21:03:44+00:00",
+  "image": "",
+  "id": "fcb60e8e35b9c63b"
+ },
+ {
+  "title": "Meta unveils new frontier-class AI models to compete with OpenAI, Anthropic",
+  "summary": "Meta unveils new frontier-class AI models to compete with OpenAI, Anthropic Axios",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50WlVKQWVQZDJBOUh3M29URVE3aERKWG9CUVNtQjk1eDdKTmN2Sl8wamZQeDRPNEltbU1EelhDWWt5VEtyVFVVUkRJQTJNbWFwcnp1UkVTaU90Vkw4R0pKT0gwN1A1cHZ4Tzg0YkJpVlVZNUJGbnRR?oc=5",
+  "source": "Axios",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-12T17:19:14+00:00",
+  "image": "",
+  "id": "c81e413e239b3c54"
+ },
+ {
+  "title": "Meta releases Muse Wonder AI models to challenge Anthropic and OpenAI",
+  "summary": "Meta releases Muse Wonder AI models to challenge Anthropic and OpenAI Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWVqemVLdThXMGhqbFNrdkZ1NDUtWjNkdEVfenp5RUp6RXNwNjhlV0JRS3BJcEl0eHl3ZVZBY09HSl80RVV2RHhueXZzTUZQUUlpWnlDVFFTNkZGa1BqQlBxQUl3WlNudDlwNVNFYjVJNFZ1ajRNUUMxODlrWmhTV3Nha3dGQnhSUzNtamNicDR3ekVHRmpRRnZEbDJhV1pHb1Y2TUdac0VtTUE?oc=5",
+  "source": "Reuters",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-12T18:32:15+00:00",
+  "image": "",
+  "id": "10676635b2f06fea"
  }
 ]
