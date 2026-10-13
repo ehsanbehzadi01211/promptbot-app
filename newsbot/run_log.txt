@@ -1,15 +1,15 @@
-Tue Oct 13 15:53:40 UTC 2026
+Tue Oct 13 21:11:22 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 0 fresh
-Google: 0 fresh
-Google DeepMind: 0 fresh
+OpenAI: 1 fresh
+Google: 1 fresh
+Google DeepMind: 3 fresh
 NVIDIA: 3 fresh
-Hugging Face: 0 fresh
-The Verge: 6 fresh
-TechCrunch: 12 fresh
+Hugging Face: 1 fresh
+The Verge: 10 fresh
+TechCrunch: 19 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 2 fresh
-Product Hunt: 6 fresh
+Product Hunt: 5 fresh
 Anthropic: 11 links
 Google News: 30 fresh
 Google News: 30 fresh
@@ -17,13 +17,13 @@ Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-new items: 6
+new items: 8
 translated via clients5
 translated via clients5
-sent photo All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX
+sent card Meta and OpenAI Use Cutesy Agents to Lure Early Adopters
 translated via clients5
 translated via clients5
-sent photo Amex introduces a framework to prevent AI agents from making
+sent card Anthropic warns rogue AI agents may ‘self-replicate’ to hija
 translated via clients5
 translated via clients5
-sent card How To Use A ChatGPT Dot When It Rolls Out To You
+sent card Alibaba Unveils $450 AI Glasses in Expanding Push Into Gadge
