@@ -1,12 +1,12 @@
-Mon Oct 12 22:54:15 UTC 2026
+Tue Oct 13 06:41:27 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 OpenAI: 0 fresh
 Google: 0 fresh
 Google DeepMind: 0 fresh
-NVIDIA: 1 fresh
+NVIDIA: 2 fresh
 Hugging Face: 0 fresh
-The Verge: 4 fresh
-TechCrunch: 11 fresh
+The Verge: 2 fresh
+TechCrunch: 9 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 0 fresh
 Product Hunt: 5 fresh
@@ -17,13 +17,18 @@ Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-new items: 3
-translated via clients5
-translated via clients5
-sent card Meta launches Muse Wonder, catching OpenAI, Anthropic: How t
-translated via clients5
-translated via clients5
-sent card Meta unveils new frontier-class AI models to compete with Op
-translated via clients5
-translated via clients5
-sent card Meta releases Muse Wonder AI models to challenge Anthropic a
+new items: 2
+translate fail clients5 HTTP Error 429: Too Many Requests
+translate fail gtx HTTP Error 429: Too Many Requests
+translated via mymemory
+translate fail clients5 HTTP Error 429: Too Many Requests
+translate fail gtx HTTP Error 429: Too Many Requests
+translated via mymemory
+sent photo From Earth to Orbit, France’s Ecosystem Delivers Agentic Com
+translate fail clients5 HTTP Error 429: Too Many Requests
+translate fail gtx HTTP Error 429: Too Many Requests
+translated via mymemory
+translate fail clients5 HTTP Error 429: Too Many Requests
+translate fail gtx HTTP Error 429: Too Many Requests
+translated via mymemory
+sent card Meta Launches Muse Wonder AI Models to Play Catch-Up With Ri
