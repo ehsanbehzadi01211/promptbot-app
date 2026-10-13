@@ -1,1 +1,38 @@
-[]
+[
+ {
+  "title": "Meta and OpenAI Use Cutesy Agents to Lure Early Adopters",
+  "summary": "Meta and OpenAI Use Cutesy Agents to Lure Early Adopters Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWVdKQUNGVURBRDh1dENlWGFDdmtzenZaT0V5TmkxbVlZa0ROSWRXQmR2ZklxY3U0QXgzemFQNWVyeW9ic1pMVlBtNzMzVGxqQlVBNldidmNlYWtxR1hGS21YcEZMX3o2VUFOcjMyWUV3NkZwR2pLMGRsLXBGSUFUT2E2cHZnUWhMUktiekNlYm56OEh5QTBteWtNckE4SEVybUpUZFNfNzJRdw?oc=5",
+  "source": "Bloomberg.com",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-13T11:00:12+00:00",
+  "image": "",
+  "id": "fa0ccb0e68ddb613"
+ },
+ {
+  "title": "Anthropic warns rogue AI agents may ‘self-replicate’ to hijack ovens",
+  "summary": "Anthropic warns rogue AI agents may ‘self-replicate’ to hijack ovens Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVdrSG5aLUJNY3BCQ3F1SV9TQXMwV04wM3V1ZnNnYTFHQVRZTFJHMHduMllELUVFWHNZV0t5UnlrWm9hVEJSdVA0X3phRjNfVWp0UHJ6eGVjb1N3aUJERG45LUVYaVNrTk0wVzI5VHo0eHhNdEU0dmdkbk9HTEhwMExxeWQ?oc=5",
+  "source": "Financial Times",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-13T10:11:23+00:00",
+  "image": "",
+  "id": "c5c5d9a0670355d1"
+ },
+ {
+  "title": "Alibaba Unveils $450 AI Glasses in Expanding Push Into Gadgets",
+  "summary": "Alibaba Unveils $450 AI Glasses in Expanding Push Into Gadgets Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVZhSm5JQThubW9NSHBObE1BMFBHWndCTmdXczBOVkFjTHZPU3Rkc1ZhQV9HMHEtb1ZxMkR6ZFBLNnVxQ3YwZDQza2NXNkpfckV3cWdwZ0k2bEdGVXpXbTNVZjhwd0d1ai1yb192UU10NGFEdGxROEpQQ2RYQUVzWnZSVEl5WXFwOU9ibFBhN2RmdWdNVzNfYnNsSlF5WTBvWVVlNDh6eEVWNFk3bE1TMUNR?oc=5",
+  "source": "Bloomberg.com",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-13T09:00:46+00:00",
+  "image": "",
+  "id": "7f4b365e94085a5c"
+ }
+]

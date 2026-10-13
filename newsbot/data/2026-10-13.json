@@ -22,5 +22,77 @@
   "time": "2026-10-12T22:55:13+00:00",
   "image": "",
   "id": "e7b29b3b9a97d44f"
+ },
+ {
+  "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+  "summary": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip. With up to 128GB of unified memory and 1 petaflop of AI compute, RTX Spark delivers the full stack of NVIDIA RTX and […]",
+  "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-13T12:00:49+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1.jpg",
+  "id": "1001bd5509532d83"
+ },
+ {
+  "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+  "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+  "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-13T13:00:00+00:00",
+  "image": "",
+  "id": "aba4e20057c7a474"
+ },
+ {
+  "title": "How To Use A ChatGPT Dot When It Rolls Out To You",
+  "summary": "How To Use A ChatGPT Dot When It Rolls Out To You Engadget",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TOGN5MkR1MTJZbzlqZEFXYmdTMm9nV3pJUzE4SmR5S0sxdzhIcU81Nmd5eHA4YmtVWlZaWElWZkpubHRqSDJXZVJmb0FDRlRzNTJJV29hcU0xd1o0NFkxRnRLRGFpck5oUXdVYnBsRTlXY1JkdklTSEQzaw?oc=5",
+  "source": "Engadget",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-13T13:45:00+00:00",
+  "image": "",
+  "id": "d42726daadc69601"
+ },
+ {
+  "title": "Meta and OpenAI Use Cutesy Agents to Lure Early Adopters",
+  "summary": "Meta and OpenAI Use Cutesy Agents to Lure Early Adopters Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWVdKQUNGVURBRDh1dENlWGFDdmtzenZaT0V5TmkxbVlZa0ROSWRXQmR2ZklxY3U0QXgzemFQNWVyeW9ic1pMVlBtNzMzVGxqQlVBNldidmNlYWtxR1hGS21YcEZMX3o2VUFOcjMyWUV3NkZwR2pLMGRsLXBGSUFUT2E2cHZnUWhMUktiekNlYm56OEh5QTBteWtNckE4SEVybUpUZFNfNzJRdw?oc=5",
+  "source": "Bloomberg.com",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-13T11:00:12+00:00",
+  "image": "",
+  "id": "fa0ccb0e68ddb613"
+ },
+ {
+  "title": "Anthropic warns rogue AI agents may ‘self-replicate’ to hijack ovens",
+  "summary": "Anthropic warns rogue AI agents may ‘self-replicate’ to hijack ovens Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVdrSG5aLUJNY3BCQ3F1SV9TQXMwV04wM3V1ZnNnYTFHQVRZTFJHMHduMllELUVFWHNZV0t5UnlrWm9hVEJSdVA0X3phRjNfVWp0UHJ6eGVjb1N3aUJERG45LUVYaVNrTk0wVzI5VHo0eHhNdEU0dmdkbk9HTEhwMExxeWQ?oc=5",
+  "source": "Financial Times",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-13T10:11:23+00:00",
+  "image": "",
+  "id": "c5c5d9a0670355d1"
+ },
+ {
+  "title": "Alibaba Unveils $450 AI Glasses in Expanding Push Into Gadgets",
+  "summary": "Alibaba Unveils $450 AI Glasses in Expanding Push Into Gadgets Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVZhSm5JQThubW9NSHBObE1BMFBHWndCTmdXczBOVkFjTHZPU3Rkc1ZhQV9HMHEtb1ZxMkR6ZFBLNnVxQ3YwZDQza2NXNkpfckV3cWdwZ0k2bEdGVXpXbTNVZjhwd0d1ai1yb192UU10NGFEdGxROEpQQ2RYQUVzWnZSVEl5WXFwOU9ibFBhN2RmdWdNVzNfYnNsSlF5WTBvWVVlNDh6eEVWNFk3bE1TMUNR?oc=5",
+  "source": "Bloomberg.com",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-13T09:00:46+00:00",
+  "image": "",
+  "id": "7f4b365e94085a5c"
  }
 ]
