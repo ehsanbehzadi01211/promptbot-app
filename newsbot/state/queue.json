@@ -1,41 +1,5 @@
 [
  {
-  "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-  "summary": "",
-  "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-13T17:05:48+00:00",
-  "image": "",
-  "id": "550c4c02e9ff21a9"
- },
- {
-  "title": "Higgsfield takes AI video from 1 minute to over 10",
-  "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-  "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-13T12:00:00+00:00",
-  "image": "",
-  "id": "ffc748cb8d88a919"
- },
- {
-  "title": "Gemini 4 Argon: Built to solve your hardest problems",
-  "summary": "TBD",
-  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-  "source": "Google",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-13T16:00:00+00:00",
-  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp",
-  "id": "c1e94fc831365c13"
- },
- {
   "title": "Developing Gemini 4 Argon responsibly and safely",
   "summary": "",
   "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
@@ -94,5 +58,17 @@
   "time": "2026-10-13T17:05:00+00:00",
   "image": "",
   "id": "a92f85900b18f0c9"
+ },
+ {
+  "title": "Shopify opens its catalog up to more AI agents",
+  "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify's catalog. (The catalog consists […]",
+  "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+  "source": "The Verge",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-13T19:42:42+00:00",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "id": "c839b9474faef6c7"
  }
 ]

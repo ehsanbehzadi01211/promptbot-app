@@ -1,12 +1,12 @@
-Tue Oct 13 21:11:22 UTC 2026
+Wed Oct 14 01:09:30 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 OpenAI: 1 fresh
 Google: 1 fresh
-Google DeepMind: 3 fresh
+Google DeepMind: 0 fresh
 NVIDIA: 3 fresh
 Hugging Face: 1 fresh
 The Verge: 10 fresh
-TechCrunch: 19 fresh
+TechCrunch: 20 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 2 fresh
 Product Hunt: 5 fresh
@@ -17,13 +17,14 @@ Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-new items: 8
+new items: 1
+translated via clients5
+sent photo Run fast, private agents on-device with LFM2.5-24B-A2B
 translated via clients5
 translated via clients5
-sent card Meta and OpenAI Use Cutesy Agents to Lure Early Adopters
+sent card Higgsfield takes AI video from 1 minute to over 10
 translated via clients5
-translated via clients5
-sent card Anthropic warns rogue AI agents may ‘self-replicate’ to hija
-translated via clients5
-translated via clients5
-sent card Alibaba Unveils $450 AI Glasses in Expanding Push Into Gadge
+translate empty clients5
+translate empty gtx
+translate empty mymemory
+sent photo Gemini 4 Argon: Built to solve your hardest problems
