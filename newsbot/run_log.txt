@@ -1,12 +1,12 @@
-Wed Oct 14 13:38:27 UTC 2026
+Wed Oct 14 18:31:59 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 2 fresh
+OpenAI: 5 fresh
 Google: 1 fresh
 Google DeepMind: 0 fresh
-NVIDIA: 4 fresh
-Hugging Face: 1 fresh
+NVIDIA: 3 fresh
+Hugging Face: 2 fresh
 The Verge: 10 fresh
-TechCrunch: 17 fresh
+TechCrunch: 20 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 2 fresh
 Product Hunt: 11 fresh
@@ -17,13 +17,14 @@ Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-new items: 2
+new items: 8
 translated via clients5
 translated via clients5
-sent photo Google finally releases Gemini 4 Argon
+sent photo European Cities Deploy NVIDIA-Powered AI Agents to Run Smart
 translated via clients5
 translated via clients5
-sent card OpenAI's AI agent platform is used by twice as many companie
+card fail The read operation timed out
+sent text Google DeepMind and Singapore Government collaborate to buil
 translated via clients5
 translated via clients5
-sent photo Shopify opens its catalog up to more AI agents
+sent photo From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambi
