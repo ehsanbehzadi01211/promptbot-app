@@ -1,15 +1,15 @@
-Wed Oct 14 01:09:30 UTC 2026
+Wed Oct 14 07:30:08 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 OpenAI: 1 fresh
 Google: 1 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 3 fresh
+Google DeepMind: 4 fresh
+NVIDIA: 4 fresh
 Hugging Face: 1 fresh
 The Verge: 10 fresh
-TechCrunch: 20 fresh
+TechCrunch: 16 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 2 fresh
-Product Hunt: 5 fresh
+Product Hunt: 12 fresh
 Anthropic: 11 links
 Google News: 30 fresh
 Google News: 30 fresh
@@ -17,14 +17,13 @@ Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-new items: 1
+new items: 4
 translated via clients5
-sent photo Run fast, private agents on-device with LFM2.5-24B-A2B
-translated via clients5
-translated via clients5
-sent card Higgsfield takes AI video from 1 minute to over 10
-translated via clients5
+sent photo Developing Gemini 4 Argon responsibly and safely
 translate empty clients5
 translate empty gtx
-translate empty mymemory
-sent photo Gemini 4 Argon: Built to solve your hardest problems
+translated via mymemory
+sent photo Gemini 4 Argon for Robotics
+translated via clients5
+translated via clients5
+sent card Google launches flagship AI model Gemini 4 Argon for develop
