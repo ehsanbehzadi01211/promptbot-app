@@ -1,2 +1,29 @@
-Wed Oct 14 09:45:15 UTC 2026
+Wed Oct 14 13:38:27 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 2 fresh
+Google: 1 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 4 fresh
+Hugging Face: 1 fresh
+The Verge: 10 fresh
+TechCrunch: 17 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 2 fresh
+Product Hunt: 11 fresh
+Anthropic: 11 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 2
+translated via clients5
+translated via clients5
+sent photo Google finally releases Gemini 4 Argon
+translated via clients5
+translated via clients5
+sent card OpenAI's AI agent platform is used by twice as many companie
+translated via clients5
+translated via clients5
+sent photo Shopify opens its catalog up to more AI agents

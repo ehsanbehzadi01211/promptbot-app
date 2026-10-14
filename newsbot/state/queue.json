@@ -1,41 +1,5 @@
 [
  {
-  "title": "Google finally releases Gemini 4 Argon",
-  "summary": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across complex workflows,\" while cutting down on hedging, repetition, and the cliches that […]",
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-  "source": "The Verge",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-13T16:00:00+00:00",
-  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-  "id": "24ef7cf40bd2766a"
- },
- {
-  "title": "OpenAI's AI agent platform is used by twice as many companies as Anthropic's, new VentureBeat survey finds",
-  "summary": "OpenAI's AI agent platform is used by twice as many companies as Anthropic's, new VentureBeat survey finds VentureBeat",
-  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZlYwdVI2WWI5aFhaN3NoS2llUko2VmIyckttSE1pWW44S0ZDSGlybC1MTFdfUFYyS0VFRXg4SjliU2N6RTBWYVhNSk9MU2dCU3FPRlMtdElyT19fUTlNNjNFRkVYNGlBVENLX0VjREJYNjFSMDF6dHYtVHlkSVZzMC1MeWdIUDBXLUJuSkh5bW80VU9xVy1uQjBVc1J3cjZUMzY2WnNXVzRMTUlYVW5VUUVKSVByOFc0eENsNDJPbE1tUkw2dnZJX09Pdm5sR2dyYTdhQms1OEw?oc=5",
-  "source": "VentureBeat",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-13T17:05:00+00:00",
-  "image": "",
-  "id": "a92f85900b18f0c9"
- },
- {
-  "title": "Shopify opens its catalog up to more AI agents",
-  "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify's catalog. (The catalog consists […]",
-  "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-  "source": "The Verge",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-13T19:42:42+00:00",
-  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0,0,100,100",
-  "id": "c839b9474faef6c7"
- },
- {
   "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
   "summary": "Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, infrastructure and integration partners are using NVIDIA accelerated computing to build physical AI agents and digital twins that help teams make […]",
   "url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/",
@@ -82,5 +46,28 @@
   "time": "2026-10-14T01:16:49+00:00",
   "image": "",
   "id": "13884f19f7a6c086"
+ },
+ {
+  "title": "The EU’s next chapter in AI is agentic",
+  "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+  "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-14T00:00:00+00:00",
+  "image": "",
+  "id": "2f3282e483141f68"
+ },
+ {
+  "title": "Oct 14, 2026 Announcements Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/singapore-office-opening",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-10-14T13:38:27.660492+00:00",
+  "page": true,
+  "id": "87253efedaff810e"
  }
 ]
