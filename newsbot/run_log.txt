@@ -1,2 +1,29 @@
-Thu Oct 15 09:27:52 UTC 2026
+Thu Oct 15 11:19:51 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 5 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 4 fresh
+Hugging Face: 1 fresh
+The Verge: 10 fresh
+TechCrunch: 12 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 0 fresh
+Product Hunt: 11 fresh
+Anthropic: 11 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 5
+translated via clients5
+translated via clients5
+sent card Amp puts AI agents to work beyond code with OpenAI models
+translated via clients5
+translated via clients5
+sent card How Third Moment Research runs 10,000 agents for 36+ hours
+translated via clients5
+translated via clients5
+sent card SentinelOne cuts malware analysis from weeks to hours

@@ -21,5 +21,65 @@
   "time": "2026-10-15T04:27:04.963771+00:00",
   "page": true,
   "id": "c9ddbc2bb8934c94"
+ },
+ {
+  "title": "NVIDIA Expands Advanced Technology Access for Europe’s Scientific Community Through Open Learning Resources, Collaborations and Compute",
+  "summary": "Much of today’s scientific progress begins with computation. But turning accelerated computing’s potential into scientific progress — modeling climate systems, designing molecules, simulating materials and more — depends on more than breakthrough technology. Especially for smaller labs, early-career scientists or science-based startups, the hardest part of research can be everything that comes…",
+  "url": "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-15T10:00:12+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/ai-in-science-enablers-1920x1080-1.jpg",
+  "id": "0aa71d1f1cfd68e3"
+ },
+ {
+  "title": "The Nordics and NVIDIA Show What’s Possible When a Region Commits to Advanced Computing",
+  "summary": "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita on the continent. Now, a new chapter for the region is unfolding as countries race to build one of Europe’s most consequential technology ecosystems. The many computing advancements already underway […]",
+  "url": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-15T05:00:12+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nordics-embrace-social-1920x1080-5822300.jpeg",
+  "id": "68f85c5a70ff6f05"
+ },
+ {
+  "title": "OpenAI accuses employee who left for Apple of leaking plans for unreleased device",
+  "summary": "OpenAI accuses employee who left for Apple of leaking plans for unreleased device The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOGQ0VDlmQzZ0VFNnVGNRWTkxTU9zTmRCdTY5alAtTFVYVG01dXc0aXNmc2JTSjdydFhyZVBfRm94RVhwZklkZHVDc1VJOTUtSTNiNmJCajVBeTAteDk4ZHlGY1Nia1NMRFUySVBQSldLaVQ0YUJzdDk2TkdCZW5VSDJLekJiMUxCOFBFR3Fn?oc=5",
+  "source": "The Guardian",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-14T20:31:00+00:00",
+  "image": "",
+  "id": "b7c7095a6dedf596"
+ },
+ {
+  "title": "At Singapore launch, Anthropic defends its oversight of how customers use its model, citing AI’s ‘dual use’ risks",
+  "summary": "At Singapore launch, Anthropic defends its oversight of how customers use its model, citing AI’s ‘dual use’ risks Fortune",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcElzNnRMYTVOVU9kdE44U0ZaQnhvREpBdHJxY1lQNFVtYnlGblZseFFOQkdGV0ZqWUNoeVpKMWdDLTB3NThlUmZRU2dDZkVIcGpuU2NVd0RKZVNTVmlLbGVCV3IxWUNaRmZFc1hyZld0N0pteG1fTGU2Vld3WFNBZjZSdmx0ZU1S?oc=5",
+  "source": "Fortune",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-15T10:04:00+00:00",
+  "image": "",
+  "id": "9663316a0ee3c327"
+ },
+ {
+  "title": "Elon Musk says SpaceX will pay back anyone whose Grok AI agent makes a rogue purchase",
+  "summary": "Elon Musk says SpaceX will pay back anyone whose Grok AI agent makes a rogue purchase Business Insider",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVEJyRjZMbEgtQi10WEEwazlZclhkaVFWMkVCaFdCYjlhZDg1Tm5pdllJeUxzS0swQ294WlFRWVhWRGdnbnV2S3BSSEV1T0dxajVPNFFBMUFhMHJXQ01rcC1YeXpCdVotMzA5UXpEb3Jjd1hWSkJLaUZLd1lNZ19wdW9uSXJhNXNzeEsydFV6YTk1R3VyeHFxbnRxRm9IWjFH?oc=5",
+  "source": "Business Insider",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-15T10:33:00+00:00",
+  "image": "",
+  "id": "a159a54b2525d0f0"
  }
 ]
