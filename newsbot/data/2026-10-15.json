@@ -81,5 +81,101 @@
   "time": "2026-10-15T10:33:00+00:00",
   "image": "",
   "id": "a159a54b2525d0f0"
+ },
+ {
+  "title": "Apertus 1.5 Release Notes",
+  "summary": "",
+  "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-15T09:08:45+00:00",
+  "image": "",
+  "id": "e3c36d4422c6129b"
+ },
+ {
+  "title": "Teaching students to think and learn through questions",
+  "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+  "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-15T13:00:00+00:00",
+  "image": "",
+  "id": "fa14b8f7db4605df"
+ },
+ {
+  "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+  "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+  "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+  "source": "Google DeepMind",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-15T16:08:03+00:00",
+  "image": "",
+  "id": "996b33c09ad57427"
+ },
+ {
+  "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+  "summary": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized […]",
+  "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-15T15:00:24+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/FIRST-agentic-ai-nemotron-3.5-super-vl-blog-1920x1080-5783765.jpeg",
+  "id": "902189e10f1e2e57"
+ },
+ {
+  "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
+  "summary": "Dial in the next gaming session this GFN Thursday. New NVIDIA DLSS 4.5 controls give GeForce NOW members more choice over how supported games look and perform in the cloud, even without the latest hardware. Then, step into the Shroud as Keen Games’ Enshrouded leaves early access with its 1.0 release, or let the bolts […]",
+  "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-15T13:00:59+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/GFN_Thursday_October_15_2026.jpg",
+  "id": "a9f3afff6b1910bf"
+ },
+ {
+  "title": "Welcome FLUX.3 Image Klein in Diffusers",
+  "summary": "",
+  "url": "https://huggingface.co/blog/flux-3",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-15T00:00:00+00:00",
+  "image": "",
+  "id": "3733c75a28bf26df"
+ },
+ {
+  "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+  "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
+  "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-15T12:00:00+00:00",
+  "image": "",
+  "id": "a3fa54bbd59382e2"
+ },
+ {
+  "title": "Friends don’t let friends feed their data to AI agents",
+  "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also […]",
+  "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+  "source": "The Verge",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-15T16:21:45+00:00",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268808_None_of_Your_Friends_Consented_To_an_AI_Agent_CVirginia2.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "id": "1b6257d35772528f"
  }
 ]

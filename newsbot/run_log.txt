@@ -1,15 +1,15 @@
-Thu Oct 15 11:19:51 UTC 2026
+Thu Oct 15 16:52:10 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 OpenAI: 5 fresh
 Google: 0 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 4 fresh
-Hugging Face: 1 fresh
+Google DeepMind: 1 fresh
+NVIDIA: 6 fresh
+Hugging Face: 3 fresh
 The Verge: 10 fresh
-TechCrunch: 12 fresh
+TechCrunch: 16 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 0 fresh
-Product Hunt: 11 fresh
+Product Hunt: 12 fresh
 Anthropic: 11 links
 Google News: 30 fresh
 Google News: 30 fresh
@@ -17,13 +17,12 @@ Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-new items: 5
+new items: 8
+translated via clients5
+sent photo HiRO-ACEv2: Simulating extreme weather at 3 km resolution fo
 translated via clients5
 translated via clients5
-sent card Amp puts AI agents to work beyond code with OpenAI models
+sent photo YouTube Music launches new labels as AI-generated music floo
 translated via clients5
 translated via clients5
-sent card How Third Moment Research runs 10,000 agents for 36+ hours
-translated via clients5
-translated via clients5
-sent card SentinelOne cuts malware analysis from weeks to hours
+sent photo Apate sends AI agents undercover to get scammed so they can 
