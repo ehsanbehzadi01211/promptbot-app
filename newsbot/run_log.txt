@@ -1,15 +1,15 @@
-Thu Oct 15 16:52:10 UTC 2026
+Thu Oct 15 21:17:50 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 5 fresh
+OpenAI: 3 fresh
 Google: 0 fresh
 Google DeepMind: 1 fresh
-NVIDIA: 6 fresh
-Hugging Face: 3 fresh
+NVIDIA: 5 fresh
+Hugging Face: 5 fresh
 The Verge: 10 fresh
-TechCrunch: 16 fresh
+TechCrunch: 20 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 0 fresh
-Product Hunt: 12 fresh
+Product Hunt: 10 fresh
 Anthropic: 11 links
 Google News: 30 fresh
 Google News: 30 fresh
@@ -17,12 +17,12 @@ Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-new items: 8
-translated via clients5
-sent photo HiRO-ACEv2: Simulating extreme weather at 3 km resolution fo
+new items: 5
 translated via clients5
 translated via clients5
-sent photo YouTube Music launches new labels as AI-generated music floo
+sent photo Floqer’s AI agents research sales prospects so teams don’t h
 translated via clients5
 translated via clients5
-sent photo Apate sends AI agents undercover to get scammed so they can 
+sent card OpenAI employee who left for Apple took files about unreleas
+translated via clients5
+sent photo Oct 14, 2026 Policy Preparing for the 2026 US midterms
