@@ -1,40 +1,5 @@
 [
  {
-  "title": "OpenAI shakes up mathematics again, debuting dozens of new math solutions",
-  "summary": "OpenAI shakes up mathematics again, debuting dozens of new math solutions Mashable",
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Salkyd3E4aTFoQXY5djZhRUQ0Yi1Md3FKMnlFZEphdE5fNVBaY0hfc3Q2YjhaTUlBLURUcVpmSGprY0NzeDc4cGw2ODdhNkZBcWJmLTdiWWNlYnk5Y2M3bkFQRUpPUGRLYVdCUVZXLWhIMl9E?oc=5",
-  "source": "Mashable",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-14T01:16:49+00:00",
-  "image": "",
-  "id": "13884f19f7a6c086"
- },
- {
-  "title": "The EU’s next chapter in AI is agentic",
-  "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-  "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-14T00:00:00+00:00",
-  "image": "",
-  "id": "2f3282e483141f68"
- },
- {
-  "title": "Oct 14, 2026 Announcements Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-  "summary": "",
-  "url": "https://www.anthropic.com/news/singapore-office-opening",
-  "source": "Anthropic",
-  "official": true,
-  "tools": false,
-  "time": "2026-10-14T13:38:27.660492+00:00",
-  "page": true,
-  "id": "87253efedaff810e"
- },
- {
   "title": "Amp puts AI agents to work beyond code with OpenAI models",
   "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
   "url": "https://openai.com/index/amp-beyond-coding",
@@ -129,5 +94,28 @@
   "time": "2026-10-14T17:12:05+00:00",
   "image": "",
   "id": "70ccddca9387ea3b"
+ },
+ {
+  "title": "How Block is building AI-powered security with OpenAI technology",
+  "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+  "url": "https://openai.com/index/block-ai-powered-security",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-14T07:00:00+00:00",
+  "image": "",
+  "id": "7d10f0ddfecf202c"
+ },
+ {
+  "title": "Oct 14, 2026 Policy Preparing for the 2026 US midterms",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/2026-us-midterms",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-10-15T04:27:04.963771+00:00",
+  "page": true,
+  "id": "c9ddbc2bb8934c94"
  }
 ]

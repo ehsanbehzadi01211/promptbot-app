@@ -1,0 +1,25 @@
+[
+ {
+  "title": "How Block is building AI-powered security with OpenAI technology",
+  "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+  "url": "https://openai.com/index/block-ai-powered-security",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-14T07:00:00+00:00",
+  "image": "",
+  "id": "7d10f0ddfecf202c"
+ },
+ {
+  "title": "Oct 14, 2026 Policy Preparing for the 2026 US midterms",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/2026-us-midterms",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-10-15T04:27:04.963771+00:00",
+  "page": true,
+  "id": "c9ddbc2bb8934c94"
+ }
+]

@@ -1,15 +1,15 @@
-Wed Oct 14 18:31:59 UTC 2026
+Thu Oct 15 04:27:04 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 OpenAI: 5 fresh
-Google: 1 fresh
+Google: 0 fresh
 Google DeepMind: 0 fresh
-NVIDIA: 3 fresh
+NVIDIA: 2 fresh
 Hugging Face: 2 fresh
 The Verge: 10 fresh
 TechCrunch: 20 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 2 fresh
-Product Hunt: 11 fresh
+MIT Technology Review: 0 fresh
+Product Hunt: 6 fresh
 Anthropic: 11 links
 Google News: 30 fresh
 Google News: 30 fresh
@@ -17,14 +17,12 @@ Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-new items: 8
+new items: 2
 translated via clients5
 translated via clients5
-sent photo European Cities Deploy NVIDIA-Powered AI Agents to Run Smart
+sent card OpenAI shakes up mathematics again, debuting dozens of new m
 translated via clients5
 translated via clients5
-card fail The read operation timed out
-sent text Google DeepMind and Singapore Government collaborate to buil
+sent card The EU’s next chapter in AI is agentic
 translated via clients5
-translated via clients5
-sent photo From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambi
+sent photo Oct 14, 2026 Announcements Anthropic opens Singapore office 
