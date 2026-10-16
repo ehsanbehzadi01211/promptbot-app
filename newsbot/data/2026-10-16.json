@@ -10,5 +10,53 @@
   "time": "2026-10-15T19:00:00+00:00",
   "image": "",
   "id": "a72d1e4da6b0e106"
+ },
+ {
+  "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+  "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+  "url": "https://openai.com/index/sullivan-cromwell",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-15T00:00:00+00:00",
+  "image": "",
+  "id": "dd00c04c9b95848e"
+ },
+ {
+  "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+  "summary": "",
+  "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-16T01:44:47+00:00",
+  "image": "",
+  "id": "ba4e7337aba280a4"
+ },
+ {
+  "title": "Google rolling out Universal Cart that lets you shop the web and find deals with Gemini, Search",
+  "summary": "Google rolling out Universal Cart that lets you shop the web and find deals with Gemini, Search 9to5Google",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdElEVHkweDAzYy1SZlNoRUhUUUl3a0QyUmpXYXIyNXFKcktrT2ZVX2xqTVUySjVMX3V6bTU5V3BPOEs4MWdXYzJBa2IxdU1Ed3p6NkZrTE9USldjWWZKdlFrTmpFLXlxMURLcmJqUXhoZXMyX1FSSzJJSk9wWHlkZGNCNjFic0hYQ3I2Zmg5MUc3S0dOUHV0NEJXYTZGclA1ZEJNOG5ZZG9rQTUxeENjdmFMcjR6bkdrM0s2N2o1dzM3QmpEdzUtVA?oc=5",
+  "source": "9to5Google",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-15T14:40:00+00:00",
+  "image": "",
+  "id": "427cc9ec80f70bfe"
+ },
+ {
+  "title": "Perplexity AI open-sources its secure AI agent sandbox SPACE",
+  "summary": "Perplexity AI open-sources its secure AI agent sandbox SPACE SiliconANGLE",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRzYwUlNKRjB5dGNUak1GSmotZUxJeTZpbDZWZXlCYVZvRkd6LTluZ25Eb29URi02dk44ZTFHOTEwbXgxVHBDVTJVVGVEWGhmUXNKSldRbWtOcjNYYXVoVGtSVURVam9RRWw0X2VIaTZWTGo0SWYteEJVVFJyeGRkTm5vcnFjcnc4S0pvUFBZOFdYZ2FseGpnV2V1b0hBdw?oc=5",
+  "source": "SiliconANGLE",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-16T00:44:00+00:00",
+  "image": "",
+  "id": "f5569d6f53ede2ff"
  }
 ]
