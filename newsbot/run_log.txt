@@ -1,15 +1,15 @@
-Thu Oct 15 21:17:50 UTC 2026
+Fri Oct 16 00:18:52 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 3 fresh
+OpenAI: 2 fresh
 Google: 0 fresh
 Google DeepMind: 1 fresh
 NVIDIA: 5 fresh
-Hugging Face: 5 fresh
+Hugging Face: 4 fresh
 The Verge: 10 fresh
 TechCrunch: 20 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 0 fresh
-Product Hunt: 10 fresh
+Product Hunt: 8 fresh
 Anthropic: 11 links
 Google News: 30 fresh
 Google News: 30 fresh
@@ -17,12 +17,13 @@ Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-new items: 5
+new items: 1
 translated via clients5
 translated via clients5
-sent photo Floqer’s AI agents research sales prospects so teams don’t h
+sent photo NVIDIA Expands Advanced Technology Access for Europe’s Scien
 translated via clients5
 translated via clients5
-sent card OpenAI employee who left for Apple took files about unreleas
+sent photo The Nordics and NVIDIA Show What’s Possible When a Region Co
 translated via clients5
-sent photo Oct 14, 2026 Policy Preparing for the 2026 US midterms
+translated via clients5
+sent card OpenAI accuses employee who left for Apple of leaking plans 
