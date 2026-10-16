@@ -1,41 +1,5 @@
 [
  {
-  "title": "Teaching students to think and learn through questions",
-  "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-  "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-15T13:00:00+00:00",
-  "image": "",
-  "id": "fa14b8f7db4605df"
- },
- {
-  "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-  "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-  "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-  "source": "Google DeepMind",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-15T16:08:03+00:00",
-  "image": "",
-  "id": "996b33c09ad57427"
- },
- {
-  "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
-  "summary": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized […]",
-  "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-15T15:00:24+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/FIRST-agentic-ai-nemotron-3.5-super-vl-blog-1920x1080-5783765.jpeg",
-  "id": "902189e10f1e2e57"
- },
- {
   "title": "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
   "summary": "Dial in the next gaming session this GFN Thursday. New NVIDIA DLSS 4.5 controls give GeForce NOW members more choice over how supported games look and perform in the cloud, even without the latest hardware. Then, step into the Shroud as Keen Games’ Enshrouded leaves early access with its 1.0 release, or let the bolts […]",
   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/",
@@ -46,18 +10,6 @@
   "time": "2026-10-15T13:00:59+00:00",
   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/GFN_Thursday_October_15_2026.jpg",
   "id": "a9f3afff6b1910bf"
- },
- {
-  "title": "Welcome FLUX.3 Image Klein in Diffusers",
-  "summary": "",
-  "url": "https://huggingface.co/blog/flux-3",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-15T00:00:00+00:00",
-  "image": "",
-  "id": "3733c75a28bf26df"
  },
  {
   "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
@@ -119,18 +71,6 @@
   "id": "a01e02239da0a38e"
  },
  {
-  "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-  "summary": "",
-  "url": "https://huggingface.co/blog/meta-muse-spark-open",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-15T00:00:00+00:00",
-  "image": "",
-  "id": "9d251ac6836a600d"
- },
- {
   "title": "Meta launches an open-weight AI model that runs on Macs",
   "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
   "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
@@ -153,18 +93,6 @@
   "time": "2026-10-15T19:00:00+00:00",
   "image": "",
   "id": "a72d1e4da6b0e106"
- },
- {
-  "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-  "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-  "url": "https://openai.com/index/sullivan-cromwell",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-15T00:00:00+00:00",
-  "image": "",
-  "id": "dd00c04c9b95848e"
  },
  {
   "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
@@ -201,5 +129,29 @@
   "time": "2026-10-16T00:44:00+00:00",
   "image": "",
   "id": "f5569d6f53ede2ff"
+ },
+ {
+  "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+  "summary": "",
+  "url": "https://huggingface.co/blog/reflection-beam",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-16T00:00:00+00:00",
+  "image": "",
+  "id": "849b423196d125cc"
+ },
+ {
+  "title": "An OpenAI Research Agent 'Stole' Test Ethereum To Finish A Coding Task",
+  "summary": "An OpenAI Research Agent 'Stole' Test Ethereum To Finish A Coding Task Engadget",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOamVCTnh3X0N3N1FwLVZtOGxuSm1PcE5KVHdGRFRHQ3dZekY5OEJha2tYdHJ5TWpGTkNSSnZTdEIwOXc5c05xTk9EbkpOX3RiRFFEUjJ6enh4b3lFb19Icnl3WlhCZVQ0emlUSDBiYWxTVGlReWxQUW45aXJWclpJVFZockhWcVhtMWYxTmVMVG1LLTNleE1jaTZQYlVXZ3M?oc=5",
+  "source": "Engadget",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-16T12:50:24+00:00",
+  "image": "",
+  "id": "8db8c997b3eb4ea8"
  }
 ]

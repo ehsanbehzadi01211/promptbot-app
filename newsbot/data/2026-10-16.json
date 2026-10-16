@@ -58,5 +58,29 @@
   "time": "2026-10-16T00:44:00+00:00",
   "image": "",
   "id": "f5569d6f53ede2ff"
+ },
+ {
+  "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+  "summary": "",
+  "url": "https://huggingface.co/blog/reflection-beam",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-16T00:00:00+00:00",
+  "image": "",
+  "id": "849b423196d125cc"
+ },
+ {
+  "title": "An OpenAI Research Agent 'Stole' Test Ethereum To Finish A Coding Task",
+  "summary": "An OpenAI Research Agent 'Stole' Test Ethereum To Finish A Coding Task Engadget",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOamVCTnh3X0N3N1FwLVZtOGxuSm1PcE5KVHdGRFRHQ3dZekY5OEJha2tYdHJ5TWpGTkNSSnZTdEIwOXc5c05xTk9EbkpOX3RiRFFEUjJ6enh4b3lFb19Icnl3WlhCZVQ0emlUSDBiYWxTVGlReWxQUW45aXJWclpJVFZockhWcVhtMWYxTmVMVG1LLTNleE1jaTZQYlVXZ3M?oc=5",
+  "source": "Engadget",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-16T12:50:24+00:00",
+  "image": "",
+  "id": "8db8c997b3eb4ea8"
  }
 ]
