@@ -1,15 +1,15 @@
-Fri Oct 16 13:12:17 UTC 2026
+Fri Oct 16 17:58:17 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 OpenAI: 2 fresh
 Google: 0 fresh
-Google DeepMind: 1 fresh
-NVIDIA: 5 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 4 fresh
 Hugging Face: 3 fresh
 The Verge: 10 fresh
-TechCrunch: 12 fresh
+TechCrunch: 18 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 0 fresh
-Product Hunt: 9 fresh
+Product Hunt: 8 fresh
 Anthropic: 11 links
 Google News: 30 fresh
 Google News: 30 fresh
@@ -17,13 +17,13 @@ Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-new items: 2
+new items: 3
 translated via clients5
 translated via clients5
-sent card Teaching students to think and learn through questions
+sent photo Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForc
 translated via clients5
 translated via clients5
-sent card Accelerating the search for antimicrobial peptides with Goog
+sent photo Amazon’s Bee launches two new personal AI devices, starting 
 translated via clients5
 translated via clients5
-sent photo Open From Data Center to Desktop: NVIDIA Expands Nemotron Fa
+sent photo Friends don’t let friends feed their data to AI agents
