@@ -118,5 +118,29 @@
   "time": "2026-10-16T13:00:00+00:00",
   "image": "",
   "id": "5074b327c7074f09"
+ },
+ {
+  "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+  "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+  "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-16T00:00:00+00:00",
+  "image": "",
+  "id": "9db4940a53f86840"
+ },
+ {
+  "title": "Google releases Gemini 4 Argon, its new frontier model: Benchmarks, how to try it, and pricing",
+  "summary": "Google releases Gemini 4 Argon, its new frontier model: Benchmarks, how to try it, and pricing Mashable",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02ZGlQM0xOMUw2NkM5ZVBUb0UzeXVFZV9BcEp4cGY4RzdyVjNDRXVPM3pQdUp2UnladkZmeDRYZGVsdDF1VG9qekhNaU5xeXVYVkRQSjVZdnhvTjZmWUtYVi1tUzhwZTQ?oc=5",
+  "source": "Mashable",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-16T18:09:50+00:00",
+  "image": "",
+  "id": "780cc0646af3f163"
  }
 ]

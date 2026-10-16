@@ -1,6 +1,6 @@
-Fri Oct 16 17:58:17 UTC 2026
+Fri Oct 16 20:58:50 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 2 fresh
+OpenAI: 3 fresh
 Google: 0 fresh
 Google DeepMind: 0 fresh
 NVIDIA: 4 fresh
@@ -8,7 +8,7 @@ Hugging Face: 3 fresh
 The Verge: 10 fresh
 TechCrunch: 18 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 0 fresh
+MIT Technology Review: 1 fresh
 Product Hunt: 8 fresh
 Anthropic: 11 links
 Google News: 30 fresh
@@ -17,13 +17,11 @@ Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-new items: 3
+new items: 2
+translated via clients5
+sent photo Oct 15, 2026 Announcements An update on independent evaluato
 translated via clients5
 translated via clients5
-sent photo Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForc
+sent photo Be There for the Beginning: Celebrate the Launch of NVIDIA R
 translated via clients5
-translated via clients5
-sent photo Amazon’s Bee launches two new personal AI devices, starting 
-translated via clients5
-translated via clients5
-sent photo Friends don’t let friends feed their data to AI agents
+sent photo Granite Switch 4.1: Chat, Decisions, and Speech from One End
