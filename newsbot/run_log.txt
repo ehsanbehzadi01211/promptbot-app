@@ -1,15 +1,15 @@
-Fri Oct 16 20:58:50 UTC 2026
+Sat Oct 17 00:22:10 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 3 fresh
+OpenAI: 4 fresh
 Google: 0 fresh
 Google DeepMind: 0 fresh
-NVIDIA: 4 fresh
+NVIDIA: 3 fresh
 Hugging Face: 3 fresh
 The Verge: 10 fresh
 TechCrunch: 18 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 1 fresh
-Product Hunt: 8 fresh
+Product Hunt: 5 fresh
 Anthropic: 11 links
 Google News: 30 fresh
 Google News: 30 fresh
@@ -17,11 +17,12 @@ Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-new items: 2
-translated via clients5
-sent photo Oct 15, 2026 Announcements An update on independent evaluato
+new items: 1
 translated via clients5
 translated via clients5
-sent photo Be There for the Beginning: Celebrate the Launch of NVIDIA R
+sent photo Meta launches an open-weight AI model that runs on Macs
 translated via clients5
-sent photo Granite Switch 4.1: Chat, Decisions, and Speech from One End
+translated via clients5
+sent card Bringing GPT-Rosalind to academic research labs
+translated via clients5
+sent photo Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open D
