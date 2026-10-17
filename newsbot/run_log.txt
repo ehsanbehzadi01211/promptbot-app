@@ -1,2 +1,29 @@
-Sat Oct 17 17:24:09 UTC 2026
+Sat Oct 17 20:30:04 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 1 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 0 fresh
+Hugging Face: 0 fresh
+The Verge: 4 fresh
+TechCrunch: 10 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 1 fresh
+Product Hunt: 3 fresh
+Anthropic: 11 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 1
+translated via clients5
+translated via clients5
+sent card I've been using an AI agent for a month, and I'm both impres
+translated via clients5
+translated via clients5
+sent card BoE’s Bailey tells G30 they ‘have got to address’ AI agent c
+translated via clients5
+translated via clients5
+sent photo Websites are closing their doors to AI agents
