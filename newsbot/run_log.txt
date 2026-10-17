@@ -1,28 +1,2 @@
-Sat Oct 17 06:51:51 UTC 2026
+Sat Oct 17 08:50:15 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 4 fresh
-Google: 0 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 0 fresh
-Hugging Face: 3 fresh
-The Verge: 7 fresh
-TechCrunch: 14 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 1 fresh
-Product Hunt: 2 fresh
-Anthropic: 11 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-new items: 1
-translated via clients5
-translated via clients5
-sent card Perplexity AI open-sources its secure AI agent sandbox SPACE
-translated via clients5
-sent photo Welcome Beam: a 501B open model you can own, customize, and 
-translated via clients5
-translated via clients5
-sent card An OpenAI Research Agent 'Stole' Test Ethereum To Finish A C
