@@ -1,27 +1,2 @@
-Sat Oct 17 17:21:01 UTC 2026
+Sat Oct 17 17:22:00 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-Traceback (most recent call last):
-  File "/home/runner/work/promptbot-app/promptbot-app/newsbot/schedule.py", line 64, in <module>
-    main(sys.argv[1])
-  File "/home/runner/work/promptbot-app/promptbot-app/newsbot/schedule.py", line 58, in main
-    send(chats["owner"], "🆕 <b>محتوای جدید زمان‌بندی شد</b>\n\n" + "\n".join(f"{it['date']} · {line(it)}" for it in new))
-  File "/home/runner/work/promptbot-app/promptbot-app/newsbot/schedule.py", line 26, in send
-    urllib.request.urlopen(f"https://api.telegram.org/bot{token}/sendMessage", data=body, timeout=30)
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/urllib/request.py", line 216, in urlopen
-    return opener.open(url, data, timeout)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/urllib/request.py", line 525, in open
-    response = meth(req, response)
-               ^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/urllib/request.py", line 634, in http_response
-    response = self.parent.error(
-               ^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/urllib/request.py", line 563, in error
-    return self._call_chain(*args)
-           ^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/urllib/request.py", line 496, in _call_chain
-    result = func(*args)
-             ^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/urllib/request.py", line 643, in http_error_default
-    raise HTTPError(req.full_url, code, msg, hdrs, fp)
-urllib.error.HTTPError: HTTP Error 400: Bad Request
