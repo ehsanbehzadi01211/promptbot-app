@@ -1,2 +1,29 @@
-Sat Oct 17 08:50:15 UTC 2026
+Sat Oct 17 12:08:31 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 1 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 0 fresh
+Hugging Face: 1 fresh
+The Verge: 2 fresh
+TechCrunch: 9 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 1 fresh
+Product Hunt: 5 fresh
+Anthropic: 11 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 3
+translated via clients5
+translated via clients5
+sent photo Meta’s new terms may allow it to train AI on news sites for 
+translated via clients5
+translated via clients5
+sent photo India becomes the latest country to report rogue AI agent ac
+translated via clients5
+translated via clients5
+sent card 17 of 40 teams that say they enforce AI agent permissions st
