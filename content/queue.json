@@ -17,9 +17,10 @@
   "topic": "Does ChatGPT Really Think? Explained in 30 Seconds",
   "key": "en01_think",
   "media": "youtube/shorts/en01_think.mp4",
-  "status": "cancelled",
+  "status": "published",
   "id": "yo-2026-10-12-short",
-  "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
+  "note": "English; went live 11 Oct",
+  "url": "https://youtube.com/shorts/PpXLYBofJUM"
  },
  {
   "platform": "youtube",
@@ -28,9 +29,10 @@
   "topic": "Claude Now Works Inside Google Docs, Sheets & Slides",
   "key": "en02_claude_ws",
   "media": "youtube/shorts/en02_claude_ws.mp4",
-  "status": "cancelled",
+  "status": "published",
   "id": "yo-2026-10-13-short",
-  "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
+  "note": "English; went live 12 Oct",
+  "url": "https://youtube.com/shorts/enrBVCh3tYQ"
  },
  {
   "platform": "instagram",
@@ -244,12 +246,33 @@
  {
   "platform": "instagram",
   "kind": "carousel",
-  "when": "2026-10-18T10:00",
+  "when": "2026-10-12T19:00",
   "topic": "۸ پرامپت آماده‌ی روزانه",
   "metricool_uuid": "-3084739721890149245",
   "metricool_date": "2026-10-12T10:00",
+  "status": "published",
+  "id": "in-2026-10-12-carousel",
+  "url": "https://www.instagram.com/p/DeZj43iiOTh/",
+  "note": "published by the Chrome publisher on 12 Oct"
+ },
+ {
+  "platform": "instagram",
+  "kind": "carousel",
+  "when": "2026-10-18T10:00",
+  "topic": "۶ کانال یوتیوب آموزش AI",
+  "metricool_uuid": "-7740810086580074371",
+  "metricool_date": "2026-10-14T21:00",
   "status": "queued",
-  "id": "in-2026-10-18-carousel"
+  "id": "in-2026-10-18-carousel",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c5_channels/01.jpg",
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c5_channels/02.jpg",
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c5_channels/03.jpg",
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c5_channels/04.jpg",
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c5_channels/05.jpg"
+   ]
+  }
  },
  {
   "platform": "instagram",
@@ -262,10 +285,11 @@
   "id": "in-2026-10-18-reel",
   "override": {
    "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/reels11/news_claude_ws_voiced.mp4"
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_claude_ws.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/reels11/news_claude_ws_cover.jpg"
-  }
+  },
+  "yt_key": "fa_claude_ws"
  },
  {
   "platform": "instagram",
@@ -309,11 +333,19 @@
   "platform": "instagram",
   "kind": "carousel",
   "when": "2026-10-19T16:00",
-  "topic": "۶ کانال یوتیوب آموزش AI",
-  "metricool_uuid": "-7740810086580074371",
-  "metricool_date": "2026-10-14T21:00",
+  "topic": "۵ اشتباه با هوش مصنوعی",
+  "metricool_uuid": "5493370638966017409",
+  "metricool_date": "2026-10-15T10:00",
   "status": "queued",
-  "id": "in-2026-10-19-carousel"
+  "id": "in-2026-10-19-carousel",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c6_mistakes/01.jpg",
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c6_mistakes/02.jpg",
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c6_mistakes/03.jpg",
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c6_mistakes/04.jpg"
+   ]
+  }
  },
  {
   "platform": "instagram",
@@ -335,7 +367,14 @@
   "metricool_uuid": "6848124961263274650",
   "metricool_date": "2026-10-12T16:00",
   "status": "queued",
-  "id": "in-2026-10-19-reel"
+  "id": "in-2026-10-19-reel",
+  "yt_key": "fa_imgprompt",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_imgprompt.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel19_imgprompt.jpg"
+  }
  },
  {
   "platform": "instagram",
@@ -345,7 +384,14 @@
   "metricool_uuid": "7748542105142839202",
   "metricool_date": "2026-10-13T21:00",
   "status": "queued",
-  "id": "in-2026-10-20-reel"
+  "id": "in-2026-10-20-reel",
+  "yt_key": "fa_edit",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_edit.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel20_edit.jpg"
+  }
  },
  {
   "platform": "youtube",
@@ -376,21 +422,38 @@
   "platform": "instagram",
   "kind": "carousel",
   "when": "2026-10-20T21:00",
-  "topic": "۵ اشتباه با هوش مصنوعی",
-  "metricool_uuid": "5493370638966017409",
-  "metricool_date": "2026-10-15T10:00",
+  "topic": "پرامپت مخصوص هر شغل",
+  "metricool_uuid": "8739003403456038578",
+  "metricool_date": "2026-10-16T16:00",
   "status": "queued",
-  "id": "in-2026-10-20-carousel"
+  "id": "in-2026-10-20-carousel",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c7_jobs/01.jpg",
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c7_jobs/02.jpg",
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c7_jobs/03.jpg",
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c7_jobs/04.jpg",
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c7_jobs/05.jpg"
+   ]
+  }
  },
  {
   "platform": "instagram",
   "kind": "carousel",
   "when": "2026-10-21T10:00",
-  "topic": "پرامپت مخصوص هر شغل",
-  "metricool_uuid": "8739003403456038578",
-  "metricool_date": "2026-10-16T16:00",
+  "topic": "چک‌لیست ۶ مورد سایت (طراحی سایت)",
+  "metricool_uuid": "4853501713172025095",
+  "metricool_date": "2026-10-17T21:00",
   "status": "queued",
-  "id": "in-2026-10-21-carousel"
+  "id": "in-2026-10-21-carousel",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c8_website/01.jpg",
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c8_website/02.jpg",
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c8_website/03.jpg",
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c8_website/04.jpg"
+   ]
+  }
  },
  {
   "platform": "instagram",
@@ -400,7 +463,14 @@
   "metricool_uuid": "-2791165289377937338",
   "metricool_date": "2026-10-14T10:00",
   "status": "queued",
-  "id": "in-2026-10-21-reel"
+  "id": "in-2026-10-21-reel",
+  "yt_key": "fa_sketch",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_sketch.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel21_sketch.jpg"
+  }
  },
  {
   "platform": "instagram",
@@ -444,11 +514,21 @@
   "platform": "instagram",
   "kind": "carousel",
   "when": "2026-10-22T16:00",
-  "topic": "چک‌لیست ۶ مورد سایت (طراحی سایت)",
-  "metricool_uuid": "4853501713172025095",
-  "metricool_date": "2026-10-17T21:00",
+  "topic": "GPT-6 برای همه + ۶ پرامپت",
+  "metricool_uuid": "-4018271053849214172",
+  "metricool_date": "2026-10-11T16:00",
   "status": "queued",
-  "id": "in-2026-10-22-carousel"
+  "id": "in-2026-10-22-carousel",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c1_gpt6/01.jpg",
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c1_gpt6/02.jpg",
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c1_gpt6/03.jpg",
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c1_gpt6/04.jpg",
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c1_gpt6/05.jpg",
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c1_gpt6/06.jpg"
+   ]
+  }
  },
  {
   "platform": "instagram",
@@ -470,7 +550,14 @@
   "metricool_uuid": "-7732423347664695699",
   "metricool_date": "2026-10-15T16:00",
   "status": "queued",
-  "id": "in-2026-10-22-reel"
+  "id": "in-2026-10-22-reel",
+  "yt_key": "fa_video",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_video.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel22_video.jpg"
+  }
  },
  {
   "platform": "instagram",
@@ -480,7 +567,14 @@
   "metricool_uuid": "6692371980436719945",
   "metricool_date": "2026-10-16T21:00",
   "status": "queued",
-  "id": "in-2026-10-23-reel"
+  "id": "in-2026-10-23-reel",
+  "yt_key": "fa_vprompt",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_vprompt.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel23_vprompt.jpg"
+  }
  },
  {
   "platform": "youtube",
@@ -511,21 +605,20 @@
   "platform": "instagram",
   "kind": "carousel",
   "when": "2026-10-23T21:00",
-  "topic": "GPT-6 برای همه + ۶ پرامپت",
-  "metricool_uuid": "-4018271053849214172",
-  "metricool_date": "2026-10-11T16:00",
-  "status": "queued",
-  "id": "in-2026-10-23-carousel"
- },
- {
-  "platform": "instagram",
-  "kind": "carousel",
-  "when": "2026-10-24T10:00",
   "topic": "۶ ابزار رایگان هوش مصنوعی",
   "metricool_uuid": "7230705970948555791",
   "metricool_date": "2026-10-11T21:00",
   "status": "queued",
-  "id": "in-2026-10-24-carousel"
+  "id": "in-2026-10-23-carousel",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c2_tools/01.jpg",
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c2_tools/02.jpg",
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c2_tools/03.jpg",
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c2_tools/04.jpg",
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c2_tools/05.jpg"
+   ]
+  }
  },
  {
   "platform": "instagram",
@@ -535,7 +628,14 @@
   "metricool_uuid": "-415557555638812148",
   "metricool_date": "2026-10-24T16:00",
   "status": "queued",
-  "id": "in-2026-10-24-reel"
+  "id": "in-2026-10-24-reel",
+  "yt_key": "fa_insta",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_insta.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_web1_page.jpg"
+  }
  },
  {
   "platform": "instagram",
@@ -595,7 +695,14 @@
   "metricool_uuid": "-51815492003544779",
   "metricool_date": "2026-10-17T10:00",
   "status": "queued",
-  "id": "in-2026-10-25-reel"
+  "id": "in-2026-10-25-reel",
+  "yt_key": "fa_img2vid",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_img2vid.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel24_img2vid.jpg"
+  }
  },
  {
   "platform": "instagram",
@@ -605,7 +712,14 @@
   "metricool_uuid": "-642830934189980614",
   "metricool_date": "2026-10-18T16:00",
   "status": "queued",
-  "id": "in-2026-10-26-reel"
+  "id": "in-2026-10-26-reel",
+  "yt_key": "fa_teacher",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_teacher.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel7_teacher.jpg"
+  }
  },
  {
   "platform": "youtube",
@@ -640,7 +754,14 @@
   "metricool_uuid": "8901563185603628675",
   "metricool_date": "2026-10-19T21:00",
   "status": "queued",
-  "id": "in-2026-10-27-reel"
+  "id": "in-2026-10-27-reel",
+  "yt_key": "fa_photo",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_photo.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel8_photo.jpg"
+  }
  },
  {
   "platform": "instagram",
@@ -700,7 +821,14 @@
   "metricool_uuid": "6968041368260462128",
   "metricool_date": "2026-10-20T10:00",
   "status": "queued",
-  "id": "in-2026-10-28-reel"
+  "id": "in-2026-10-28-reel",
+  "yt_key": "fa_tasks",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_tasks.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel9_tasks.jpg"
+  }
  },
  {
   "platform": "instagram",
@@ -710,7 +838,14 @@
   "metricool_uuid": "-8624930692332303810",
   "metricool_date": "2026-10-21T16:00",
   "status": "queued",
-  "id": "in-2026-10-29-reel"
+  "id": "in-2026-10-29-reel",
+  "yt_key": "fa_interview",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_interview.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel10_interview.jpg"
+  }
  },
  {
   "platform": "youtube",
@@ -745,7 +880,14 @@
   "metricool_uuid": "-6564507812620778913",
   "metricool_date": "2026-10-30T16:00",
   "status": "queued",
-  "id": "in-2026-10-30-reel"
+  "id": "in-2026-10-30-reel",
+  "yt_key": "fa_speed",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_speed.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_web2_speed.jpg"
+  }
  },
  {
   "platform": "youtube",
@@ -781,7 +923,14 @@
   "metricool_uuid": "-4529746557893328670",
   "metricool_date": "2026-10-22T21:00",
   "status": "queued",
-  "id": "in-2026-10-31-reel"
+  "id": "in-2026-10-31-reel",
+  "yt_key": "fa_english",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_english.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel11_english.jpg"
+  }
  },
  {
   "platform": "instagram",
@@ -791,7 +940,14 @@
   "metricool_uuid": "-1664758064496750873",
   "metricool_date": "2026-10-23T10:00",
   "status": "queued",
-  "id": "in-2026-11-01-reel"
+  "id": "in-2026-11-01-reel",
+  "yt_key": "fa_phrases",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_phrases.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel12_phrases.jpg"
+  }
  },
  {
   "platform": "youtube",
@@ -814,7 +970,14 @@
   "metricool_uuid": "5467700907011424616",
   "metricool_date": "2026-10-24T16:00",
   "status": "queued",
-  "id": "in-2026-11-02-reel"
+  "id": "in-2026-11-02-reel",
+  "yt_key": "fa_dont",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_dont.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel13_dont.jpg"
+  }
  },
  {
   "platform": "youtube",
@@ -850,7 +1013,14 @@
   "metricool_uuid": "5117316827222917434",
   "metricool_date": "2026-10-25T21:00",
   "status": "queued",
-  "id": "in-2026-11-03-reel"
+  "id": "in-2026-11-03-reel",
+  "yt_key": "fa_caption",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_caption.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel14_caption.jpg"
+  }
  },
  {
   "platform": "instagram",
@@ -860,7 +1030,14 @@
   "metricool_uuid": "8594292400012739134",
   "metricool_date": "2026-10-26T10:00",
   "status": "queued",
-  "id": "in-2026-11-04-reel"
+  "id": "in-2026-11-04-reel",
+  "yt_key": "fa_decide",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_decide.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel15_decide.jpg"
+  }
  },
  {
   "platform": "youtube",
@@ -883,7 +1060,14 @@
   "metricool_uuid": "1032403482078105447",
   "metricool_date": "2026-10-27T16:00",
   "status": "queued",
-  "id": "in-2026-11-05-reel"
+  "id": "in-2026-11-05-reel",
+  "yt_key": "fa_resume",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_resume.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel16_resume.jpg"
+  }
  },
  {
   "platform": "youtube",
@@ -919,7 +1103,14 @@
   "metricool_uuid": "6481136569033441615",
   "metricool_date": "2026-10-28T21:00",
   "status": "queued",
-  "id": "in-2026-11-06-reel"
+  "id": "in-2026-11-06-reel",
+  "yt_key": "fa_skill",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_skill.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel17_skill.jpg"
+  }
  },
  {
   "platform": "instagram",
@@ -929,7 +1120,14 @@
   "metricool_uuid": "-8281566411686526764",
   "metricool_date": "2026-10-29T10:00",
   "status": "queued",
-  "id": "in-2026-11-07-reel"
+  "id": "in-2026-11-07-reel",
+  "yt_key": "fa_no",
+  "override": {
+   "media": [
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_no.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel18_no.jpg"
+  }
  },
  {
   "platform": "youtube",

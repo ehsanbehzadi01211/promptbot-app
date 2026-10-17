@@ -10,7 +10,13 @@
 > - Instagram stories are in the queue (19:00 daily, media URL in the item). Desktop Instagram has no story upload:
 >   if Chrome cannot post it, set it `manual`/`skipped`; the Telegram bot (promo.py) then sends the file to the owner's
 >   private chat to post from his phone.
-> - Queue restarted on 18 Oct with the same hour rotation (rebuild script `content/rebuild_1017.py`).
+> - Queue restarted on 18 Oct with the same hour rotation (`content/rebuild_1017.py`, `content/patch_1017b.py`).
+> - Media for the publisher: every queued reel/carousel has `override.media` (+ `override.cover`) pointing at copies in
+>   this repo, because static.metricool.com is blocked from the task's container and the Chrome extension's
+>   file_upload accepts at most 10 MB. All `youtube/shorts/fa_*.mp4` are re-encoded below 9.5 MB and are the same files
+>   used for the Instagram reels. Captions still come from the Metricool post (`metricool_uuid`).
+> - 13 Oct: Instagram web upload of a reel stalled at "processing" three times. If it stalls again, mark the item
+>   `failed` with a note and tell the owner, so he can post that reel from his phone.
 
 The owner cancelled the separate Instagram and YouTube desks. ONE agent plans and runs everything end to end
 (Instagram, YouTube, Telegram) and reports to him in Persian, always in three sections: تلگرام، اینستاگرام، یوتیوب.
