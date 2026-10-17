@@ -58,5 +58,29 @@
   "time": "2026-10-17T10:31:21+00:00",
   "image": "",
   "id": "04c644a447913741"
+ },
+ {
+  "title": "Websites are closing their doors to AI agents",
+  "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+  "source": "The Verge",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-17T13:00:00+00:00",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "id": "79619743255e89a1"
+ },
+ {
+  "title": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner",
+  "summary": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQamNRdEQ0djl5LWRpQW8xUm9oTExlTC1YYW8xT2EzdWZLdU9MN2hsWXMyaUdTdjJIbzd2VWFzMHF3dnJ0UUtEY2ppTHlrX1o0TFJJQjNUaE9oY3QwdDBLUHFoOHFHdDZwR1ktUEZrbWZfRTY3YVB4TVhuX0tOUHpGWC11Z0g0d3NTcWNyOTF4R0JUSmR5akg4cUF0aVpia05NR3ZBemZTaHJYV05iSUV6ODBEeXpPODZsS3owcWh0MEFFQWlNZFFPWUk4TVZkZ3Rq?oc=5",
+  "source": "Bloomberg.com",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-17T13:47:14+00:00",
+  "image": "",
+  "id": "f45838cd3ca513d1"
  }
 ]

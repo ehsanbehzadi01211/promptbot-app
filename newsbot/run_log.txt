@@ -1,15 +1,15 @@
-Sat Oct 17 12:08:31 UTC 2026
+Sat Oct 17 17:03:25 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 OpenAI: 1 fresh
 Google: 0 fresh
 Google DeepMind: 0 fresh
 NVIDIA: 0 fresh
-Hugging Face: 1 fresh
-The Verge: 2 fresh
+Hugging Face: 0 fresh
+The Verge: 4 fresh
 TechCrunch: 9 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 1 fresh
-Product Hunt: 5 fresh
+Product Hunt: 4 fresh
 Anthropic: 11 links
 Google News: 30 fresh
 Google News: 30 fresh
@@ -17,13 +17,13 @@ Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-new items: 3
+new items: 2
 translated via clients5
 translated via clients5
-sent photo Meta’s new terms may allow it to train AI on news sites for 
+sent card Google releases Gemini 4 Argon, its new frontier model: Benc
 translated via clients5
 translated via clients5
-sent photo India becomes the latest country to report rogue AI agent ac
+sent card How Itaú is building generative AI for its entire customer b
 translated via clients5
 translated via clients5
-sent card 17 of 40 teams that say they enforce AI agent permissions st
+sent card Deepseek V4.1 Flash 1017 beats larger rivals in agentic task
