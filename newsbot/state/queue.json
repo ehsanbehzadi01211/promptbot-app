@@ -1,17 +1,5 @@
 [
  {
-  "title": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner",
-  "summary": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner Bloomberg.com",
-  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQamNRdEQ0djl5LWRpQW8xUm9oTExlTC1YYW8xT2EzdWZLdU9MN2hsWXMyaUdTdjJIbzd2VWFzMHF3dnJ0UUtEY2ppTHlrX1o0TFJJQjNUaE9oY3QwdDBLUHFoOHFHdDZwR1ktUEZrbWZfRTY3YVB4TVhuX0tOUHpGWC11Z0g0d3NTcWNyOTF4R0JUSmR5akg4cUF0aVpia05NR3ZBemZTaHJYV05iSUV6ODBEeXpPODZsS3owcWh0MEFFQWlNZFFPWUk4TVZkZ3Rq?oc=5",
-  "source": "Bloomberg.com",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-17T13:47:14+00:00",
-  "image": "",
-  "id": "f45838cd3ca513d1"
- },
- {
   "title": "States sue OpenAI, saying it gives life to 'cyberhacking agents' while ChatGPT hurts children and deceives adults",
   "summary": "States sue OpenAI, saying it gives life to 'cyberhacking agents' while ChatGPT hurts children and deceives adults Fortune",
   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUmdaME9UZTNjODdob3gtbDdzRnU3RnY1N2tRdzlYdVJKOHpMbEdIalBpY0JaNFV3T2pvLWhZajVRQWJYTkU2ZWRLQ3pfMDB3WnFSd1lEUkQ1bG5pX09GNVUxUl9XcWJaa2ZkVVpycEJCOUotY1FRNklrUzR0aUF6SWV6TGlCQmpxUHdmbmtNbERpOThFRG55bzdoMFdib3NYNnpjdg?oc=5",
@@ -22,5 +10,17 @@
   "time": "2026-10-17T14:32:00+00:00",
   "image": "",
   "id": "211c5609f890553c"
+ },
+ {
+  "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+  "summary": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs. Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with […]",
+  "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-17T21:00:13+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nvidia-rtx-spark-berlin-oct26-event-tech-blog-1280x680-1.jpg",
+  "id": "c850cbc286431989"
  }
 ]
