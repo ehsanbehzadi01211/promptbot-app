@@ -1,5 +1,17 @@
 # @ehbehzad content system — one agent, three channels (since 11 Oct 2026, 22:30 Tehran)
 
+> **Owner, 17 Oct 2026 — overrides everything below and in YOUTUBE.md:**
+> - **English YouTube Shorts are CANCELLED** — do not build, voice, render or upload any English video. The `en*` queue
+>   items are `cancelled`. The daily production and weekly English tasks stay disabled.
+> - **YouTube is now Persian**: the same Persian reels as Instagram, same design, Persian title/description/tags.
+>   Queue items `platform youtube` with `lang fa` and `key fa_*`: video `youtube/shorts/<key>.mp4`, title/desc/tags in
+>   `pipeline/scripts_en.json[<key>]` (kept there so the existing publisher task can read them; source file
+>   `content/fa_youtube.py`). Upload them exactly as written (Persian), Education, not for kids, altered content Yes.
+> - Instagram stories are in the queue (19:00 daily, media URL in the item). Desktop Instagram has no story upload:
+>   if Chrome cannot post it, set it `manual`/`skipped`; the Telegram bot (promo.py) then sends the file to the owner's
+>   private chat to post from his phone.
+> - Queue restarted on 18 Oct with the same hour rotation (rebuild script `content/rebuild_1017.py`).
+
 The owner cancelled the separate Instagram and YouTube desks. ONE agent plans and runs everything end to end
 (Instagram, YouTube, Telegram) and reports to him in Persian, always in three sections: تلگرام، اینستاگرام، یوتیوب.
 INSTAGRAM.md and YOUTUBE.md stay as reference for each platform's rules; where they talk about "separate desks",
@@ -25,9 +37,9 @@ uploads done in his own Chrome. Metricool is only a content store now. The sched
    set its Metricool post to draft first (so Metricool can never publish a duplicate), check the profile/channel that it
    is not already there, download the media, wait until the exact minute, and upload:
    - Instagram: instagram.com → Create; reel (Trial reel if offered), carousel in slide order, exact Metricool caption,
-     AI label on. Stories cannot be posted from desktop web: mark them `skipped`.
-   - YouTube: studio.youtube.com → Create → Upload; English title/description/tags, not made for kids, category
-     Education, altered/synthetic content = Yes, Public.
+     AI label on. Stories: try; if desktop has no story option mark `manual` (the bot sends the file to the owner).
+   - YouTube: studio.youtube.com → Create → Upload; Persian title/description/tags from scripts_en.json[<key>]
+     (since 17 Oct), not made for kids, category Education, altered/synthetic content = Yes, Public.
 3. Write status `published` + the post URL (or `failed` + reason) into content/queue.json and push. The push makes the
    Telegram bot announce it in the channel (newsbot/promo.py).
 4. If the Chrome tools are missing or a site asks for a login/2FA/captcha, do not improvise: tell the owner exactly which
@@ -39,9 +51,8 @@ uploads done in his own Chrome. Metricool is only a content store now. The sched
 - Owner's private chat: 7-day schedule every morning at 08:20 Tehran, plus a note whenever new items are queued.
 
 ## Production
-- Daily task (05:47 Tehran, cloud): render the next two English Shorts that have no mp4 yet (encuts → stills → render_en.sh),
-  push to youtube/shorts/. Instagram videos are paused by the owner ("no new Instagram videos for now").
-- Weekly task (Thursday 18:47 Tehran, cloud): plan the following week — Instagram carousels (one per day), new English Shorts
-  (specs + Liam voices + transcripts), append them to content/queue.json with times by the rotation, refresh schedule.json.
-- Time test until 24 Oct (d = days since 11 Oct): IG reel {0:10,1:16,2:21}, IG carousel {0:21,1:10,2:16}, YT {0:16,1:21,2:10}.
+- English Shorts production is cancelled (17 Oct); the daily production task is disabled. New Instagram videos are
+  still paused by the owner ("no new Instagram videos for now"). The weekly planning task is disabled too; ready
+  carousels run out on 24 Oct and reels on 7 Nov — ask the owner before making new content.
+- Time rotation (d = days since 11 Oct): IG reel {0:10,1:16,2:21}, IG carousel {0:21,1:10,2:16}, YT {0:16,1:21,2:10}, story 19:00.
   A one-time task on 24 Oct analyses it and moves later queue items to the winning hours.

@@ -2,6 +2,8 @@
 
 > **Since 11 Oct 2026 22:30 Tehran the separate desks are cancelled — one agent runs everything; read pipeline/PLAYBOOK.md first. Publishing goes through content/queue.json and the Chrome publisher task.**
 
+> **17 Oct 2026: English YouTube Shorts cancelled; YouTube now gets the Persian reels (same design). See the top of PLAYBOOK.md.**
+
 
 Owner: Ehsan Behzadi. Reply to him in Persian only, but **everything on YouTube is English only**: English voice,
 English on-screen text, English title, description and tags. He wants it produced and published automatically and a
