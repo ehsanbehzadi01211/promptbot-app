@@ -20,10 +20,20 @@ def load(p, d):
 
 
 def send(chat, text):
+    """Telegram allows 4096 characters per message: split long lists on line breaks."""
     token = os.environ["TELEGRAM_BOT_TOKEN"]
-    body = urllib.parse.urlencode({"chat_id": chat, "text": text, "parse_mode": "HTML",
-                                   "disable_web_page_preview": "true"}).encode()
-    urllib.request.urlopen(f"https://api.telegram.org/bot{token}/sendMessage", data=body, timeout=30)
+    parts, cur = [], ""
+    for ln in text.split("\n"):
+        if len(cur) + len(ln) + 1 > 3800:
+            parts.append(cur); cur = ""
+        cur += ln + "\n"
+    parts.append(cur)
+    for part in parts:
+        if not part.strip():
+            continue
+        body = urllib.parse.urlencode({"chat_id": chat, "text": part, "parse_mode": "HTML",
+                                       "disable_web_page_preview": "true"}).encode()
+        urllib.request.urlopen(f"https://api.telegram.org/bot{token}/sendMessage", data=body, timeout=30)
 
 
 def line(it):
