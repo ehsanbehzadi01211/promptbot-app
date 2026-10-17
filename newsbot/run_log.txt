@@ -1,29 +1,27 @@
-Sat Oct 17 17:03:25 UTC 2026
+Sat Oct 17 17:19:15 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 1 fresh
-Google: 0 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 0 fresh
-Hugging Face: 0 fresh
-The Verge: 4 fresh
-TechCrunch: 9 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 1 fresh
-Product Hunt: 4 fresh
-Anthropic: 11 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-new items: 2
-translated via clients5
-translated via clients5
-sent card Google releases Gemini 4 Argon, its new frontier model: Benc
-translated via clients5
-translated via clients5
-sent card How Itaú is building generative AI for its entire customer b
-translated via clients5
-translated via clients5
-sent card Deepseek V4.1 Flash 1017 beats larger rivals in agentic task
+Traceback (most recent call last):
+  File "/home/runner/work/promptbot-app/promptbot-app/newsbot/schedule.py", line 64, in <module>
+    main(sys.argv[1])
+  File "/home/runner/work/promptbot-app/promptbot-app/newsbot/schedule.py", line 58, in main
+    send(chats["owner"], "🆕 <b>محتوای جدید زمان‌بندی شد</b>\n\n" + "\n".join(f"{it['date']} · {line(it)}" for it in new))
+  File "/home/runner/work/promptbot-app/promptbot-app/newsbot/schedule.py", line 26, in send
+    urllib.request.urlopen(f"https://api.telegram.org/bot{token}/sendMessage", data=body, timeout=30)
+  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/urllib/request.py", line 216, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/urllib/request.py", line 525, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/urllib/request.py", line 634, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/urllib/request.py", line 563, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/urllib/request.py", line 496, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/urllib/request.py", line 643, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 400: Bad Request
