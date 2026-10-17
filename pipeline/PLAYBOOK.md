@@ -1,6 +1,8 @@
 # @ehbehzad content system — one agent, three channels (since 11 Oct 2026, 22:30 Tehran)
 
 > **Owner, 17 Oct 2026 — overrides everything below and in YOUTUBE.md:**
+> - **NO NEW VIDEOS of any kind** (owner, 17 Oct 22:55: «هیچ ویدیو جدید تولید نکن، فقط ویدیوهای قبلی آپلود کن»).
+>   Do not script, voice, render or re-edit anything; only upload the existing videos already in content/queue.json.
 > - **English YouTube Shorts are CANCELLED** — do not build, voice, render or upload any English video. The `en*` queue
 >   items are `cancelled`. The daily production and weekly English tasks stay disabled.
 > - **YouTube is now Persian**: the same Persian reels as Instagram, same design, Persian title/description/tags.
