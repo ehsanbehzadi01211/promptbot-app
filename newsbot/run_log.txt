@@ -1,15 +1,15 @@
-Sat Oct 17 23:58:30 UTC 2026
+Sun Oct 18 04:20:19 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 OpenAI: 1 fresh
 Google: 0 fresh
 Google DeepMind: 0 fresh
 NVIDIA: 1 fresh
 Hugging Face: 0 fresh
-The Verge: 4 fresh
-TechCrunch: 11 fresh
+The Verge: 2 fresh
+TechCrunch: 6 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 1 fresh
-Product Hunt: 3 fresh
+Product Hunt: 2 fresh
 Anthropic: 11 links
 Google News: 30 fresh
 Google News: 30 fresh
@@ -20,4 +20,10 @@ Google News: 30 fresh
 new items: 1
 translated via clients5
 translated via clients5
-sent card DeepSeek Pushes Out Updated AI Model It Says Is Faster, Lean
+sent card States sue OpenAI, saying it gives life to 'cyberhacking age
+translated via clients5
+translated via clients5
+sent photo RTX Spark Ignites Global Celebration as New Windows PCs Arri
+translated via clients5
+translated via clients5
+sent card Anthropic turns to lawyers to help AI agents strike deals
