@@ -1,5 +1,15 @@
 # @ehbehzad content system — one agent, three channels (since 11 Oct 2026, 22:30 Tehran)
 
+> **Owner, 18 Oct 2026 — Instagram publishing goes through the Uplika connector (cloud, no laptop needed).**
+> Uplika account `conn_a8ade4f9de0c6bca` (@ehbehzad, Instagram login). Tools: mcp__Uplika__media_from_url (raw GitHub URL,
+> media ids expire after ~2 days unless used) → mcp__Uplika__publish with scheduledAt (Tehran +03:30) and
+> options.instagram {contentType reel|feed|story, isAiGenerated true, coverMediaId for reels}. Captions = the Metricool
+> post text (metricool_uuid); media = override.media / override.cover / story media in the queue item.
+> Uplika has no Trial-reel option: reels go out as normal reels. Scheduled items get status `scheduled`, `via uplika`,
+> `uplika_post`; the daily Uplika task schedules the next 2 days and marks yesterday's posts `published` with the URL.
+> The Chrome publisher only touches `queued` items, so it never duplicates them. YouTube moves to Uplika as soon as a
+> YouTube account appears in mcp__Uplika__list_accounts (owner connects it at https://uplika.com/dashboard/connections).
+>
 > **Owner, 17 Oct 2026 — overrides everything below and in YOUTUBE.md:**
 > - **NO NEW VIDEOS of any kind** (owner, 17 Oct 22:55: «هیچ ویدیو جدید تولید نکن، فقط ویدیوهای قبلی آپلود کن»).
 >   Do not script, voice, render or re-edit anything; only upload the existing videos already in content/queue.json.
