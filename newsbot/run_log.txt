@@ -1,12 +1,12 @@
-Sun Oct 18 15:47:05 UTC 2026
+Sun Oct 18 18:35:09 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 OpenAI: 0 fresh
 Google: 0 fresh
 Google DeepMind: 0 fresh
 NVIDIA: 1 fresh
 Hugging Face: 0 fresh
-The Verge: 2 fresh
-TechCrunch: 3 fresh
+The Verge: 3 fresh
+TechCrunch: 4 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 0 fresh
 Product Hunt: 1 fresh
@@ -15,9 +15,14 @@ Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 23 fresh
+Google News: 26 fresh
 Google News: 30 fresh
-new items: 1
+new items: 3
+translated via clients5
+sent photo Oct 18, 2026 Announcements Investing in the public benefit
 translated via clients5
 translated via clients5
-sent card Anthropic has nearly stopped hiring junior staff because AI 
+sent card Google Gemini is now available for the iPhone
+translated via clients5
+translated via clients5
+sent card Four Gemini 4 Argon agents beat Minecraft without any human 

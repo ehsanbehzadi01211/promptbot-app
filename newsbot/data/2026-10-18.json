@@ -22,5 +22,40 @@
   "time": "2026-10-18T13:28:42+00:00",
   "image": "",
   "id": "323cfe82c090c72c"
+ },
+ {
+  "title": "Oct 18, 2026 Announcements Investing in the public benefit",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/public-benefit-fund",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-10-18T18:35:09.898395+00:00",
+  "page": true,
+  "id": "4c6c987b65345788"
+ },
+ {
+  "title": "Google Gemini is now available for the iPhone",
+  "summary": "Google Gemini is now available for the iPhone Mashable",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wcm0wV3dZVDVWN2t3TXFrRkZwUm9tRDlFdnNSaG5fNHd6YUtUVmRET2NVdzVabzAxX0V3QUFsRTNlRGhMUDRscWlKcHRmZzhhX2ZGVzhLUDZXNlFjU3c?oc=5",
+  "source": "Mashable",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-18T09:00:00+00:00",
+  "image": "",
+  "id": "64794a7429b9b5f5"
+ },
+ {
+  "title": "Four Gemini 4 Argon agents beat Minecraft without any human help",
+  "summary": "Four Gemini 4 Argon agents beat Minecraft without any human help The Decoder",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdVViZFVsamhYNzZfb2xUN3ZkdHlDcVRNWWktdmRjZ3gxUHJwc3F5MnBibHpCVVo2LWRtM0lLM1MxSG82ampTWF9IcGUtUnAyMUtCWmw5X0pReDViVXBTeFh5dXY2SkVFcWlueFBvdGZ2Z19OdWgzc3NOY3kyaDd2SDBDWnhsb0xvNEFVWWo2UXRoaTA?oc=5",
+  "source": "The Decoder",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-18T12:43:42+00:00",
+  "image": "",
+  "id": "58bef2b78b9c5fea"
  }
 ]
