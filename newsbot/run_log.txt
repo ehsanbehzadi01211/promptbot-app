@@ -1,28 +1,29 @@
-Mon Oct 19 19:49:05 UTC 2026
+Mon Oct 19 23:34:10 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 0 fresh
+OpenAI: 1 fresh
 Google: 0 fresh
 Google DeepMind: 0 fresh
 NVIDIA: 2 fresh
 Hugging Face: 1 fresh
-The Verge: 4 fresh
-TechCrunch: 9 fresh
+The Verge: 6 fresh
+TechCrunch: 12 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 3 fresh
-Product Hunt: 4 fresh
+Product Hunt: 3 fresh
 Anthropic: 11 links
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 30 fresh
 Google News: 26 fresh
-new items: 7
+Google News: 25 fresh
+new items: 4
 translated via clients5
 translated via clients5
-sent photo NVIDIA Advances Agentic Security for Media, From European Pu
+sent photo Nvidia launches new open models to run agents in the enterpr
 translated via clients5
 translated via clients5
-sent photo Germany Wants to Lead the World in Industrial AI: How NVIDIA
+sent photo A hacker broke into John Deere and SharkNinja with an army o
 translated via clients5
-sent photo TorchNeuron: running HF models on AWS Trainium is easier tha
+translated via clients5
+sent photo Making the internet better for AI agents might make it worse
