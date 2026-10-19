@@ -1,23 +1,4 @@
-Mon Oct 19 04:30:42 UTC 2026
+Mon Oct 19 04:46:32 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 0 fresh
-Google: 0 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 1 fresh
-Hugging Face: 0 fresh
-The Verge: 1 fresh
-TechCrunch: 5 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 0 fresh
-Product Hunt: 0 fresh
-Anthropic: 11 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 22 fresh
-Google News: 30 fresh
-new items: 1
-translated via clients5
-translated via clients5
-sent card DeepSeek releases updated V4.1-Flash model it says completes
+promo sent in-2026-10-18-carousel
+promo sent in-2026-10-18-reel
