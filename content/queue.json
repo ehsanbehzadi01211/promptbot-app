@@ -262,7 +262,7 @@
   "topic": "۶ کانال یوتیوب آموزش AI",
   "metricool_uuid": "-7740810086580074371",
   "metricool_date": "2026-10-14T21:00",
-  "status": "scheduled",
+  "status": "published",
   "id": "in-2026-10-18-carousel",
   "override": {
    "media": [
@@ -274,7 +274,8 @@
    ]
   },
   "via": "uplika",
-  "uplika_post": "post_db474eaffe251272"
+  "uplika_post": "post_db474eaffe251272",
+  "url": "https://www.instagram.com/p/DeoCzANDwV6/"
  },
  {
   "platform": "instagram",
@@ -283,7 +284,7 @@
   "topic": "خبر: Claude در گوگل داکس، شیت و اسلاید",
   "metricool_uuid": "-661815568252124700",
   "metricool_date": "2026-10-11T10:00",
-  "status": "scheduled",
+  "status": "published",
   "id": "in-2026-10-18-reel",
   "override": {
    "media": [
@@ -293,7 +294,8 @@
   },
   "yt_key": "fa_claude_ws",
   "via": "uplika",
-  "uplika_post": "post_1f7f9ff9a1654547"
+  "uplika_post": "post_1f7f9ff9a1654547",
+  "url": "https://www.instagram.com/reel/Deor83ckfLs/"
  },
  {
   "platform": "instagram",
@@ -303,11 +305,12 @@
   "media": [
    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/tip_1.jpg"
   ],
-  "status": "scheduled",
+  "status": "published",
   "id": "in-2026-10-18-story",
   "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone.",
   "via": "uplika",
-  "uplika_post": "post_5a1522f72401fbd0"
+  "uplika_post": "post_5a1522f72401fbd0",
+  "url": "https://www.instagram.com/stories/ehbehzad/4010739355882584002"
  },
  {
   "platform": "youtube",
@@ -395,7 +398,7 @@
   "topic": "ادیت عکس با ChatGPT",
   "metricool_uuid": "7748542105142839202",
   "metricool_date": "2026-10-13T21:00",
-  "status": "queued",
+  "status": "scheduled",
   "id": "in-2026-10-20-reel",
   "yt_key": "fa_edit",
   "override": {
@@ -403,7 +406,9 @@
     "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_edit.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel20_edit.jpg"
-  }
+  },
+  "via": "uplika",
+  "uplika_post": "post_599a3102362e0665"
  },
  {
   "platform": "youtube",
@@ -426,9 +431,11 @@
   "media": [
    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/tip_2.jpg"
   ],
-  "status": "queued",
+  "status": "scheduled",
   "id": "in-2026-10-20-story",
-  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone."
+  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone.",
+  "via": "uplika",
+  "uplika_post": "post_7eab90fd5961f2bb"
  },
  {
   "platform": "instagram",
@@ -437,7 +444,7 @@
   "topic": "پرامپت مخصوص هر شغل",
   "metricool_uuid": "8739003403456038578",
   "metricool_date": "2026-10-16T16:00",
-  "status": "queued",
+  "status": "scheduled",
   "id": "in-2026-10-20-carousel",
   "override": {
    "media": [
@@ -447,7 +454,9 @@
     "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c7_jobs/04.jpg",
     "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c7_jobs/05.jpg"
    ]
-  }
+  },
+  "via": "uplika",
+  "uplika_post": "post_c3b30a53e156d44e"
  },
  {
   "platform": "instagram",
