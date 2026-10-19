@@ -1,2 +1,23 @@
-Mon Oct 19 10:19:21 UTC 2026
+Mon Oct 19 12:58:38 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 0 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 0 fresh
+Hugging Face: 0 fresh
+The Verge: 2 fresh
+TechCrunch: 2 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 1 fresh
+Product Hunt: 4 fresh
+Anthropic: 11 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 1
+translated via clients5
+translated via clients5
+sent card Google Gemini 4 Agents Just Beat Minecraft With No Human Int
