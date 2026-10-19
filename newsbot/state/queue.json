@@ -1,1 +1,50 @@
-[]
+[
+ {
+  "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+  "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+  "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-19T15:37:09+00:00",
+  "image": "",
+  "id": "d88320583f8c2de0"
+ },
+ {
+  "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+  "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+  "source": "The Verge",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-19T13:58:41+00:00",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&strip=all&crop=0,0,100,100",
+  "id": "c08e28e17ab3caf7"
+ },
+ {
+  "title": "Making the internet better for AI agents might make it worse for everyone else",
+  "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules…",
+  "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+  "source": "MIT Technology Review",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-19T18:22:47+00:00",
+  "image": "",
+  "id": "fbbcdbe57addf83e"
+ },
+ {
+  "title": "The Information Announces New OpenAI, Google, Finance and Asia Reporters",
+  "summary": "The Information Announces New OpenAI, Google, Finance and Asia Reporters The Information",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbk55N09fZ0g4M2pCLWdaUmZTOTVtRExETy1sdDJDc3hDN1I0SWI3eHB5bllDaExaZzY5RGttR1ZGcktCMnJxMUd5eG9WQmpqaWhnNzFyY1JuVmdldDluZlhUMVRLcHNMTFFjN2tqOUhhdFVPUnRJbHA0U1NrV0pTLU84ZlNidHV5R2JubGJ4bnlRX3BiZXNyTG05R3RDeWUwRDYyRQ?oc=5",
+  "source": "The Information",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-19T17:33:00+00:00",
+  "image": "",
+  "id": "289a3a88e50fa3ab"
+ }
+]
