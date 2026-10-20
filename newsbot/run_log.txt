@@ -1,29 +1,26 @@
-Tue Oct 20 11:25:52 UTC 2026
+Tue Oct 20 16:52:30 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 OpenAI: 1 fresh
 Google: 0 fresh
 Google DeepMind: 0 fresh
 NVIDIA: 3 fresh
-Hugging Face: 2 fresh
-The Verge: 5 fresh
-TechCrunch: 13 fresh
+Hugging Face: 5 fresh
+The Verge: 7 fresh
+TechCrunch: 18 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 4 fresh
-Product Hunt: 13 fresh
+MIT Technology Review: 6 fresh
+Product Hunt: 12 fresh
 Anthropic: 11 links
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 30 fresh
-new items: 2
+Google News: 28 fresh
+new items: 5
 translated via clients5
+sent photo MPS in PyTorch 2.15
 translated via clients5
-sent photo Microsoft says AI agents are like insider threats as ‘fronti
+sent photo FairStress: A deeper evaluation of fairness in LLM decision-
 translated via clients5
-translated via clients5
-sent card Fired OpenAI engineer accused of bugging office won't be rel
-translated via clients5
-translated via clients5
-sent photo Spain-Based Startups Advance Regional Innovation With Barcel
+sent photo ALTK-Evolve: How learned memory tops the τ²-bench leaderboar

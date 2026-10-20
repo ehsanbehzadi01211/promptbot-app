@@ -1,14 +1,38 @@
 [
  {
-  "title": "MPS in PyTorch 2.15",
+  "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
   "summary": "",
-  "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+  "url": "https://huggingface.co/blog/hf-torchtpu",
   "source": "Hugging Face",
   "official": true,
   "tools": false,
   "gnews": false,
   "time": "2026-10-20T00:00:00+00:00",
   "image": "",
-  "id": "3eb18e5ff7f2a0ef"
+  "id": "84cd8d44e9825e73"
+ },
+ {
+  "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+  "summary": "",
+  "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-20T00:00:00+00:00",
+  "image": "",
+  "id": "2596ff929aeef557"
+ },
+ {
+  "title": "DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs",
+  "summary": "DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTNwMlNFRlZ6SkZCMWtZaEJfUWdXbGxlQVBnSEZOZ0dVM1dLc240NTVQdnZTbjJqd2pRWVNpUUZVYldWZDlzdF8waFlUVlRRaW1uYllNRjdVNFZZSW9aeFhGQmRzS1p1VmhFUG9HbTMzaE5hTm1mOGFwSHp5VzlEbTEtc2ZsQTJ3amdCVjhkZUU5bkY3UDM2ajNRcGY4aDJBWjhFbGljNjlZaXI1X3gyX1gyYTV4QQ?oc=5",
+  "source": "Bloomberg.com",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-20T12:45:23+00:00",
+  "image": "",
+  "id": "b9b9a6d7168ef43e"
  }
 ]
