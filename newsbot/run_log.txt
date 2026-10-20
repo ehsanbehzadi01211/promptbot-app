@@ -1,2 +1,29 @@
-Tue Oct 20 09:39:11 UTC 2026
+Tue Oct 20 11:25:52 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 1 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 3 fresh
+Hugging Face: 2 fresh
+The Verge: 5 fresh
+TechCrunch: 13 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 4 fresh
+Product Hunt: 13 fresh
+Anthropic: 11 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 2
+translated via clients5
+translated via clients5
+sent photo Microsoft says AI agents are like insider threats as ‘fronti
+translated via clients5
+translated via clients5
+sent card Fired OpenAI engineer accused of bugging office won't be rel
+translated via clients5
+translated via clients5
+sent photo Spain-Based Startups Advance Regional Innovation With Barcel
