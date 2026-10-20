@@ -1,38 +1,93 @@
 [
  {
-  "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+  "title": "Announcements",
   "summary": "",
-  "url": "https://huggingface.co/blog/hf-torchtpu",
-  "source": "Hugging Face",
+  "url": "https://www.anthropic.com/news/announcements",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-10-20T21:32:56.430881+00:00",
+  "page": true,
+  "id": "10310c209328b333"
+ },
+ {
+  "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+  "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+  "url": "https://openai.com/index/ted-taylor-restaurant",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-20T10:00:00+00:00",
+  "image": "",
+  "id": "b3fcb2e42d321123"
+ },
+ {
+  "title": "OpenAI acquires Orchestra Bio",
+  "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+  "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+  "source": "OpenAI",
   "official": true,
   "tools": false,
   "gnews": false,
   "time": "2026-10-20T00:00:00+00:00",
   "image": "",
-  "id": "84cd8d44e9825e73"
+  "id": "dbaa902542534b3a"
  },
  {
-  "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+  "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
   "summary": "",
-  "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+  "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
   "source": "Hugging Face",
   "official": true,
   "tools": false,
   "gnews": false,
-  "time": "2026-10-20T00:00:00+00:00",
+  "time": "2026-10-20T18:17:47+00:00",
   "image": "",
-  "id": "2596ff929aeef557"
+  "id": "4eb9f7080b11166e"
  },
  {
-  "title": "DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs",
-  "summary": "DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs Bloomberg.com",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTNwMlNFRlZ6SkZCMWtZaEJfUWdXbGxlQVBnSEZOZ0dVM1dLc240NTVQdnZTbjJqd2pRWVNpUUZVYldWZDlzdF8waFlUVlRRaW1uYllNRjdVNFZZSW9aeFhGQmRzS1p1VmhFUG9HbTMzaE5hTm1mOGFwSHp5VzlEbTEtc2ZsQTJ3amdCVjhkZUU5bkY3UDM2ajNRcGY4aDJBWjhFbGljNjlZaXI1X3gyX1gyYTV4QQ?oc=5",
-  "source": "Bloomberg.com",
-  "official": false,
+  "title": "Partnerships",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/partnerships",
+  "source": "Anthropic",
+  "official": true,
   "tools": false,
-  "gnews": true,
-  "time": "2026-10-20T12:45:23+00:00",
-  "image": "",
-  "id": "b9b9a6d7168ef43e"
+  "time": "2026-10-20T21:32:56.430881+00:00",
+  "page": true,
+  "id": "31508cd64d59a827"
+ },
+ {
+  "title": "Product",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/product",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-10-20T21:32:56.430881+00:00",
+  "page": true,
+  "id": "8676e164bad0d388"
+ },
+ {
+  "title": "Policy",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/policy",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-10-20T21:32:56.430881+00:00",
+  "page": true,
+  "id": "4c8b021c7ca6519e"
+ },
+ {
+  "title": "Safeguards",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/safeguards",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-10-20T21:32:56.430881+00:00",
+  "page": true,
+  "id": "60f1409060999d60"
  }
 ]

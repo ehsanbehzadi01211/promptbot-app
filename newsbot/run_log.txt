@@ -1,26 +1,27 @@
-Tue Oct 20 16:52:30 UTC 2026
+Tue Oct 20 21:32:55 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 1 fresh
+OpenAI: 3 fresh
 Google: 0 fresh
 Google DeepMind: 0 fresh
 NVIDIA: 3 fresh
-Hugging Face: 5 fresh
-The Verge: 7 fresh
-TechCrunch: 18 fresh
+Hugging Face: 6 fresh
+The Verge: 8 fresh
+TechCrunch: 20 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 6 fresh
+MIT Technology Review: 5 fresh
 Product Hunt: 12 fresh
-Anthropic: 11 links
+Anthropic: 25 links
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 28 fresh
-new items: 5
+Google News: 30 fresh
+new items: 8
 translated via clients5
-sent photo MPS in PyTorch 2.15
+sent photo Hugging Face ❤️ TorchTPU: TPUs, Natively
 translated via clients5
-sent photo FairStress: A deeper evaluation of fairness in LLM decision-
+sent photo AnyLanguageModel 1.0: One Year of Local Models on Apple Plat
 translated via clients5
-sent photo ALTK-Evolve: How learned memory tops the τ²-bench leaderboar
+translated via clients5
+sent card DeepSeek Unveils Open-Source Tool to Help Cut AI Operating C
