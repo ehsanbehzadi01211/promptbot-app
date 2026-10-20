@@ -1,29 +1,4 @@
-Tue Oct 20 04:39:59 UTC 2026
+Tue Oct 20 04:46:10 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 1 fresh
-Google: 0 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 2 fresh
-Hugging Face: 1 fresh
-The Verge: 6 fresh
-TechCrunch: 13 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 3 fresh
-Product Hunt: 3 fresh
-Anthropic: 11 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 24 fresh
-new items: 0
-translated via clients5
-translated via clients5
-sent card The Information Announces New OpenAI, Google, Finance and As
-translated via clients5
-translated via clients5
-sent card Advancing Coding in Low-Resource Programming Languages
-translated via clients5
-translated via clients5
-sent card MiniMax launches M3.1 Flash model, says it cuts AI agent cos
+promo sent in-2026-10-19-carousel
+promo sent in-2026-10-19-reel
