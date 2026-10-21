@@ -329,5 +329,101 @@
   "time": "2026-10-21T16:04:43+00:00",
   "image": "",
   "id": "f9b499debdda31c0"
+ },
+ {
+  "title": "Broad access through consistent standards",
+  "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+  "url": "https://openai.com/index/broad-access-through-consistent-standards",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-21T21:00:00+00:00",
+  "image": "",
+  "id": "2ed22a61b2f19a0c"
+ },
+ {
+  "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+  "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+  "url": "https://openai.com/index/empowering-cyber-defenders",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-21T00:00:00+00:00",
+  "image": "",
+  "id": "b2deaf97c98cf0ff"
+ },
+ {
+  "title": "Anthropic Launches Claude Duet, a Proactive AI Agent",
+  "summary": "Anthropic Launches Claude Duet, a Proactive AI Agent MacRumors",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pYzdSRjZBUnJFZ1Utalp5YkQwUmVIS0piUmxUZnlieHpObW1VVFk2NER4V2hObnNhRlBvdkJ4alZNUFpHZjE4dXR2STRFeXJweTYtbU5lRXF3N0RsamxFMXpzNTRpY3MzNGdr?oc=5",
+  "source": "MacRumors",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-21T20:52:59+00:00",
+  "image": "",
+  "id": "54e5f68f17d6e38f"
+ },
+ {
+  "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+  "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+  "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-21T20:27:41+00:00",
+  "image": "",
+  "id": "dc1c99f7973e826c"
+ },
+ {
+  "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+  "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+  "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-21T19:30:00+00:00",
+  "image": "",
+  "id": "a9cc4be8b0bea8a2"
+ },
+ {
+  "title": "Anthropic unveils Claude Duet AI agent app",
+  "summary": "Anthropic unveils Claude Duet AI agent app Reuters",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFhacjJyXzZ6ZzNUdkptUDkwRHFyV2pxSXhOc2JucmxQdDJFQ09WZ05DamcxS1NvNUx1b0cyR05DM1U3SzgwdXpvQlhaajl2dHNlVTVlYml2LVhLVENGaWtDbkdMWjFNVkdPMDRTWWFubXJsYkFZQ19peDBLMUI2cXF4cU1hN2lrU2FuZi1wSTRndFU?oc=5",
+  "source": "Reuters",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-21T20:25:35+00:00",
+  "image": "",
+  "id": "eabcc68ce22a5634"
+ },
+ {
+  "title": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots",
+  "summary": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots CNBC",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFZYTW81ai1KaU91ZGZUV1VlUkFrRkVfWVpraWlRMl9rWXJnUXV2cnZ3dlFBUUtCeldidHR0MVhJdmY3MGVzSzZDYnYxODNQNXdxS1Z5ZVNIcHd4bklybjBOR3hQeEhwUkFBVW1WdVA1Q0V2WTZfbFAwSVdPcVRKdG5jc3dhYzZiYm01X1hqbDR2ZlVtblF6NmZUWVV0TFlVSkZJWHJUeG_SAa4BQVVfeXFMUDZ1eGN2Uncyczl3by1yNFAxQlJfd2JmSDBaX05QaEpFb0tGY3FJWGY4R2RzcXBRMXRYdzFhTWFIVEluT0I5MExZZG9hX3U0MXliVFJYS3hxN0FtME5obUdWOW9CZTBYdkpsVXFHN2d1VXp2VVI2NG5BNFF4MkEwLTlmZkVWZ016RkRtRHNsUi1RSEVERG1SNzB2aFlVLXFNSF80dEtDUnNZN05RSlh3?oc=5",
+  "source": "CNBC",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-21T21:42:54+00:00",
+  "image": "",
+  "id": "ad23456bcbd6b8c5"
+ },
+ {
+  "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+  "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+  "source": "The Verge",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-21T19:53:20+00:00",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "id": "0d8d033795840d49"
  }
 ]

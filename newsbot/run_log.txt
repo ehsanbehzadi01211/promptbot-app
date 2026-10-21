@@ -1,15 +1,15 @@
-Wed Oct 21 18:33:32 UTC 2026
+Wed Oct 21 23:13:09 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 OpenAI: 8 fresh
 Google: 1 fresh
 Google DeepMind: 0 fresh
-NVIDIA: 10 fresh
+NVIDIA: 9 fresh
 Hugging Face: 6 fresh
-The Verge: 7 fresh
-TechCrunch: 17 fresh
+The Verge: 10 fresh
+TechCrunch: 20 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 3 fresh
-Product Hunt: 12 fresh
+MIT Technology Review: 2 fresh
+Product Hunt: 7 fresh
 Anthropic: 25 links
 Google News: 30 fresh
 Google News: 30 fresh
@@ -19,8 +19,11 @@ Google News: 30 fresh
 Google News: 30 fresh
 new items: 8
 translated via clients5
-sent photo Introducing the Anthropic Cyber Mission
 translated via clients5
-sent photo 2026 Usage Policy update
+sent card OpenAI acquires Orchestra Bio to bring AI agents into drug d
 translated via clients5
-sent photo Building on our commitment to American scientific discovery
+translated via clients5
+sent card Anthropic News: Latest Updates on the AI Company Behind Clau
+translated via clients5
+translated via clients5
+sent photo Southeast Asia’s digital economy to hit $368 billion
