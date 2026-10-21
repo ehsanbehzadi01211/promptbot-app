@@ -1,28 +1,4 @@
-Wed Oct 21 00:33:38 UTC 2026
+Wed Oct 21 04:45:47 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 2 fresh
-Google: 0 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 3 fresh
-Hugging Face: 6 fresh
-The Verge: 9 fresh
-TechCrunch: 20 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 5 fresh
-Product Hunt: 12 fresh
-Anthropic: 25 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-new items: 6
-translated via clients5
-sent photo Announcements
-translated via clients5
-translated via clients5
-sent card Franchisee reconciles cash in 94% less time with ChatGPT Wor
-translated via clients5
-translated via clients5
-sent card OpenAI acquires Orchestra Bio
+promo sent in-2026-10-20-reel
+promo sent in-2026-10-20-carousel
