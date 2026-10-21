@@ -1,39 +1,5 @@
 [
  {
-  "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-  "summary": "",
-  "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-20T18:17:47+00:00",
-  "image": "",
-  "id": "4eb9f7080b11166e"
- },
- {
-  "title": "Partnerships",
-  "summary": "",
-  "url": "https://www.anthropic.com/news/partnerships",
-  "source": "Anthropic",
-  "official": true,
-  "tools": false,
-  "time": "2026-10-20T21:32:56.430881+00:00",
-  "page": true,
-  "id": "31508cd64d59a827"
- },
- {
-  "title": "Product",
-  "summary": "",
-  "url": "https://www.anthropic.com/news/product",
-  "source": "Anthropic",
-  "official": true,
-  "tools": false,
-  "time": "2026-10-20T21:32:56.430881+00:00",
-  "page": true,
-  "id": "8676e164bad0d388"
- },
- {
   "title": "Policy",
   "summary": "",
   "url": "https://www.anthropic.com/news/policy",
@@ -122,5 +88,76 @@
   "time": "2026-10-20T19:00:42+00:00",
   "image": "",
   "id": "929b8650bc40983f"
+ },
+ {
+  "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+  "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+  "url": "https://openai.com/index/terminal-x",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-20T07:00:00+00:00",
+  "image": "",
+  "id": "a84b6a7bee5c68a6"
+ },
+ {
+  "title": "Southeast Asia’s digital economy to hit $368 billion",
+  "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing digital sectors, including data cen",
+  "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+  "source": "Google",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-21T04:00:00+00:00",
+  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp",
+  "id": "1778fb273dbb6c0b"
+ },
+ {
+  "title": "Features",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/features",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-10-21T07:29:29.457604+00:00",
+  "page": true,
+  "id": "94cadd3b5f06d67b"
+ },
+ {
+  "title": "OpenAI says its AI agents weakened internal monitoring system",
+  "summary": "OpenAI says its AI agents weakened internal monitoring system Reuters",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2hxMmVsMXJ3Qzg3cDFjTWc4d2s1eTlxMUpUd3FtZVhzX3p6UEJyaGFfdF9pazEzeXJmRVFoRnMxaWZMTThxaUMzLTdOejlXc1dmZl9LVE1PMTZqWW9YdmxTM1FfYlJxXzBrWlFmZ1lQRjFmUjFEQzJJZW1OMG1oeUl5T3FIRlBsTU5KanZ4b3lFeVh3dDFqb3NJU1hlcWw0VUk1bVM3YVdyc0paOXd2OHpEQXQ?oc=5",
+  "source": "Reuters",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-21T02:37:00+00:00",
+  "image": "",
+  "id": "445eda264bd522a6"
+ },
+ {
+  "title": "OpenAI ‘agents’ disabled their own monitoring systems",
+  "summary": "OpenAI ‘agents’ disabled their own monitoring systems Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ2dEWFkwS1pibEg1bTJ6UzJncExSTkdsLUVJZG5mVmlSa3U5OG9PNXM4UElSSjRlS1dzVG81aXd2Q0FxcU9MXzFDLThaSnpVWGYwSGJpYURmQUJTTWFQc2xiZEdrVW04UWZ1VUxPelVCOUpoUmVteGktSWhHR0RPMGV5czk?oc=5",
+  "source": "Financial Times",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-21T01:56:00+00:00",
+  "image": "",
+  "id": "e797fe2491a690c3"
+ },
+ {
+  "title": "OpenAI Says Its Agents Weakened System That Flags AI Misbehavior",
+  "summary": "OpenAI Says Its Agents Weakened System That Flags AI Misbehavior Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFJGc1FVd25OZmcxblB2OXpjc1d2WWFLMmJyUXIzRU5HQnVLbHF5VnFhRXNUTFIzOXIwMjRJOXhhRkk5ZmJ3dGlvWnI0SkM1djQ3ZlpXalFNckdnM19DQ2VSeks1LUNBRVZ1SDRJZ1cxclFwRmdIVFpqUmprOUdFc05wSXc0dUFzWTRYRDZBeDRVRm9faTFfdmNRckM4UzZueWRNdEgtdW1vRThqRFdGSEZtX0FZQQ?oc=5",
+  "source": "Bloomberg.com",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-21T00:12:00+00:00",
+  "image": "",
+  "id": "0bc1c2d3675782c6"
  }
 ]

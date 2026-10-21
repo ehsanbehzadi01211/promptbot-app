@@ -1,2 +1,26 @@
-Wed Oct 21 04:46:14 UTC 2026
+Wed Oct 21 07:29:28 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 3 fresh
+Google: 1 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 1 fresh
+Hugging Face: 6 fresh
+The Verge: 7 fresh
+TechCrunch: 20 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 3 fresh
+Product Hunt: 15 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 6
+translated via clients5
+sent photo NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life T
+translated via clients5
+sent photo Partnerships
+translated via clients5
+sent photo Product
