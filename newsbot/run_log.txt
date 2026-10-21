@@ -1,2 +1,26 @@
-Wed Oct 21 09:40:40 UTC 2026
+Wed Oct 21 13:42:36 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 3 fresh
+Google: 1 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 11 fresh
+Hugging Face: 3 fresh
+The Verge: 5 fresh
+TechCrunch: 16 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 3 fresh
+Product Hunt: 12 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 8
+translated via clients5
+sent photo Policy
+translated via clients5
+sent photo Safeguards
+translated via clients5
+sent photo Expanding the Cyber Verification Program We’re launching a n
