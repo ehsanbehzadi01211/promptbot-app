@@ -1,1223 +1,1232 @@
 [
- {
-  "platform": "instagram",
-  "kind": "story",
-  "when": "2026-10-12T19:00",
-  "topic": "استوری ابزار رایگان",
-  "metricool_uuid": "700904045452738783",
-  "metricool_date": "2026-10-12T19:00",
-  "status": "skipped",
-  "id": "in-2026-10-12-story",
-  "note": "replaced by the new story plan of 17 Oct"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "when": "2026-10-12T21:00",
-  "topic": "Does ChatGPT Really Think? Explained in 30 Seconds",
-  "key": "en01_think",
-  "media": "youtube/shorts/en01_think.mp4",
-  "status": "published",
-  "id": "yo-2026-10-12-short",
-  "note": "English; went live 11 Oct",
-  "url": "https://youtube.com/shorts/PpXLYBofJUM"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "when": "2026-10-13T10:00",
-  "topic": "Claude Now Works Inside Google Docs, Sheets & Slides",
-  "key": "en02_claude_ws",
-  "media": "youtube/shorts/en02_claude_ws.mp4",
-  "status": "published",
-  "id": "yo-2026-10-13-short",
-  "note": "English; went live 12 Oct",
-  "url": "https://youtube.com/shorts/enrBVCh3tYQ"
- },
- {
-  "platform": "instagram",
-  "kind": "carousel",
-  "when": "2026-10-13T16:00",
-  "topic": "خلاصه‌ی خبرهای هفته",
-  "metricool_uuid": "7557742734752303249",
-  "metricool_date": "2026-10-13T16:00",
-  "status": "skipped",
-  "id": "in-2026-10-13-carousel",
-  "note": "weekly news roundup of 11 Oct is stale; not posted (17 Oct)"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "when": "2026-10-14T16:00",
-  "topic": "The 4-Part ChatGPT Image Prompt Formula",
-  "key": "en03_imgprompt",
-  "media": "youtube/shorts/en03_imgprompt.mp4",
-  "status": "cancelled",
-  "id": "yo-2026-10-14-short",
-  "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "when": "2026-10-15T21:00",
-  "topic": "Edit Photos Inside ChatGPT, No Photoshop Needed",
-  "key": "en04_edit",
-  "media": "youtube/shorts/en04_edit.mp4",
-  "status": "cancelled",
-  "id": "yo-2026-10-15-short",
-  "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "when": "2026-10-16T10:00",
-  "topic": "From Doodle to Full Image with ChatGPT Sketch",
-  "key": "en05_sketch",
-  "media": "youtube/shorts/en05_sketch.mp4",
-  "status": "cancelled",
-  "id": "yo-2026-10-16-short",
-  "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "when": "2026-10-17T16:00",
-  "topic": "Can ChatGPT Make Videos? The Honest Answer",
-  "key": "en06_video",
-  "media": "youtube/shorts/en06_video.mp4",
-  "status": "cancelled",
-  "id": "yo-2026-10-17-short",
-  "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "when": "2026-10-18T21:00",
-  "topic": "The AI Video Prompt Formula That Works Everywhere",
-  "key": "en07_vprompt",
-  "media": "youtube/shorts/en07_vprompt.mp4",
-  "status": "cancelled",
-  "id": "yo-2026-10-18-short",
-  "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "when": "2026-10-19T10:00",
-  "topic": "Easiest Way to Make AI Video: Image First, Then Animate",
-  "key": "en08_img2vid",
-  "media": "youtube/shorts/en08_img2vid.mp4",
-  "status": "cancelled",
-  "id": "yo-2026-10-19-short",
-  "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "when": "2026-10-20T16:00",
-  "topic": "Turn AI Into Your Personal Tutor (Copy This Prompt)",
-  "key": "en09_teacher",
-  "media": "youtube/shorts/en09_teacher.mp4",
-  "status": "cancelled",
-  "id": "yo-2026-10-20-short",
-  "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "when": "2026-10-21T21:00",
-  "topic": "3 Things AI Can Do With Just One Photo",
-  "key": "en10_photo",
-  "media": "youtube/shorts/en10_photo.mp4",
-  "status": "cancelled",
-  "id": "yo-2026-10-21-short",
-  "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "when": "2026-10-22T10:00",
-  "topic": "5 Things AI Does for You in 1 Minute",
-  "key": "en11_tasks",
-  "media": "youtube/shorts/en11_tasks.mp4",
-  "status": "cancelled",
-  "id": "yo-2026-10-22-short",
-  "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "when": "2026-10-23T16:00",
-  "topic": "Practice Job Interviews With AI (Copy This Prompt)",
-  "key": "en12_interview",
-  "media": "youtube/shorts/en12_interview.mp4",
-  "status": "cancelled",
-  "id": "yo-2026-10-23-short",
-  "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "when": "2026-10-24T21:00",
-  "topic": "Practice Speaking Any Language With AI, 10 Minutes a Day",
-  "key": "en13_language",
-  "media": "youtube/shorts/en13_language.mp4",
-  "status": "cancelled",
-  "id": "yo-2026-10-24-short",
-  "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "when": "2026-10-25T10:00",
-  "topic": "3 Phrases That Make ChatGPT's Answers Way Better",
-  "key": "en14_phrases",
-  "media": "youtube/shorts/en14_phrases.mp4",
-  "status": "cancelled",
-  "id": "yo-2026-10-25-short",
-  "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "when": "2026-10-26T16:00",
-  "topic": "3 Things You Shouldn't Hand Over to AI",
-  "key": "en15_dont",
-  "media": "youtube/shorts/en15_dont.mp4",
-  "status": "cancelled",
-  "id": "yo-2026-10-26-short",
-  "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "when": "2026-10-27T21:00",
-  "topic": "Write Instagram Captions With AI (Copy This Prompt)",
-  "key": "en16_caption",
-  "media": "youtube/shorts/en16_caption.mp4",
-  "status": "cancelled",
-  "id": "yo-2026-10-27-short",
-  "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "when": "2026-10-28T10:00",
-  "topic": "Stuck Between Two Choices? Try This AI Prompt",
-  "key": "en17_decide",
-  "media": "youtube/shorts/en17_decide.mp4",
-  "status": "cancelled",
-  "id": "yo-2026-10-28-short",
-  "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "when": "2026-10-29T16:00",
-  "topic": "Let AI Roast Your Resume Before a Recruiter Does",
-  "key": "en18_resume",
-  "media": "youtube/shorts/en18_resume.mp4",
-  "status": "cancelled",
-  "id": "yo-2026-10-29-short",
-  "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "when": "2026-10-30T21:00",
-  "topic": "Learn Any Skill in 30 Days With an AI Plan",
-  "key": "en19_skill",
-  "media": "youtube/shorts/en19_skill.mp4",
-  "status": "cancelled",
-  "id": "yo-2026-10-30-short",
-  "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "when": "2026-10-31T10:00",
-  "topic": "Hard to Say No? Let AI Write It for You",
-  "key": "en20_no",
-  "media": "youtube/shorts/en20_no.mp4",
-  "status": "cancelled",
-  "id": "yo-2026-10-31-short",
-  "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
- },
- {
-  "platform": "instagram",
-  "kind": "carousel",
-  "when": "2026-10-12T19:00",
-  "topic": "۸ پرامپت آماده‌ی روزانه",
-  "metricool_uuid": "-3084739721890149245",
-  "metricool_date": "2026-10-12T10:00",
-  "status": "published",
-  "id": "in-2026-10-12-carousel",
-  "url": "https://www.instagram.com/p/DeZj43iiOTh/",
-  "note": "published by the Chrome publisher on 12 Oct"
- },
- {
-  "platform": "instagram",
-  "kind": "carousel",
-  "when": "2026-10-18T10:00",
-  "topic": "۶ کانال یوتیوب آموزش AI",
-  "metricool_uuid": "-7740810086580074371",
-  "metricool_date": "2026-10-14T21:00",
-  "status": "published",
-  "id": "in-2026-10-18-carousel",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c5_channels/01.jpg",
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c5_channels/02.jpg",
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c5_channels/03.jpg",
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c5_channels/04.jpg",
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c5_channels/05.jpg"
-   ]
+  {
+    "platform": "instagram",
+    "kind": "story",
+    "when": "2026-10-12T19:00",
+    "topic": "استوری ابزار رایگان",
+    "metricool_uuid": "700904045452738783",
+    "metricool_date": "2026-10-12T19:00",
+    "status": "skipped",
+    "id": "in-2026-10-12-story",
+    "note": "replaced by the new story plan of 17 Oct"
   },
-  "via": "uplika",
-  "uplika_post": "post_db474eaffe251272",
-  "url": "https://www.instagram.com/p/DeoCzANDwV6/"
- },
- {
-  "platform": "instagram",
-  "kind": "reel",
-  "when": "2026-10-18T16:00",
-  "topic": "خبر: Claude در گوگل داکس، شیت و اسلاید",
-  "metricool_uuid": "-661815568252124700",
-  "metricool_date": "2026-10-11T10:00",
-  "status": "published",
-  "id": "in-2026-10-18-reel",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_claude_ws.mp4"
-   ],
-   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/reels11/news_claude_ws_cover.jpg"
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "when": "2026-10-12T21:00",
+    "topic": "Does ChatGPT Really Think? Explained in 30 Seconds",
+    "key": "en01_think",
+    "media": "youtube/shorts/en01_think.mp4",
+    "status": "published",
+    "id": "yo-2026-10-12-short",
+    "note": "English; went live 11 Oct",
+    "url": "https://youtube.com/shorts/PpXLYBofJUM"
   },
-  "yt_key": "fa_claude_ws",
-  "via": "uplika",
-  "uplika_post": "post_1f7f9ff9a1654547",
-  "url": "https://www.instagram.com/reel/Deor83ckfLs/"
- },
- {
-  "platform": "instagram",
-  "kind": "story",
-  "when": "2026-10-18T19:00",
-  "topic": "نکته‌ی روز: به جواب اول اعتماد نکن",
-  "media": [
-   "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/tip_1.jpg"
-  ],
-  "status": "published",
-  "id": "in-2026-10-18-story",
-  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone.",
-  "via": "uplika",
-  "uplika_post": "post_5a1522f72401fbd0",
-  "url": "https://www.instagram.com/stories/ehbehzad/4010739355882584002"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "lang": "fa",
-  "when": "2026-10-18T21:00",
-  "topic": "Claude حالا توی گوگل داکس، شیت و اسلاید کار می‌کنه",
-  "key": "fa_claude_ws",
-  "media": "youtube/shorts/fa_claude_ws.mp4",
-  "metricool_uuid": "",
-  "metricool_date": "",
-  "status": "queued",
-  "id": "yo-2026-10-18-short"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "lang": "fa",
-  "when": "2026-10-19T10:00",
-  "topic": "فرمول پرامپت عکس در ChatGPT | ساخت عکس با هوش مصنوعی",
-  "key": "fa_imgprompt",
-  "media": "youtube/shorts/fa_imgprompt.mp4",
-  "metricool_uuid": "3449025745297489947",
-  "metricool_date": "2026-10-12T21:00",
-  "status": "queued",
-  "id": "yo-2026-10-19-short"
- },
- {
-  "platform": "instagram",
-  "kind": "carousel",
-  "when": "2026-10-19T16:00",
-  "topic": "۵ اشتباه با هوش مصنوعی",
-  "metricool_uuid": "5493370638966017409",
-  "metricool_date": "2026-10-15T10:00",
-  "status": "published",
-  "id": "in-2026-10-19-carousel",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c6_mistakes/01.jpg",
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c6_mistakes/02.jpg",
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c6_mistakes/03.jpg",
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c6_mistakes/04.jpg"
-   ]
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "when": "2026-10-13T10:00",
+    "topic": "Claude Now Works Inside Google Docs, Sheets & Slides",
+    "key": "en02_claude_ws",
+    "media": "youtube/shorts/en02_claude_ws.mp4",
+    "status": "published",
+    "id": "yo-2026-10-13-short",
+    "note": "English; went live 12 Oct",
+    "url": "https://youtube.com/shorts/enrBVCh3tYQ"
   },
-  "via": "uplika",
-  "uplika_post": "post_409e83878131e349",
-  "url": "https://www.instagram.com/p/DerQ0Bqj-DM/"
- },
- {
-  "platform": "instagram",
-  "kind": "story",
-  "when": "2026-10-19T19:00",
-  "topic": "ابزار رایگان: Suno",
-  "media": [
-   "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/st_suno.mp4"
-  ],
-  "status": "published",
-  "id": "in-2026-10-19-story",
-  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone.",
-  "via": "uplika",
-  "uplika_post": "post_fc3af76a8b67e5cf",
-  "url": "https://www.instagram.com/stories/ehbehzad/4011464593900675970"
- },
- {
-  "platform": "instagram",
-  "kind": "reel",
-  "when": "2026-10-19T21:00",
-  "topic": "فرمول پرامپت عکس",
-  "metricool_uuid": "6848124961263274650",
-  "metricool_date": "2026-10-12T16:00",
-  "status": "published",
-  "id": "in-2026-10-19-reel",
-  "yt_key": "fa_imgprompt",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_imgprompt.mp4"
-   ],
-   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel19_imgprompt.jpg"
+  {
+    "platform": "instagram",
+    "kind": "carousel",
+    "when": "2026-10-13T16:00",
+    "topic": "خلاصه‌ی خبرهای هفته",
+    "metricool_uuid": "7557742734752303249",
+    "metricool_date": "2026-10-13T16:00",
+    "status": "skipped",
+    "id": "in-2026-10-13-carousel",
+    "note": "weekly news roundup of 11 Oct is stale; not posted (17 Oct)"
   },
-  "via": "uplika",
-  "uplika_post": "post_5d2031fa3481813a",
-  "url": "https://www.instagram.com/reel/DerzHSDlB9s/"
- },
- {
-  "platform": "instagram",
-  "kind": "reel",
-  "when": "2026-10-20T10:00",
-  "topic": "ادیت عکس با ChatGPT",
-  "metricool_uuid": "7748542105142839202",
-  "metricool_date": "2026-10-13T21:00",
-  "status": "published",
-  "id": "in-2026-10-20-reel",
-  "yt_key": "fa_edit",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_edit.mp4"
-   ],
-   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel20_edit.jpg"
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "when": "2026-10-14T16:00",
+    "topic": "The 4-Part ChatGPT Image Prompt Formula",
+    "key": "en03_imgprompt",
+    "media": "youtube/shorts/en03_imgprompt.mp4",
+    "status": "cancelled",
+    "id": "yo-2026-10-14-short",
+    "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
   },
-  "via": "uplika",
-  "uplika_post": "post_599a3102362e0665",
-  "url": "https://www.instagram.com/reel/DetMYAcFZ8g/"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "lang": "fa",
-  "when": "2026-10-20T16:00",
-  "topic": "ادیت عکس با ChatGPT بدون فتوشاپ",
-  "key": "fa_edit",
-  "media": "youtube/shorts/fa_edit.mp4",
-  "metricool_uuid": "2162193197612024971",
-  "metricool_date": "2026-10-13T10:00",
-  "status": "queued",
-  "id": "yo-2026-10-20-short"
- },
- {
-  "platform": "instagram",
-  "kind": "story",
-  "when": "2026-10-20T19:00",
-  "topic": "نکته‌ی روز: هر چیز سخت رو ساده بخواه",
-  "media": [
-   "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/tip_2.jpg"
-  ],
-  "status": "published",
-  "id": "in-2026-10-20-story",
-  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone.",
-  "via": "uplika",
-  "uplika_post": "post_7eab90fd5961f2bb",
-  "url": "https://www.instagram.com/stories/ehbehzad/4012188945244685765"
- },
- {
-  "platform": "instagram",
-  "kind": "carousel",
-  "when": "2026-10-20T21:00",
-  "topic": "پرامپت مخصوص هر شغل",
-  "metricool_uuid": "8739003403456038578",
-  "metricool_date": "2026-10-16T16:00",
-  "status": "published",
-  "id": "in-2026-10-20-carousel",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c7_jobs/01.jpg",
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c7_jobs/02.jpg",
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c7_jobs/03.jpg",
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c7_jobs/04.jpg",
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c7_jobs/05.jpg"
-   ]
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "when": "2026-10-15T21:00",
+    "topic": "Edit Photos Inside ChatGPT, No Photoshop Needed",
+    "key": "en04_edit",
+    "media": "youtube/shorts/en04_edit.mp4",
+    "status": "cancelled",
+    "id": "yo-2026-10-15-short",
+    "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
   },
-  "via": "uplika",
-  "uplika_post": "post_c3b30a53e156d44e",
-  "url": "https://www.instagram.com/p/DeuX8EVDxQc/"
- },
- {
-  "platform": "instagram",
-  "kind": "carousel",
-  "when": "2026-10-21T10:00",
-  "topic": "چک‌لیست ۶ مورد سایت (طراحی سایت)",
-  "metricool_uuid": "4853501713172025095",
-  "metricool_date": "2026-10-17T21:00",
-  "status": "scheduled",
-  "id": "in-2026-10-21-carousel",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c8_website/01.jpg",
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c8_website/02.jpg",
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c8_website/03.jpg",
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c8_website/04.jpg"
-   ]
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "when": "2026-10-16T10:00",
+    "topic": "From Doodle to Full Image with ChatGPT Sketch",
+    "key": "en05_sketch",
+    "media": "youtube/shorts/en05_sketch.mp4",
+    "status": "cancelled",
+    "id": "yo-2026-10-16-short",
+    "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
   },
-  "via": "uplika",
-  "uplika_post": "post_55675bf34f277167"
- },
- {
-  "platform": "instagram",
-  "kind": "reel",
-  "when": "2026-10-21T16:00",
-  "topic": "Sketch: از خط‌خطی تا تصویر",
-  "metricool_uuid": "-2791165289377937338",
-  "metricool_date": "2026-10-14T10:00",
-  "status": "scheduled",
-  "id": "in-2026-10-21-reel",
-  "yt_key": "fa_sketch",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_sketch.mp4"
-   ],
-   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel21_sketch.jpg"
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "when": "2026-10-17T16:00",
+    "topic": "Can ChatGPT Make Videos? The Honest Answer",
+    "key": "en06_video",
+    "media": "youtube/shorts/en06_video.mp4",
+    "status": "cancelled",
+    "id": "yo-2026-10-17-short",
+    "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
   },
-  "via": "uplika",
-  "uplika_post": "post_0553762d552d8ab8"
- },
- {
-  "platform": "instagram",
-  "kind": "story",
-  "when": "2026-10-21T19:00",
-  "topic": "ابزار رایگان: Gemini Notebook",
-  "media": [
-   "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/st_notebook.mp4"
-  ],
-  "status": "scheduled",
-  "id": "in-2026-10-21-story",
-  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone.",
-  "via": "uplika",
-  "uplika_post": "post_0beb38454131356e"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "lang": "fa",
-  "when": "2026-10-21T21:00",
-  "topic": "از خط‌خطی تا تصویر کامل با ChatGPT | قابلیت Sketch",
-  "key": "fa_sketch",
-  "media": "youtube/shorts/fa_sketch.mp4",
-  "metricool_uuid": "-7922332044340019025",
-  "metricool_date": "2026-10-14T16:00",
-  "status": "queued",
-  "id": "yo-2026-10-21-short"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "lang": "fa",
-  "when": "2026-10-22T10:00",
-  "topic": "ChatGPT می‌تونه ویدیو بسازه؟ جواب صادقانه",
-  "key": "fa_video",
-  "media": "youtube/shorts/fa_video.mp4",
-  "metricool_uuid": "-4211246903355946898",
-  "metricool_date": "2026-10-15T21:00",
-  "status": "queued",
-  "id": "yo-2026-10-22-short"
- },
- {
-  "platform": "instagram",
-  "kind": "carousel",
-  "when": "2026-10-22T16:00",
-  "topic": "GPT-6 برای همه + ۶ پرامپت",
-  "metricool_uuid": "-4018271053849214172",
-  "metricool_date": "2026-10-11T16:00",
-  "status": "scheduled",
-  "id": "in-2026-10-22-carousel",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c1_gpt6/01.jpg",
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c1_gpt6/02.jpg",
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c1_gpt6/03.jpg",
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c1_gpt6/04.jpg",
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c1_gpt6/05.jpg",
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c1_gpt6/06.jpg"
-   ]
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "when": "2026-10-18T21:00",
+    "topic": "The AI Video Prompt Formula That Works Everywhere",
+    "key": "en07_vprompt",
+    "media": "youtube/shorts/en07_vprompt.mp4",
+    "status": "cancelled",
+    "id": "yo-2026-10-18-short",
+    "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
   },
-  "via": "uplika",
-  "uplika_post": "post_45f60f2d66b80a27"
- },
- {
-  "platform": "instagram",
-  "kind": "story",
-  "when": "2026-10-22T19:00",
-  "topic": "نکته‌ی روز: متن طولانی؟ ۳ خط بخواه",
-  "media": [
-   "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/tip_3.jpg"
-  ],
-  "status": "scheduled",
-  "id": "in-2026-10-22-story",
-  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone.",
-  "via": "uplika",
-  "uplika_post": "post_5d6b7443e1b3d29e"
- },
- {
-  "platform": "instagram",
-  "kind": "reel",
-  "when": "2026-10-22T21:00",
-  "topic": "ChatGPT ویدیو می‌سازه؟",
-  "metricool_uuid": "-7732423347664695699",
-  "metricool_date": "2026-10-15T16:00",
-  "status": "scheduled",
-  "id": "in-2026-10-22-reel",
-  "yt_key": "fa_video",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_video.mp4"
-   ],
-   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel22_video.jpg"
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "when": "2026-10-19T10:00",
+    "topic": "Easiest Way to Make AI Video: Image First, Then Animate",
+    "key": "en08_img2vid",
+    "media": "youtube/shorts/en08_img2vid.mp4",
+    "status": "cancelled",
+    "id": "yo-2026-10-19-short",
+    "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
   },
-  "via": "uplika",
-  "uplika_post": "post_b66dacbaead485a8"
- },
- {
-  "platform": "instagram",
-  "kind": "reel",
-  "when": "2026-10-23T10:00",
-  "topic": "فرمول پرامپت ویدیو",
-  "metricool_uuid": "6692371980436719945",
-  "metricool_date": "2026-10-16T21:00",
-  "status": "queued",
-  "id": "in-2026-10-23-reel",
-  "yt_key": "fa_vprompt",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_vprompt.mp4"
-   ],
-   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel23_vprompt.jpg"
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "when": "2026-10-20T16:00",
+    "topic": "Turn AI Into Your Personal Tutor (Copy This Prompt)",
+    "key": "en09_teacher",
+    "media": "youtube/shorts/en09_teacher.mp4",
+    "status": "cancelled",
+    "id": "yo-2026-10-20-short",
+    "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "when": "2026-10-21T21:00",
+    "topic": "3 Things AI Can Do With Just One Photo",
+    "key": "en10_photo",
+    "media": "youtube/shorts/en10_photo.mp4",
+    "status": "cancelled",
+    "id": "yo-2026-10-21-short",
+    "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "when": "2026-10-22T10:00",
+    "topic": "5 Things AI Does for You in 1 Minute",
+    "key": "en11_tasks",
+    "media": "youtube/shorts/en11_tasks.mp4",
+    "status": "cancelled",
+    "id": "yo-2026-10-22-short",
+    "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "when": "2026-10-23T16:00",
+    "topic": "Practice Job Interviews With AI (Copy This Prompt)",
+    "key": "en12_interview",
+    "media": "youtube/shorts/en12_interview.mp4",
+    "status": "cancelled",
+    "id": "yo-2026-10-23-short",
+    "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "when": "2026-10-24T21:00",
+    "topic": "Practice Speaking Any Language With AI, 10 Minutes a Day",
+    "key": "en13_language",
+    "media": "youtube/shorts/en13_language.mp4",
+    "status": "cancelled",
+    "id": "yo-2026-10-24-short",
+    "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "when": "2026-10-25T10:00",
+    "topic": "3 Phrases That Make ChatGPT's Answers Way Better",
+    "key": "en14_phrases",
+    "media": "youtube/shorts/en14_phrases.mp4",
+    "status": "cancelled",
+    "id": "yo-2026-10-25-short",
+    "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "when": "2026-10-26T16:00",
+    "topic": "3 Things You Shouldn't Hand Over to AI",
+    "key": "en15_dont",
+    "media": "youtube/shorts/en15_dont.mp4",
+    "status": "cancelled",
+    "id": "yo-2026-10-26-short",
+    "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "when": "2026-10-27T21:00",
+    "topic": "Write Instagram Captions With AI (Copy This Prompt)",
+    "key": "en16_caption",
+    "media": "youtube/shorts/en16_caption.mp4",
+    "status": "cancelled",
+    "id": "yo-2026-10-27-short",
+    "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "when": "2026-10-28T10:00",
+    "topic": "Stuck Between Two Choices? Try This AI Prompt",
+    "key": "en17_decide",
+    "media": "youtube/shorts/en17_decide.mp4",
+    "status": "cancelled",
+    "id": "yo-2026-10-28-short",
+    "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "when": "2026-10-29T16:00",
+    "topic": "Let AI Roast Your Resume Before a Recruiter Does",
+    "key": "en18_resume",
+    "media": "youtube/shorts/en18_resume.mp4",
+    "status": "cancelled",
+    "id": "yo-2026-10-29-short",
+    "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "when": "2026-10-30T21:00",
+    "topic": "Learn Any Skill in 30 Days With an AI Plan",
+    "key": "en19_skill",
+    "media": "youtube/shorts/en19_skill.mp4",
+    "status": "cancelled",
+    "id": "yo-2026-10-30-short",
+    "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "when": "2026-10-31T10:00",
+    "topic": "Hard to Say No? Let AI Write It for You",
+    "key": "en20_no",
+    "media": "youtube/shorts/en20_no.mp4",
+    "status": "cancelled",
+    "id": "yo-2026-10-31-short",
+    "note": "English YouTube Shorts cancelled by the owner on 17 Oct 2026"
+  },
+  {
+    "platform": "instagram",
+    "kind": "carousel",
+    "when": "2026-10-12T19:00",
+    "topic": "۸ پرامپت آماده‌ی روزانه",
+    "metricool_uuid": "-3084739721890149245",
+    "metricool_date": "2026-10-12T10:00",
+    "status": "published",
+    "id": "in-2026-10-12-carousel",
+    "url": "https://www.instagram.com/p/DeZj43iiOTh/",
+    "note": "published by the Chrome publisher on 12 Oct"
+  },
+  {
+    "platform": "instagram",
+    "kind": "carousel",
+    "when": "2026-10-18T10:00",
+    "topic": "۶ کانال یوتیوب آموزش AI",
+    "metricool_uuid": "-7740810086580074371",
+    "metricool_date": "2026-10-14T21:00",
+    "status": "published",
+    "id": "in-2026-10-18-carousel",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c5_channels/01.jpg",
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c5_channels/02.jpg",
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c5_channels/03.jpg",
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c5_channels/04.jpg",
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c5_channels/05.jpg"
+      ]
+    },
+    "via": "uplika",
+    "uplika_post": "post_db474eaffe251272",
+    "url": "https://www.instagram.com/p/DeoCzANDwV6/"
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "when": "2026-10-18T16:00",
+    "topic": "خبر: Claude در گوگل داکس، شیت و اسلاید",
+    "metricool_uuid": "-661815568252124700",
+    "metricool_date": "2026-10-11T10:00",
+    "status": "published",
+    "id": "in-2026-10-18-reel",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_claude_ws.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/reels11/news_claude_ws_cover.jpg"
+    },
+    "yt_key": "fa_claude_ws",
+    "via": "uplika",
+    "uplika_post": "post_1f7f9ff9a1654547",
+    "url": "https://www.instagram.com/reel/Deor83ckfLs/"
+  },
+  {
+    "platform": "instagram",
+    "kind": "story",
+    "when": "2026-10-18T19:00",
+    "topic": "نکته‌ی روز: به جواب اول اعتماد نکن",
+    "media": [
+      "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/tip_1.jpg"
+    ],
+    "status": "published",
+    "id": "in-2026-10-18-story",
+    "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone.",
+    "via": "uplika",
+    "uplika_post": "post_5a1522f72401fbd0",
+    "url": "https://www.instagram.com/stories/ehbehzad/4010739355882584002"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-10-18T21:00",
+    "topic": "Claude حالا توی گوگل داکس، شیت و اسلاید کار می‌کنه",
+    "key": "fa_claude_ws",
+    "media": "youtube/shorts/fa_claude_ws.mp4",
+    "metricool_uuid": "",
+    "metricool_date": "",
+    "status": "queued",
+    "id": "yo-2026-10-18-short"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-10-19T10:00",
+    "topic": "فرمول پرامپت عکس در ChatGPT | ساخت عکس با هوش مصنوعی",
+    "key": "fa_imgprompt",
+    "media": "youtube/shorts/fa_imgprompt.mp4",
+    "metricool_uuid": "3449025745297489947",
+    "metricool_date": "2026-10-12T21:00",
+    "status": "queued",
+    "id": "yo-2026-10-19-short"
+  },
+  {
+    "platform": "instagram",
+    "kind": "carousel",
+    "when": "2026-10-19T16:00",
+    "topic": "۵ اشتباه با هوش مصنوعی",
+    "metricool_uuid": "5493370638966017409",
+    "metricool_date": "2026-10-15T10:00",
+    "status": "published",
+    "id": "in-2026-10-19-carousel",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c6_mistakes/01.jpg",
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c6_mistakes/02.jpg",
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c6_mistakes/03.jpg",
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c6_mistakes/04.jpg"
+      ]
+    },
+    "via": "uplika",
+    "uplika_post": "post_409e83878131e349",
+    "url": "https://www.instagram.com/p/DerQ0Bqj-DM/"
+  },
+  {
+    "platform": "instagram",
+    "kind": "story",
+    "when": "2026-10-19T19:00",
+    "topic": "ابزار رایگان: Suno",
+    "media": [
+      "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/st_suno.mp4"
+    ],
+    "status": "published",
+    "id": "in-2026-10-19-story",
+    "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone.",
+    "via": "uplika",
+    "uplika_post": "post_fc3af76a8b67e5cf",
+    "url": "https://www.instagram.com/stories/ehbehzad/4011464593900675970"
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "when": "2026-10-19T21:00",
+    "topic": "فرمول پرامپت عکس",
+    "metricool_uuid": "6848124961263274650",
+    "metricool_date": "2026-10-12T16:00",
+    "status": "published",
+    "id": "in-2026-10-19-reel",
+    "yt_key": "fa_imgprompt",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_imgprompt.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel19_imgprompt.jpg"
+    },
+    "via": "uplika",
+    "uplika_post": "post_5d2031fa3481813a",
+    "url": "https://www.instagram.com/reel/DerzHSDlB9s/"
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "when": "2026-10-20T10:00",
+    "topic": "ادیت عکس با ChatGPT",
+    "metricool_uuid": "7748542105142839202",
+    "metricool_date": "2026-10-13T21:00",
+    "status": "published",
+    "id": "in-2026-10-20-reel",
+    "yt_key": "fa_edit",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_edit.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel20_edit.jpg"
+    },
+    "via": "uplika",
+    "uplika_post": "post_599a3102362e0665",
+    "url": "https://www.instagram.com/reel/DetMYAcFZ8g/"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-10-20T16:00",
+    "topic": "ادیت عکس با ChatGPT بدون فتوشاپ",
+    "key": "fa_edit",
+    "media": "youtube/shorts/fa_edit.mp4",
+    "metricool_uuid": "2162193197612024971",
+    "metricool_date": "2026-10-13T10:00",
+    "status": "queued",
+    "id": "yo-2026-10-20-short"
+  },
+  {
+    "platform": "instagram",
+    "kind": "story",
+    "when": "2026-10-20T19:00",
+    "topic": "نکته‌ی روز: هر چیز سخت رو ساده بخواه",
+    "media": [
+      "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/tip_2.jpg"
+    ],
+    "status": "published",
+    "id": "in-2026-10-20-story",
+    "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone.",
+    "via": "uplika",
+    "uplika_post": "post_7eab90fd5961f2bb",
+    "url": "https://www.instagram.com/stories/ehbehzad/4012188945244685765"
+  },
+  {
+    "platform": "instagram",
+    "kind": "carousel",
+    "when": "2026-10-20T21:00",
+    "topic": "پرامپت مخصوص هر شغل",
+    "metricool_uuid": "8739003403456038578",
+    "metricool_date": "2026-10-16T16:00",
+    "status": "published",
+    "id": "in-2026-10-20-carousel",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c7_jobs/01.jpg",
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c7_jobs/02.jpg",
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c7_jobs/03.jpg",
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c7_jobs/04.jpg",
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c7_jobs/05.jpg"
+      ]
+    },
+    "via": "uplika",
+    "uplika_post": "post_c3b30a53e156d44e",
+    "url": "https://www.instagram.com/p/DeuX8EVDxQc/"
+  },
+  {
+    "platform": "instagram",
+    "kind": "carousel",
+    "when": "2026-10-21T10:00",
+    "topic": "چک‌لیست ۶ مورد سایت (طراحی سایت)",
+    "metricool_uuid": "4853501713172025095",
+    "metricool_date": "2026-10-17T21:00",
+    "status": "published",
+    "id": "in-2026-10-21-carousel",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c8_website/01.jpg",
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c8_website/02.jpg",
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c8_website/03.jpg",
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c8_website/04.jpg"
+      ]
+    },
+    "via": "uplika",
+    "uplika_post": "post_55675bf34f277167",
+    "url": "https://www.instagram.com/p/DevxNSDj9gW/"
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "when": "2026-10-21T16:00",
+    "topic": "Sketch: از خط‌خطی تا تصویر",
+    "metricool_uuid": "-2791165289377937338",
+    "metricool_date": "2026-10-14T10:00",
+    "status": "published",
+    "id": "in-2026-10-21-reel",
+    "yt_key": "fa_sketch",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_sketch.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel21_sketch.jpg"
+    },
+    "via": "uplika",
+    "uplika_post": "post_0553762d552d8ab8",
+    "url": "https://www.instagram.com/reel/DewaaBbDpDA/"
+  },
+  {
+    "platform": "instagram",
+    "kind": "story",
+    "when": "2026-10-21T19:00",
+    "topic": "ابزار رایگان: Gemini Notebook",
+    "media": [
+      "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/st_notebook.mp4"
+    ],
+    "status": "published",
+    "id": "in-2026-10-21-story",
+    "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone.",
+    "via": "uplika",
+    "uplika_post": "post_0beb38454131356e",
+    "url": "https://www.instagram.com/stories/ehbehzad/4012914144332157848"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-10-21T21:00",
+    "topic": "از خط‌خطی تا تصویر کامل با ChatGPT | قابلیت Sketch",
+    "key": "fa_sketch",
+    "media": "youtube/shorts/fa_sketch.mp4",
+    "metricool_uuid": "-7922332044340019025",
+    "metricool_date": "2026-10-14T16:00",
+    "status": "queued",
+    "id": "yo-2026-10-21-short"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-10-22T10:00",
+    "topic": "ChatGPT می‌تونه ویدیو بسازه؟ جواب صادقانه",
+    "key": "fa_video",
+    "media": "youtube/shorts/fa_video.mp4",
+    "metricool_uuid": "-4211246903355946898",
+    "metricool_date": "2026-10-15T21:00",
+    "status": "queued",
+    "id": "yo-2026-10-22-short"
+  },
+  {
+    "platform": "instagram",
+    "kind": "carousel",
+    "when": "2026-10-22T16:00",
+    "topic": "GPT-6 برای همه + ۶ پرامپت",
+    "metricool_uuid": "-4018271053849214172",
+    "metricool_date": "2026-10-11T16:00",
+    "status": "scheduled",
+    "id": "in-2026-10-22-carousel",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c1_gpt6/01.jpg",
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c1_gpt6/02.jpg",
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c1_gpt6/03.jpg",
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c1_gpt6/04.jpg",
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c1_gpt6/05.jpg",
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c1_gpt6/06.jpg"
+      ]
+    },
+    "via": "uplika",
+    "uplika_post": "post_45f60f2d66b80a27"
+  },
+  {
+    "platform": "instagram",
+    "kind": "story",
+    "when": "2026-10-22T19:00",
+    "topic": "نکته‌ی روز: متن طولانی؟ ۳ خط بخواه",
+    "media": [
+      "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/tip_3.jpg"
+    ],
+    "status": "scheduled",
+    "id": "in-2026-10-22-story",
+    "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone.",
+    "via": "uplika",
+    "uplika_post": "post_5d6b7443e1b3d29e"
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "when": "2026-10-22T21:00",
+    "topic": "ChatGPT ویدیو می‌سازه؟",
+    "metricool_uuid": "-7732423347664695699",
+    "metricool_date": "2026-10-15T16:00",
+    "status": "scheduled",
+    "id": "in-2026-10-22-reel",
+    "yt_key": "fa_video",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_video.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel22_video.jpg"
+    },
+    "via": "uplika",
+    "uplika_post": "post_b66dacbaead485a8"
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "when": "2026-10-23T10:00",
+    "topic": "فرمول پرامپت ویدیو",
+    "metricool_uuid": "6692371980436719945",
+    "metricool_date": "2026-10-16T21:00",
+    "status": "scheduled",
+    "id": "in-2026-10-23-reel",
+    "yt_key": "fa_vprompt",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_vprompt.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel23_vprompt.jpg"
+    },
+    "via": "uplika",
+    "uplika_post": "post_56e3e051182b1ad0"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-10-23T16:00",
+    "topic": "فرمول پرامپت ویدیو برای هوش مصنوعی",
+    "key": "fa_vprompt",
+    "media": "youtube/shorts/fa_vprompt.mp4",
+    "metricool_uuid": "-4022450734377711272",
+    "metricool_date": "2026-10-16T10:00",
+    "status": "queued",
+    "id": "yo-2026-10-23-short"
+  },
+  {
+    "platform": "instagram",
+    "kind": "story",
+    "when": "2026-10-23T19:00",
+    "topic": "ابزار رایگان: Perplexity",
+    "media": [
+      "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/st_perplexity.mp4"
+    ],
+    "status": "scheduled",
+    "id": "in-2026-10-23-story",
+    "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone.",
+    "via": "uplika",
+    "uplika_post": "post_7a8519bedf0c9faa"
+  },
+  {
+    "platform": "instagram",
+    "kind": "carousel",
+    "when": "2026-10-23T21:00",
+    "topic": "۶ ابزار رایگان هوش مصنوعی",
+    "metricool_uuid": "7230705970948555791",
+    "metricool_date": "2026-10-11T21:00",
+    "status": "scheduled",
+    "id": "in-2026-10-23-carousel",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c2_tools/01.jpg",
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c2_tools/02.jpg",
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c2_tools/03.jpg",
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c2_tools/04.jpg",
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c2_tools/05.jpg"
+      ]
+    },
+    "via": "uplika",
+    "uplika_post": "post_6a85d764890cc7a4"
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "when": "2026-10-24T16:00",
+    "topic": "پیج اینستاگرامت مال تو نیست (طراحی سایت)",
+    "metricool_uuid": "-415557555638812148",
+    "metricool_date": "2026-10-24T16:00",
+    "status": "queued",
+    "id": "in-2026-10-24-reel",
+    "yt_key": "fa_insta",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_insta.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_web1_page.jpg"
+    }
+  },
+  {
+    "platform": "instagram",
+    "kind": "story",
+    "when": "2026-10-24T19:00",
+    "topic": "نکته‌ی روز: بین چند گزینه؟ جدول بخواه",
+    "media": [
+      "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/tip_4.jpg"
+    ],
+    "status": "queued",
+    "id": "in-2026-10-24-story",
+    "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone."
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-10-24T21:00",
+    "topic": "چرا پیج اینستاگرام کافی نیست؟ | کسب‌وکارت سایت می‌خواد",
+    "key": "fa_insta",
+    "media": "youtube/shorts/fa_insta.mp4",
+    "metricool_uuid": "6214700056164057610",
+    "metricool_date": "2026-10-09T16:00",
+    "status": "queued",
+    "id": "yo-2026-10-24-short"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-10-25T10:00",
+    "topic": "ساخت ویدیو با هوش مصنوعی: اول عکس بساز، بعد زنده‌ش کن",
+    "key": "fa_img2vid",
+    "media": "youtube/shorts/fa_img2vid.mp4",
+    "metricool_uuid": "-5356592315910697820",
+    "metricool_date": "2026-10-17T16:00",
+    "status": "queued",
+    "id": "yo-2026-10-25-short"
+  },
+  {
+    "platform": "instagram",
+    "kind": "story",
+    "when": "2026-10-25T19:00",
+    "topic": "ابزار رایگان: Gamma",
+    "media": [
+      "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/st_gamma.mp4"
+    ],
+    "status": "queued",
+    "id": "in-2026-10-25-story",
+    "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone."
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "when": "2026-10-25T21:00",
+    "topic": "اول عکس، بعد ویدیو",
+    "metricool_uuid": "-51815492003544779",
+    "metricool_date": "2026-10-17T10:00",
+    "status": "queued",
+    "id": "in-2026-10-25-reel",
+    "yt_key": "fa_img2vid",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_img2vid.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel24_img2vid.jpg"
+    }
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "when": "2026-10-26T10:00",
+    "topic": "هوش مصنوعی معلم خصوصی",
+    "metricool_uuid": "-642830934189980614",
+    "metricool_date": "2026-10-18T16:00",
+    "status": "queued",
+    "id": "in-2026-10-26-reel",
+    "yt_key": "fa_teacher",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_teacher.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel7_teacher.jpg"
+    }
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-10-26T16:00",
+    "topic": "هوش مصنوعی رو معلم خصوصی‌ت کن | پرامپت آماده",
+    "key": "fa_teacher",
+    "media": "youtube/shorts/fa_teacher.mp4",
+    "metricool_uuid": "-583038662890667093",
+    "metricool_date": "2026-10-18T21:00",
+    "status": "queued",
+    "id": "yo-2026-10-26-short"
+  },
+  {
+    "platform": "instagram",
+    "kind": "story",
+    "when": "2026-10-26T19:00",
+    "topic": "نکته‌ی روز: لحن پیامت رو چک کن",
+    "media": [
+      "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/tip_5.jpg"
+    ],
+    "status": "queued",
+    "id": "in-2026-10-26-story",
+    "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone."
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "when": "2026-10-27T16:00",
+    "topic": "فقط یه عکس بده",
+    "metricool_uuid": "8901563185603628675",
+    "metricool_date": "2026-10-19T21:00",
+    "status": "queued",
+    "id": "in-2026-10-27-reel",
+    "yt_key": "fa_photo",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_photo.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel8_photo.jpg"
+    }
+  },
+  {
+    "platform": "instagram",
+    "kind": "story",
+    "when": "2026-10-27T19:00",
+    "topic": "ابزار رایگان: Napkin",
+    "media": [
+      "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/st_napkin.mp4"
+    ],
+    "status": "queued",
+    "id": "in-2026-10-27-story",
+    "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone."
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-10-27T21:00",
+    "topic": "فقط یه عکس بده و جواب بگیر | ۳ ترفند هوش مصنوعی",
+    "key": "fa_photo",
+    "media": "youtube/shorts/fa_photo.mp4",
+    "metricool_uuid": "-8911630040966673544",
+    "metricool_date": "2026-10-19T10:00",
+    "status": "queued",
+    "id": "yo-2026-10-27-short"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-10-28T10:00",
+    "topic": "۵ کاری که هوش مصنوعی در ۱ دقیقه برات انجام می‌ده",
+    "key": "fa_tasks",
+    "media": "youtube/shorts/fa_tasks.mp4",
+    "metricool_uuid": "6007307728183709306",
+    "metricool_date": "2026-10-20T16:00",
+    "status": "queued",
+    "id": "yo-2026-10-28-short"
+  },
+  {
+    "platform": "instagram",
+    "kind": "story",
+    "when": "2026-10-28T19:00",
+    "topic": "نکته‌ی روز: کار بزرگ؟ چک‌لیست بخواه",
+    "media": [
+      "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/tip_6.jpg"
+    ],
+    "status": "queued",
+    "id": "in-2026-10-28-story",
+    "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone."
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "when": "2026-10-28T21:00",
+    "topic": "۵ کار در ۱ دقیقه",
+    "metricool_uuid": "6968041368260462128",
+    "metricool_date": "2026-10-20T10:00",
+    "status": "queued",
+    "id": "in-2026-10-28-reel",
+    "yt_key": "fa_tasks",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_tasks.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel9_tasks.jpg"
+    }
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "when": "2026-10-29T10:00",
+    "topic": "تمرین مصاحبه‌ی کاری",
+    "metricool_uuid": "-8624930692332303810",
+    "metricool_date": "2026-10-21T16:00",
+    "status": "queued",
+    "id": "in-2026-10-29-reel",
+    "yt_key": "fa_interview",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_interview.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel10_interview.jpg"
+    }
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-10-29T16:00",
+    "topic": "تمرین مصاحبه‌ی کاری با هوش مصنوعی | پرامپت آماده",
+    "key": "fa_interview",
+    "media": "youtube/shorts/fa_interview.mp4",
+    "metricool_uuid": "880575222087239957",
+    "metricool_date": "2026-10-21T21:00",
+    "status": "queued",
+    "id": "yo-2026-10-29-short"
+  },
+  {
+    "platform": "instagram",
+    "kind": "story",
+    "when": "2026-10-29T19:00",
+    "topic": "ابزار رایگان: TurboScribe",
+    "media": [
+      "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/st_turboscribe.mp4"
+    ],
+    "status": "queued",
+    "id": "in-2026-10-29-story",
+    "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone."
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "when": "2026-10-30T16:00",
+    "topic": "سایت کند یعنی مشتری رفته (طراحی سایت)",
+    "metricool_uuid": "-6564507812620778913",
+    "metricool_date": "2026-10-30T16:00",
+    "status": "queued",
+    "id": "in-2026-10-30-reel",
+    "yt_key": "fa_speed",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_speed.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_web2_speed.jpg"
+    }
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-10-30T21:00",
+    "topic": "سایت کند یعنی مشتری رفته | ۳ ویژگی سایت پرفروش",
+    "key": "fa_speed",
+    "media": "youtube/shorts/fa_speed.mp4",
+    "metricool_uuid": "338289167354711333",
+    "metricool_date": "2026-10-10T16:00",
+    "status": "queued",
+    "id": "yo-2026-10-30-short"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-10-31T10:00",
+    "topic": "تمرین مکالمه‌ی انگلیسی با هوش مصنوعی | روزی ۱۰ دقیقه",
+    "key": "fa_english",
+    "media": "youtube/shorts/fa_english.mp4",
+    "metricool_uuid": "-1955133328616045130",
+    "metricool_date": "2026-10-22T10:00",
+    "status": "queued",
+    "id": "yo-2026-10-31-short"
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "when": "2026-10-31T21:00",
+    "topic": "مکالمه‌ی انگلیسی",
+    "metricool_uuid": "-4529746557893328670",
+    "metricool_date": "2026-10-22T21:00",
+    "status": "queued",
+    "id": "in-2026-10-31-reel",
+    "yt_key": "fa_english",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_english.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel11_english.jpg"
+    }
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "when": "2026-11-01T10:00",
+    "topic": "۳ جمله برای جواب بهتر",
+    "metricool_uuid": "-1664758064496750873",
+    "metricool_date": "2026-10-23T10:00",
+    "status": "queued",
+    "id": "in-2026-11-01-reel",
+    "yt_key": "fa_phrases",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_phrases.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel12_phrases.jpg"
+    }
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-11-01T16:00",
+    "topic": "۳ جمله که جواب ChatGPT رو چند برابر بهتر می‌کنه",
+    "key": "fa_phrases",
+    "media": "youtube/shorts/fa_phrases.mp4",
+    "metricool_uuid": "3971228787939362266",
+    "metricool_date": "2026-10-23T16:00",
+    "status": "queued",
+    "id": "yo-2026-11-01-short"
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "when": "2026-11-02T16:00",
+    "topic": "۳ کاری که نباید بسپاری",
+    "metricool_uuid": "5467700907011424616",
+    "metricool_date": "2026-10-24T16:00",
+    "status": "queued",
+    "id": "in-2026-11-02-reel",
+    "yt_key": "fa_dont",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_dont.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel13_dont.jpg"
+    }
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-11-02T21:00",
+    "topic": "۳ کاری که نباید به هوش مصنوعی بسپاری",
+    "key": "fa_dont",
+    "media": "youtube/shorts/fa_dont.mp4",
+    "metricool_uuid": "-3523643794431717602",
+    "metricool_date": "2026-10-24T21:00",
+    "status": "queued",
+    "id": "yo-2026-11-02-short"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-11-03T10:00",
+    "topic": "نوشتن کپشن اینستاگرام با هوش مصنوعی | پرامپت آماده",
+    "key": "fa_caption",
+    "media": "youtube/shorts/fa_caption.mp4",
+    "metricool_uuid": "6560825390450232002",
+    "metricool_date": "2026-10-25T10:00",
+    "status": "queued",
+    "id": "yo-2026-11-03-short"
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "when": "2026-11-03T21:00",
+    "topic": "کپشن اینستاگرام با AI",
+    "metricool_uuid": "5117316827222917434",
+    "metricool_date": "2026-10-25T21:00",
+    "status": "queued",
+    "id": "in-2026-11-03-reel",
+    "yt_key": "fa_caption",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_caption.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel14_caption.jpg"
+    }
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "when": "2026-11-04T10:00",
+    "topic": "تصمیم سخت",
+    "metricool_uuid": "8594292400012739134",
+    "metricool_date": "2026-10-26T10:00",
+    "status": "queued",
+    "id": "in-2026-11-04-reel",
+    "yt_key": "fa_decide",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_decide.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel15_decide.jpg"
+    }
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-11-04T16:00",
+    "topic": "تصمیم سخت داری؟ این پرامپت رو امتحان کن",
+    "key": "fa_decide",
+    "media": "youtube/shorts/fa_decide.mp4",
+    "metricool_uuid": "2549863008504727363",
+    "metricool_date": "2026-10-26T16:00",
+    "status": "queued",
+    "id": "yo-2026-11-04-short"
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "when": "2026-11-05T16:00",
+    "topic": "نقد رزومه",
+    "metricool_uuid": "1032403482078105447",
+    "metricool_date": "2026-10-27T16:00",
+    "status": "queued",
+    "id": "in-2026-11-05-reel",
+    "yt_key": "fa_resume",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_resume.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel16_resume.jpg"
+    }
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-11-05T21:00",
+    "topic": "نقد رزومه با هوش مصنوعی | پرامپت آماده",
+    "key": "fa_resume",
+    "media": "youtube/shorts/fa_resume.mp4",
+    "metricool_uuid": "-1716204608232601030",
+    "metricool_date": "2026-10-27T21:00",
+    "status": "queued",
+    "id": "yo-2026-11-05-short"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-11-06T10:00",
+    "topic": "یادگیری هر مهارت در ۳۰ روز با هوش مصنوعی",
+    "key": "fa_skill",
+    "media": "youtube/shorts/fa_skill.mp4",
+    "metricool_uuid": "-237537190376092633",
+    "metricool_date": "2026-10-28T10:00",
+    "status": "queued",
+    "id": "yo-2026-11-06-short"
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "when": "2026-11-06T21:00",
+    "topic": "مهارت در ۳۰ روز",
+    "metricool_uuid": "6481136569033441615",
+    "metricool_date": "2026-10-28T21:00",
+    "status": "queued",
+    "id": "in-2026-11-06-reel",
+    "yt_key": "fa_skill",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_skill.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel17_skill.jpg"
+    }
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "when": "2026-11-07T10:00",
+    "topic": "«نه» گفتن مؤدبانه",
+    "metricool_uuid": "-8281566411686526764",
+    "metricool_date": "2026-10-29T10:00",
+    "status": "queued",
+    "id": "in-2026-11-07-reel",
+    "yt_key": "fa_no",
+    "override": {
+      "media": [
+        "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_no.mp4"
+      ],
+      "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel18_no.jpg"
+    }
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-11-07T16:00",
+    "topic": "«نه» گفتن مؤدبانه با کمک هوش مصنوعی",
+    "key": "fa_no",
+    "media": "youtube/shorts/fa_no.mp4",
+    "metricool_uuid": "-3634242468234639708",
+    "metricool_date": "2026-10-29T16:00",
+    "status": "queued",
+    "id": "yo-2026-11-07-short"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-11-08T21:00",
+    "topic": "۳ اشتباه رایج در استفاده از هوش مصنوعی",
+    "key": "fa_mistakes",
+    "media": "youtube/shorts/fa_mistakes.mp4",
+    "metricool_uuid": "-605795397528891469",
+    "metricool_date": "2026-10-09T10:00",
+    "status": "queued",
+    "id": "yo-2026-11-08-short"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-11-09T10:00",
+    "topic": "پرامپتی که هر متنی رو حرفه‌ای می‌کنه | ChatGPT",
+    "key": "fa_rewrite",
+    "media": "youtube/shorts/fa_rewrite.mp4",
+    "metricool_uuid": "983693442281655736",
+    "metricool_date": "2026-10-10T10:00",
+    "status": "queued",
+    "id": "yo-2026-11-09-short"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-11-10T16:00",
+    "topic": "هوش مصنوعی شغلت رو می‌گیره؟ ۳ مهارتی که باید یاد بگیری",
+    "key": "fa_aijob",
+    "media": "youtube/shorts/fa_aijob.mp4",
+    "metricool_uuid": "-2782222933212837040",
+    "metricool_date": "2026-10-10T22:15",
+    "status": "queued",
+    "id": "yo-2026-11-10-short"
   }
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "lang": "fa",
-  "when": "2026-10-23T16:00",
-  "topic": "فرمول پرامپت ویدیو برای هوش مصنوعی",
-  "key": "fa_vprompt",
-  "media": "youtube/shorts/fa_vprompt.mp4",
-  "metricool_uuid": "-4022450734377711272",
-  "metricool_date": "2026-10-16T10:00",
-  "status": "queued",
-  "id": "yo-2026-10-23-short"
- },
- {
-  "platform": "instagram",
-  "kind": "story",
-  "when": "2026-10-23T19:00",
-  "topic": "ابزار رایگان: Perplexity",
-  "media": [
-   "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/st_perplexity.mp4"
-  ],
-  "status": "queued",
-  "id": "in-2026-10-23-story",
-  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone."
- },
- {
-  "platform": "instagram",
-  "kind": "carousel",
-  "when": "2026-10-23T21:00",
-  "topic": "۶ ابزار رایگان هوش مصنوعی",
-  "metricool_uuid": "7230705970948555791",
-  "metricool_date": "2026-10-11T21:00",
-  "status": "queued",
-  "id": "in-2026-10-23-carousel",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c2_tools/01.jpg",
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c2_tools/02.jpg",
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c2_tools/03.jpg",
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c2_tools/04.jpg",
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/carousels/c2_tools/05.jpg"
-   ]
-  }
- },
- {
-  "platform": "instagram",
-  "kind": "reel",
-  "when": "2026-10-24T16:00",
-  "topic": "پیج اینستاگرامت مال تو نیست (طراحی سایت)",
-  "metricool_uuid": "-415557555638812148",
-  "metricool_date": "2026-10-24T16:00",
-  "status": "queued",
-  "id": "in-2026-10-24-reel",
-  "yt_key": "fa_insta",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_insta.mp4"
-   ],
-   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_web1_page.jpg"
-  }
- },
- {
-  "platform": "instagram",
-  "kind": "story",
-  "when": "2026-10-24T19:00",
-  "topic": "نکته‌ی روز: بین چند گزینه؟ جدول بخواه",
-  "media": [
-   "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/tip_4.jpg"
-  ],
-  "status": "queued",
-  "id": "in-2026-10-24-story",
-  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone."
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "lang": "fa",
-  "when": "2026-10-24T21:00",
-  "topic": "چرا پیج اینستاگرام کافی نیست؟ | کسب‌وکارت سایت می‌خواد",
-  "key": "fa_insta",
-  "media": "youtube/shorts/fa_insta.mp4",
-  "metricool_uuid": "6214700056164057610",
-  "metricool_date": "2026-10-09T16:00",
-  "status": "queued",
-  "id": "yo-2026-10-24-short"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "lang": "fa",
-  "when": "2026-10-25T10:00",
-  "topic": "ساخت ویدیو با هوش مصنوعی: اول عکس بساز، بعد زنده‌ش کن",
-  "key": "fa_img2vid",
-  "media": "youtube/shorts/fa_img2vid.mp4",
-  "metricool_uuid": "-5356592315910697820",
-  "metricool_date": "2026-10-17T16:00",
-  "status": "queued",
-  "id": "yo-2026-10-25-short"
- },
- {
-  "platform": "instagram",
-  "kind": "story",
-  "when": "2026-10-25T19:00",
-  "topic": "ابزار رایگان: Gamma",
-  "media": [
-   "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/st_gamma.mp4"
-  ],
-  "status": "queued",
-  "id": "in-2026-10-25-story",
-  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone."
- },
- {
-  "platform": "instagram",
-  "kind": "reel",
-  "when": "2026-10-25T21:00",
-  "topic": "اول عکس، بعد ویدیو",
-  "metricool_uuid": "-51815492003544779",
-  "metricool_date": "2026-10-17T10:00",
-  "status": "queued",
-  "id": "in-2026-10-25-reel",
-  "yt_key": "fa_img2vid",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_img2vid.mp4"
-   ],
-   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel24_img2vid.jpg"
-  }
- },
- {
-  "platform": "instagram",
-  "kind": "reel",
-  "when": "2026-10-26T10:00",
-  "topic": "هوش مصنوعی معلم خصوصی",
-  "metricool_uuid": "-642830934189980614",
-  "metricool_date": "2026-10-18T16:00",
-  "status": "queued",
-  "id": "in-2026-10-26-reel",
-  "yt_key": "fa_teacher",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_teacher.mp4"
-   ],
-   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel7_teacher.jpg"
-  }
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "lang": "fa",
-  "when": "2026-10-26T16:00",
-  "topic": "هوش مصنوعی رو معلم خصوصی‌ت کن | پرامپت آماده",
-  "key": "fa_teacher",
-  "media": "youtube/shorts/fa_teacher.mp4",
-  "metricool_uuid": "-583038662890667093",
-  "metricool_date": "2026-10-18T21:00",
-  "status": "queued",
-  "id": "yo-2026-10-26-short"
- },
- {
-  "platform": "instagram",
-  "kind": "story",
-  "when": "2026-10-26T19:00",
-  "topic": "نکته‌ی روز: لحن پیامت رو چک کن",
-  "media": [
-   "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/tip_5.jpg"
-  ],
-  "status": "queued",
-  "id": "in-2026-10-26-story",
-  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone."
- },
- {
-  "platform": "instagram",
-  "kind": "reel",
-  "when": "2026-10-27T16:00",
-  "topic": "فقط یه عکس بده",
-  "metricool_uuid": "8901563185603628675",
-  "metricool_date": "2026-10-19T21:00",
-  "status": "queued",
-  "id": "in-2026-10-27-reel",
-  "yt_key": "fa_photo",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_photo.mp4"
-   ],
-   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel8_photo.jpg"
-  }
- },
- {
-  "platform": "instagram",
-  "kind": "story",
-  "when": "2026-10-27T19:00",
-  "topic": "ابزار رایگان: Napkin",
-  "media": [
-   "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/st_napkin.mp4"
-  ],
-  "status": "queued",
-  "id": "in-2026-10-27-story",
-  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone."
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "lang": "fa",
-  "when": "2026-10-27T21:00",
-  "topic": "فقط یه عکس بده و جواب بگیر | ۳ ترفند هوش مصنوعی",
-  "key": "fa_photo",
-  "media": "youtube/shorts/fa_photo.mp4",
-  "metricool_uuid": "-8911630040966673544",
-  "metricool_date": "2026-10-19T10:00",
-  "status": "queued",
-  "id": "yo-2026-10-27-short"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "lang": "fa",
-  "when": "2026-10-28T10:00",
-  "topic": "۵ کاری که هوش مصنوعی در ۱ دقیقه برات انجام می‌ده",
-  "key": "fa_tasks",
-  "media": "youtube/shorts/fa_tasks.mp4",
-  "metricool_uuid": "6007307728183709306",
-  "metricool_date": "2026-10-20T16:00",
-  "status": "queued",
-  "id": "yo-2026-10-28-short"
- },
- {
-  "platform": "instagram",
-  "kind": "story",
-  "when": "2026-10-28T19:00",
-  "topic": "نکته‌ی روز: کار بزرگ؟ چک‌لیست بخواه",
-  "media": [
-   "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/tip_6.jpg"
-  ],
-  "status": "queued",
-  "id": "in-2026-10-28-story",
-  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone."
- },
- {
-  "platform": "instagram",
-  "kind": "reel",
-  "when": "2026-10-28T21:00",
-  "topic": "۵ کار در ۱ دقیقه",
-  "metricool_uuid": "6968041368260462128",
-  "metricool_date": "2026-10-20T10:00",
-  "status": "queued",
-  "id": "in-2026-10-28-reel",
-  "yt_key": "fa_tasks",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_tasks.mp4"
-   ],
-   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel9_tasks.jpg"
-  }
- },
- {
-  "platform": "instagram",
-  "kind": "reel",
-  "when": "2026-10-29T10:00",
-  "topic": "تمرین مصاحبه‌ی کاری",
-  "metricool_uuid": "-8624930692332303810",
-  "metricool_date": "2026-10-21T16:00",
-  "status": "queued",
-  "id": "in-2026-10-29-reel",
-  "yt_key": "fa_interview",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_interview.mp4"
-   ],
-   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel10_interview.jpg"
-  }
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "lang": "fa",
-  "when": "2026-10-29T16:00",
-  "topic": "تمرین مصاحبه‌ی کاری با هوش مصنوعی | پرامپت آماده",
-  "key": "fa_interview",
-  "media": "youtube/shorts/fa_interview.mp4",
-  "metricool_uuid": "880575222087239957",
-  "metricool_date": "2026-10-21T21:00",
-  "status": "queued",
-  "id": "yo-2026-10-29-short"
- },
- {
-  "platform": "instagram",
-  "kind": "story",
-  "when": "2026-10-29T19:00",
-  "topic": "ابزار رایگان: TurboScribe",
-  "media": [
-   "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/st_turboscribe.mp4"
-  ],
-  "status": "queued",
-  "id": "in-2026-10-29-story",
-  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone."
- },
- {
-  "platform": "instagram",
-  "kind": "reel",
-  "when": "2026-10-30T16:00",
-  "topic": "سایت کند یعنی مشتری رفته (طراحی سایت)",
-  "metricool_uuid": "-6564507812620778913",
-  "metricool_date": "2026-10-30T16:00",
-  "status": "queued",
-  "id": "in-2026-10-30-reel",
-  "yt_key": "fa_speed",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_speed.mp4"
-   ],
-   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_web2_speed.jpg"
-  }
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "lang": "fa",
-  "when": "2026-10-30T21:00",
-  "topic": "سایت کند یعنی مشتری رفته | ۳ ویژگی سایت پرفروش",
-  "key": "fa_speed",
-  "media": "youtube/shorts/fa_speed.mp4",
-  "metricool_uuid": "338289167354711333",
-  "metricool_date": "2026-10-10T16:00",
-  "status": "queued",
-  "id": "yo-2026-10-30-short"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "lang": "fa",
-  "when": "2026-10-31T10:00",
-  "topic": "تمرین مکالمه‌ی انگلیسی با هوش مصنوعی | روزی ۱۰ دقیقه",
-  "key": "fa_english",
-  "media": "youtube/shorts/fa_english.mp4",
-  "metricool_uuid": "-1955133328616045130",
-  "metricool_date": "2026-10-22T10:00",
-  "status": "queued",
-  "id": "yo-2026-10-31-short"
- },
- {
-  "platform": "instagram",
-  "kind": "reel",
-  "when": "2026-10-31T21:00",
-  "topic": "مکالمه‌ی انگلیسی",
-  "metricool_uuid": "-4529746557893328670",
-  "metricool_date": "2026-10-22T21:00",
-  "status": "queued",
-  "id": "in-2026-10-31-reel",
-  "yt_key": "fa_english",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_english.mp4"
-   ],
-   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel11_english.jpg"
-  }
- },
- {
-  "platform": "instagram",
-  "kind": "reel",
-  "when": "2026-11-01T10:00",
-  "topic": "۳ جمله برای جواب بهتر",
-  "metricool_uuid": "-1664758064496750873",
-  "metricool_date": "2026-10-23T10:00",
-  "status": "queued",
-  "id": "in-2026-11-01-reel",
-  "yt_key": "fa_phrases",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_phrases.mp4"
-   ],
-   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel12_phrases.jpg"
-  }
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "lang": "fa",
-  "when": "2026-11-01T16:00",
-  "topic": "۳ جمله که جواب ChatGPT رو چند برابر بهتر می‌کنه",
-  "key": "fa_phrases",
-  "media": "youtube/shorts/fa_phrases.mp4",
-  "metricool_uuid": "3971228787939362266",
-  "metricool_date": "2026-10-23T16:00",
-  "status": "queued",
-  "id": "yo-2026-11-01-short"
- },
- {
-  "platform": "instagram",
-  "kind": "reel",
-  "when": "2026-11-02T16:00",
-  "topic": "۳ کاری که نباید بسپاری",
-  "metricool_uuid": "5467700907011424616",
-  "metricool_date": "2026-10-24T16:00",
-  "status": "queued",
-  "id": "in-2026-11-02-reel",
-  "yt_key": "fa_dont",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_dont.mp4"
-   ],
-   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel13_dont.jpg"
-  }
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "lang": "fa",
-  "when": "2026-11-02T21:00",
-  "topic": "۳ کاری که نباید به هوش مصنوعی بسپاری",
-  "key": "fa_dont",
-  "media": "youtube/shorts/fa_dont.mp4",
-  "metricool_uuid": "-3523643794431717602",
-  "metricool_date": "2026-10-24T21:00",
-  "status": "queued",
-  "id": "yo-2026-11-02-short"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "lang": "fa",
-  "when": "2026-11-03T10:00",
-  "topic": "نوشتن کپشن اینستاگرام با هوش مصنوعی | پرامپت آماده",
-  "key": "fa_caption",
-  "media": "youtube/shorts/fa_caption.mp4",
-  "metricool_uuid": "6560825390450232002",
-  "metricool_date": "2026-10-25T10:00",
-  "status": "queued",
-  "id": "yo-2026-11-03-short"
- },
- {
-  "platform": "instagram",
-  "kind": "reel",
-  "when": "2026-11-03T21:00",
-  "topic": "کپشن اینستاگرام با AI",
-  "metricool_uuid": "5117316827222917434",
-  "metricool_date": "2026-10-25T21:00",
-  "status": "queued",
-  "id": "in-2026-11-03-reel",
-  "yt_key": "fa_caption",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_caption.mp4"
-   ],
-   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel14_caption.jpg"
-  }
- },
- {
-  "platform": "instagram",
-  "kind": "reel",
-  "when": "2026-11-04T10:00",
-  "topic": "تصمیم سخت",
-  "metricool_uuid": "8594292400012739134",
-  "metricool_date": "2026-10-26T10:00",
-  "status": "queued",
-  "id": "in-2026-11-04-reel",
-  "yt_key": "fa_decide",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_decide.mp4"
-   ],
-   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel15_decide.jpg"
-  }
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "lang": "fa",
-  "when": "2026-11-04T16:00",
-  "topic": "تصمیم سخت داری؟ این پرامپت رو امتحان کن",
-  "key": "fa_decide",
-  "media": "youtube/shorts/fa_decide.mp4",
-  "metricool_uuid": "2549863008504727363",
-  "metricool_date": "2026-10-26T16:00",
-  "status": "queued",
-  "id": "yo-2026-11-04-short"
- },
- {
-  "platform": "instagram",
-  "kind": "reel",
-  "when": "2026-11-05T16:00",
-  "topic": "نقد رزومه",
-  "metricool_uuid": "1032403482078105447",
-  "metricool_date": "2026-10-27T16:00",
-  "status": "queued",
-  "id": "in-2026-11-05-reel",
-  "yt_key": "fa_resume",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_resume.mp4"
-   ],
-   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel16_resume.jpg"
-  }
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "lang": "fa",
-  "when": "2026-11-05T21:00",
-  "topic": "نقد رزومه با هوش مصنوعی | پرامپت آماده",
-  "key": "fa_resume",
-  "media": "youtube/shorts/fa_resume.mp4",
-  "metricool_uuid": "-1716204608232601030",
-  "metricool_date": "2026-10-27T21:00",
-  "status": "queued",
-  "id": "yo-2026-11-05-short"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "lang": "fa",
-  "when": "2026-11-06T10:00",
-  "topic": "یادگیری هر مهارت در ۳۰ روز با هوش مصنوعی",
-  "key": "fa_skill",
-  "media": "youtube/shorts/fa_skill.mp4",
-  "metricool_uuid": "-237537190376092633",
-  "metricool_date": "2026-10-28T10:00",
-  "status": "queued",
-  "id": "yo-2026-11-06-short"
- },
- {
-  "platform": "instagram",
-  "kind": "reel",
-  "when": "2026-11-06T21:00",
-  "topic": "مهارت در ۳۰ روز",
-  "metricool_uuid": "6481136569033441615",
-  "metricool_date": "2026-10-28T21:00",
-  "status": "queued",
-  "id": "in-2026-11-06-reel",
-  "yt_key": "fa_skill",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_skill.mp4"
-   ],
-   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel17_skill.jpg"
-  }
- },
- {
-  "platform": "instagram",
-  "kind": "reel",
-  "when": "2026-11-07T10:00",
-  "topic": "«نه» گفتن مؤدبانه",
-  "metricool_uuid": "-8281566411686526764",
-  "metricool_date": "2026-10-29T10:00",
-  "status": "queued",
-  "id": "in-2026-11-07-reel",
-  "yt_key": "fa_no",
-  "override": {
-   "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_no.mp4"
-   ],
-   "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel18_no.jpg"
-  }
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "lang": "fa",
-  "when": "2026-11-07T16:00",
-  "topic": "«نه» گفتن مؤدبانه با کمک هوش مصنوعی",
-  "key": "fa_no",
-  "media": "youtube/shorts/fa_no.mp4",
-  "metricool_uuid": "-3634242468234639708",
-  "metricool_date": "2026-10-29T16:00",
-  "status": "queued",
-  "id": "yo-2026-11-07-short"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "lang": "fa",
-  "when": "2026-11-08T21:00",
-  "topic": "۳ اشتباه رایج در استفاده از هوش مصنوعی",
-  "key": "fa_mistakes",
-  "media": "youtube/shorts/fa_mistakes.mp4",
-  "metricool_uuid": "-605795397528891469",
-  "metricool_date": "2026-10-09T10:00",
-  "status": "queued",
-  "id": "yo-2026-11-08-short"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "lang": "fa",
-  "when": "2026-11-09T10:00",
-  "topic": "پرامپتی که هر متنی رو حرفه‌ای می‌کنه | ChatGPT",
-  "key": "fa_rewrite",
-  "media": "youtube/shorts/fa_rewrite.mp4",
-  "metricool_uuid": "983693442281655736",
-  "metricool_date": "2026-10-10T10:00",
-  "status": "queued",
-  "id": "yo-2026-11-09-short"
- },
- {
-  "platform": "youtube",
-  "kind": "short",
-  "lang": "fa",
-  "when": "2026-11-10T16:00",
-  "topic": "هوش مصنوعی شغلت رو می‌گیره؟ ۳ مهارتی که باید یاد بگیری",
-  "key": "fa_aijob",
-  "media": "youtube/shorts/fa_aijob.mp4",
-  "metricool_uuid": "-2782222933212837040",
-  "metricool_date": "2026-10-10T22:15",
-  "status": "queued",
-  "id": "yo-2026-11-10-short"
- }
 ]
