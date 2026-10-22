@@ -1,53 +1,5 @@
 [
  {
-  "title": "OpenAI models are coming to Google Cloud",
-  "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-  "url": "https://openai.com/index/openai-models-google-cloud",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-21T12:00:00+00:00",
-  "image": "",
-  "id": "61f4d0141ff303c0"
- },
- {
-  "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
-  "summary": "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well as NVIDIA Cosmos and Nemotron open models, across the engineering and manufacturing lifecycle. Bringing those capabilities together on the factory floor, the NVIDIA Factory Operations Blueprint (FOX) is now…",
-  "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-21T10:30:40+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg",
-  "id": "0c405e6fd045e3b4"
- },
- {
-  "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
-  "summary": "NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs. Complex engineering feats — from advanced chips to aircraft to industrial systems —– depend on simulation to predict how designs will perform before they’re built. As designs become more complex, simulations […]",
-  "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-21T10:30:25+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/cuDSS_GTCBerlin.jpg",
-  "id": "64ae1d1ebee7b18e"
- },
- {
-  "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-  "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-  "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-21T07:00:00+00:00",
-  "image": "",
-  "id": "d3f519557f32dd3d"
- },
- {
   "title": "How AT&T is rethinking in-house legal work with OpenAI",
   "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
   "url": "https://openai.com/index/att-legal",
@@ -70,18 +22,6 @@
   "time": "2026-10-21T13:00:00+00:00",
   "image": "",
   "id": "74fcf21eca7add4a"
- },
- {
-  "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-  "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-  "url": "https://openai.com/index/building-chatgpt-ad-stack",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-21T07:00:00+00:00",
-  "image": "",
-  "id": "edef63b51aedc012"
  },
  {
   "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
@@ -406,5 +346,64 @@
   "time": "2026-10-22T13:00:00+00:00",
   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK442_Password_Manager_A_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
   "id": "633b64365941d14c"
+ },
+ {
+  "title": "Donating Agent Skills to the Agentic AI Foundation",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-10-22T21:29:26.155584+00:00",
+  "page": true,
+  "id": "86405d6d1e9fb855"
+ },
+ {
+  "title": "Build more responsive apps with the Decisions API",
+  "summary": "Fast, focused, low-cost decisions for any application.",
+  "url": "https://openai.com/index/decisions-api",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-22T19:00:00+00:00",
+  "image": "",
+  "id": "27825e3003584012"
+ },
+ {
+  "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+  "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+  "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-22T19:07:09+00:00",
+  "image": "",
+  "id": "ee7ecab289596410"
+ },
+ {
+  "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+  "summary": "Former OpenAI science lead launches Warp Science to automate wet labs with robots TechCrunch",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONjRvdTJzNlM4cGVHQlNveER5dGpJWFA0ck01WEpPVHlxUEptVThsNnY3U1Y2dHIxZm8xMm4ydzZ6ekNoallxWU5vZXlFVjcwRmt3cGMySW9DTDMxM3pOYTYwQkJRRnNqTUI0Wk5MVVNKa000ME51OFItZ0JwbDYzUHBGUEhEeXoyTGt2TGliQ3RadjdNbzNndUJLR21TMngxMkZKTFF6MlVXOWtaTTFrRlZvT1ZFUms?oc=5",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-22T18:38:47+00:00",
+  "image": "",
+  "id": "e8d756f16a87e04a"
+ },
+ {
+  "title": "Anthropic Introduces Claude Duet: A New Agentic AI App for Professionals",
+  "summary": "Anthropic Introduces Claude Duet: A New Agentic AI App for Professionals CNET",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMU1UUHJzQzRhdmIwWUxYZUpCRGk5bDBDeXpwZmFoYU43Mk9iRmZvYWYwbFBGZXZpMUtZSUhIVmhSUEpkby1NVEgzLXJ5S2UyQXNfRmtMYnRLblV1aUltcmswc3NvQy0xQnFwQmRlVnB6eG54WXl6LU5tMlhZR3hpa19RdXFlWUt1VXF1Ni1nVkZ1ZmNCTTJwZ0pEd2s?oc=5",
+  "source": "CNET",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-22T21:19:09+00:00",
+  "image": "",
+  "id": "089dc7ccd0de141a"
  }
 ]

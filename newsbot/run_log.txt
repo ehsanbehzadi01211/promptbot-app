@@ -1,29 +1,29 @@
-Thu Oct 22 17:04:32 UTC 2026
+Thu Oct 22 21:29:24 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 8 fresh
+OpenAI: 7 fresh
 Google: 0 fresh
 Google DeepMind: 1 fresh
 NVIDIA: 17 fresh
 Hugging Face: 6 fresh
 The Verge: 10 fresh
-TechCrunch: 15 fresh
+TechCrunch: 19 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 2 fresh
+MIT Technology Review: 4 fresh
 Product Hunt: 8 fresh
-Anthropic: 25 links
+Anthropic: 26 links
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-new items: 8
+new items: 5
 translated via clients5
 translated via clients5
-sent photo NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open 
+sent card OpenAI models are coming to Google Cloud
 translated via clients5
 translated via clients5
-sent photo NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in
+sent photo Europe’s Industrial Leaders Reinvent Engineering and Manufac
 translated via clients5
 translated via clients5
-sent photo GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s
+sent photo NVIDIA cuDSS Now Generally Available to Accelerate Engineeri

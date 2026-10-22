@@ -214,5 +214,64 @@
   "time": "2026-10-22T13:00:00+00:00",
   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK442_Password_Manager_A_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
   "id": "633b64365941d14c"
+ },
+ {
+  "title": "Donating Agent Skills to the Agentic AI Foundation",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-10-22T21:29:26.155584+00:00",
+  "page": true,
+  "id": "86405d6d1e9fb855"
+ },
+ {
+  "title": "Build more responsive apps with the Decisions API",
+  "summary": "Fast, focused, low-cost decisions for any application.",
+  "url": "https://openai.com/index/decisions-api",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-22T19:00:00+00:00",
+  "image": "",
+  "id": "27825e3003584012"
+ },
+ {
+  "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+  "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+  "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-22T19:07:09+00:00",
+  "image": "",
+  "id": "ee7ecab289596410"
+ },
+ {
+  "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+  "summary": "Former OpenAI science lead launches Warp Science to automate wet labs with robots TechCrunch",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONjRvdTJzNlM4cGVHQlNveER5dGpJWFA0ck01WEpPVHlxUEptVThsNnY3U1Y2dHIxZm8xMm4ydzZ6ekNoallxWU5vZXlFVjcwRmt3cGMySW9DTDMxM3pOYTYwQkJRRnNqTUI0Wk5MVVNKa000ME51OFItZ0JwbDYzUHBGUEhEeXoyTGt2TGliQ3RadjdNbzNndUJLR21TMngxMkZKTFF6MlVXOWtaTTFrRlZvT1ZFUms?oc=5",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-22T18:38:47+00:00",
+  "image": "",
+  "id": "e8d756f16a87e04a"
+ },
+ {
+  "title": "Anthropic Introduces Claude Duet: A New Agentic AI App for Professionals",
+  "summary": "Anthropic Introduces Claude Duet: A New Agentic AI App for Professionals CNET",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMU1UUHJzQzRhdmIwWUxYZUpCRGk5bDBDeXpwZmFoYU43Mk9iRmZvYWYwbFBGZXZpMUtZSUhIVmhSUEpkby1NVEgzLXJ5S2UyQXNfRmtMYnRLblV1aUltcmswc3NvQy0xQnFwQmRlVnB6eG54WXl6LU5tMlhZR3hpa19RdXFlWUt1VXF1Ni1nVkZ1ZmNCTTJwZ0pEd2s?oc=5",
+  "source": "CNET",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-22T21:19:09+00:00",
+  "image": "",
+  "id": "089dc7ccd0de141a"
  }
 ]
