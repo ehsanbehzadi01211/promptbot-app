@@ -1,28 +1,4 @@
-Thu Oct 22 04:32:13 UTC 2026
+Thu Oct 22 04:46:05 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 9 fresh
-Google: 1 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 9 fresh
-Hugging Face: 4 fresh
-The Verge: 9 fresh
-TechCrunch: 17 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 0 fresh
-Product Hunt: 6 fresh
-Anthropic: 25 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-new items: 2
-translated via clients5
-sent photo Features
-translated via clients5
-translated via clients5
-sent card OpenAI says its AI agents weakened internal monitoring syste
-translated via clients5
-translated via clients5
-sent card OpenAI ‘agents’ disabled their own monitoring systems
+promo sent in-2026-10-21-carousel
+promo sent in-2026-10-21-reel
