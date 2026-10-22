@@ -1,41 +1,5 @@
 [
  {
-  "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
-  "summary": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design. NVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for […]",
-  "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-21T10:30:41+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/ai-cloud-announcement-gtc-berlin-social-1920x1080-5852877-r2.png",
-  "id": "f47072a36f450d93"
- },
- {
-  "title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
-  "summary": "Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within. Leading enterprises are using the open source NVIDIA Agent Toolkit — now expanded with new tools — to customize and control agents, use company data to inform their answers and actions, monitor what they do and […]",
-  "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-21T10:10:01+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/agentic-ai-agent-toolkit-pr-berlin-social-1920x1080-5811548.jpg",
-  "id": "7d59293497ac336b"
- },
- {
-  "title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
-  "summary": "Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001. Its permanent home has since hosted concerts, galas and political events. Today, it hosts a different kind of spectacle. GTC Berlin runs three days, with more than 100 sessions on agentic AI, robotics, […]",
-  "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-21T09:30:16+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/jhh-keynote-kv-1920x1080-1.jpg",
-  "id": "d8fecd9b69c96f65"
- },
- {
   "title": "OpenAI models are coming to Google Cloud",
   "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
   "url": "https://openai.com/index/openai-models-google-cloud",
@@ -82,18 +46,6 @@
   "time": "2026-10-21T07:00:00+00:00",
   "image": "",
   "id": "d3f519557f32dd3d"
- },
- {
-  "title": "Using thousands of AI agents to uncover new leads in biological data",
-  "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-  "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-21T04:50:00+00:00",
-  "image": "",
-  "id": "1de8e62ff715d1f1"
  },
  {
   "title": "How AT&T is rethinking in-house legal work with OpenAI",
@@ -180,18 +132,6 @@
   "id": "2ed22a61b2f19a0c"
  },
  {
-  "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-  "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-  "url": "https://openai.com/index/empowering-cyber-defenders",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-21T00:00:00+00:00",
-  "image": "",
-  "id": "b2deaf97c98cf0ff"
- },
- {
   "title": "Anthropic Launches Claude Duet, a Proactive AI Agent",
   "summary": "Anthropic Launches Claude Duet, a Proactive AI Agent MacRumors",
   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pYzdSRjZBUnJFZ1Utalp5YkQwUmVIS0piUmxUZnlieHpObW1VVFk2NER4V2hObnNhRlBvdkJ4alZNUFpHZjE4dXR2STRFeXJweTYtbU5lRXF3N0RsamxFMXpzNTRpY3MzNGdr?oc=5",
@@ -262,18 +202,6 @@
   "time": "2026-10-21T19:53:20+00:00",
   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
   "id": "0d8d033795840d49"
- },
- {
-  "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-  "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-  "url": "https://openai.com/index/cloudflare-cyber",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-21T00:00:00+00:00",
-  "image": "",
-  "id": "9201054eeb4c743a"
  },
  {
   "title": "Anthropic’s New Agent Has No Cute Mascot, and You Probably Can’t Try It Yet",
@@ -382,5 +310,101 @@
   "time": "2026-10-22T11:30:03+00:00",
   "image": "",
   "id": "7d668592ee3a2eb0"
+ },
+ {
+  "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+  "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast […]",
+  "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-22T15:00:02+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/ethernet-corp-blog-minerva-kv-1280x680-5595752.png",
+  "id": "06769efcf6f4425c"
+ },
+ {
+  "title": "What FDE means at OpenAI",
+  "summary": "What forward deployed engineering means at OpenAI",
+  "url": "https://openai.com/index/forward-deployed-engineering-means",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-22T06:00:00+00:00",
+  "image": "",
+  "id": "63c31ca523f91ccf"
+ },
+ {
+  "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+  "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+  "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-22T00:00:00+00:00",
+  "image": "",
+  "id": "ba6fa07d677a8221"
+ },
+ {
+  "title": "Beyond tree cover: mapping the world’s forest types",
+  "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+  "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+  "source": "Google DeepMind",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-22T14:30:24+00:00",
+  "image": "",
+  "id": "e66e9796ba6be5e9"
+ },
+ {
+  "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
+  "summary": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices. The campaign also gets an enhanced look: GeForce RTX 5080-class performance arrives for Ultimate members, bringing support for ray-tracing features in […]",
+  "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-22T13:00:20+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Call-Of-Duty-Modern-Warfare-4.jpg",
+  "id": "0d155a8c67502c8e"
+ },
+ {
+  "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+  "summary": "",
+  "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-22T16:11:31+00:00",
+  "image": "",
+  "id": "eaa0ebff7daf626e"
+ },
+ {
+  "title": "Ex-OpenAI Science Head Launches Startup With $215 Million",
+  "summary": "Ex-OpenAI Science Head Launches Startup With $215 Million Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQlBnRkU4WWw3WE5qTHZscFNxUm44a0RNSVpTUHdfOVo3N0xLWE8tbFMyZlN3Nk1NZ0tvd1JZODFNX2tIY1ZMeElGX1FwdUR4X28zckVZSjNNdExNM3RITEdVdi1ybkx0R05rdmFLZk81V20xOHBuZldndm80YnZxb0NjcUYyWkotdXdCUWhyTUJNcXNvemRQNV9hLVNpRmIzZkxiaThqM3QxWmVxblU3R1hlRlpiQ0hrS2c?oc=5",
+  "source": "Bloomberg.com",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-22T15:30:10+00:00",
+  "image": "",
+  "id": "6eb9c32154407f7c"
+ },
+ {
+  "title": "1Password lets AI agents use your passwords without seeing them",
+  "summary": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in requests - but should make it […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+  "source": "The Verge",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-22T13:00:00+00:00",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK442_Password_Manager_A_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "id": "633b64365941d14c"
  }
 ]
