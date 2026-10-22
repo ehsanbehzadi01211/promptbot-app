@@ -1,41 +1,5 @@
 [
  {
-  "title": "OpenAI Says Its Agents Weakened System That Flags AI Misbehavior",
-  "summary": "OpenAI Says Its Agents Weakened System That Flags AI Misbehavior Bloomberg.com",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdFJGc1FVd25OZmcxblB2OXpjc1d2WWFLMmJyUXIzRU5HQnVLbHF5VnFhRXNUTFIzOXIwMjRJOXhhRkk5ZmJ3dGlvWnI0SkM1djQ3ZlpXalFNckdnM19DQ2VSeks1LUNBRVZ1SDRJZ1cxclFwRmdIVFpqUmprOUdFc05wSXc0dUFzWTRYRDZBeDRVRm9faTFfdmNRckM4UzZueWRNdEgtdW1vRThqRFdGSEZtX0FZQQ?oc=5",
-  "source": "Bloomberg.com",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-21T00:12:00+00:00",
-  "image": "",
-  "id": "0bc1c2d3675782c6"
- },
- {
-  "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
-  "summary": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running frontier workloads on Linux, with a Windows version arriving in December. Announcements include: […]",
-  "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-21T10:50:37+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-2.jpg",
-  "id": "0b1d731f907edd6f"
- },
- {
-  "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
-  "summary": "General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference and large-scale reinforcement learning to cloud customers. A5X instances bring together NVIDIA Vera Rubin NVL72, NVIDIA ConnectX-9 SuperNICs, Google Cloud Virgo Network and Google Cloud’s fourth-generation advanced liquid-cooling…",
-  "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-21T10:45:17+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/GoogleCloud-VeraRubin-1920x1080-1.png",
-  "id": "7dbdc8f6d3c5a040"
- },
- {
   "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
   "summary": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design. NVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for […]",
   "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
@@ -322,5 +286,101 @@
   "time": "2026-10-21T23:54:17+00:00",
   "image": "",
   "id": "c43160b617f12311"
+ },
+ {
+  "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+  "summary": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure. Revolut is rebuilding its technology stack on a single foundation model PRAGMA, powered by NVIDIA accelerated computing. Using the NVIDIA cuDF […]",
+  "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-22T05:00:56+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Financial-Services-NVIDIA-Open-Models.jpg",
+  "id": "8eb5c126f8cf63c5"
+ },
+ {
+  "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+  "summary": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints. Ranking top five on six different open models leaderboards, the NVIDIA Cosmos platform gives world model builders the frontier open […]",
+  "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-22T05:00:27+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026.jpg",
+  "id": "381130e24d54aa99"
+ },
+ {
+  "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
+  "summary": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack. Their adoption of the platform responds to an acute problem. Power is now the biggest bottleneck in infrastructure. More than $300 billion […]",
+  "url": "https://blogs.nvidia.com/blog/dsx-power/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-22T05:00:25+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/dsx-ai-factory-platform.jpg",
+  "id": "761a1716cf64c177"
+ },
+ {
+  "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+  "summary": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is simulated inside a digital twin. Frontier Results With Open Models Retail leaders and technology companies across Europe are using NVIDIA-accelerated open […]",
+  "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-22T05:00:23+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-European-Retail.jpg",
+  "id": "2316152895141c13"
+ },
+ {
+  "title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
+  "summary": "Weather forecasts shape more than daily plans; timely weather information is crucial for energy producers, insurers and transport operators to plan around changing conditions. A global forecast can show a storm taking shape, but decisions about solar farms, shipping routes or insured property depend on what happens locally. NVIDIA Earth-2 gives developers and researchers a […]",
+  "url": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-22T05:00:19+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Earth-2-Open-Models-Climate-Prediction.png",
+  "id": "6d8a31a2427f854a"
+ },
+ {
+  "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
+  "summary": "Governments need modern solutions to serve the public while keeping sensitive information under their control. Open models provide a path forward, letting governments evaluate them, adapt them to local languages and public services, run them on infrastructure they control, apply their own safeguards and keep sensitive data within controlled environments. Some open models go further, […]",
+  "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-22T05:00:02+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/open-model-european-public-sector-scaled.jpg",
+  "id": "2d9cc8be346c4e01"
+ },
+ {
+  "title": "Ensemble forecasting with IBM Granite time-series models",
+  "summary": "",
+  "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-22T07:51:31+00:00",
+  "image": "",
+  "id": "5d118fadbe793ddd"
+ },
+ {
+  "title": "How are AI agents changing work inside Anthropic?",
+  "summary": "How are AI agents changing work inside Anthropic? Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTXlDTlY5SG1xQXc0UDU0dWFCdlprNnoyb2NNM0Y2V2R3YUFfWHV6REJmemlkeUliamkzXzM0MHppSmhWWkxQdHpCOXNJUWEzRk5YWmN1bjdfMW85WGktSGI5ZUZEbk5jOTZkY3NrUVBmdFNvVncyaHdRVDEyR3pLT0J6VVQ?oc=5",
+  "source": "Financial Times",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-22T11:30:03+00:00",
+  "image": "",
+  "id": "7d668592ee3a2eb0"
  }
 ]

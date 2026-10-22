@@ -1,2 +1,29 @@
-Thu Oct 22 09:39:41 UTC 2026
+Thu Oct 22 11:41:24 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 9 fresh
+Google: 1 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 15 fresh
+Hugging Face: 5 fresh
+The Verge: 7 fresh
+TechCrunch: 8 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 2 fresh
+Product Hunt: 10 fresh
+Anthropic: 25 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 25 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 26 fresh
+new items: 8
+translated via clients5
+translated via clients5
+sent card OpenAI Says Its Agents Weakened System That Flags AI Misbeha
+translated via clients5
+translated via clients5
+sent photo Bringing the Spark to Europe: Local Intelligence Powers Next
+translated via clients5
+translated via clients5
+sent photo Google Cloud and NVIDIA Announce General Availability of NVI
