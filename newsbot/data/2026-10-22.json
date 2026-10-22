@@ -1,0 +1,26 @@
+[
+ {
+  "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+  "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+  "url": "https://openai.com/index/cloudflare-cyber",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-21T00:00:00+00:00",
+  "image": "",
+  "id": "9201054eeb4c743a"
+ },
+ {
+  "title": "Anthropic’s New Agent Has No Cute Mascot, and You Probably Can’t Try It Yet",
+  "summary": "Anthropic’s New Agent Has No Cute Mascot, and You Probably Can’t Try It Yet Gizmodo",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmtma0c0c0paTDhlU3A4S0d3dWlsSndob2lmaXFObHA2LXdEcVZSc1oxVVNQVjJjMzRfNEE1T2lSS29xQVRPeEVfX21LVVRfTlktRm9wUUszT2JsNUtQX1F0a3RORU04enQ5NUFqeHdUb191aWh1bEx1TUhweVkxN1YtWV9PMDloOTJfcmpKVVpsdFNIVjVXLXZXMkNtMHdmTkNDa0lR?oc=5",
+  "source": "Gizmodo",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-21T23:54:17+00:00",
+  "image": "",
+  "id": "c43160b617f12311"
+ }
+]
