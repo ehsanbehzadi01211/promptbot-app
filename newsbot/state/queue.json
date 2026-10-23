@@ -1,89 +1,5 @@
 [
  {
-  "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
-  "summary": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is simulated inside a digital twin. Frontier Results With Open Models Retail leaders and technology companies across Europe are using NVIDIA-accelerated open […]",
-  "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-22T05:00:23+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-European-Retail.jpg",
-  "id": "2316152895141c13"
- },
- {
-  "title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
-  "summary": "Weather forecasts shape more than daily plans; timely weather information is crucial for energy producers, insurers and transport operators to plan around changing conditions. A global forecast can show a storm taking shape, but decisions about solar farms, shipping routes or insured property depend on what happens locally. NVIDIA Earth-2 gives developers and researchers a […]",
-  "url": "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-22T05:00:19+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Earth-2-Open-Models-Climate-Prediction.png",
-  "id": "6d8a31a2427f854a"
- },
- {
-  "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
-  "summary": "Governments need modern solutions to serve the public while keeping sensitive information under their control. Open models provide a path forward, letting governments evaluate them, adapt them to local languages and public services, run them on infrastructure they control, apply their own safeguards and keep sensitive data within controlled environments. Some open models go further, […]",
-  "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-22T05:00:02+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/open-model-european-public-sector-scaled.jpg",
-  "id": "2d9cc8be346c4e01"
- },
- {
-  "title": "Ensemble forecasting with IBM Granite time-series models",
-  "summary": "",
-  "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-22T07:51:31+00:00",
-  "image": "",
-  "id": "5d118fadbe793ddd"
- },
- {
-  "title": "How are AI agents changing work inside Anthropic?",
-  "summary": "How are AI agents changing work inside Anthropic? Financial Times",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTXlDTlY5SG1xQXc0UDU0dWFCdlprNnoyb2NNM0Y2V2R3YUFfWHV6REJmemlkeUliamkzXzM0MHppSmhWWkxQdHpCOXNJUWEzRk5YWmN1bjdfMW85WGktSGI5ZUZEbk5jOTZkY3NrUVBmdFNvVncyaHdRVDEyR3pLT0J6VVQ?oc=5",
-  "source": "Financial Times",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-22T11:30:03+00:00",
-  "image": "",
-  "id": "7d668592ee3a2eb0"
- },
- {
-  "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
-  "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast […]",
-  "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-22T15:00:02+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/ethernet-corp-blog-minerva-kv-1280x680-5595752.png",
-  "id": "06769efcf6f4425c"
- },
- {
-  "title": "What FDE means at OpenAI",
-  "summary": "What forward deployed engineering means at OpenAI",
-  "url": "https://openai.com/index/forward-deployed-engineering-means",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-22T06:00:00+00:00",
-  "image": "",
-  "id": "63c31ca523f91ccf"
- },
- {
   "title": "Beyond tree cover: mapping the world’s forest types",
   "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
@@ -320,5 +236,53 @@
   "time": "2026-10-22T19:29:00+00:00",
   "image": "",
   "id": "5906bbca6f5ea0dc"
+ },
+ {
+  "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+  "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+  "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-23T17:00:00+00:00",
+  "image": "",
+  "id": "298c8de07d18f423"
+ },
+ {
+  "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+  "summary": "",
+  "url": "https://huggingface.co/blog/allenai/litpivot",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-23T16:15:50+00:00",
+  "image": "",
+  "id": "d5dfb55b012918e7"
+ },
+ {
+  "title": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1",
+  "summary": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1 The Decoder",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTi0xMUJXTXVacllRVHhIV2NwQkFfX2JORUlualY3M1BvX2tjSjE3eTVFeEpJQ1JNcUg2WnNwVU5TSDhwNnJxbnFzN25JeUlMTC03T3k4cU1KWlZ0eGhaMU5fQVVtZ05rMGR0VUdLWUhQWWtkeHhEOUZSTXl0cDJJT1NkRjVjdEM3V05aazNEM05fd0pJWUpkUUExZlUyMURGbnlWVzctWEtrR0V4X0ZFQ1VkdVcwdnM?oc=5",
+  "source": "The Decoder",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-23T17:23:11+00:00",
+  "image": "",
+  "id": "1420c4e610b1454d"
+ },
+ {
+  "title": "Moonshot Debuts First AI Upgrade Since Its Own DeepSeek Moment",
+  "summary": "Moonshot Debuts First AI Upgrade Since Its Own DeepSeek Moment Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcktaUjlRNUc4SkZ3UzlJSnJwX0tzalVkaHFKTmxkWGItR0J6b3VVQ01xU25ZdFRueWdrVXNsMjRab2NJNTVFMG9sRHdfbWJwQ2FLQlBwSGdfS1hYWFhWUXRONm8zczlYSnoxX1hiamdRWFU3UThWS05fVFpKNzN4OU5ISkZoOXJNS09Qc2djYVVxMGtnQjVlWFJHTE1wQWdmVjZYckhnd2JjbURxSy1ra2lXbw?oc=5",
+  "source": "Bloomberg.com",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-23T17:18:10+00:00",
+  "image": "",
+  "id": "fa6128c97bf1ded1"
  }
 ]

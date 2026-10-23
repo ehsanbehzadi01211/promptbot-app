@@ -117,5 +117,53 @@
   "time": "2026-10-22T19:29:00+00:00",
   "image": "",
   "id": "5906bbca6f5ea0dc"
+ },
+ {
+  "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+  "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+  "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-23T17:00:00+00:00",
+  "image": "",
+  "id": "298c8de07d18f423"
+ },
+ {
+  "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+  "summary": "",
+  "url": "https://huggingface.co/blog/allenai/litpivot",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-23T16:15:50+00:00",
+  "image": "",
+  "id": "d5dfb55b012918e7"
+ },
+ {
+  "title": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1",
+  "summary": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1 The Decoder",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTi0xMUJXTXVacllRVHhIV2NwQkFfX2JORUlualY3M1BvX2tjSjE3eTVFeEpJQ1JNcUg2WnNwVU5TSDhwNnJxbnFzN25JeUlMTC03T3k4cU1KWlZ0eGhaMU5fQVVtZ05rMGR0VUdLWUhQWWtkeHhEOUZSTXl0cDJJT1NkRjVjdEM3V05aazNEM05fd0pJWUpkUUExZlUyMURGbnlWVzctWEtrR0V4X0ZFQ1VkdVcwdnM?oc=5",
+  "source": "The Decoder",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-23T17:23:11+00:00",
+  "image": "",
+  "id": "1420c4e610b1454d"
+ },
+ {
+  "title": "Moonshot Debuts First AI Upgrade Since Its Own DeepSeek Moment",
+  "summary": "Moonshot Debuts First AI Upgrade Since Its Own DeepSeek Moment Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcktaUjlRNUc4SkZ3UzlJSnJwX0tzalVkaHFKTmxkWGItR0J6b3VVQ01xU25ZdFRueWdrVXNsMjRab2NJNTVFMG9sRHdfbWJwQ2FLQlBwSGdfS1hYWFhWUXRONm8zczlYSnoxX1hiamdRWFU3UThWS05fVFpKNzN4OU5ISkZoOXJNS09Qc2djYVVxMGtnQjVlWFJHTE1wQWdmVjZYckhnd2JjbURxSy1ra2lXbw?oc=5",
+  "source": "Bloomberg.com",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-23T17:18:10+00:00",
+  "image": "",
+  "id": "fa6128c97bf1ded1"
  }
 ]
