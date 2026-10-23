@@ -1,0 +1,25 @@
+[
+ {
+  "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+  "summary": "",
+  "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-22T22:24:34+00:00",
+  "image": "",
+  "id": "95eb6975ad245049"
+ },
+ {
+  "title": "Open call for guest investigators in the life sciences",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-10-23T00:35:17.495521+00:00",
+  "page": true,
+  "id": "98d45c75b11c937c"
+ }
+]

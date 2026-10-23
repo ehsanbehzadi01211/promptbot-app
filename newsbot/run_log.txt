@@ -1,15 +1,15 @@
-Thu Oct 22 21:29:24 UTC 2026
+Fri Oct 23 00:35:16 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 7 fresh
+OpenAI: 6 fresh
 Google: 0 fresh
 Google DeepMind: 1 fresh
-NVIDIA: 17 fresh
-Hugging Face: 6 fresh
+NVIDIA: 8 fresh
+Hugging Face: 7 fresh
 The Verge: 10 fresh
-TechCrunch: 19 fresh
+TechCrunch: 20 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 4 fresh
-Product Hunt: 8 fresh
+Product Hunt: 7 fresh
 Anthropic: 26 links
 Google News: 30 fresh
 Google News: 30 fresh
@@ -17,13 +17,13 @@ Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-new items: 5
+new items: 2
 translated via clients5
 translated via clients5
-sent card OpenAI models are coming to Google Cloud
+sent card How AT&T is rethinking in-house legal work with OpenAI
 translated via clients5
 translated via clients5
-sent photo Europe’s Industrial Leaders Reinvent Engineering and Manufac
+sent card ChatGPT Ads expands to 26 new countries as over 100,000 adve
 translated via clients5
-translated via clients5
-sent photo NVIDIA cuDSS Now Generally Available to Accelerate Engineeri
+photo url refused HTTP Error 400: Bad Request
+sent card NVIDIA Kumo Relational Outperforms Supervised Machine Learni

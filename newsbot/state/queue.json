@@ -1,41 +1,5 @@
 [
  {
-  "title": "How AT&T is rethinking in-house legal work with OpenAI",
-  "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-  "url": "https://openai.com/index/att-legal",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-21T17:00:00+00:00",
-  "image": "",
-  "id": "4ab93569e260b2b0"
- },
- {
-  "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-  "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-  "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-21T13:00:00+00:00",
-  "image": "",
-  "id": "74fcf21eca7add4a"
- },
- {
-  "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-  "summary": "",
-  "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-21T18:26:30+00:00",
-  "image": "",
-  "id": "7104bc51c29585cc"
- },
- {
   "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
   "summary": "",
   "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
@@ -405,5 +369,28 @@
   "time": "2026-10-22T21:19:09+00:00",
   "image": "",
   "id": "089dc7ccd0de141a"
+ },
+ {
+  "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+  "summary": "",
+  "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-22T22:24:34+00:00",
+  "image": "",
+  "id": "95eb6975ad245049"
+ },
+ {
+  "title": "Open call for guest investigators in the life sciences",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-10-23T00:35:17.495521+00:00",
+  "page": true,
+  "id": "98d45c75b11c937c"
  }
 ]
