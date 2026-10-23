@@ -1,101 +1,5 @@
 [
  {
-  "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-  "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
-  "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-  "source": "TechCrunch",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-21T19:30:00+00:00",
-  "image": "",
-  "id": "a9cc4be8b0bea8a2"
- },
- {
-  "title": "Anthropic unveils Claude Duet AI agent app",
-  "summary": "Anthropic unveils Claude Duet AI agent app Reuters",
-  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFhacjJyXzZ6ZzNUdkptUDkwRHFyV2pxSXhOc2JucmxQdDJFQ09WZ05DamcxS1NvNUx1b0cyR05DM1U3SzgwdXpvQlhaajl2dHNlVTVlYml2LVhLVENGaWtDbkdMWjFNVkdPMDRTWWFubXJsYkFZQ19peDBLMUI2cXF4cU1hN2lrU2FuZi1wSTRndFU?oc=5",
-  "source": "Reuters",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-21T20:25:35+00:00",
-  "image": "",
-  "id": "eabcc68ce22a5634"
- },
- {
-  "title": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots",
-  "summary": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots CNBC",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFZYTW81ai1KaU91ZGZUV1VlUkFrRkVfWVpraWlRMl9rWXJnUXV2cnZ3dlFBUUtCeldidHR0MVhJdmY3MGVzSzZDYnYxODNQNXdxS1Z5ZVNIcHd4bklybjBOR3hQeEhwUkFBVW1WdVA1Q0V2WTZfbFAwSVdPcVRKdG5jc3dhYzZiYm01X1hqbDR2ZlVtblF6NmZUWVV0TFlVSkZJWHJUeG_SAa4BQVVfeXFMUDZ1eGN2Uncyczl3by1yNFAxQlJfd2JmSDBaX05QaEpFb0tGY3FJWGY4R2RzcXBRMXRYdzFhTWFIVEluT0I5MExZZG9hX3U0MXliVFJYS3hxN0FtME5obUdWOW9CZTBYdkpsVXFHN2d1VXp2VVI2NG5BNFF4MkEwLTlmZkVWZ016RkRtRHNsUi1RSEVERG1SNzB2aFlVLXFNSF80dEtDUnNZN05RSlh3?oc=5",
-  "source": "CNBC",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-21T21:42:54+00:00",
-  "image": "",
-  "id": "ad23456bcbd6b8c5"
- },
- {
-  "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-  "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is […]",
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-  "source": "The Verge",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-21T19:53:20+00:00",
-  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-  "id": "0d8d033795840d49"
- },
- {
-  "title": "Anthropic’s New Agent Has No Cute Mascot, and You Probably Can’t Try It Yet",
-  "summary": "Anthropic’s New Agent Has No Cute Mascot, and You Probably Can’t Try It Yet Gizmodo",
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmtma0c0c0paTDhlU3A4S0d3dWlsSndob2lmaXFObHA2LXdEcVZSc1oxVVNQVjJjMzRfNEE1T2lSS29xQVRPeEVfX21LVVRfTlktRm9wUUszT2JsNUtQX1F0a3RORU04enQ5NUFqeHdUb191aWh1bEx1TUhweVkxN1YtWV9PMDloOTJfcmpKVVpsdFNIVjVXLXZXMkNtMHdmTkNDa0lR?oc=5",
-  "source": "Gizmodo",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-21T23:54:17+00:00",
-  "image": "",
-  "id": "c43160b617f12311"
- },
- {
-  "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
-  "summary": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure. Revolut is rebuilding its technology stack on a single foundation model PRAGMA, powered by NVIDIA accelerated computing. Using the NVIDIA cuDF […]",
-  "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-22T05:00:56+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Financial-Services-NVIDIA-Open-Models.jpg",
-  "id": "8eb5c126f8cf63c5"
- },
- {
-  "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
-  "summary": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints. Ranking top five on six different open models leaderboards, the NVIDIA Cosmos platform gives world model builders the frontier open […]",
-  "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-22T05:00:27+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026.jpg",
-  "id": "381130e24d54aa99"
- },
- {
-  "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
-  "summary": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack. Their adoption of the platform responds to an acute problem. Power is now the biggest bottleneck in infrastructure. More than $300 billion […]",
-  "url": "https://blogs.nvidia.com/blog/dsx-power/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-22T05:00:25+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/dsx-ai-factory-platform.jpg",
-  "id": "761a1716cf64c177"
- },
- {
   "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
   "summary": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is simulated inside a digital twin. Frontier Results With Open Models Retail leaders and technology companies across Europe are using NVIDIA-accelerated open […]",
   "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
@@ -178,18 +82,6 @@
   "time": "2026-10-22T06:00:00+00:00",
   "image": "",
   "id": "63c31ca523f91ccf"
- },
- {
-  "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-  "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-  "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-22T00:00:00+00:00",
-  "image": "",
-  "id": "ba6fa07d677a8221"
  },
  {
   "title": "Beyond tree cover: mapping the world’s forest types",
@@ -380,5 +272,53 @@
   "time": "2026-10-23T00:10:43+00:00",
   "image": "",
   "id": "5f41e4e44638fe0b"
+ },
+ {
+  "title": "Does Your Model Run on AWS Trainium? Look It Up",
+  "summary": "",
+  "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-23T00:00:00+00:00",
+  "image": "",
+  "id": "6430909168b58685"
+ },
+ {
+  "title": "I tried OpenAI Academy’s free AI courses – and the certificate was a nice bonus",
+  "summary": "I tried OpenAI Academy’s free AI courses – and the certificate was a nice bonus ZDNET",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aQ2hYaFhSTDg3QjVBQ3pJZm9WZERqc2pENy11U3ZTdWJ6MmZsWmNmVUZ0bnQyQmJKeExWTWI4dFdPRGN5Ym95Yk52QVZIdzMtS0ZrYmFwVm9UUWJsMFRwaWJRWkZmZ2pjaVdVYk5fRTlCS3Z6TVk0bHhXbzZLdw?oc=5",
+  "source": "ZDNET",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-23T11:59:30+00:00",
+  "image": "",
+  "id": "08f67f2701fedef9"
+ },
+ {
+  "title": "Anthropic strikes deal to launch European consultancy",
+  "summary": "Anthropic strikes deal to launch European consultancy Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdnZydGY4cEdLMHdFVVJ2R2kwaG1yOVZuQi1XNzk2SEw5T3lWQkZHZl9UYXhfazU2bFRQU0VabnlCdTBDMDhyQ2ZfUGNSODkxOWc4ZFBQOUVndEs5QmxtREZJQVlVY0RjLUVoUVh5ZWZIcWpuY3ExeUZGcGNuNzF5TGNBUy0?oc=5",
+  "source": "Financial Times",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-23T09:04:09+00:00",
+  "image": "",
+  "id": "badda17ad8966952"
+ },
+ {
+  "title": "1Password's new solution mitigates the security risks of AI agent account access",
+  "summary": "1Password's new solution mitigates the security risks of AI agent account access Android Authority",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hSG0wVUxrWWFOMGxEN1NFS1Q4MGtLMlQweVR5VnYwd3ZDd3lxSWxKYWxud0lJenUyNFFSanZhbTR1WGd0d21sak1aSlNaV29IZ0hxS1FHVkJJRXNRUXdJbE5pOXFKVVB5djBOYzE0YjRJakotSTVsWg?oc=5",
+  "source": "Android Authority",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-22T19:29:00+00:00",
+  "image": "",
+  "id": "5906bbca6f5ea0dc"
  }
 ]

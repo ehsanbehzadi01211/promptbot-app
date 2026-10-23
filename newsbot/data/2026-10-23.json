@@ -69,5 +69,53 @@
   "time": "2026-10-23T00:10:43+00:00",
   "image": "",
   "id": "5f41e4e44638fe0b"
+ },
+ {
+  "title": "Does Your Model Run on AWS Trainium? Look It Up",
+  "summary": "",
+  "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-23T00:00:00+00:00",
+  "image": "",
+  "id": "6430909168b58685"
+ },
+ {
+  "title": "I tried OpenAI Academy’s free AI courses – and the certificate was a nice bonus",
+  "summary": "I tried OpenAI Academy’s free AI courses – and the certificate was a nice bonus ZDNET",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aQ2hYaFhSTDg3QjVBQ3pJZm9WZERqc2pENy11U3ZTdWJ6MmZsWmNmVUZ0bnQyQmJKeExWTWI4dFdPRGN5Ym95Yk52QVZIdzMtS0ZrYmFwVm9UUWJsMFRwaWJRWkZmZ2pjaVdVYk5fRTlCS3Z6TVk0bHhXbzZLdw?oc=5",
+  "source": "ZDNET",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-23T11:59:30+00:00",
+  "image": "",
+  "id": "08f67f2701fedef9"
+ },
+ {
+  "title": "Anthropic strikes deal to launch European consultancy",
+  "summary": "Anthropic strikes deal to launch European consultancy Financial Times",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdnZydGY4cEdLMHdFVVJ2R2kwaG1yOVZuQi1XNzk2SEw5T3lWQkZHZl9UYXhfazU2bFRQU0VabnlCdTBDMDhyQ2ZfUGNSODkxOWc4ZFBQOUVndEs5QmxtREZJQVlVY0RjLUVoUVh5ZWZIcWpuY3ExeUZGcGNuNzF5TGNBUy0?oc=5",
+  "source": "Financial Times",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-23T09:04:09+00:00",
+  "image": "",
+  "id": "badda17ad8966952"
+ },
+ {
+  "title": "1Password's new solution mitigates the security risks of AI agent account access",
+  "summary": "1Password's new solution mitigates the security risks of AI agent account access Android Authority",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hSG0wVUxrWWFOMGxEN1NFS1Q4MGtLMlQweVR5VnYwd3ZDd3lxSWxKYWxud0lJenUyNFFSanZhbTR1WGd0d21sak1aSlNaV29IZ0hxS1FHVkJJRXNRUXdJbE5pOXFKVVB5djBOYzE0YjRJakotSTVsWg?oc=5",
+  "source": "Android Authority",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-22T19:29:00+00:00",
+  "image": "",
+  "id": "5906bbca6f5ea0dc"
  }
 ]

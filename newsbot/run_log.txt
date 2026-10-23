@@ -1,2 +1,29 @@
-Fri Oct 23 09:36:38 UTC 2026
+Fri Oct 23 13:20:07 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 3 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 9 fresh
+Hugging Face: 4 fresh
+The Verge: 10 fresh
+TechCrunch: 13 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 4 fresh
+Product Hunt: 8 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 4
+translated via clients5
+translated via clients5
+sent photo Leading European Financial Services Organizations Embrace Op
+translated via clients5
+translated via clients5
+sent photo NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy 
+translated via clients5
+translated via clients5
+sent photo How Companies Are Using NVIDIA DSX to Break the Power Bottle
