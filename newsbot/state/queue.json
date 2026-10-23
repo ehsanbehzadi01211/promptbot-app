@@ -1,41 +1,5 @@
 [
  {
-  "title": "Beyond tree cover: mapping the world’s forest types",
-  "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-  "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-  "source": "Google DeepMind",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-22T14:30:24+00:00",
-  "image": "",
-  "id": "e66e9796ba6be5e9"
- },
- {
-  "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
-  "summary": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices. The campaign also gets an enhanced look: GeForce RTX 5080-class performance arrives for Ultimate members, bringing support for ray-tracing features in […]",
-  "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-22T13:00:20+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Call-Of-Duty-Modern-Warfare-4.jpg",
-  "id": "0d155a8c67502c8e"
- },
- {
-  "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-  "summary": "",
-  "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-22T16:11:31+00:00",
-  "image": "",
-  "id": "eaa0ebff7daf626e"
- },
- {
   "title": "Ex-OpenAI Science Head Launches Startup With $215 Million",
   "summary": "Ex-OpenAI Science Head Launches Startup With $215 Million Bloomberg.com",
   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQlBnRkU4WWw3WE5qTHZscFNxUm44a0RNSVpTUHdfOVo3N0xLWE8tbFMyZlN3Nk1NZ0tvd1JZODFNX2tIY1ZMeElGX1FwdUR4X28zckVZSjNNdExNM3RITEdVdi1ybkx0R05rdmFLZk81V20xOHBuZldndm80YnZxb0NjcUYyWkotdXdCUWhyTUJNcXNvemRQNV9hLVNpRmIzZkxiaThqM3QxWmVxblU3R1hlRlpiQ0hrS2c?oc=5",
@@ -284,5 +248,53 @@
   "time": "2026-10-23T17:18:10+00:00",
   "image": "",
   "id": "fa6128c97bf1ded1"
+ },
+ {
+  "title": "Securing our frontier model training environment",
+  "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+  "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-23T10:00:00+00:00",
+  "image": "",
+  "id": "48e2274fdf2ba9fe"
+ },
+ {
+  "title": "Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack",
+  "summary": "Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack The Register",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQX3pqU0g1U1Z6eVB1cUZ5RFJrTVh3ZEkyWGpjZzBPMHFGeWVweW5rS2pPWk8tY2lxTVl0ZzdfaFo5ZzFLRGpqVjVrdVlXT19kazVDaHozYllubkdUemZNNjZWYkdGM2lSMktwb2otdUpxc0swbU1VY2RZWkxnZHhqbmI4d19mNjdKOHdyRl9XdTdCdVh1b0dNeHUyOTRHbVV0QkVDckt6SzRnNHltVjZfYlJoNW9Xd3dFem5tTjNrd2syMmZQMWdnczlsVnZCN19pOTFIZG5TaGFmamhTZXpMdU9vSQ?oc=5",
+  "source": "The Register",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-23T19:14:57+00:00",
+  "image": "",
+  "id": "42f87f3ebfd48fed"
+ },
+ {
+  "title": "Gemini for Android rolls out side panel and settings redesign",
+  "summary": "Gemini for Android rolls out side panel and settings redesign 9to5Google",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DZTB3cWcyeTF2b1ptY050WGdQSl90Uk0ycGdISEcycGFhSngzWjFWWk1URUxfOVl0MEF6VGNfWU9KNFVrQlIyTVVYNFZ0enh6YXVwbkF3ZWZmMmRVaEZoNEhpdnpPVVp3ZzdTenVpYU5BUF9QeHc?oc=5",
+  "source": "9to5Google",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-23T22:02:00+00:00",
+  "image": "",
+  "id": "bb8dac9d1f0400b7"
+ },
+ {
+  "title": "Gemini Notebook now available as Connected App for deeper integration",
+  "summary": "Gemini Notebook now available as Connected App for deeper integration 9to5Google",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jNnhaN1cwS2JJdmtXWWhZZ1JCUFY4LUJiZWJKUlUwMk5kQnFNVGFTcmR4Wm8wLXY3cHEwZzR2TVBfZWIyUEhRa1FVRkZFZ2w0ZjYyT1ByYTFVa0lWVTVkLVRPWmdLUXJpY2t1VHVEdlZYdw?oc=5",
+  "source": "9to5Google",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-23T20:21:00+00:00",
+  "image": "",
+  "id": "5851f3e058958349"
  }
 ]
