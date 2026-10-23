@@ -1,29 +1,29 @@
-Fri Oct 23 00:35:16 UTC 2026
+Fri Oct 23 07:22:59 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 6 fresh
+OpenAI: 5 fresh
 Google: 0 fresh
 Google DeepMind: 1 fresh
-NVIDIA: 8 fresh
-Hugging Face: 7 fresh
+NVIDIA: 9 fresh
+Hugging Face: 3 fresh
 The Verge: 10 fresh
-TechCrunch: 20 fresh
+TechCrunch: 19 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 4 fresh
-Product Hunt: 7 fresh
+Product Hunt: 9 fresh
 Anthropic: 26 links
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
+Google News: 22 fresh
 Google News: 30 fresh
-Google News: 30 fresh
-new items: 2
+new items: 4
 translated via clients5
 translated via clients5
-sent card How AT&T is rethinking in-house legal work with OpenAI
+sent card Broad access through consistent standards
 translated via clients5
 translated via clients5
-sent card ChatGPT Ads expands to 26 new countries as over 100,000 adve
+sent card Anthropic Launches Claude Duet, a Proactive AI Agent
 translated via clients5
-photo url refused HTTP Error 400: Bad Request
-sent card NVIDIA Kumo Relational Outperforms Supervised Machine Learni
+translated via clients5
+sent photo Recursive launches Flint, a laptop coding model it says was 
