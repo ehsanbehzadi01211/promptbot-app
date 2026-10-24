@@ -684,13 +684,13 @@
   "yt_key": "fa_insta",
   "override": {
    "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/fa_insta.mp4"
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/web1_voice.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_web1_page.jpg"
   },
   "via": "uplika",
-  "uplika_post": "post_b1ec5893d01536df",
-  "url": "https://www.instagram.com/reel/De420TLl5Py/"
+  "uplika_post": "post_d31fa800533f0a48",
+  "url": "https://www.instagram.com/reel/De44iDkkaXY/"
  },
  {
   "platform": "instagram",
@@ -961,7 +961,7 @@
   "yt_key": "fa_speed",
   "override": {
    "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/fa_speed.mp4"
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/web2_voice.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_web2_speed.jpg"
   },
