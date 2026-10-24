@@ -1,28 +1,28 @@
-Fri Oct 23 23:04:33 UTC 2026
+Sat Oct 24 04:26:44 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 OpenAI: 4 fresh
 Google: 0 fresh
 Google DeepMind: 0 fresh
-NVIDIA: 3 fresh
+NVIDIA: 1 fresh
 Hugging Face: 3 fresh
 The Verge: 10 fresh
-TechCrunch: 15 fresh
+TechCrunch: 11 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 2 fresh
-Product Hunt: 6 fresh
+Product Hunt: 4 fresh
 Anthropic: 26 links
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 22 fresh
-new items: 4
+Google News: 30 fresh
+new items: 0
+translated via clients5
+sent photo Donating Agent Skills to the Agentic AI Foundation
 translated via clients5
 translated via clients5
-sent card Beyond tree cover: mapping the world’s forest types
+sent card Build more responsive apps with the Decisions API
 translated via clients5
 translated via clients5
-sent photo Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ 
-translated via clients5
-sent photo OlmoEarth v1.3: State-of-the-art embeddings for the whole pl
+sent photo 1Password launches a way for AI agents to log in on your beh
