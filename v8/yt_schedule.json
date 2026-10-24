@@ -22,7 +22,7 @@
   {
    "when": "2026-10-28T16:00+03:30",
    "key": "fa_insta",
-   "media": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_insta.mp4",
+   "media": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/web1_voice.mp4",
    "meta": "pipeline/scripts_en.json[fa_insta] (title, desc, tags)"
   },
   {
@@ -76,7 +76,7 @@
   {
    "when": "2026-11-06T16:00+03:30",
    "key": "fa_speed",
-   "media": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_speed.mp4",
+   "media": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/web2_voice.mp4",
    "meta": "pipeline/scripts_en.json[fa_speed] (title, desc, tags)"
   },
   {
