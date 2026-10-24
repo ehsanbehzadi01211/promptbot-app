@@ -322,8 +322,9 @@
   "media": "youtube/shorts/fa_claude_ws.mp4",
   "metricool_uuid": "",
   "metricool_date": "",
-  "status": "queued",
-  "id": "yo-2026-10-18-short"
+  "status": "published",
+  "id": "yo-2026-10-18-short",
+  "url": "https://youtube.com/shorts/eSRzf_zJxMk"
  },
  {
   "platform": "youtube",
@@ -335,8 +336,9 @@
   "media": "youtube/shorts/fa_imgprompt.mp4",
   "metricool_uuid": "3449025745297489947",
   "metricool_date": "2026-10-12T21:00",
-  "status": "queued",
-  "id": "yo-2026-10-19-short"
+  "status": "published",
+  "id": "yo-2026-10-19-short",
+  "url": "https://youtube.com/shorts/s4_XCxNdh1E"
  },
  {
   "platform": "instagram",
@@ -424,8 +426,9 @@
   "media": "youtube/shorts/fa_edit.mp4",
   "metricool_uuid": "2162193197612024971",
   "metricool_date": "2026-10-13T10:00",
-  "status": "queued",
-  "id": "yo-2026-10-20-short"
+  "status": "published",
+  "id": "yo-2026-10-20-short",
+  "url": "https://youtube.com/shorts/QWm6KKHGdTs"
  },
  {
   "platform": "instagram",
@@ -530,8 +533,9 @@
   "media": "youtube/shorts/fa_sketch.mp4",
   "metricool_uuid": "-7922332044340019025",
   "metricool_date": "2026-10-14T16:00",
-  "status": "queued",
-  "id": "yo-2026-10-21-short"
+  "status": "published",
+  "id": "yo-2026-10-21-short",
+  "url": "https://youtube.com/shorts/d51X5uontGk"
  },
  {
   "platform": "youtube",
@@ -675,7 +679,7 @@
   "topic": "پیج اینستاگرامت مال تو نیست (طراحی سایت)",
   "metricool_uuid": "-415557555638812148",
   "metricool_date": "2026-10-24T16:00",
-  "status": "queued",
+  "status": "scheduled",
   "id": "in-2026-10-24-reel",
   "yt_key": "fa_insta",
   "override": {
@@ -683,7 +687,9 @@
     "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_insta.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_web1_page.jpg"
-  }
+  },
+  "via": "uplika",
+  "uplika_post": "post_37b79d261c378058"
  },
  {
   "platform": "instagram",
@@ -693,9 +699,11 @@
   "media": [
    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/tip_4.jpg"
   ],
-  "status": "queued",
+  "status": "scheduled",
   "id": "in-2026-10-24-story",
-  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone."
+  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone.",
+  "via": "uplika",
+  "uplika_post": "post_f58262d11b13fca8"
  },
  {
   "platform": "youtube",
@@ -731,9 +739,11 @@
   "media": [
    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/st_gamma.mp4"
   ],
-  "status": "queued",
+  "status": "scheduled",
   "id": "in-2026-10-25-story",
-  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone."
+  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone.",
+  "via": "uplika",
+  "uplika_post": "post_2adf780a08c9ea7b"
  },
  {
   "platform": "instagram",
@@ -742,7 +752,7 @@
   "topic": "اول عکس، بعد ویدیو",
   "metricool_uuid": "-51815492003544779",
   "metricool_date": "2026-10-17T10:00",
-  "status": "queued",
+  "status": "scheduled",
   "id": "in-2026-10-25-reel",
   "yt_key": "fa_img2vid",
   "override": {
@@ -750,7 +760,9 @@
     "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_img2vid.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel24_img2vid.jpg"
-  }
+  },
+  "via": "uplika",
+  "uplika_post": "post_9cbb50a54adff383"
  },
  {
   "platform": "instagram",
@@ -759,7 +771,7 @@
   "topic": "هوش مصنوعی معلم خصوصی",
   "metricool_uuid": "-642830934189980614",
   "metricool_date": "2026-10-18T16:00",
-  "status": "queued",
+  "status": "scheduled",
   "id": "in-2026-10-26-reel",
   "yt_key": "fa_teacher",
   "override": {
@@ -767,7 +779,9 @@
     "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_teacher.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel7_teacher.jpg"
-  }
+  },
+  "via": "uplika",
+  "uplika_post": "post_39ccd1d78accccb5"
  },
  {
   "platform": "youtube",
@@ -790,18 +804,20 @@
   "media": [
    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/tip_5.jpg"
   ],
-  "status": "queued",
+  "status": "scheduled",
   "id": "in-2026-10-26-story",
-  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone."
+  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone.",
+  "via": "uplika",
+  "uplika_post": "post_621f8769c4298809"
  },
  {
   "platform": "instagram",
   "kind": "reel",
-  "when": "2026-10-27T16:00",
+  "when": "2026-10-27T10:00",
   "topic": "فقط یه عکس بده",
   "metricool_uuid": "8901563185603628675",
   "metricool_date": "2026-10-19T21:00",
-  "status": "queued",
+  "status": "scheduled",
   "id": "in-2026-10-27-reel",
   "yt_key": "fa_photo",
   "override": {
@@ -809,7 +825,9 @@
     "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_photo.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel8_photo.jpg"
-  }
+  },
+  "via": "uplika",
+  "uplika_post": "post_9ae471145ddb9fbf"
  },
  {
   "platform": "instagram",
@@ -819,9 +837,11 @@
   "media": [
    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/st_napkin.mp4"
   ],
-  "status": "queued",
+  "status": "scheduled",
   "id": "in-2026-10-27-story",
-  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone."
+  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone.",
+  "via": "uplika",
+  "uplika_post": "post_fffcc4cf916fa4b0"
  },
  {
   "platform": "youtube",
@@ -857,18 +877,20 @@
   "media": [
    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/tip_6.jpg"
   ],
-  "status": "queued",
+  "status": "scheduled",
   "id": "in-2026-10-28-story",
-  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone."
+  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone.",
+  "via": "uplika",
+  "uplika_post": "post_f91170d5251bfc62"
  },
  {
   "platform": "instagram",
   "kind": "reel",
-  "when": "2026-10-28T21:00",
+  "when": "2026-10-28T10:00",
   "topic": "۵ کار در ۱ دقیقه",
   "metricool_uuid": "6968041368260462128",
   "metricool_date": "2026-10-20T10:00",
-  "status": "queued",
+  "status": "scheduled",
   "id": "in-2026-10-28-reel",
   "yt_key": "fa_tasks",
   "override": {
@@ -876,16 +898,18 @@
     "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_tasks.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel9_tasks.jpg"
-  }
+  },
+  "via": "uplika",
+  "uplika_post": "post_eadb5915fcbea514"
  },
  {
   "platform": "instagram",
   "kind": "reel",
-  "when": "2026-10-29T10:00",
+  "when": "2026-10-28T21:00",
   "topic": "تمرین مصاحبه‌ی کاری",
   "metricool_uuid": "-8624930692332303810",
   "metricool_date": "2026-10-21T16:00",
-  "status": "queued",
+  "status": "scheduled",
   "id": "in-2026-10-29-reel",
   "yt_key": "fa_interview",
   "override": {
@@ -893,7 +917,9 @@
     "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_interview.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel10_interview.jpg"
-  }
+  },
+  "via": "uplika",
+  "uplika_post": "post_c7128ad85c4ee785"
  },
  {
   "platform": "youtube",
@@ -916,18 +942,20 @@
   "media": [
    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/st_turboscribe.mp4"
   ],
-  "status": "queued",
+  "status": "scheduled",
   "id": "in-2026-10-29-story",
-  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone."
+  "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone.",
+  "via": "uplika",
+  "uplika_post": "post_df4459430423e651"
  },
  {
   "platform": "instagram",
   "kind": "reel",
-  "when": "2026-10-30T16:00",
+  "when": "2026-10-29T21:00",
   "topic": "سایت کند یعنی مشتری رفته (طراحی سایت)",
   "metricool_uuid": "-6564507812620778913",
   "metricool_date": "2026-10-30T16:00",
-  "status": "queued",
+  "status": "scheduled",
   "id": "in-2026-10-30-reel",
   "yt_key": "fa_speed",
   "override": {
@@ -935,7 +963,9 @@
     "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_speed.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_web2_speed.jpg"
-  }
+  },
+  "via": "uplika",
+  "uplika_post": "post_64fdf9402778337f"
  },
  {
   "platform": "youtube",
@@ -966,11 +996,11 @@
  {
   "platform": "instagram",
   "kind": "reel",
-  "when": "2026-10-31T21:00",
+  "when": "2026-10-30T10:00",
   "topic": "مکالمه‌ی انگلیسی",
   "metricool_uuid": "-4529746557893328670",
   "metricool_date": "2026-10-22T21:00",
-  "status": "queued",
+  "status": "scheduled",
   "id": "in-2026-10-31-reel",
   "yt_key": "fa_english",
   "override": {
@@ -978,16 +1008,18 @@
     "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_english.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel11_english.jpg"
-  }
+  },
+  "via": "uplika",
+  "uplika_post": "post_7a5ef20b08262f19"
  },
  {
   "platform": "instagram",
   "kind": "reel",
-  "when": "2026-11-01T10:00",
+  "when": "2026-10-31T10:00",
   "topic": "۳ جمله برای جواب بهتر",
   "metricool_uuid": "-1664758064496750873",
   "metricool_date": "2026-10-23T10:00",
-  "status": "queued",
+  "status": "scheduled",
   "id": "in-2026-11-01-reel",
   "yt_key": "fa_phrases",
   "override": {
@@ -995,7 +1027,9 @@
     "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_phrases.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel12_phrases.jpg"
-  }
+  },
+  "via": "uplika",
+  "uplika_post": "post_081253e190cd2a4d"
  },
  {
   "platform": "youtube",
@@ -1013,11 +1047,11 @@
  {
   "platform": "instagram",
   "kind": "reel",
-  "when": "2026-11-02T16:00",
+  "when": "2026-10-31T21:00",
   "topic": "۳ کاری که نباید بسپاری",
   "metricool_uuid": "5467700907011424616",
   "metricool_date": "2026-10-24T16:00",
-  "status": "queued",
+  "status": "scheduled",
   "id": "in-2026-11-02-reel",
   "yt_key": "fa_dont",
   "override": {
@@ -1025,7 +1059,9 @@
     "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_dont.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel13_dont.jpg"
-  }
+  },
+  "via": "uplika",
+  "uplika_post": "post_6de9b0622cc369c8"
  },
  {
   "platform": "youtube",
@@ -1056,11 +1092,11 @@
  {
   "platform": "instagram",
   "kind": "reel",
-  "when": "2026-11-03T21:00",
+  "when": "2026-11-01T10:00",
   "topic": "کپشن اینستاگرام با AI",
   "metricool_uuid": "5117316827222917434",
   "metricool_date": "2026-10-25T21:00",
-  "status": "queued",
+  "status": "scheduled",
   "id": "in-2026-11-03-reel",
   "yt_key": "fa_caption",
   "override": {
@@ -1068,16 +1104,18 @@
     "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_caption.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel14_caption.jpg"
-  }
+  },
+  "via": "uplika",
+  "uplika_post": "post_eed97ccd419f38ca"
  },
  {
   "platform": "instagram",
   "kind": "reel",
-  "when": "2026-11-04T10:00",
+  "when": "2026-11-01T21:00",
   "topic": "تصمیم سخت",
   "metricool_uuid": "8594292400012739134",
   "metricool_date": "2026-10-26T10:00",
-  "status": "queued",
+  "status": "scheduled",
   "id": "in-2026-11-04-reel",
   "yt_key": "fa_decide",
   "override": {
@@ -1085,7 +1123,9 @@
     "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_decide.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel15_decide.jpg"
-  }
+  },
+  "via": "uplika",
+  "uplika_post": "post_8700c2653627e87f"
  },
  {
   "platform": "youtube",
@@ -1103,11 +1143,11 @@
  {
   "platform": "instagram",
   "kind": "reel",
-  "when": "2026-11-05T16:00",
+  "when": "2026-11-02T10:00",
   "topic": "نقد رزومه",
   "metricool_uuid": "1032403482078105447",
   "metricool_date": "2026-10-27T16:00",
-  "status": "queued",
+  "status": "scheduled",
   "id": "in-2026-11-05-reel",
   "yt_key": "fa_resume",
   "override": {
@@ -1115,7 +1155,9 @@
     "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_resume.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel16_resume.jpg"
-  }
+  },
+  "via": "uplika",
+  "uplika_post": "post_e6dad2305ac3fc1c"
  },
  {
   "platform": "youtube",
@@ -1146,11 +1188,11 @@
  {
   "platform": "instagram",
   "kind": "reel",
-  "when": "2026-11-06T21:00",
+  "when": "2026-11-02T21:00",
   "topic": "مهارت در ۳۰ روز",
   "metricool_uuid": "6481136569033441615",
   "metricool_date": "2026-10-28T21:00",
-  "status": "queued",
+  "status": "scheduled",
   "id": "in-2026-11-06-reel",
   "yt_key": "fa_skill",
   "override": {
@@ -1158,16 +1200,18 @@
     "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_skill.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel17_skill.jpg"
-  }
+  },
+  "via": "uplika",
+  "uplika_post": "post_2d107094f9676519"
  },
  {
   "platform": "instagram",
   "kind": "reel",
-  "when": "2026-11-07T10:00",
+  "when": "2026-11-03T10:00",
   "topic": "«نه» گفتن مؤدبانه",
   "metricool_uuid": "-8281566411686526764",
   "metricool_date": "2026-10-29T10:00",
-  "status": "queued",
+  "status": "scheduled",
   "id": "in-2026-11-07-reel",
   "yt_key": "fa_no",
   "override": {
@@ -1175,7 +1219,9 @@
     "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_no.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel18_no.jpg"
-  }
+  },
+  "via": "uplika",
+  "uplika_post": "post_d1fc7c0d5ad62d58"
  },
  {
   "platform": "youtube",
@@ -1228,5 +1274,65 @@
   "metricool_date": "2026-10-10T22:15",
   "status": "queued",
   "id": "yo-2026-11-10-short"
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "lang": "fa",
+  "when": "2026-10-25T10:00",
+  "topic": "ElevenLabs ۱۰ هزار کردیت رایگان",
+  "status": "scheduled",
+  "via": "uplika",
+  "uplika_post": "post_87471637830dc54a",
+  "id": "in-2026-10-25-v8eleven",
+  "comment_to_dm": true
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "lang": "fa",
+  "when": "2026-10-26T21:00",
+  "topic": "Google Flow / Veo رایگان",
+  "status": "scheduled",
+  "via": "uplika",
+  "uplika_post": "post_08c1bf43a5f8d5ac",
+  "id": "in-2026-10-26-v8veo",
+  "comment_to_dm": true
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "lang": "fa",
+  "when": "2026-10-27T21:00",
+  "topic": "پرامپت هر عکسی رو دربیار",
+  "status": "scheduled",
+  "via": "uplika",
+  "uplika_post": "post_f93007754c72af6d",
+  "id": "in-2026-10-27-v8revprompt",
+  "comment_to_dm": true
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "lang": "fa",
+  "when": "2026-10-29T10:00",
+  "topic": "۳ سایت عکس‌ساز رایگان",
+  "status": "scheduled",
+  "via": "uplika",
+  "uplika_post": "post_fb5adfb2c6fa5c35",
+  "id": "in-2026-10-29-v8imagetools",
+  "comment_to_dm": true
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "lang": "fa",
+  "when": "2026-10-30T21:00",
+  "topic": "اندیکاتور TradingView با Claude",
+  "status": "scheduled",
+  "via": "uplika",
+  "uplika_post": "post_5501b9080dbca0da",
+  "id": "in-2026-10-30-v8indicator",
+  "comment_to_dm": true
  }
 ]
