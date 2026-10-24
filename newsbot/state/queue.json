@@ -1,41 +1,5 @@
 [
  {
-  "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-  "summary": "",
-  "url": "https://huggingface.co/blog/allenai/litpivot",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-23T16:15:50+00:00",
-  "image": "",
-  "id": "d5dfb55b012918e7"
- },
- {
-  "title": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1",
-  "summary": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1 The Decoder",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTi0xMUJXTXVacllRVHhIV2NwQkFfX2JORUlualY3M1BvX2tjSjE3eTVFeEpJQ1JNcUg2WnNwVU5TSDhwNnJxbnFzN25JeUlMTC03T3k4cU1KWlZ0eGhaMU5fQVVtZ05rMGR0VUdLWUhQWWtkeHhEOUZSTXl0cDJJT1NkRjVjdEM3V05aazNEM05fd0pJWUpkUUExZlUyMURGbnlWVzctWEtrR0V4X0ZFQ1VkdVcwdnM?oc=5",
-  "source": "The Decoder",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-23T17:23:11+00:00",
-  "image": "",
-  "id": "1420c4e610b1454d"
- },
- {
-  "title": "Moonshot Debuts First AI Upgrade Since Its Own DeepSeek Moment",
-  "summary": "Moonshot Debuts First AI Upgrade Since Its Own DeepSeek Moment Bloomberg.com",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcktaUjlRNUc4SkZ3UzlJSnJwX0tzalVkaHFKTmxkWGItR0J6b3VVQ01xU25ZdFRueWdrVXNsMjRab2NJNTVFMG9sRHdfbWJwQ2FLQlBwSGdfS1hYWFhWUXRONm8zczlYSnoxX1hiamdRWFU3UThWS05fVFpKNzN4OU5ISkZoOXJNS09Qc2djYVVxMGtnQjVlWFJHTE1wQWdmVjZYckhnd2JjbURxSy1ra2lXbw?oc=5",
-  "source": "Bloomberg.com",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-23T17:18:10+00:00",
-  "image": "",
-  "id": "fa6128c97bf1ded1"
- },
- {
   "title": "Securing our frontier model training environment",
   "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
@@ -142,5 +106,17 @@
   "time": "2026-10-24T09:00:00+00:00",
   "image": "",
   "id": "113c0938d971be45"
+ },
+ {
+  "title": "OpenAI Built a Giant Fake Internet for Its Agents to Use and Abuse Safely",
+  "summary": "OpenAI Built a Giant Fake Internet for Its Agents to Use and Abuse Safely Gizmodo",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMUVtbjVJbzVlbURNcEQxdmRCSXFWRFFfS2JGeHdPSnRUM1UtODYtRC1fZlgyN0JGRnVDZ3czRklJQmFDWVR6NldGMjI2WkNnaG91UXRJcGoyS0NaTDhmRV85OEtEeXMwMUhyYTExdlkxYjJidWJ6aWRGTWpyQmJEdW82YnRncHRTelhrUmhPUTV0RHdib2QtVy1DUHBqZ1NhdXJNdnk2RQ?oc=5",
+  "source": "Gizmodo",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-24T17:30:05+00:00",
+  "image": "",
+  "id": "9184795063340c55"
  }
 ]

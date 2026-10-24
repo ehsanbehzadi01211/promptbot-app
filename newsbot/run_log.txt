@@ -1,6 +1,28 @@
-Sat Oct 24 18:29:57 UTC 2026
+Sat Oct 24 18:44:50 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-promo sent yo-2026-10-18-short
-promo sent yo-2026-10-19-short
-promo sent yo-2026-10-20-short
-promo sent yo-2026-10-21-short
+OpenAI: 2 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 0 fresh
+Hugging Face: 1 fresh
+The Verge: 7 fresh
+TechCrunch: 6 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 0 fresh
+Product Hunt: 2 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 27 fresh
+new items: 1
+translated via clients5
+sent photo LitPivot: Developing research ideas through dynamic contextu
+translated via clients5
+translated via clients5
+sent card Anthropic says its unreleased model is both more capable and
+translated via clients5
+translated via clients5
+sent card Moonshot Debuts First AI Upgrade Since Its Own DeepSeek Mome
