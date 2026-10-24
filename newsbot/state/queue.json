@@ -1,77 +1,5 @@
 [
  {
-  "title": "Left alone with nothing to do, AI agents started playing",
-  "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-  "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-  "source": "TechCrunch",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-23T00:45:37+00:00",
-  "image": "",
-  "id": "085ba153da3bfb79"
- },
- {
-  "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
-  "summary": "All the latest news on Meta’s cute, creepy Muse AI agent The Verge",
-  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlWUtkMVdfazhRYVRqeE84TkVSeXpSd2s5ZE9Wb0psMUd5MkRrMi1pdlAwenRfSlJJNGJaaFM1WDJQakJITU51S0R2Y1VUeUdkSk9ZOEFfQUc5V3M2c0pkU09Fek4teC1CTjVXX2FyOE9uQWh3R3NLYXBVOTU?oc=5",
-  "source": "The Verge",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-23T00:10:43+00:00",
-  "image": "",
-  "id": "5f41e4e44638fe0b"
- },
- {
-  "title": "Does Your Model Run on AWS Trainium? Look It Up",
-  "summary": "",
-  "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-23T00:00:00+00:00",
-  "image": "",
-  "id": "6430909168b58685"
- },
- {
-  "title": "I tried OpenAI Academy’s free AI courses – and the certificate was a nice bonus",
-  "summary": "I tried OpenAI Academy’s free AI courses – and the certificate was a nice bonus ZDNET",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aQ2hYaFhSTDg3QjVBQ3pJZm9WZERqc2pENy11U3ZTdWJ6MmZsWmNmVUZ0bnQyQmJKeExWTWI4dFdPRGN5Ym95Yk52QVZIdzMtS0ZrYmFwVm9UUWJsMFRwaWJRWkZmZ2pjaVdVYk5fRTlCS3Z6TVk0bHhXbzZLdw?oc=5",
-  "source": "ZDNET",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-23T11:59:30+00:00",
-  "image": "",
-  "id": "08f67f2701fedef9"
- },
- {
-  "title": "Anthropic strikes deal to launch European consultancy",
-  "summary": "Anthropic strikes deal to launch European consultancy Financial Times",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdnZydGY4cEdLMHdFVVJ2R2kwaG1yOVZuQi1XNzk2SEw5T3lWQkZHZl9UYXhfazU2bFRQU0VabnlCdTBDMDhyQ2ZfUGNSODkxOWc4ZFBQOUVndEs5QmxtREZJQVlVY0RjLUVoUVh5ZWZIcWpuY3ExeUZGcGNuNzF5TGNBUy0?oc=5",
-  "source": "Financial Times",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-23T09:04:09+00:00",
-  "image": "",
-  "id": "badda17ad8966952"
- },
- {
-  "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-  "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-  "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-23T17:00:00+00:00",
-  "image": "",
-  "id": "298c8de07d18f423"
- },
- {
   "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
   "summary": "",
   "url": "https://huggingface.co/blog/allenai/litpivot",
@@ -178,5 +106,41 @@
   "time": "2026-10-23T15:30:31+00:00",
   "image": "",
   "id": "a2bf84b282f91d4e"
+ },
+ {
+  "title": "Here are the top AI agents that can live in your text messages",
+  "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+  "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-24T14:00:00+00:00",
+  "image": "",
+  "id": "0d4ae8a7dd392962"
+ },
+ {
+  "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+  "summary": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache The Decoder",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTWJhNW92T3F2WmQ4ajFOZGFBTnNkckxMenAtWXU3S21wN0lyeXBJMmxmOGdCT3dobDdqclV1SkpjcFZDdGM3V2ZNNWk1d21veTNGT0dqN2JNU3VLWEpybVYwbFdfOTkxcHdtUXdwMmhpS2t6T09sUWttZXpsYkMyOWY0RnJoRHNGYXBseUdNeHBGZHhDTTB6ZmdHVExaX0tiYTd3aw?oc=5",
+  "source": "The Decoder",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-24T11:18:17+00:00",
+  "image": "",
+  "id": "99c9ad9786a084bf"
+ },
+ {
+  "title": "Anthropic's ChatGPT rival Claude is now available on iOS",
+  "summary": "Anthropic's ChatGPT rival Claude is now available on iOS Mashable",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNXpvRWstWUhENjluYlhUVDNuTWRsZ1QyUlFYcnl4RlMyX0pNUnZRcVNfTzRyQTAzRGhUZncyM1Rza1lHTmRYY1RWZGRyYmdfZUQyT0dZcW1WRlJRMmV3aDdaajh0dzhab3dRczd5QUpud1lvUXJ1UXRCNTNsRV9YWUJFazBWX3M?oc=5",
+  "source": "Mashable",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-24T09:00:00+00:00",
+  "image": "",
+  "id": "113c0938d971be45"
  }
 ]

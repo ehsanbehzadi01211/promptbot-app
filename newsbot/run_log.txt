@@ -1,12 +1,12 @@
-Sat Oct 24 10:49:34 UTC 2026
+Sat Oct 24 15:50:47 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 3 fresh
+OpenAI: 2 fresh
 Google: 0 fresh
 Google DeepMind: 0 fresh
-NVIDIA: 1 fresh
-Hugging Face: 2 fresh
+NVIDIA: 0 fresh
+Hugging Face: 1 fresh
 The Verge: 6 fresh
-TechCrunch: 5 fresh
+TechCrunch: 6 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 0 fresh
 Product Hunt: 5 fresh
@@ -17,12 +17,14 @@ Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-new items: 2
-translated via clients5
-sent photo Open call for guest investigators in the life sciences
+new items: 3
 translated via clients5
 translated via clients5
-sent card OpenAI and Poland’s NASK partner to advance AI safety and se
+sent card I tried OpenAI Academy’s free AI courses – and the certifica
 translated via clients5
 translated via clients5
-sent photo Kazakhstan Expands Compute for Its AI Future
+sent card Anthropic strikes deal to launch European consultancy
+translated via clients5
+translated via clients5
+sent card Rapidly scaling online storage to serve over 1 billion ChatG
+story sent to owner in-2026-10-24-story
