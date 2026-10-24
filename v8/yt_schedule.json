@@ -1,0 +1,155 @@
+{
+ "note": "YouTube Shorts, 1/day at 16:00 Tehran. Schedule through Uplika once a YouTube account is connected (Education category id 27, not for kids, containsSyntheticMedia true, public).",
+ "plan": [
+  {
+   "when": "2026-10-25T16:00+03:30",
+   "key": "fa_video",
+   "media": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_video.mp4",
+   "meta": "pipeline/scripts_en.json[fa_video] (title, desc, tags)"
+  },
+  {
+   "when": "2026-10-26T16:00+03:30",
+   "key": "eleven",
+   "media": "https://res.cloudinary.com/qecsawrr/video/upload/ehbehzad/v8_eleven_yt_final.mp4",
+   "meta": "v8/publish.json items.eleven (yt_title, yt_desc, yt_tags)"
+  },
+  {
+   "when": "2026-10-27T16:00+03:30",
+   "key": "fa_vprompt",
+   "media": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_vprompt.mp4",
+   "meta": "pipeline/scripts_en.json[fa_vprompt] (title, desc, tags)"
+  },
+  {
+   "when": "2026-10-28T16:00+03:30",
+   "key": "fa_insta",
+   "media": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_insta.mp4",
+   "meta": "pipeline/scripts_en.json[fa_insta] (title, desc, tags)"
+  },
+  {
+   "when": "2026-10-29T16:00+03:30",
+   "key": "veo",
+   "media": "https://res.cloudinary.com/qecsawrr/video/upload/ehbehzad/v8_veo_yt_final.mp4",
+   "meta": "v8/publish.json items.veo (yt_title, yt_desc, yt_tags)"
+  },
+  {
+   "when": "2026-10-30T16:00+03:30",
+   "key": "fa_img2vid",
+   "media": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_img2vid.mp4",
+   "meta": "pipeline/scripts_en.json[fa_img2vid] (title, desc, tags)"
+  },
+  {
+   "when": "2026-10-31T16:00+03:30",
+   "key": "fa_teacher",
+   "media": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_teacher.mp4",
+   "meta": "pipeline/scripts_en.json[fa_teacher] (title, desc, tags)"
+  },
+  {
+   "when": "2026-11-01T16:00+03:30",
+   "key": "revprompt",
+   "media": "https://res.cloudinary.com/qecsawrr/video/upload/ehbehzad/v8_revprompt_yt_final.mp4",
+   "meta": "v8/publish.json items.revprompt (yt_title, yt_desc, yt_tags)"
+  },
+  {
+   "when": "2026-11-02T16:00+03:30",
+   "key": "fa_photo",
+   "media": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_photo.mp4",
+   "meta": "pipeline/scripts_en.json[fa_photo] (title, desc, tags)"
+  },
+  {
+   "when": "2026-11-03T16:00+03:30",
+   "key": "fa_tasks",
+   "media": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_tasks.mp4",
+   "meta": "pipeline/scripts_en.json[fa_tasks] (title, desc, tags)"
+  },
+  {
+   "when": "2026-11-04T16:00+03:30",
+   "key": "imagetools",
+   "media": "https://res.cloudinary.com/qecsawrr/video/upload/ehbehzad/v8_imagetools_yt_final.mp4",
+   "meta": "v8/publish.json items.imagetools (yt_title, yt_desc, yt_tags)"
+  },
+  {
+   "when": "2026-11-05T16:00+03:30",
+   "key": "fa_interview",
+   "media": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_interview.mp4",
+   "meta": "pipeline/scripts_en.json[fa_interview] (title, desc, tags)"
+  },
+  {
+   "when": "2026-11-06T16:00+03:30",
+   "key": "fa_speed",
+   "media": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_speed.mp4",
+   "meta": "pipeline/scripts_en.json[fa_speed] (title, desc, tags)"
+  },
+  {
+   "when": "2026-11-07T16:00+03:30",
+   "key": "indicator",
+   "media": "https://res.cloudinary.com/qecsawrr/video/upload/ehbehzad/v8_indicator_yt_final.mp4",
+   "meta": "v8/publish.json items.indicator (yt_title, yt_desc, yt_tags)"
+  },
+  {
+   "when": "2026-11-08T16:00+03:30",
+   "key": "fa_english",
+   "media": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_english.mp4",
+   "meta": "pipeline/scripts_en.json[fa_english] (title, desc, tags)"
+  },
+  {
+   "when": "2026-11-09T16:00+03:30",
+   "key": "fa_phrases",
+   "media": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_phrases.mp4",
+   "meta": "pipeline/scripts_en.json[fa_phrases] (title, desc, tags)"
+  },
+  {
+   "when": "2026-11-10T16:00+03:30",
+   "key": "fa_dont",
+   "media": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_dont.mp4",
+   "meta": "pipeline/scripts_en.json[fa_dont] (title, desc, tags)"
+  },
+  {
+   "when": "2026-11-11T16:00+03:30",
+   "key": "fa_caption",
+   "media": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_caption.mp4",
+   "meta": "pipeline/scripts_en.json[fa_caption] (title, desc, tags)"
+  },
+  {
+   "when": "2026-11-12T16:00+03:30",
+   "key": "fa_decide",
+   "media": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_decide.mp4",
+   "meta": "pipeline/scripts_en.json[fa_decide] (title, desc, tags)"
+  },
+  {
+   "when": "2026-11-13T16:00+03:30",
+   "key": "fa_resume",
+   "media": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_resume.mp4",
+   "meta": "pipeline/scripts_en.json[fa_resume] (title, desc, tags)"
+  },
+  {
+   "when": "2026-11-14T16:00+03:30",
+   "key": "fa_skill",
+   "media": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_skill.mp4",
+   "meta": "pipeline/scripts_en.json[fa_skill] (title, desc, tags)"
+  },
+  {
+   "when": "2026-11-15T16:00+03:30",
+   "key": "fa_no",
+   "media": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_no.mp4",
+   "meta": "pipeline/scripts_en.json[fa_no] (title, desc, tags)"
+  },
+  {
+   "when": "2026-11-16T16:00+03:30",
+   "key": "fa_mistakes",
+   "media": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_mistakes.mp4",
+   "meta": "pipeline/scripts_en.json[fa_mistakes] (title, desc, tags)"
+  },
+  {
+   "when": "2026-11-17T16:00+03:30",
+   "key": "fa_rewrite",
+   "media": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_rewrite.mp4",
+   "meta": "pipeline/scripts_en.json[fa_rewrite] (title, desc, tags)"
+  },
+  {
+   "when": "2026-11-18T16:00+03:30",
+   "key": "fa_aijob",
+   "media": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_aijob.mp4",
+   "meta": "pipeline/scripts_en.json[fa_aijob] (title, desc, tags)"
+  }
+ ]
+}
