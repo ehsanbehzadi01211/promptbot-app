@@ -288,7 +288,7 @@
   "id": "in-2026-10-18-reel",
   "override": {
    "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_claude_ws.mp4"
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/fa_claude_ws.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/reels11/news_claude_ws_cover.jpg"
   },
@@ -388,7 +388,7 @@
   "yt_key": "fa_imgprompt",
   "override": {
    "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_imgprompt.mp4"
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/fa_imgprompt.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel19_imgprompt.jpg"
   },
@@ -408,7 +408,7 @@
   "yt_key": "fa_edit",
   "override": {
    "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_edit.mp4"
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/fa_edit.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel20_edit.jpg"
   },
@@ -500,7 +500,7 @@
   "yt_key": "fa_sketch",
   "override": {
    "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_sketch.mp4"
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/fa_sketch.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel21_sketch.jpg"
   },
@@ -598,7 +598,7 @@
   "yt_key": "fa_video",
   "override": {
    "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_video.mp4"
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/fa_video.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel22_video.jpg"
   },
@@ -617,7 +617,7 @@
   "yt_key": "fa_vprompt",
   "override": {
    "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_vprompt.mp4"
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/fa_vprompt.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel23_vprompt.jpg"
   },
@@ -679,17 +679,18 @@
   "topic": "پیج اینستاگرامت مال تو نیست (طراحی سایت)",
   "metricool_uuid": "-415557555638812148",
   "metricool_date": "2026-10-24T16:00",
-  "status": "scheduled",
+  "status": "published",
   "id": "in-2026-10-24-reel",
   "yt_key": "fa_insta",
   "override": {
    "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_insta.mp4"
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/fa_insta.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_web1_page.jpg"
   },
   "via": "uplika",
-  "uplika_post": "post_37b79d261c378058"
+  "uplika_post": "post_b1ec5893d01536df",
+  "url": "https://www.instagram.com/reel/De420TLl5Py/"
  },
  {
   "platform": "instagram",
@@ -757,7 +758,7 @@
   "yt_key": "fa_img2vid",
   "override": {
    "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_img2vid.mp4"
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/fa_img2vid.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel24_img2vid.jpg"
   },
@@ -776,7 +777,7 @@
   "yt_key": "fa_teacher",
   "override": {
    "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_teacher.mp4"
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/fa_teacher.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel7_teacher.jpg"
   },
@@ -822,7 +823,7 @@
   "yt_key": "fa_photo",
   "override": {
    "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_photo.mp4"
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/fa_photo.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel8_photo.jpg"
   },
@@ -895,7 +896,7 @@
   "yt_key": "fa_tasks",
   "override": {
    "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_tasks.mp4"
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/fa_tasks.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel9_tasks.jpg"
   },
@@ -914,7 +915,7 @@
   "yt_key": "fa_interview",
   "override": {
    "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_interview.mp4"
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/fa_interview.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel10_interview.jpg"
   },
@@ -960,7 +961,7 @@
   "yt_key": "fa_speed",
   "override": {
    "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_speed.mp4"
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/fa_speed.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_web2_speed.jpg"
   },
@@ -1005,7 +1006,7 @@
   "yt_key": "fa_english",
   "override": {
    "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_english.mp4"
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/fa_english.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel11_english.jpg"
   },
@@ -1024,7 +1025,7 @@
   "yt_key": "fa_phrases",
   "override": {
    "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_phrases.mp4"
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/fa_phrases.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel12_phrases.jpg"
   },
@@ -1056,7 +1057,7 @@
   "yt_key": "fa_dont",
   "override": {
    "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_dont.mp4"
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/fa_dont.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel13_dont.jpg"
   },
@@ -1101,7 +1102,7 @@
   "yt_key": "fa_caption",
   "override": {
    "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_caption.mp4"
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/fa_caption.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel14_caption.jpg"
   },
@@ -1120,7 +1121,7 @@
   "yt_key": "fa_decide",
   "override": {
    "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_decide.mp4"
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/fa_decide.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel15_decide.jpg"
   },
@@ -1152,7 +1153,7 @@
   "yt_key": "fa_resume",
   "override": {
    "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_resume.mp4"
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/fa_resume.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel16_resume.jpg"
   },
@@ -1197,7 +1198,7 @@
   "yt_key": "fa_skill",
   "override": {
    "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_skill.mp4"
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/fa_skill.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel17_skill.jpg"
   },
@@ -1216,7 +1217,7 @@
   "yt_key": "fa_no",
   "override": {
    "media": [
-    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/youtube/shorts/fa_no.mp4"
+    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/fixed48/fa_no.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel18_no.jpg"
   },
