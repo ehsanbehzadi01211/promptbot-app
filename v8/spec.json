@@ -1,0 +1,111 @@
+{
+ "eleven": {
+  "series": "FREE AI TOOLS",
+  "accent": "#E0306A",
+  "keyword": "صدا",
+  "scenes": [
+   {"type": "hook", "bg": "cream", "pill": "ElevenLabs", "title": "ماهی ۱۰ هزار\nکردیت [[رایگان]]", "sub": "برای ساخت صدا با هوش مصنوعی",
+    "voice": "[excited] یه سایت هست که هر ماه، ده هزار کِردیتِ رایگان بهت میده؛ برای ساختِ صدا با هوشِ مصنوعی."},
+   {"type": "tool", "bg": "ink", "label": "01 / NAME", "name": "ElevenLabs", "url": "elevenlabs.io", "mark": "II", "tag": "پلن رایگان",
+    "voice": "اسمش ایلِوِن‌لَبزه."},
+   {"type": "grid", "bg": "cream", "label": "02 / TOOLS", "title": "باهاش چی می‌سازی؟", "items": [["tts", "متن به صدا"], ["voice", "صدای گوینده"], ["sfx", "افکت صوتی"], ["music", "موزیک"], ["design", "طراحی صدا"], ["stt", "صدا به متن"]],
+    "voice": "باهاش صدای گوینده، افکتِ صوتی، موزیک، و حتی تبدیلِ صدا به متن می‌سازی."},
+   {"type": "counter", "bg": "accent", "label": "03 / CREDITS", "value": 10000, "unit": "کردیت در ماه", "note": "≈ ۱۰ دقیقه صدای باکیفیت",
+    "voice": "این ده هزار کِردیت، تقریباً ده دقیقه صدای باکیفیته؛ و هر ماه دوباره شارژ میشه."},
+   {"type": "proof", "bg": "cream", "label": "04 / PROOF", "title": "صدای همین ویدیو\nهم با [[ElevenLabs]]", "voice": "صدای همین ویدیو هم، با همین سایت ساخته شده."},
+   {"type": "warn", "bg": "ink", "label": "05 / NOTE", "title": "پلن رایگان\nمجوز تجاری نداره", "sub": "برای کار سفارشی: پلن ۶ دلاری",
+    "voice": "فقط یادت باشه، پلنِ رایگان مجوزِ استفاده‌ی تجاری نداره."},
+   {"type": "cta", "bg": "accent", "label": "06 / LINK", "link": "ElevenLabs",
+    "voice": "کلمه‌ی «صدا» رو کامنت کن، تا لینکش رو برات دایرکت بفرستم.",
+    "yt_voice": "لینکش رو توی توضیحاتِ همین ویدیو گذاشتم. فالو یادت نره."}
+  ]
+ },
+ "veo": {
+  "series": "FREE AI TOOLS",
+  "accent": "#1F6FEB",
+  "keyword": "ویو",
+  "scenes": [
+   {"type": "hook", "bg": "cream", "pill": "Veo 3.1", "title": "روزی ۵ ویدیو\n[[با صدا]]، رایگان", "sub": "با هوش مصنوعی گوگل",
+    "voice": "[excited] روزی پنج تا ویدیوی هوش مصنوعی، اونم با صدا، کاملاً رایگان!"},
+   {"type": "tool", "bg": "ink", "label": "01 / NAME", "name": "Google Flow", "url": "labs.google/flow", "mark": "▶", "tag": "مدل Veo 3.1",
+    "voice": "ابزارش گوگل فِلوئه، با مدلِ وِیو."},
+   {"type": "compare", "bg": "accent", "label": "02 / CREDITS", "title": "حساب رایگان", "items": [["۵۰", "کردیت هر روز"], ["۱۰", "کردیت هر ویدیو"], ["≈۵", "ویدیو در روز"]],
+    "voice": "هر روز پنجاه کِردیت میده، و هر ویدیو با نسخه‌ی لایت، فقط ده کِردیت مصرف می‌کنه."},
+   {"type": "prompt", "bg": "cream", "label": "03 / PROMPT", "title": "فقط بنویس چی می‌خوای", "app": "Flow", "text": "A drone rises over a beach at sunset, waves crashing, warm cinematic light",
+    "voice": "فقط بنویس چی می‌خوای؛ مثلاً یه پهپاد که موقعِ غروب، از روی ساحل بالا میره. صدای موج رو هم خودش می‌سازه."},
+   {"type": "steps", "bg": "ink", "label": "04 / HOW", "title": "۴ قدم", "items": ["وارد Flow شو", "مدل Veo 3.1 Lite", "پرامپت بنویس", "دانلود کن"],
+    "voice": "واردِ فلو شو، مدلِ لایت رو انتخاب کن، پرامپت بنویس، و دانلود کن."},
+   {"type": "warn", "bg": "cream", "label": "05 / NOTE", "title": "واترمارک داره و\nکردیت‌ها جمع نمی‌شن", "sub": "ویدیو توی اپ Gemini پولیه؛ Flow رایگانه",
+    "voice": "فقط ویدیوها واترمارک دارن، و کِردیتِ امروز، برای فردا جمع نمیشه."},
+   {"type": "cta", "bg": "accent", "label": "06 / LINK", "link": "Google Flow",
+    "voice": "کلمه‌ی «وِیو» رو کامنت کن، تا لینکش رو دایرکت بگیری.",
+    "yt_voice": "لینکش رو توی توضیحاتِ همین ویدیو گذاشتم. فالو یادت نره."}
+  ]
+ },
+ "revprompt": {
+  "series": "PROMPT HACK",
+  "accent": "#E8622C",
+  "keyword": "پرامپت",
+  "scenes": [
+   {"type": "hook", "bg": "cream", "pill": "ChatGPT · Gemini · Claude", "title": "پرامپتِ [[هر عکسی]]\nرو دربیار", "sub": "فقط با یه آپلود",
+    "voice": "[excited] هر عکسی که دیدی و خوشت اومد، پرامپتش رو می‌تونی دربیاری!"},
+   {"type": "image", "bg": "ink", "label": "01 / UPLOAD", "title": "عکس رو آپلود کن", "apps": ["ChatGPT", "Gemini", "Claude"],
+    "voice": "عکس رو توی چت‌جی‌پی‌تی، جِمنای، یا کلود آپلود کن."},
+   {"type": "prompt", "bg": "cream", "label": "02 / PROMPT", "title": "این رو بفرست", "app": "ChatGPT", "rtl": true, "text": "این تصویر رو دقیق تحلیل کن و یه پرامپت انگلیسی کامل برای ساختن دوباره‌ش بنویس: سوژه، سبک، نور، رنگ، زاویه‌ی دوربین و لنز.",
+    "voice": "و این پرامپت رو بفرست؛ ازش بخواه سوژه، سبک، نور، رنگ، و زاویه‌ی دوربین رو دقیق بنویسه."},
+   {"type": "grid", "bg": "accent", "label": "03 / OUTPUT", "title": "جوابش: پرامپت کامل", "items": [["subject", "سوژه"], ["style", "سبک"], ["light", "نور"], ["color", "رنگ"], ["camera", "زاویه"], ["lens", "لنز"]],
+    "voice": "جوابش یه پرامپتِ کامله، با همه‌ی جزئیات."},
+   {"type": "steps", "bg": "ink", "label": "04 / REMIX", "title": "حالا بسازش", "items": ["پرامپت رو بده به عکس‌ساز", "خوشت نیومد؟ فقط یه تیکه رو عوض کن", "مثلاً: همین، ولی شب"],
+    "voice": "حالا همون رو بده به یه عکس‌ساز؛ اگه چیزی رو نخواستی، فقط همون تیکه رو عوض کن."},
+   {"type": "warn", "bg": "cream", "label": "05 / NOTE", "title": "از سبکش الهام بگیر\nکپی نکن", "sub": "کار دیگران رو به اسم خودت منتشر نکن",
+    "voice": "فقط از سبکش الهام بگیر؛ کپیِ کارِ دیگران رو منتشر نکن."},
+   {"type": "cta", "bg": "accent", "label": "06 / LINK", "link": "متن پرامپت",
+    "voice": "کلمه‌ی «پرامپت» رو کامنت کن، تا متنِ کامل و لینک‌ها رو برات بفرستم.",
+    "yt_voice": "متنِ کاملِ پرامپت، توی توضیحاتِ همین ویدیوئه. فالو یادت نره."}
+  ]
+ },
+ "imagetools": {
+  "series": "FREE AI TOOLS",
+  "accent": "#7C3AED",
+  "keyword": "عکس",
+  "scenes": [
+   {"type": "hook", "bg": "cream", "pill": "Krea · Ideogram · Leonardo", "title": "۳ سایت [[عکس‌ساز]]\nکه رایگانن", "sub": "هر روز دوباره شارژ میشن",
+    "voice": "[excited] سه تا سایتِ عکس‌سازیِ هوش مصنوعی، که هر روز رایگان شارژ میشن!"},
+   {"type": "compare", "bg": "ink", "label": "01 / FREE", "title": "سهمیه‌ی رایگان روزانه", "items": [["۱۰۰", "واحد Krea"], ["~۱۰", "کردیت Ideogram"], ["۱۵۰", "توکن Leonardo"]],
+    "voice": "کِریا روزی صد واحد، آیدیوگرام حدودِ ده کِردیت، و لئوناردو روزی صد و پنجاه توکن."},
+   {"type": "tool", "bg": "cream", "label": "02 / KREA", "name": "Krea", "url": "krea.ai", "mark": "K", "tag": "عکس واقعی و ادیت",
+    "voice": "کِریا برای عکسِ واقعی و ادیت، عالیه."},
+   {"type": "tool", "bg": "accent", "label": "03 / IDEOGRAM", "name": "Ideogram", "url": "ideogram.ai", "mark": "i", "tag": "لوگو و متن روی عکس",
+    "voice": "آیدیوگرام، برای لوگو و نوشتنِ متن روی عکس."},
+   {"type": "tool", "bg": "ink", "label": "04 / LEONARDO", "name": "Leonardo", "url": "leonardo.ai", "mark": "L", "tag": "کاراکتر و سبک بازی",
+    "voice": "لئوناردو هم، برای کاراکتر و سبکِ بازی."},
+   {"type": "warn", "bg": "cream", "label": "05 / NOTE", "title": "عکس‌های رایگان\nعمومی‌ان", "sub": "توی Ideogram و Leonardo همه می‌بیننشون",
+    "voice": "فقط بدون که عکس‌های رایگانِ آیدیوگرام و لئوناردو، برای همه قابلِ دیدنه."},
+   {"type": "cta", "bg": "accent", "label": "06 / LINK", "link": "۳ لینک",
+    "voice": "کلمه‌ی «عکس» رو کامنت کن، تا هر سه تا لینک رو برات بفرستم.",
+    "yt_voice": "هر سه تا لینک، توی توضیحاتِ همین ویدیوئه. فالو یادت نره."}
+  ]
+ },
+ "indicator": {
+  "series": "CLAUDE × TRADING",
+  "accent": "#16A34A",
+  "keyword": "اندیکاتور",
+  "scenes": [
+   {"type": "hook", "bg": "ink", "pill": "Claude × TradingView", "title": "اندیکاتورِ [[خودت]]\nرو بساز", "sub": "بدون بلد بودن برنامه‌نویسی",
+    "voice": "[excited] اندیکاتورِ تریدینگ‌ویوی خودت رو بساز؛ بدونِ اینکه برنامه‌نویسی بلد باشی!"},
+   {"type": "prompt", "bg": "cream", "label": "01 / ASK", "title": "به Claude بگو", "app": "Claude", "rtl": true, "text": "یه اندیکاتور Pine Script v6 بنویس: وقتی میانگین ۲۰ از میانگین ۵۰ رد شد، فلش خرید بزن و هشدار بده.",
+    "voice": "به کلود بگو چی می‌خوای؛ مثلاً وقتی میانگینِ بیست، از میانگینِ پنجاه رد شد، فلشِ خرید بزنه و هشدار بده."},
+   {"type": "code", "bg": "ink", "label": "02 / CODE", "title": "کد کامل رو می‌نویسه", "lines": ["//@version=6", "indicator(\"MA Cross\", overlay=true)", "fast = ta.sma(close, 20)", "slow = ta.sma(close, 50)", "buy = ta.crossover(fast, slow)", "plotshape(buy, style=shape.triangleup)", "alertcondition(buy, \"Buy\")"],
+    "voice": "کلود، کدِ پاین‌اسکریپت رو کامل برات می‌نویسه."},
+   {"type": "steps", "bg": "cream", "label": "03 / ADD", "title": "توی TradingView", "items": ["Pine Editor رو باز کن", "کد رو پیست کن", "Add to chart"],
+    "voice": "توی تریدینگ‌ویو، پاین اِدیتور رو باز کن، کد رو پیست کن، و بزن اَد تو چارت."},
+   {"type": "chart", "bg": "ink", "label": "04 / SIGNAL", "title": "سیگنال روی چارت",
+    "voice": "حالا سیگنال‌ها، روی چارتِ خودت میاد."},
+   {"type": "warn", "bg": "accent", "label": "05 / NOTE", "title": "اول بک‌تست بگیر", "sub": "هیچ اندیکاتوری تضمینی نیست؛ این توصیه‌ی مالی نیست",
+    "voice": "ولی قبل از هر معامله، حتماً بک‌تست بگیر؛ هیچ اندیکاتوری، تضمینی نیست."},
+   {"type": "cta", "bg": "accent", "label": "06 / LINK", "link": "اسکیل Pine",
+    "voice": "کلمه‌ی «اندیکاتور» رو کامنت کن، تا لینک‌ها و یه اسکیلِ آماده‌ی پاین‌اسکریپت رو برات بفرستم.",
+    "yt_voice": "لینک‌ها توی توضیحاتِ همین ویدیوئه. فالو یادت نره."}
+  ]
+ }
+}
