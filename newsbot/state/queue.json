@@ -1,76 +1,5 @@
 [
  {
-  "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
-  "summary": "Former OpenAI science lead launches Warp Science to automate wet labs with robots TechCrunch",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONjRvdTJzNlM4cGVHQlNveER5dGpJWFA0ck01WEpPVHlxUEptVThsNnY3U1Y2dHIxZm8xMm4ydzZ6ekNoallxWU5vZXlFVjcwRmt3cGMySW9DTDMxM3pOYTYwQkJRRnNqTUI0Wk5MVVNKa000ME51OFItZ0JwbDYzUHBGUEhEeXoyTGt2TGliQ3RadjdNbzNndUJLR21TMngxMkZKTFF6MlVXOWtaTTFrRlZvT1ZFUms?oc=5",
-  "source": "TechCrunch",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-22T18:38:47+00:00",
-  "image": "",
-  "id": "e8d756f16a87e04a"
- },
- {
-  "title": "Anthropic Introduces Claude Duet: A New Agentic AI App for Professionals",
-  "summary": "Anthropic Introduces Claude Duet: A New Agentic AI App for Professionals CNET",
-  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMU1UUHJzQzRhdmIwWUxYZUpCRGk5bDBDeXpwZmFoYU43Mk9iRmZvYWYwbFBGZXZpMUtZSUhIVmhSUEpkby1NVEgzLXJ5S2UyQXNfRmtMYnRLblV1aUltcmswc3NvQy0xQnFwQmRlVnB6eG54WXl6LU5tMlhZR3hpa19RdXFlWUt1VXF1Ni1nVkZ1ZmNCTTJwZ0pEd2s?oc=5",
-  "source": "CNET",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-22T21:19:09+00:00",
-  "image": "",
-  "id": "089dc7ccd0de141a"
- },
- {
-  "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-  "summary": "",
-  "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-22T22:24:34+00:00",
-  "image": "",
-  "id": "95eb6975ad245049"
- },
- {
-  "title": "Open call for guest investigators in the life sciences",
-  "summary": "",
-  "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-  "source": "Anthropic",
-  "official": true,
-  "tools": false,
-  "time": "2026-10-23T00:35:17.495521+00:00",
-  "page": true,
-  "id": "98d45c75b11c937c"
- },
- {
-  "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-  "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-  "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-23T00:00:00+00:00",
-  "image": "",
-  "id": "15c1f8ef7a582594"
- },
- {
-  "title": "Kazakhstan Expands Compute for Its AI Future",
-  "summary": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. Together, the ecosystem announcements below point to the nation’s increasing supply of accelerated computing — along with its growing demand for what comes next. Read All NVIDIA in Europe […]",
-  "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-23T02:00:13+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/kz-post-note-gtc-berliin-2026-1920x1080-1.jpg",
-  "id": "b21a97b1b273636b"
- },
- {
   "title": "Left alone with nothing to do, AI agents started playing",
   "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
   "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
@@ -129,18 +58,6 @@
   "time": "2026-10-23T09:04:09+00:00",
   "image": "",
   "id": "badda17ad8966952"
- },
- {
-  "title": "1Password's new solution mitigates the security risks of AI agent account access",
-  "summary": "1Password's new solution mitigates the security risks of AI agent account access Android Authority",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hSG0wVUxrWWFOMGxEN1NFS1Q4MGtLMlQweVR5VnYwd3ZDd3lxSWxKYWxud0lJenUyNFFSanZhbTR1WGd0d21sak1aSlNaV29IZ0hxS1FHVkJJRXNRUXdJbE5pOXFKVVB5djBOYzE0YjRJakotSTVsWg?oc=5",
-  "source": "Android Authority",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-22T19:29:00+00:00",
-  "image": "",
-  "id": "5906bbca6f5ea0dc"
  },
  {
   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -237,5 +154,29 @@
   "time": "2026-10-23T20:21:00+00:00",
   "image": "",
   "id": "5851f3e058958349"
+ },
+ {
+  "title": "AI agent governance takes shape at Okta’s Oktane event",
+  "summary": "AI agent governance takes shape at Okta’s Oktane event SiliconANGLE",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVUJlSkVyRTRGLXpDWm1KVnJYWHhvQzEwcXU1LWhhYnlLQnpqUHBZMW11UU04Z3ZsNEVEYk53TmdwVTlBTTVhem9zTFhPOEdHN0EzS2FZdVpxcW84dndRRWtXT2tOQ3lCUWlMNndqdUdrSWFJbmNLeU8xOFNPYnpNRm5jZTF1ODl1TGplNjhCQ0k1N0htTV9ub3F3?oc=5",
+  "source": "SiliconANGLE",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-24T03:52:00+00:00",
+  "image": "",
+  "id": "7a262dcfaa4899f6"
+ },
+ {
+  "title": "Anthropic's Claude Duet AI agent can manage your work across thousands of connected apps — here’s how it works",
+  "summary": "Anthropic's Claude Duet AI agent can manage your work across thousands of connected apps — here’s how it works Tom's Guide",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRWRVV2xqbWZNLVBLWDNGN2lSamcxZ0k5YzdCZ1puYUZPY0hWMVN4QzZ2MnZweDc4aE5IQmZWaHl6WnFwa3UyS2lId1h2SzBHeXZTUFJYdFNFX0FrQWlpYVlMVDF4NUhXVjdNM05OS0NaWmhYWjhlVVNKVm9sb3Y3czc4MHNwVWFWQW9waHJoVUdoOXFfQ3NXX29oeVczY2xCLTByRHFJT2RoVHFrMm5JOEdSNmJjREJaSkZrUGxQOFJ2a3lSc3h2QWo1SGdYSmto?oc=5",
+  "source": "Tom's Guide",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-23T15:30:31+00:00",
+  "image": "",
+  "id": "a2bf84b282f91d4e"
  }
 ]

@@ -1,2 +1,28 @@
-Sat Oct 24 09:08:58 UTC 2026
+Sat Oct 24 10:49:34 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 3 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 1 fresh
+Hugging Face: 2 fresh
+The Verge: 6 fresh
+TechCrunch: 5 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 0 fresh
+Product Hunt: 5 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 2
+translated via clients5
+sent photo Open call for guest investigators in the life sciences
+translated via clients5
+translated via clients5
+sent card OpenAI and Poland’s NASK partner to advance AI safety and se
+translated via clients5
+translated via clients5
+sent photo Kazakhstan Expands Compute for Its AI Future
