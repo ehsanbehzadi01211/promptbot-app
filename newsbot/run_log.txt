@@ -1,2 +1,29 @@
-Sat Oct 24 19:36:04 UTC 2026
+Sat Oct 24 22:25:43 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 1 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 0 fresh
+Hugging Face: 1 fresh
+The Verge: 7 fresh
+TechCrunch: 7 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 0 fresh
+Product Hunt: 2 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 0
+translated via clients5
+translated via clients5
+sent card Red-team report found OpenAI utterly failed to monitor its a
+translated via clients5
+translated via clients5
+sent card Gemini for Android rolls out side panel and settings redesig
+translated via clients5
+translated via clients5
+sent card Gemini Notebook now available as Connected App for deeper in
