@@ -1,4 +1,4 @@
-Sun Oct 25 16:04:35 UTC 2026
+Sun Oct 25 18:58:41 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 OpenAI: 0 fresh
 Google: 0 fresh
@@ -6,7 +6,7 @@ Google DeepMind: 0 fresh
 NVIDIA: 0 fresh
 Hugging Face: 0 fresh
 The Verge: 4 fresh
-TechCrunch: 5 fresh
+TechCrunch: 6 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 0 fresh
 Product Hunt: 2 fresh
@@ -16,14 +16,5 @@ Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 24 fresh
-Google News: 25 fresh
-new items: 1
-translated via clients5
-translated via clients5
-sent card Anthropic says one AI agent beats many subagents now that mo
-translated via clients5
-translated via clients5
-sent card AI agents go rogue chasing a £350 train refund
-translated via clients5
-translated via clients5
-sent card Put Your A.I. Agents to Work with These 4 Killer Tasks
+Google News: 23 fresh
+new items: 0
