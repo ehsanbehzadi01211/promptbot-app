@@ -1,4 +1,4 @@
-Sun Oct 25 18:58:41 UTC 2026
+Sun Oct 25 22:30:03 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 OpenAI: 0 fresh
 Google: 0 fresh
@@ -6,15 +6,18 @@ Google DeepMind: 0 fresh
 NVIDIA: 0 fresh
 Hugging Face: 0 fresh
 The Verge: 4 fresh
-TechCrunch: 6 fresh
+TechCrunch: 7 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 0 fresh
 Product Hunt: 2 fresh
 Anthropic: 26 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 24 fresh
-Google News: 23 fresh
-new items: 0
+feed fail Google News HTTP Error 503: Service Unavailable
+feed fail Google News HTTP Error 503: Service Unavailable
+feed fail Google News HTTP Error 503: Service Unavailable
+feed fail Google News HTTP Error 503: Service Unavailable
+feed fail Google News HTTP Error 503: Service Unavailable
+feed fail Google News HTTP Error 503: Service Unavailable
+new items: 1
+translated via clients5
+translated via clients5
+sent photo Grok releases the first seven minutes of its AI-generated ‘O
