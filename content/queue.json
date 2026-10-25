@@ -547,8 +547,10 @@
   "media": "youtube/shorts/fa_video.mp4",
   "metricool_uuid": "-4211246903355946898",
   "metricool_date": "2026-10-15T21:00",
-  "status": "queued",
-  "id": "yo-2026-10-22-short"
+  "status": "scheduled",
+  "id": "yo-2026-10-22-short",
+  "via": "uplika",
+  "uplika_post": "post_38d40985119707ca"
  },
  {
   "platform": "instagram",
@@ -638,8 +640,10 @@
   "media": "youtube/shorts/fa_vprompt.mp4",
   "metricool_uuid": "-4022450734377711272",
   "metricool_date": "2026-10-16T10:00",
-  "status": "queued",
-  "id": "yo-2026-10-23-short"
+  "status": "scheduled",
+  "id": "yo-2026-10-23-short",
+  "via": "uplika",
+  "uplika_post": "post_9c4ed88c50f9dbf8"
  },
  {
   "platform": "instagram",
@@ -723,8 +727,10 @@
   "media": "youtube/shorts/fa_insta.mp4",
   "metricool_uuid": "6214700056164057610",
   "metricool_date": "2026-10-09T16:00",
-  "status": "queued",
-  "id": "yo-2026-10-24-short"
+  "status": "scheduled",
+  "id": "yo-2026-10-24-short",
+  "via": "uplika",
+  "uplika_post": "post_172fcbe794393c8b"
  },
  {
   "platform": "youtube",
@@ -736,8 +742,10 @@
   "media": "youtube/shorts/fa_img2vid.mp4",
   "metricool_uuid": "-5356592315910697820",
   "metricool_date": "2026-10-17T16:00",
-  "status": "queued",
-  "id": "yo-2026-10-25-short"
+  "status": "scheduled",
+  "id": "yo-2026-10-25-short",
+  "via": "uplika",
+  "uplika_post": "post_eeea2142295592a6"
  },
  {
   "platform": "instagram",
@@ -801,8 +809,10 @@
   "media": "youtube/shorts/fa_teacher.mp4",
   "metricool_uuid": "-583038662890667093",
   "metricool_date": "2026-10-18T21:00",
-  "status": "queued",
-  "id": "yo-2026-10-26-short"
+  "status": "scheduled",
+  "id": "yo-2026-10-26-short",
+  "via": "uplika",
+  "uplika_post": "post_411885e8b0e65da1"
  },
  {
   "platform": "instagram",
@@ -861,8 +871,10 @@
   "media": "youtube/shorts/fa_photo.mp4",
   "metricool_uuid": "-8911630040966673544",
   "metricool_date": "2026-10-19T10:00",
-  "status": "queued",
-  "id": "yo-2026-10-27-short"
+  "status": "scheduled",
+  "id": "yo-2026-10-27-short",
+  "via": "uplika",
+  "uplika_post": "post_fe3ffeac0fd6a4dd"
  },
  {
   "platform": "youtube",
@@ -874,8 +886,10 @@
   "media": "youtube/shorts/fa_tasks.mp4",
   "metricool_uuid": "6007307728183709306",
   "metricool_date": "2026-10-20T16:00",
-  "status": "queued",
-  "id": "yo-2026-10-28-short"
+  "status": "scheduled",
+  "id": "yo-2026-10-28-short",
+  "via": "uplika",
+  "uplika_post": "post_9dbdefac54ccc641"
  },
  {
   "platform": "instagram",
@@ -939,8 +953,10 @@
   "media": "youtube/shorts/fa_interview.mp4",
   "metricool_uuid": "880575222087239957",
   "metricool_date": "2026-10-21T21:00",
-  "status": "queued",
-  "id": "yo-2026-10-29-short"
+  "status": "scheduled",
+  "id": "yo-2026-10-29-short",
+  "via": "uplika",
+  "uplika_post": "post_26c67faa740a970a"
  },
  {
   "platform": "instagram",
@@ -985,8 +1001,10 @@
   "media": "youtube/shorts/fa_speed.mp4",
   "metricool_uuid": "338289167354711333",
   "metricool_date": "2026-10-10T16:00",
-  "status": "queued",
-  "id": "yo-2026-10-30-short"
+  "status": "scheduled",
+  "id": "yo-2026-10-30-short",
+  "via": "uplika",
+  "uplika_post": "post_1177aab8f19b7ce0"
  },
  {
   "platform": "youtube",
@@ -998,8 +1016,10 @@
   "media": "youtube/shorts/fa_english.mp4",
   "metricool_uuid": "-1955133328616045130",
   "metricool_date": "2026-10-22T10:00",
-  "status": "queued",
-  "id": "yo-2026-10-31-short"
+  "status": "scheduled",
+  "id": "yo-2026-10-31-short",
+  "via": "uplika",
+  "uplika_post": "post_67be099dc987fee1"
  },
  {
   "platform": "instagram",
@@ -1049,8 +1069,10 @@
   "media": "youtube/shorts/fa_phrases.mp4",
   "metricool_uuid": "3971228787939362266",
   "metricool_date": "2026-10-23T16:00",
-  "status": "queued",
-  "id": "yo-2026-11-01-short"
+  "status": "scheduled",
+  "id": "yo-2026-11-01-short",
+  "via": "uplika",
+  "uplika_post": "post_33378ba57cae92ab"
  },
  {
   "platform": "instagram",
@@ -1081,8 +1103,10 @@
   "media": "youtube/shorts/fa_dont.mp4",
   "metricool_uuid": "-3523643794431717602",
   "metricool_date": "2026-10-24T21:00",
-  "status": "queued",
-  "id": "yo-2026-11-02-short"
+  "status": "scheduled",
+  "id": "yo-2026-11-02-short",
+  "via": "uplika",
+  "uplika_post": "post_4c299d53cb9da9f3"
  },
  {
   "platform": "youtube",
@@ -1094,8 +1118,10 @@
   "media": "youtube/shorts/fa_caption.mp4",
   "metricool_uuid": "6560825390450232002",
   "metricool_date": "2026-10-25T10:00",
-  "status": "queued",
-  "id": "yo-2026-11-03-short"
+  "status": "scheduled",
+  "id": "yo-2026-11-03-short",
+  "via": "uplika",
+  "uplika_post": "post_2d24d9fc1b6d9fa7"
  },
  {
   "platform": "instagram",
@@ -1145,8 +1171,10 @@
   "media": "youtube/shorts/fa_decide.mp4",
   "metricool_uuid": "2549863008504727363",
   "metricool_date": "2026-10-26T16:00",
-  "status": "queued",
-  "id": "yo-2026-11-04-short"
+  "status": "scheduled",
+  "id": "yo-2026-11-04-short",
+  "via": "uplika",
+  "uplika_post": "post_7bcffa0fd696372b"
  },
  {
   "platform": "instagram",
@@ -1177,8 +1205,10 @@
   "media": "youtube/shorts/fa_resume.mp4",
   "metricool_uuid": "-1716204608232601030",
   "metricool_date": "2026-10-27T21:00",
-  "status": "queued",
-  "id": "yo-2026-11-05-short"
+  "status": "scheduled",
+  "id": "yo-2026-11-05-short",
+  "via": "uplika",
+  "uplika_post": "post_93828613e0a8ea9b"
  },
  {
   "platform": "youtube",
@@ -1190,8 +1220,10 @@
   "media": "youtube/shorts/fa_skill.mp4",
   "metricool_uuid": "-237537190376092633",
   "metricool_date": "2026-10-28T10:00",
-  "status": "queued",
-  "id": "yo-2026-11-06-short"
+  "status": "scheduled",
+  "id": "yo-2026-11-06-short",
+  "via": "uplika",
+  "uplika_post": "post_77f0e2519de8830f"
  },
  {
   "platform": "instagram",
@@ -1241,8 +1273,10 @@
   "media": "youtube/shorts/fa_no.mp4",
   "metricool_uuid": "-3634242468234639708",
   "metricool_date": "2026-10-29T16:00",
-  "status": "queued",
-  "id": "yo-2026-11-07-short"
+  "status": "scheduled",
+  "id": "yo-2026-11-07-short",
+  "via": "uplika",
+  "uplika_post": "post_dbe05a8d143053ab"
  },
  {
   "platform": "youtube",
@@ -1254,8 +1288,10 @@
   "media": "youtube/shorts/fa_mistakes.mp4",
   "metricool_uuid": "-605795397528891469",
   "metricool_date": "2026-10-09T10:00",
-  "status": "queued",
-  "id": "yo-2026-11-08-short"
+  "status": "scheduled",
+  "id": "yo-2026-11-08-short",
+  "via": "uplika",
+  "uplika_post": "post_e080268a59667f34"
  },
  {
   "platform": "youtube",
@@ -1267,8 +1303,10 @@
   "media": "youtube/shorts/fa_rewrite.mp4",
   "metricool_uuid": "983693442281655736",
   "metricool_date": "2026-10-10T10:00",
-  "status": "queued",
-  "id": "yo-2026-11-09-short"
+  "status": "scheduled",
+  "id": "yo-2026-11-09-short",
+  "via": "uplika",
+  "uplika_post": "post_2133532171237521"
  },
  {
   "platform": "youtube",
@@ -1280,8 +1318,10 @@
   "media": "youtube/shorts/fa_aijob.mp4",
   "metricool_uuid": "-2782222933212837040",
   "metricool_date": "2026-10-10T22:15",
-  "status": "queued",
-  "id": "yo-2026-11-10-short"
+  "status": "scheduled",
+  "id": "yo-2026-11-10-short",
+  "via": "uplika",
+  "uplika_post": "post_04b0910ee996a3a7"
  },
  {
   "platform": "instagram",
@@ -1342,5 +1382,50 @@
   "uplika_post": "post_5501b9080dbca0da",
   "id": "in-2026-10-30-v8indicator",
   "comment_to_dm": true
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "id": "yt-eleven",
+  "yt_key": "eleven",
+  "status": "scheduled",
+  "via": "uplika",
+  "uplika_post": "post_3d2a6ae484472dc7"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "id": "yt-veo",
+  "yt_key": "veo",
+  "status": "scheduled",
+  "via": "uplika",
+  "uplika_post": "post_e926e68ae74ab46e"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "id": "yt-revprompt",
+  "yt_key": "revprompt",
+  "status": "scheduled",
+  "via": "uplika",
+  "uplika_post": "post_edaacc47760637f1"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "id": "yt-imagetools",
+  "yt_key": "imagetools",
+  "status": "scheduled",
+  "via": "uplika",
+  "uplika_post": "post_71284226bd1ec469"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "id": "yt-indicator",
+  "yt_key": "indicator",
+  "status": "scheduled",
+  "via": "uplika",
+  "uplika_post": "post_2bea452ce340556c"
  }
 ]
