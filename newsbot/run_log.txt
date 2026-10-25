@@ -1,29 +1,6 @@
-Sun Oct 25 04:31:17 UTC 2026
+Sun Oct 25 04:46:20 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 1 fresh
-Google: 0 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 0 fresh
-Hugging Face: 0 fresh
-The Verge: 6 fresh
-TechCrunch: 7 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 0 fresh
-Product Hunt: 1 fresh
-Anthropic: 26 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 26 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 26 fresh
-new items: 1
-translated via clients5
-translated via clients5
-sent card AI agent governance takes shape at Okta’s Oktane event
-translated via clients5
-translated via clients5
-sent photo Here are the top AI agents that can live in your text messag
-translated via clients5
-translated via clients5
-sent card OpenAI's isolated AI agents found ways to talk to each other
+promo sent in-2026-10-22-carousel
+promo sent in-2026-10-22-reel
+promo sent in-2026-10-23-reel
+promo sent in-2026-10-23-carousel
