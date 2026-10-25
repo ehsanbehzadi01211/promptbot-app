@@ -1,29 +1,29 @@
-Sun Oct 25 11:15:44 UTC 2026
+Sun Oct 25 16:04:35 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 OpenAI: 0 fresh
 Google: 0 fresh
 Google DeepMind: 0 fresh
 NVIDIA: 0 fresh
 Hugging Face: 0 fresh
-The Verge: 2 fresh
-TechCrunch: 4 fresh
+The Verge: 4 fresh
+TechCrunch: 5 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 0 fresh
-Product Hunt: 3 fresh
+Product Hunt: 2 fresh
 Anthropic: 26 links
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 29 fresh
 Google News: 30 fresh
-Google News: 29 fresh
-Google News: 28 fresh
-new items: 2
+Google News: 30 fresh
+Google News: 24 fresh
+Google News: 25 fresh
+new items: 1
 translated via clients5
 translated via clients5
-sent card Anthropic's ChatGPT rival Claude is now available on iOS
+sent card Anthropic says one AI agent beats many subagents now that mo
 translated via clients5
 translated via clients5
-sent card OpenAI Built a Giant Fake Internet for Its Agents to Use and
+sent card AI agents go rogue chasing a £350 train refund
 translated via clients5
 translated via clients5
-sent card Anthropic launches Claude Haiku 4.5: Faster, cheaper, and sm
+sent card Put Your A.I. Agents to Work with These 4 Killer Tasks
