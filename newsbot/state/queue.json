@@ -1,53 +1,5 @@
 [
  {
-  "title": "AI agent governance takes shape at Okta’s Oktane event",
-  "summary": "AI agent governance takes shape at Okta’s Oktane event SiliconANGLE",
-  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVUJlSkVyRTRGLXpDWm1KVnJYWHhvQzEwcXU1LWhhYnlLQnpqUHBZMW11UU04Z3ZsNEVEYk53TmdwVTlBTTVhem9zTFhPOEdHN0EzS2FZdVpxcW84dndRRWtXT2tOQ3lCUWlMNndqdUdrSWFJbmNLeU8xOFNPYnpNRm5jZTF1ODl1TGplNjhCQ0k1N0htTV9ub3F3?oc=5",
-  "source": "SiliconANGLE",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-24T03:52:00+00:00",
-  "image": "",
-  "id": "7a262dcfaa4899f6"
- },
- {
-  "title": "Anthropic's Claude Duet AI agent can manage your work across thousands of connected apps — here’s how it works",
-  "summary": "Anthropic's Claude Duet AI agent can manage your work across thousands of connected apps — here’s how it works Tom's Guide",
-  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRWRVV2xqbWZNLVBLWDNGN2lSamcxZ0k5YzdCZ1puYUZPY0hWMVN4QzZ2MnZweDc4aE5IQmZWaHl6WnFwa3UyS2lId1h2SzBHeXZTUFJYdFNFX0FrQWlpYVlMVDF4NUhXVjdNM05OS0NaWmhYWjhlVVNKVm9sb3Y3czc4MHNwVWFWQW9waHJoVUdoOXFfQ3NXX29oeVczY2xCLTByRHFJT2RoVHFrMm5JOEdSNmJjREJaSkZrUGxQOFJ2a3lSc3h2QWo1SGdYSmto?oc=5",
-  "source": "Tom's Guide",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-23T15:30:31+00:00",
-  "image": "",
-  "id": "a2bf84b282f91d4e"
- },
- {
-  "title": "Here are the top AI agents that can live in your text messages",
-  "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-  "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-  "source": "TechCrunch",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-24T14:00:00+00:00",
-  "image": "",
-  "id": "0d4ae8a7dd392962"
- },
- {
-  "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-  "summary": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache The Decoder",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTWJhNW92T3F2WmQ4ajFOZGFBTnNkckxMenAtWXU3S21wN0lyeXBJMmxmOGdCT3dobDdqclV1SkpjcFZDdGM3V2ZNNWk1d21veTNGT0dqN2JNU3VLWEpybVYwbFdfOTkxcHdtUXdwMmhpS2t6T09sUWttZXpsYkMyOWY0RnJoRHNGYXBseUdNeHBGZHhDTTB6ZmdHVExaX0tiYTd3aw?oc=5",
-  "source": "The Decoder",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-24T11:18:17+00:00",
-  "image": "",
-  "id": "99c9ad9786a084bf"
- },
- {
   "title": "Anthropic's ChatGPT rival Claude is now available on iOS",
   "summary": "Anthropic's ChatGPT rival Claude is now available on iOS Mashable",
   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNXpvRWstWUhENjluYlhUVDNuTWRsZ1QyUlFYcnl4RlMyX0pNUnZRcVNfTzRyQTAzRGhUZncyM1Rza1lHTmRYY1RWZGRyYmdfZUQyT0dZcW1WRlJRMmV3aDdaajh0dzhab3dRczd5QUpud1lvUXJ1UXRCNTNsRV9YWUJFazBWX3M?oc=5",
@@ -70,5 +22,17 @@
   "time": "2026-10-24T17:30:05+00:00",
   "image": "",
   "id": "9184795063340c55"
+ },
+ {
+  "title": "Anthropic launches Claude Haiku 4.5: Faster, cheaper, and smarter than ever",
+  "summary": "Anthropic launches Claude Haiku 4.5: Faster, cheaper, and smarter than ever Mashable",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNExGTXpjRFpVVktmQjJSVXlRT3ZHZmRONzZWV0xCbHdlZm5pNEVad3k1VnpEYVBWOU5XZndjLUhjM3JTRlpMMFRiNV9EUUppMUQ2eUkzSkt1WnRJdXBZNnlpeWt0a1VyTUF6eDNGaUplR0syZlJPRWoxeVVURjJiUg?oc=5",
+  "source": "Mashable",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-24T09:00:00+00:00",
+  "image": "",
+  "id": "b30efedf8f8e1384"
  }
 ]
