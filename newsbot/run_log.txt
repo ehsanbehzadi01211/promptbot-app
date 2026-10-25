@@ -1,2 +1,29 @@
-Sun Oct 25 09:26:37 UTC 2026
+Sun Oct 25 11:15:44 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 0 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 0 fresh
+Hugging Face: 0 fresh
+The Verge: 2 fresh
+TechCrunch: 4 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 0 fresh
+Product Hunt: 3 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 29 fresh
+Google News: 30 fresh
+Google News: 29 fresh
+Google News: 28 fresh
+new items: 2
+translated via clients5
+translated via clients5
+sent card Anthropic's ChatGPT rival Claude is now available on iOS
+translated via clients5
+translated via clients5
+sent card OpenAI Built a Giant Fake Internet for Its Agents to Use and
+translated via clients5
+translated via clients5
+sent card Anthropic launches Claude Haiku 4.5: Faster, cheaper, and sm
