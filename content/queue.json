@@ -557,7 +557,7 @@
   "topic": "GPT-6 برای همه + ۶ پرامپت",
   "metricool_uuid": "-4018271053849214172",
   "metricool_date": "2026-10-11T16:00",
-  "status": "scheduled",
+  "status": "published",
   "id": "in-2026-10-22-carousel",
   "override": {
    "media": [
@@ -570,7 +570,8 @@
    ]
   },
   "via": "uplika",
-  "uplika_post": "post_45f60f2d66b80a27"
+  "uplika_post": "post_45f60f2d66b80a27",
+  "url": "https://www.instagram.com/p/Dey_RIHj4z1/"
  },
  {
   "platform": "instagram",
@@ -580,11 +581,12 @@
   "media": [
    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/tip_3.jpg"
   ],
-  "status": "scheduled",
+  "status": "published",
   "id": "in-2026-10-22-story",
   "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone.",
   "via": "uplika",
-  "uplika_post": "post_5d6b7443e1b3d29e"
+  "uplika_post": "post_5d6b7443e1b3d29e",
+  "url": "https://www.instagram.com/stories/ehbehzad/4013638393720151271"
  },
  {
   "platform": "instagram",
@@ -593,7 +595,7 @@
   "topic": "ChatGPT ویدیو می‌سازه؟",
   "metricool_uuid": "-7732423347664695699",
   "metricool_date": "2026-10-15T16:00",
-  "status": "scheduled",
+  "status": "published",
   "id": "in-2026-10-22-reel",
   "yt_key": "fa_video",
   "override": {
@@ -603,7 +605,8 @@
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel22_video.jpg"
   },
   "via": "uplika",
-  "uplika_post": "post_b66dacbaead485a8"
+  "uplika_post": "post_b66dacbaead485a8",
+  "url": "https://www.instagram.com/reel/DezhcwnGonS/"
  },
  {
   "platform": "instagram",
@@ -612,7 +615,7 @@
   "topic": "فرمول پرامپت ویدیو",
   "metricool_uuid": "6692371980436719945",
   "metricool_date": "2026-10-16T21:00",
-  "status": "scheduled",
+  "status": "published",
   "id": "in-2026-10-23-reel",
   "yt_key": "fa_vprompt",
   "override": {
@@ -622,7 +625,8 @@
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel23_vprompt.jpg"
   },
   "via": "uplika",
-  "uplika_post": "post_56e3e051182b1ad0"
+  "uplika_post": "post_56e3e051182b1ad0",
+  "url": "https://www.instagram.com/reel/De064Aigr_G/"
  },
  {
   "platform": "youtube",
@@ -645,11 +649,12 @@
   "media": [
    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/st_perplexity.mp4"
   ],
-  "status": "scheduled",
+  "status": "published",
   "id": "in-2026-10-23-story",
   "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone.",
   "via": "uplika",
-  "uplika_post": "post_7a8519bedf0c9faa"
+  "uplika_post": "post_7a8519bedf0c9faa",
+  "url": "https://www.instagram.com/stories/ehbehzad/4014363597648257768"
  },
  {
   "platform": "instagram",
@@ -658,7 +663,7 @@
   "topic": "۶ ابزار رایگان هوش مصنوعی",
   "metricool_uuid": "7230705970948555791",
   "metricool_date": "2026-10-11T21:00",
-  "status": "scheduled",
+  "status": "published",
   "id": "in-2026-10-23-carousel",
   "override": {
    "media": [
@@ -670,7 +675,8 @@
    ]
   },
   "via": "uplika",
-  "uplika_post": "post_6a85d764890cc7a4"
+  "uplika_post": "post_6a85d764890cc7a4",
+  "url": "https://www.instagram.com/p/De2GZBoD12u/"
  },
  {
   "platform": "instagram",
@@ -700,11 +706,12 @@
   "media": [
    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/tip_4.jpg"
   ],
-  "status": "scheduled",
+  "status": "published",
   "id": "in-2026-10-24-story",
   "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone.",
   "via": "uplika",
-  "uplika_post": "post_f58262d11b13fca8"
+  "uplika_post": "post_f58262d11b13fca8",
+  "url": "https://www.instagram.com/stories/ehbehzad/4015158842761362154"
  },
  {
   "platform": "youtube",
