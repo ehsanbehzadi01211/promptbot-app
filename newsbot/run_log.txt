@@ -1,2 +1,23 @@
-Mon Oct 26 10:33:47 UTC 2026
+Mon Oct 26 12:50:07 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 0 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 0 fresh
+Hugging Face: 0 fresh
+The Verge: 2 fresh
+TechCrunch: 3 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 1 fresh
+Product Hunt: 4 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 27 fresh
+new items: 1
+translated via clients5
+translated via clients5
+sent card What’s Riding on Anthropic’s Market Debut? Nearly Everything
