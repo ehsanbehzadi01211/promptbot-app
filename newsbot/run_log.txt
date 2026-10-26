@@ -1,23 +1,29 @@
-Mon Oct 26 12:50:07 UTC 2026
+Mon Oct 26 19:52:52 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 0 fresh
-Google: 0 fresh
+OpenAI: 4 fresh
+Google: 1 fresh
 Google DeepMind: 0 fresh
 NVIDIA: 0 fresh
 Hugging Face: 0 fresh
-The Verge: 2 fresh
-TechCrunch: 3 fresh
+The Verge: 8 fresh
+TechCrunch: 6 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 1 fresh
-Product Hunt: 4 fresh
+MIT Technology Review: 2 fresh
+Product Hunt: 3 fresh
 Anthropic: 26 links
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 27 fresh
-new items: 1
+Google News: 30 fresh
+new items: 8
 translated via clients5
 translated via clients5
-sent card What’s Riding on Anthropic’s Market Debut? Nearly Everything
+sent card Introducing GPT-6.1 Terra
+translated via clients5
+translated via clients5
+sent card ChatGPT’s expanding world of work
+translated via clients5
+translated via clients5
+sent card How Fanatics and OpenAI streamline the fan experience
