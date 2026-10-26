@@ -547,11 +547,11 @@
   "media": "youtube/shorts/fa_video.mp4",
   "metricool_uuid": "-4211246903355946898",
   "metricool_date": "2026-10-15T21:00",
-  "status": "failed",
+  "status": "published",
   "id": "yo-2026-10-22-short",
   "via": "uplika",
   "uplika_post": "post_38d40985119707ca",
-  "note": "Uplika youtube_daily_cap (25 Oct 16:00 Tehran): Uplika's shared daily YouTube upload limit ran out; refills 26 Oct 07:00 UTC. Not an account problem, reconnecting won't help. Uplika help: after the reset, send it again with retry_post (post_38d40985119707ca)."
+  "url": "https://youtube.com/shorts/n6wkaQeKmac"
  },
  {
   "platform": "instagram",
