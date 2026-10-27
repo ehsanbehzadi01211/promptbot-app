@@ -588,6 +588,20 @@ def bed(starts, total, out, spec, scenes, seed=3):
         w.writeframes((st * 32767).astype(np.int16).tobytes())
 
 
+def host_for(spec, scenes, starts, sw, total):
+    """Optional talking host (owner's cartoon). spec["host"] = true turns it on; per scene
+    "host": "big" | "corner" | "off" (default: first scene big, the rest corner)."""
+    if not spec.get("host"):
+        return ""
+    from host import host_block, words_to_spans
+    times = [a for lst in sw for (_, a) in lst]
+    n = len(scenes)
+    modes = [[round(max(0, s - .05), 3), sc.get("host", "big" if i == 0 else "corner")]
+             for i, (sc, s) in enumerate(zip(scenes, starts))]
+    img = "file://" + os.path.join(ROOT, "out", "mascot_1_ehsan.png")
+    return host_block(img, words_to_spans(times, total - 1.0), modes, spec.get("accent", "#F97316"))
+
+
 def build(key, variant="ig", stills=False):
     spec = json.load(open(os.path.join(ROOT, os.environ.get("SPEC", "spec.json"))))[key]
     words = json.load(open(os.path.join(ROOT, os.environ.get("WORDS", "words"), key + ".json")))
@@ -606,7 +620,7 @@ def build(key, variant="ig", stills=False):
     objs = [Scene(sc, s, e, i, len(scenes), spec, sw[i]) for i, (sc, s, e) in enumerate(zip(scenes, starts, ends))]
     page = (f'<!doctype html><html lang="fa"><head><meta charset="utf-8"><style>{CSS.replace("FONT", FONT)}</style></head>'
             f'<body style="--a:{spec["accent"]}">{"".join(o.html(total, starts) for o in objs)}'
-            f'<script>window.TOTAL={total:.3f};{JS}</script></body></html>')
+            f'<script>window.TOTAL={total:.3f};{JS}</script>{host_for(spec, scenes, starts, sw, total)}</body></html>')
     out_dir = os.path.join(ROOT, "out"); os.makedirs(out_dir, exist_ok=True)
     hp = os.path.join(out_dir, f"{key}_{variant}.html"); open(hp, "w").write(page)
     seek = "t=>{document.getAnimations().forEach(a=>{a.pause();a.currentTime=t*1000});window.tick(t)}"

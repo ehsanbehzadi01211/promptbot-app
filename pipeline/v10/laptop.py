@@ -138,6 +138,11 @@ def build(key):
         body = re.sub(r"\{w(\d+)([+-][\d.]+)?\}", lambda m: f"{T(int(m.group(1))) + float(m.group(2) or 0):.3f}", body)
         parts.append(f'<div class="beat" data-a="{a:.3f}" data-e="{e + .1:.3f}">{body}</div>')
     cta = spec["cta_html"]
+    host_html = ""
+    if spec.get("host"):   # owner's talking cartoon in the top-left corner (see host.py)
+        from host import host_block, words_to_spans
+        img = "file://" + os.path.join(ROOT, "out", "mascot_1_ehsan.png")
+        host_html = host_block(img, words_to_spans(ts, total - 1.0), [[0, "corner"]], "#c8ff3e")
     page = (f'<!doctype html><html lang="fa"><head><meta charset="utf-8"><style>{CSS.replace("FONT", FONT)}</style></head><body>'
             f'<div id="world"><div class="room"></div><div class="desk"></div><div class="spill"></div>'
             f'<div class="label">{spec["label"]}</div>'
@@ -147,7 +152,7 @@ def build(key):
             f'<script>window.TOTAL={total:.3f};window.CTA={cta_at:.3f};'
             f'window.WORDS={json.dumps([[E(w.replace("«","").replace("»","")), round(a, 3)] for w, a in zip(toks, ts)], ensure_ascii=False)};'
             f'window.PUNCH={json.dumps([round(s + .12, 3) for s in starts] + [round(cta_at, 3)])};'
-            f'window.FLASH={json.dumps([round(starts[0] + .1, 3), round(cta_at, 3)] + [round(T(w), 3) for w in spec.get("flash_w", [])])};{JS}</script></body></html>')
+            f'window.FLASH={json.dumps([round(starts[0] + .1, 3), round(cta_at, 3)] + [round(T(w), 3) for w in spec.get("flash_w", [])])};{JS}</script>{host_html}</body></html>')
     out_dir = os.path.join(ROOT, "out"); os.makedirs(out_dir, exist_ok=True)
     hp = os.path.join(out_dir, f"{key}_lap.html"); open(hp, "w").write(page)
     seek = "t=>window.tick(t)"
