@@ -1,12 +1,12 @@
-Tue Oct 27 12:02:17 UTC 2026
+Tue Oct 27 17:56:21 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 6 fresh
+OpenAI: 7 fresh
 Google: 1 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 0 fresh
-Hugging Face: 0 fresh
-The Verge: 9 fresh
-TechCrunch: 6 fresh
+Google DeepMind: 1 fresh
+NVIDIA: 1 fresh
+Hugging Face: 2 fresh
+The Verge: 10 fresh
+TechCrunch: 12 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 3 fresh
 Product Hunt: 7 fresh
@@ -15,15 +15,15 @@ Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 27 fresh
 Google News: 30 fresh
-new items: 2
+Google News: 24 fresh
+new items: 7
 translated via clients5
 translated via clients5
-sent card Working with academic communities to build scientific unders
+sent card Cisco’s Privileged Infrastructure Access ties admin and AI a
 translated via clients5
 translated via clients5
-sent card GPT-6.1 Sol helps CodeRabbit strengthen security across comp
+sent card OpenAI launches GPT-6.1 Terra for faster, better-performing 
 translated via clients5
 translated via clients5
-sent card OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra
+sent photo OpenAI announces three big science discoveries and a new way

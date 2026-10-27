@@ -1,41 +1,5 @@
 [
  {
-  "title": "Cisco’s Privileged Infrastructure Access ties admin and AI agent privileges to the task",
-  "summary": "Cisco’s Privileged Infrastructure Access ties admin and AI agent privileges to the task SiliconANGLE",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTWZ2dWxkcjJqOEExdERfRUJaV3dyUDM0RDNHeWI5Tk50N1FydzNMVUtoWTJtZ3BvcGt3cU03eVpqR01xRGFydVdDeEdVeTJ3SnRiOWU5bXY5U2ZDYnBaQU8xNWUwaVVXNUlPUy1WZXA2NTZsRlg2SEdhS0MtN1c0NERRdjV5aG5taU9IS04zbnhuTGUza1ZlRV91cUtjN0I1aEVWQ0VuY2dxdGlkSWlVb2VmVEE1WHk4bThZemNNSms?oc=5",
-  "source": "SiliconANGLE",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-26T20:00:00+00:00",
-  "image": "",
-  "id": "fd3823d94f985084"
- },
- {
-  "title": "OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price",
-  "summary": "OpenAI launches GPT-6.1 Terra for faster, better-performing AI agents at half the price SiliconANGLE",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMjEySE5Ra2ZzMUFpWUNyaGVKWEc3cHlkcmRpdVRQZnZxeEZCYnZWWGZtSWJKeXdsMFB4QWN2cWN5YWxPV09FcWV2cXpTV1RlSkY5OHRQaVZ0RGNxQXVFelhVYUdQV0FfU0F4cnBfVE5IODhMUkVDX2FERTNXUnVmejFHaU55X3JDTWRHSzVKVFduWUdBeGpWdDB4ZlBDSzA5bTc1WFlpX0gzNHpIbXNUZlZ2aUZjT3ZyZWlSN1YwNms?oc=5",
-  "source": "SiliconANGLE",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-27T00:39:00+00:00",
-  "image": "",
-  "id": "79b193ca892e9b61"
- },
- {
-  "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-  "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in […]",
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-  "source": "The Verge",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-26T23:34:58+00:00",
-  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_2.jpg?quality=90&strip=all&crop=0,0,100,100",
-  "id": "bba291662c45fb8c"
- },
- {
   "title": "OpenAI Announces New Discoveries In Mathematics, Computer Science And Physics",
   "summary": "OpenAI Announces New Discoveries In Mathematics, Computer Science And Physics Engadget",
   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWjhyeURuTExjbVFTeHpnajdjTmlaU0NwQlRKeXFuR3lCWWUtbmM5c1k0MDJfaTB0a096bE5rel9QMjFvX3hSZk1RZ3pDLVlHbmFBcXJ6TUhNLVBSWXNqZ1lRZ0JsUWlsNnUxQnhMbFI1cGREYWpYTjdOSlYydE52ZkdOLXZDMlVNd3R1dlJwcVQ4S3NuWHVrXw?oc=5",
@@ -58,5 +22,89 @@
   "time": "2026-10-27T10:38:00+00:00",
   "image": "",
   "id": "3fa4080afba515d7"
+ },
+ {
+  "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+  "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+  "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-27T07:00:00+00:00",
+  "image": "",
+  "id": "a3a879144b2984ac"
+ },
+ {
+  "title": "Genie 4: A new generation of world simulation",
+  "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+  "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+  "source": "Google DeepMind",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-27T16:01:38+00:00",
+  "image": "",
+  "id": "d17d13a0006a776d"
+ },
+ {
+  "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+  "summary": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease. The Consortium for Biomedical Research and AI in […]",
+  "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-27T15:00:20+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/cbrain-nvidia-1.png",
+  "id": "df8156dd70629cce"
+ },
+ {
+  "title": "Build specialized multimodal models with LFM3",
+  "summary": "",
+  "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-27T17:16:52+00:00",
+  "image": "",
+  "id": "db98bf59a6c7e420"
+ },
+ {
+  "title": "Can we trust LLMs to judge whether a research idea is novel?",
+  "summary": "",
+  "url": "https://huggingface.co/blog/allenai/novelty-bench",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-27T16:12:42+00:00",
+  "image": "",
+  "id": "34370e88c88d0cd4"
+ },
+ {
+  "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+  "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
+  "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-27T13:00:00+00:00",
+  "image": "",
+  "id": "c3f55709f5e3f7ea"
+ },
+ {
+  "title": "Don’t use Muse? Meta’s AI agent can still access your private messages – here’s how",
+  "summary": "Don’t use Muse? Meta’s AI agent can still access your private messages – here’s how ZDNET",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80VFppWE9uYV84WDBxQlZDWmdBejJ2VjMtMzVxSi10aTNiSHJXWTk3NzI5djZEYWVFb1NzZi11aVBsRVlnYW8yeXFWY0Nqb1ZvQjl0dDM2RlJjYVFwNzlRZURRWk9yZHhjbmNDZmZRWjhjQ0lSQ0VoZUhZaw?oc=5",
+  "source": "ZDNET",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-27T16:58:02+00:00",
+  "image": "",
+  "id": "395510eea9821846"
  }
 ]
