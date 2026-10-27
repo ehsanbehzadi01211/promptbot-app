@@ -1,41 +1,5 @@
 [
  {
-  "title": "Working with academic communities to build scientific understanding",
-  "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-  "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-26T14:30:00+00:00",
-  "image": "",
-  "id": "f16aefe89a6e3f3b"
- },
- {
-  "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-  "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-  "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-26T13:45:00+00:00",
-  "image": "",
-  "id": "1a1d4bf2fc111eb8"
- },
- {
-  "title": "OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra",
-  "summary": "OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra The Register",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFlaQlJZSTRmSnp5WkJ3ZmprNUU4VnZkNjRCdTFYOEN1QVBSRXlTVnRmVmdWckFMMWc2N2V1OEJhN1VqMVZ3TFhNX0xuUlZsRk10aW9iUTJRNVp3eC1VbzVmOWJtN2ZBS05TUEtyNmkwekpjdU8yVlFuS3R5ejRySlBobEpWam9DS1BJNXBfd21lQlpjTkpSSGVtS3ZXaU0tVHJxN0JiZVlWeUlmZ2c?oc=5",
-  "source": "The Register",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-26T23:08:59+00:00",
-  "image": "",
-  "id": "7ecfecc72dbfa139"
- },
- {
   "title": "Cisco’s Privileged Infrastructure Access ties admin and AI agent privileges to the task",
   "summary": "Cisco’s Privileged Infrastructure Access ties admin and AI agent privileges to the task SiliconANGLE",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTWZ2dWxkcjJqOEExdERfRUJaV3dyUDM0RDNHeWI5Tk50N1FydzNMVUtoWTJtZ3BvcGt3cU03eVpqR01xRGFydVdDeEdVeTJ3SnRiOWU5bXY5U2ZDYnBaQU8xNWUwaVVXNUlPUy1WZXA2NTZsRlg2SEdhS0MtN1c0NERRdjV5aG5taU9IS04zbnhuTGUza1ZlRV91cUtjN0I1aEVWQ0VuY2dxdGlkSWlVb2VmVEE1WHk4bThZemNNSms?oc=5",
@@ -70,5 +34,29 @@
   "time": "2026-10-26T23:34:58+00:00",
   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_2.jpg?quality=90&strip=all&crop=0,0,100,100",
   "id": "bba291662c45fb8c"
+ },
+ {
+  "title": "OpenAI Announces New Discoveries In Mathematics, Computer Science And Physics",
+  "summary": "OpenAI Announces New Discoveries In Mathematics, Computer Science And Physics Engadget",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWjhyeURuTExjbVFTeHpnajdjTmlaU0NwQlRKeXFuR3lCWWUtbmM5c1k0MDJfaTB0a096bE5rel9QMjFvX3hSZk1RZ3pDLVlHbmFBcXJ6TUhNLVBSWXNqZ1lRZ0JsUWlsNnUxQnhMbFI1cGREYWpYTjdOSlYydE52ZkdOLXZDMlVNd3R1dlJwcVQ4S3NuWHVrXw?oc=5",
+  "source": "Engadget",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-27T08:18:16+00:00",
+  "image": "",
+  "id": "acb12a902c3e67c2"
+ },
+ {
+  "title": "A good buy or ‘the most ridiculous IPO of 2026’: Anthropic’s debut will be a referendum on AI",
+  "summary": "A good buy or ‘the most ridiculous IPO of 2026’: Anthropic’s debut will be a referendum on AI Fortune",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSDhvdUozbkNVMFBUdm1pRmNSMzg2aGh3VnJ4T0wxSW9pOV9uUGYyUW9TYllVLVZkTldhOGcwZnFLZ1NiY283WEt3c1dZRTQ2VDRzRjF3bFdQeEJURzc4THJDWW0zalA5emlkd0pIYW14SkVBSUk4WVdVdTl1anZLNk1ZVFZTUQ?oc=5",
+  "source": "Fortune",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-27T10:38:00+00:00",
+  "image": "",
+  "id": "3fa4080afba515d7"
  }
 ]
