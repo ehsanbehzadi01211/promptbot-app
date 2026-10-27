@@ -1,0 +1,18 @@
+{"motion": {
+ "label": "ساخته‌شده با Claude 🤯",
+ "keyword": "موشن",
+ "voice": "[excited] یا خدا! این موشن‌گرافیک رو بدون افترافکت ساختم. نه لایه، نه کی‌فریم، نه ساعت‌ها رندر. فقط به Claude گفتم چی می‌خوام، و خودش با کد، انیمیشنش رو ساخت. روش قدیمی: لایه، کی‌فریم، گراف ادیتور، رندر. روش جدید: پرامپت، ساخت، رندر. حتی همین ویدیو رو Claude ساخته؛ متن، انیمیشن، حتی تدوینش. ابزار انیمیشنش هم رایگان و متن‌بازه. کلمه‌ی «موشن» رو کامنت کن، تا لینک و پرامپت رو برات بفرستم.",
+ "cta_w": 56,
+ "flash_w": [35, 53],
+ "beats": [
+  {"w": 0, "html": "<div class='burst' data-a='{w1}'><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div><div class='big' data-in='{w0}'>یا</div><div class='big neon' data-in='{w1-0.05}' style='font-size:190px'>خدا!</div>"},
+  {"w": 2, "html": "<div class='sm' data-in='{w3}'>موشن‌گرافیک</div><div class='mid' data-in='{w5}'>بدون</div><div class='mid neon strike' data-in='{w6-0.1}'>افترافکت<b data-d='{w7}'></b></div>"},
+  {"w": 8, "html": "<div class='cap'>NO MORE</div><div class='chips'><div class='chip x' data-in='{w9-0.15}' data-x='{w9+0.2}'>لایه</div><div class='chip x' data-in='{w11-0.15}' data-x='{w11+0.2}'>کی‌فریم</div><div class='chip x' data-in='{w13-0.15}' data-x='{w14}'>ساعت‌ها رندر</div></div>"},
+  {"w": 15, "html": "<div class='term'><div class='cap' style='text-align:left;margin-bottom:10px'>&gt; CLAUDE</div><div class='p' data-type='یه موشن نئونی بساز با متن «یا خدا!»، پر از انرژی' data-a='{w15}' data-e='{w20}'></div><div class='prog'><i data-a='{w21}' data-e='{w27}'></i></div></div><div class='code' data-in='{w23}'>gsap.to('.title',{scale:1.4,glow:'#c8ff3e'})\nburst(12).from('center')\nrender({fps:30,size:'1080x1920'})</div>"},
+  {"w": 28, "html": "<div class='mid' data-in='{w28}' style='color:#999'>روش قدیمی</div><div class='chips'><div class='chip x' data-in='{w30-0.1}' data-x='{w34+0.25}'>لایه</div><div class='arrow' data-in='{w31-0.15}'>←</div><div class='chip x' data-in='{w31-0.1}' data-x='{w34+0.3}'>کی‌فریم</div><div class='arrow' data-in='{w32-0.15}'>←</div><div class='chip x' data-in='{w32-0.1}' data-x='{w34+0.35}'>گراف ادیتور</div><div class='arrow' data-in='{w34-0.15}'>←</div><div class='chip x' data-in='{w34-0.1}' data-x='{w34+0.4}'>رندر</div></div>"},
+  {"w": 35, "html": "<div class='mid neon' data-in='{w35}'>روش جدید</div><div class='chips'><div class='chip g' data-in='{w37-0.1}'>پرامپت</div><div class='arrow' data-in='{w38-0.15}'>←</div><div class='chip g' data-in='{w38-0.1}'>ساخت</div><div class='arrow' data-in='{w39-0.15}'>←</div><div class='chip g' data-in='{w39-0.1}'>رندر</div></div><div class='stamp' data-in='{w39+0.45}'>عالیه!</div>"},
+  {"w": 40, "html": "<div class='mid' data-in='{w41}'>همین ویدیو 👀</div><div class='chk'><div data-in='{w46-0.05}'><span>✓</span>متن</div><div data-in='{w47-0.05}'><span>✓</span>انیمیشن</div><div data-in='{w49-0.05}'><span>✓</span>تدوین</div></div>"},
+  {"w": 50, "html": "<div class='sm' data-in='{w50}'>ابزار انیمیشنش</div><div class='big neon' data-in='{w53-0.1}' style='font-size:140px'>رایگان</div><div class='chip g' data-in='{w55-0.15}' style='font-size:40px'>⭐ متن‌باز</div>"}
+ ],
+ "cta_html": "<div class='h'>لینک ابزار + پرامپت 👇</div><div class='t'>کامنت کن</div><div class='k neon'>«موشن»</div><div class='cbox'><span>کامنت: <em>موشن</em></span><s>➤</s></div><div class='h'>تو دایرکت برات می‌فرستم</div>"
+}}
