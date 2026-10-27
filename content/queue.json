@@ -790,7 +790,7 @@
   "topic": "هوش مصنوعی معلم خصوصی",
   "metricool_uuid": "-642830934189980614",
   "metricool_date": "2026-10-18T16:00",
-  "status": "scheduled",
+  "status": "published",
   "id": "in-2026-10-26-reel",
   "yt_key": "fa_teacher",
   "override": {
@@ -800,7 +800,8 @@
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel7_teacher.jpg"
   },
   "via": "uplika",
-  "uplika_post": "post_39ccd1d78accccb5"
+  "uplika_post": "post_39ccd1d78accccb5",
+  "url": "https://www.instagram.com/reel/De8pP2_lYJP/"
  },
  {
   "platform": "youtube",
@@ -825,11 +826,12 @@
   "media": [
    "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/stories/tip_5.jpg"
   ],
-  "status": "scheduled",
+  "status": "published",
   "id": "in-2026-10-26-story",
   "note": "Story: media URL above (no Metricool post). Desktop Instagram may not offer stories; if not, set status 'manual' (or 'skipped') and the Telegram bot sends the file to the owner's phone.",
   "via": "uplika",
-  "uplika_post": "post_621f8769c4298809"
+  "uplika_post": "post_621f8769c4298809",
+  "url": "https://www.instagram.com/stories/ehbehzad/4016537623656891905"
  },
  {
   "platform": "instagram",
@@ -1345,11 +1347,12 @@
   "lang": "fa",
   "when": "2026-10-26T21:00",
   "topic": "Google Flow / Veo رایگان",
-  "status": "scheduled",
+  "status": "published",
   "via": "uplika",
   "uplika_post": "post_08c1bf43a5f8d5ac",
   "id": "in-2026-10-26-v8veo",
-  "comment_to_dm": true
+  "comment_to_dm": true,
+  "url": "https://www.instagram.com/reel/De90qRWCLIN/"
  },
  {
   "platform": "instagram",
@@ -1392,9 +1395,10 @@
   "kind": "short",
   "id": "yt-eleven",
   "yt_key": "eleven",
-  "status": "scheduled",
+  "status": "failed",
   "via": "uplika",
-  "uplika_post": "post_3d2a6ae484472dc7"
+  "uplika_post": "post_3d2a6ae484472dc7",
+  "note": "Uplika youtube_daily_cap (26 Oct 16:00): Uplika's shared daily YouTube upload limit ran out; refills 27 Oct 07:00 UTC (10:30 Tehran). Not an account problem, reconnecting won't help. Uplika help: after the refill, resend with retry_post (or move later with update_post)."
  },
  {
   "platform": "youtube",
