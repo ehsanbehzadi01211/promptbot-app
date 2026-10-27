@@ -1,2 +1,1 @@
-mascot_2_robot.jpg https://res.cloudinary.com/qecsawrr/image/upload/v1793114508/ehbehzad/mascot_2_robot.jpg
-mascot_3_visor.jpg https://res.cloudinary.com/qecsawrr/image/upload/v1793114549/ehbehzad/mascot_3_visor.jpg
+mascot_1_ehsan.png https://res.cloudinary.com/qecsawrr/image/upload/v1793115370/ehbehzad/mascot_1_ehsan.png
