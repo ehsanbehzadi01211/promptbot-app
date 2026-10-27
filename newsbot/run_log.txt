@@ -1,4 +1,29 @@
-Tue Oct 27 04:46:26 UTC 2026
+Tue Oct 27 04:54:00 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-promo sent in-2026-10-26-reel
-promo sent in-2026-10-26-v8veo
+OpenAI: 7 fresh
+Google: 1 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 0 fresh
+Hugging Face: 0 fresh
+The Verge: 8 fresh
+TechCrunch: 7 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 2 fresh
+Product Hunt: 3 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 29 fresh
+Google News: 30 fresh
+new items: 2
+translated via clients5
+translated via clients5
+sent photo The RealReal won’t let AI agents hog designer clothing
+translated via clients5
+translated via clients5
+sent photo Anthropic officially files for its public debut
+translated via clients5
+translated via clients5
+sent card Greptile takes bug detection beyond code review with GPT-6 A
