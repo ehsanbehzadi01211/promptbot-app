@@ -10,7 +10,7 @@ price and free quota on the web the same day (if it changed or can't be checked,
     mkdir -p /home/claude/v8 && cp -r /tmp/rm/pipeline/v10/* /home/claude/v8/ && cd /home/claude/v8
     npm install                                   # Vazirmatn + JetBrains Mono fonts
     pip install --break-system-packages numpy playwright   # Chromium is preinstalled; never run "playwright install"
-    mkdir -p out && cp /tmp/rm/media/mascot_1_ehsan.png out/   # the owner's cartoon (talking host)
+    mkdir -p out && cp /tmp/rm/media/mascot_2_robot_glass.png /tmp/rm/media/mascot_1_ehsan.png out/   # talking hosts
 
 The shell can only reach GitHub, npm and PyPI. Cloudinary, ElevenLabs and Uplika are reached through their
 MCP tools only.
@@ -21,12 +21,13 @@ MCP tools only.
 `laptop` (laptop.py, like laptop.json key `motion`). Research the topic, write a 25–40 s Persian script
 (hook → condition/twist → 2–5 concrete items → "کلمه‌ی «X» رو کامنت کن"). Keep claims honest.
 
-## 2b. Talking host (owner's cartoon)
+## 2b. Talking host (every reel)
 
-If the idea has `"host": true` (or the owner asked for it), add `"host": true` to the spec. `host.py` animates
-`out/mascot_1_ehsan.png` as a cut-out puppet: the mouth opens on every narrated word, the head bobs.
-build9: first scene shows it big (the hook emoji is hidden), later scenes in a circle top-left; override per
-scene with `"host": "big" | "corner" | "off"` (use "off" where a scene's content sits top-left).
+The owner chose a host character: a small robot in frosted white glass (`out/mascot_2_robot_glass.png`).
+Put `"host": "robot"` in every spec unless the owner says otherwise (`"ehsan"` = his own cartoon, only if he
+asks). `host.py` draws the robot's eyes (blinking) and mouth (opens on every narrated word) on its blank
+screen and bobs the head. build9: first scene big (the hook emoji is hidden), later scenes a circle top-left;
+override per scene with `"host": "big" | "corner" | "off"` (use "off" where a scene's content sits top-left).
 laptop: always the top-left circle. Always look at the `--stills` frames and fix overlaps before rendering.
 (ElevenLabs video/lip-sync models need a paid plan on this account, so the host is animated in code.)
 

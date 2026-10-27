@@ -140,9 +140,8 @@ def build(key):
     cta = spec["cta_html"]
     host_html = ""
     if spec.get("host"):   # owner's talking cartoon in the top-left corner (see host.py)
-        from host import host_block, words_to_spans
-        img = "file://" + os.path.join(ROOT, "out", "mascot_1_ehsan.png")
-        host_html = host_block(img, words_to_spans(ts, total - 1.0), [[0, "corner"]], "#c8ff3e")
+        from host import host_any, words_to_spans
+        host_html = host_any(spec["host"], ROOT, words_to_spans(ts, total - 1.0), [[0, "corner"]], "#c8ff3e")
     page = (f'<!doctype html><html lang="fa"><head><meta charset="utf-8"><style>{CSS.replace("FONT", FONT)}</style></head><body>'
             f'<div id="world"><div class="room"></div><div class="desk"></div><div class="spill"></div>'
             f'<div class="label">{spec["label"]}</div>'

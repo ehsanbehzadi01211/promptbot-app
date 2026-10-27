@@ -22,8 +22,8 @@
    "keyword": "HD",
    "ref": "https://www.instagram.com/reel/DWyy9QijN2X/",
    "status": "todo",
-   "host": true,
-   "note": "Owner asked (27 Oct): make this one with his animated cartoon host (spec \"host\": true) so he can judge it. Mention in the report that this is the first host test and ask if he wants it on every reel."
+   "host": "robot",
+   "note": "First reel with the owner's chosen host: the frosted-white-glass robot (27 Oct). Ask in the report how he likes it."
   },
   {
    "n": 3,

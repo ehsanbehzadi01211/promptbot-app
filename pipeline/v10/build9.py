@@ -589,17 +589,16 @@ def bed(starts, total, out, spec, scenes, seed=3):
 
 
 def host_for(spec, scenes, starts, sw, total):
-    """Optional talking host (owner's cartoon). spec["host"] = true turns it on; per scene
+    """Optional talking host. spec["host"] = true/"robot" (glass robot) or "ehsan" (owner's cartoon); per scene
     "host": "big" | "corner" | "off" (default: first scene big, the rest corner)."""
     if not spec.get("host"):
         return ""
-    from host import host_block, words_to_spans
+    from host import host_any, words_to_spans
     times = [a for lst in sw for (_, a) in lst]
     n = len(scenes)
     modes = [[round(max(0, s - .05), 3), sc.get("host", "big" if i == 0 else "corner")]
              for i, (sc, s) in enumerate(zip(scenes, starts))]
-    img = "file://" + os.path.join(ROOT, "out", "mascot_1_ehsan.png")
-    return host_block(img, words_to_spans(times, total - 1.0), modes, spec.get("accent", "#F97316"))
+    return host_any(spec["host"], ROOT, words_to_spans(times, total - 1.0), modes, spec.get("accent", "#F97316"))
 
 
 def build(key, variant="ig", stills=False):
