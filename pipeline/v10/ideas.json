@@ -1,33 +1,282 @@
 {
-  "_note": "Daily queue. The daily task takes the first item with status 'todo', makes it, and sets status 'scheduled' + post id + date. Formats: list = build9 numbered-list style (spec9.json), laptop = laptop.py neon laptop style (laptop.json). Verify every tool, price and free quota on the day; if it changed or can't be verified, rewrite or skip the idea.",
-  "items": [
-    {"n": 1, "key": "motion", "hook": "این موشن رو بدون افترافکت ساختم 🤯", "cat": "motion", "format": "laptop", "keyword": "موشن", "ref": "https://www.instagram.com/reel/Deg2y2vhmci/", "status": "scheduled", "date": "2026-11-02"},
-    {"n": 2, "key": "upscale", "hook": "عکس تارت رو مجانی HD کن", "cat": "free-tool", "format": "list", "keyword": "HD", "ref": "https://www.instagram.com/reel/DWyy9QijN2X/", "status": "todo"},
-    {"n": 3, "key": "admin", "hook": "ادمین تمام‌وقتی که حقوق نمی‌خواد؛ پیج ما رو Claude می‌چرخونه", "cat": "claude-instagram", "format": "list", "keyword": "ادمین", "ref": "https://www.instagram.com/reel/De1tSeQobsH/", "status": "todo"},
-    {"n": 4, "key": "guess1", "hook": "کدوم واقعیه؟ ۱ یا ۲", "cat": "game", "format": "list", "keyword": "۱ یا ۲", "ref": "https://www.instagram.com/reel/DKu_SXNRx-l/", "status": "todo", "needs": "one AI clip + one real clip (credits)"},
-    {"n": 5, "key": "findskills", "hook": "یه اسکیل نصب کن، بقیه رو خودش پیدا می‌کنه", "cat": "skills", "format": "list", "keyword": "اسکیل", "ref": "https://www.instagram.com/reel/DeyTVgRoh7P/", "status": "todo"},
-    {"n": 6, "key": "location", "hook": "لوکیشن عکست رو با یه پرامپت عوض کن", "cat": "teaser", "format": "list", "keyword": "لوکیشن", "ref": "https://www.instagram.com/reel/Dam81kvtrDN/", "status": "todo"},
-    {"n": 7, "key": "analyze", "hook": "Claude کل پیج اینستاگرامت رو آنالیز می‌کنه + پرامپت", "cat": "claude-instagram", "format": "laptop", "keyword": "آنالیز", "ref": "https://www.instagram.com/reel/Der-BxHRowy/", "status": "todo"},
-    {"n": 8, "key": "offline", "hook": "اینترنت قطع شد؟ این هوش مصنوعی آفلاین روی گوشیت کار می‌کنه", "cat": "free-tool", "format": "list", "keyword": "آفلاین", "ref": "https://www.instagram.com/reel/Derm48rCG5c/", "status": "todo"},
-    {"n": 9, "key": "3videos", "hook": "امروز فیلم نبین؛ این ۳ ویدیو رو ببین", "cat": "learning", "format": "list", "keyword": "ویدیو", "ref": "https://www.instagram.com/reel/De6v1Y8NUSl/", "status": "todo"},
-    {"n": 10, "key": "localmodel", "hook": "مدل غول‌پیکر روی لپ‌تاپ معمولی، بدون کارت گرافیک", "cat": "news", "format": "laptop", "keyword": "لوکال", "ref": "https://www.instagram.com/reel/DbLfbLkMkm6/", "status": "todo"},
-    {"n": 11, "key": "course", "hook": "دوره‌ی رایگان هوش مصنوعی مولد، فارسی", "cat": "learning", "format": "list", "keyword": "دوره", "ref": "https://www.instagram.com/reel/DSVYHL2kX4l/", "status": "todo"},
-    {"n": 12, "key": "twenty", "hook": "فقط عدد ۲۰ رو کامنت کن", "cat": "free-tool", "format": "list", "keyword": "۲۰", "ref": "https://www.instagram.com/reel/Dbq5wvtCH76/", "status": "todo"},
-    {"n": 13, "key": "precheck", "hook": "قبل از پست گذاشتن این ۵ تا رو چک کن + پرامپت", "cat": "claude-instagram", "format": "list", "keyword": "چک", "ref": "https://www.instagram.com/reel/Das2_5iMY71/", "status": "todo"},
-    {"n": 14, "key": "compare", "hook": "یه پرامپت، دو ویدیوساز، دو قیمت", "cat": "game", "format": "list", "keyword": "مقایسه", "ref": "https://www.instagram.com/reel/DeybSc1hOfS/", "status": "todo"},
-    {"n": 15, "key": "imagealt", "hook": "ChatGPT به محدودیت عکس خورد؟ ۴ جایگزین رایگان", "cat": "free-tool", "format": "list", "keyword": "عکس", "status": "todo"},
-    {"n": 16, "key": "cinematic", "hook": "تبلیغ سینمایی محصولت با یه عکس", "cat": "teaser", "format": "list", "keyword": "سینمایی", "ref": "https://www.instagram.com/reel/DaA7BZbN0EB/", "status": "todo"},
-    {"n": 17, "key": "clientsite", "hook": "Claude برای مشتری سایت ساخت، ۱۰ دقیقه", "cat": "claude-business", "format": "laptop", "keyword": "سایت", "ref": "https://www.instagram.com/reel/DeMoUFfOMdR/", "status": "todo"},
-    {"n": 18, "key": "guess2", "hook": "کدوم واقعیه؟ دور دوم", "cat": "game", "format": "list", "keyword": "۱ یا ۲", "status": "todo"},
-    {"n": 19, "key": "roadmap", "hook": "نقشه‌ی راه یادگیری هوش مصنوعی از صفر", "cat": "learning", "format": "list", "keyword": "مسیر", "ref": "https://www.instagram.com/reel/DSQOC2Kkawx/", "status": "todo"},
-    {"n": 20, "key": "influencer", "hook": "این آدم‌ها واقعی نیستن؛ اینفلوئنسر مجازی", "cat": "motion", "format": "list", "keyword": "اینفلوئنسر", "ref": "https://www.instagram.com/reel/DeKzLwHi49X/", "status": "todo"},
-    {"n": 21, "key": "videoskills", "hook": "۵ اسکیل ویدیوسازی برای Claude", "cat": "skills", "format": "list", "keyword": "اسکیل", "ref": "https://www.instagram.com/reel/DezJwDPEaPd/", "status": "todo"},
-    {"n": 22, "key": "autoprompt", "hook": "پرامپت ننویس! بذار خودش دربیاره", "cat": "tips", "format": "list", "keyword": "پرامپت", "status": "todo"},
-    {"n": 23, "key": "game", "hook": "یه بازی کامل با یه پیام به Claude", "cat": "motion", "format": "laptop", "keyword": "بازی", "status": "todo"},
-    {"n": 24, "key": "60s", "hook": "عکس دهه‌ی ۶۰ با یه پرامپت", "cat": "teaser", "format": "list", "keyword": "دهه۶۰", "status": "todo"},
-    {"n": 25, "key": "indicator", "hook": "تریدرها: اندیکاتور رو کپی نکن، با Claude بسازش", "cat": "trade", "format": "laptop", "keyword": "اندیکاتور", "ref": "https://www.instagram.com/reel/De3_TMxNZjl/", "status": "todo", "note": "always add: not financial advice"},
-    {"n": 26, "key": "voice", "hook": "صدای ربات‌طور دیگه نه؛ گوینده‌ی فارسی", "cat": "free-tool", "format": "list", "keyword": "صدا", "status": "todo"},
-    {"n": 27, "key": "news", "hook": "خبر بزرگ هفته با قاب «یه بمب دیگه» (only if real big news)", "cat": "news", "format": "laptop", "keyword": "مدل", "ref": "https://www.instagram.com/reel/DIWdgs-sO9Q/", "status": "todo"},
-    {"n": 28, "key": "connectors", "hook": "۹۰٪ کاربرای Claude این دکمه رو ندیدن", "cat": "tips", "format": "list", "keyword": "کانکتور", "status": "todo"}
-  ]
+ "_note": "Daily queue. The daily task takes the first item with status 'todo', makes it, and sets status 'scheduled' + post id + date. Formats: list = build9 numbered-list style (spec9.json), laptop = laptop.py neon laptop style (laptop.json). Verify every tool, price and free quota on the day; if it changed or can't be verified, rewrite or skip the idea.",
+ "items": [
+  {
+   "n": 1,
+   "key": "motion",
+   "hook": "این موشن رو بدون افترافکت ساختم 🤯",
+   "cat": "motion",
+   "format": "laptop",
+   "keyword": "موشن",
+   "ref": "https://www.instagram.com/reel/Deg2y2vhmci/",
+   "status": "scheduled",
+   "date": "2026-11-02",
+   "post": "post_0d046089515479a2"
+  },
+  {
+   "n": 2,
+   "key": "upscale",
+   "hook": "عکس تارت رو مجانی HD کن",
+   "cat": "free-tool",
+   "format": "list",
+   "keyword": "HD",
+   "ref": "https://www.instagram.com/reel/DWyy9QijN2X/",
+   "status": "todo"
+  },
+  {
+   "n": 3,
+   "key": "admin",
+   "hook": "ادمین تمام‌وقتی که حقوق نمی‌خواد؛ پیج ما رو Claude می‌چرخونه",
+   "cat": "claude-instagram",
+   "format": "list",
+   "keyword": "ادمین",
+   "ref": "https://www.instagram.com/reel/De1tSeQobsH/",
+   "status": "todo"
+  },
+  {
+   "n": 4,
+   "key": "guess1",
+   "hook": "کدوم واقعیه؟ ۱ یا ۲",
+   "cat": "game",
+   "format": "list",
+   "keyword": "۱ یا ۲",
+   "ref": "https://www.instagram.com/reel/DKu_SXNRx-l/",
+   "status": "todo",
+   "needs": "one AI clip + one real clip (credits)"
+  },
+  {
+   "n": 5,
+   "key": "findskills",
+   "hook": "یه اسکیل نصب کن، بقیه رو خودش پیدا می‌کنه",
+   "cat": "skills",
+   "format": "list",
+   "keyword": "اسکیل",
+   "ref": "https://www.instagram.com/reel/DeyTVgRoh7P/",
+   "status": "todo"
+  },
+  {
+   "n": 6,
+   "key": "location",
+   "hook": "لوکیشن عکست رو با یه پرامپت عوض کن",
+   "cat": "teaser",
+   "format": "list",
+   "keyword": "لوکیشن",
+   "ref": "https://www.instagram.com/reel/Dam81kvtrDN/",
+   "status": "todo"
+  },
+  {
+   "n": 7,
+   "key": "analyze",
+   "hook": "Claude کل پیج اینستاگرامت رو آنالیز می‌کنه + پرامپت",
+   "cat": "claude-instagram",
+   "format": "laptop",
+   "keyword": "آنالیز",
+   "ref": "https://www.instagram.com/reel/Der-BxHRowy/",
+   "status": "todo"
+  },
+  {
+   "n": 8,
+   "key": "offline",
+   "hook": "اینترنت قطع شد؟ این هوش مصنوعی آفلاین روی گوشیت کار می‌کنه",
+   "cat": "free-tool",
+   "format": "list",
+   "keyword": "آفلاین",
+   "ref": "https://www.instagram.com/reel/Derm48rCG5c/",
+   "status": "todo"
+  },
+  {
+   "n": 9,
+   "key": "3videos",
+   "hook": "امروز فیلم نبین؛ این ۳ ویدیو رو ببین",
+   "cat": "learning",
+   "format": "list",
+   "keyword": "ویدیو",
+   "ref": "https://www.instagram.com/reel/De6v1Y8NUSl/",
+   "status": "todo"
+  },
+  {
+   "n": 10,
+   "key": "localmodel",
+   "hook": "مدل غول‌پیکر روی لپ‌تاپ معمولی، بدون کارت گرافیک",
+   "cat": "news",
+   "format": "laptop",
+   "keyword": "لوکال",
+   "ref": "https://www.instagram.com/reel/DbLfbLkMkm6/",
+   "status": "todo"
+  },
+  {
+   "n": 11,
+   "key": "course",
+   "hook": "دوره‌ی رایگان هوش مصنوعی مولد، فارسی",
+   "cat": "learning",
+   "format": "list",
+   "keyword": "دوره",
+   "ref": "https://www.instagram.com/reel/DSVYHL2kX4l/",
+   "status": "todo"
+  },
+  {
+   "n": 12,
+   "key": "twenty",
+   "hook": "فقط عدد ۲۰ رو کامنت کن",
+   "cat": "free-tool",
+   "format": "list",
+   "keyword": "۲۰",
+   "ref": "https://www.instagram.com/reel/Dbq5wvtCH76/",
+   "status": "todo"
+  },
+  {
+   "n": 13,
+   "key": "precheck",
+   "hook": "قبل از پست گذاشتن این ۵ تا رو چک کن + پرامپت",
+   "cat": "claude-instagram",
+   "format": "list",
+   "keyword": "چک",
+   "ref": "https://www.instagram.com/reel/Das2_5iMY71/",
+   "status": "todo"
+  },
+  {
+   "n": 14,
+   "key": "compare",
+   "hook": "یه پرامپت، دو ویدیوساز، دو قیمت",
+   "cat": "game",
+   "format": "list",
+   "keyword": "مقایسه",
+   "ref": "https://www.instagram.com/reel/DeybSc1hOfS/",
+   "status": "todo"
+  },
+  {
+   "n": 15,
+   "key": "imagealt",
+   "hook": "ChatGPT به محدودیت عکس خورد؟ ۴ جایگزین رایگان",
+   "cat": "free-tool",
+   "format": "list",
+   "keyword": "عکس",
+   "status": "todo"
+  },
+  {
+   "n": 16,
+   "key": "cinematic",
+   "hook": "تبلیغ سینمایی محصولت با یه عکس",
+   "cat": "teaser",
+   "format": "list",
+   "keyword": "سینمایی",
+   "ref": "https://www.instagram.com/reel/DaA7BZbN0EB/",
+   "status": "todo"
+  },
+  {
+   "n": 17,
+   "key": "clientsite",
+   "hook": "Claude برای مشتری سایت ساخت، ۱۰ دقیقه",
+   "cat": "claude-business",
+   "format": "laptop",
+   "keyword": "سایت",
+   "ref": "https://www.instagram.com/reel/DeMoUFfOMdR/",
+   "status": "todo"
+  },
+  {
+   "n": 18,
+   "key": "guess2",
+   "hook": "کدوم واقعیه؟ دور دوم",
+   "cat": "game",
+   "format": "list",
+   "keyword": "۱ یا ۲",
+   "status": "todo"
+  },
+  {
+   "n": 19,
+   "key": "roadmap",
+   "hook": "نقشه‌ی راه یادگیری هوش مصنوعی از صفر",
+   "cat": "learning",
+   "format": "list",
+   "keyword": "مسیر",
+   "ref": "https://www.instagram.com/reel/DSQOC2Kkawx/",
+   "status": "todo"
+  },
+  {
+   "n": 20,
+   "key": "influencer",
+   "hook": "این آدم‌ها واقعی نیستن؛ اینفلوئنسر مجازی",
+   "cat": "motion",
+   "format": "list",
+   "keyword": "اینفلوئنسر",
+   "ref": "https://www.instagram.com/reel/DeKzLwHi49X/",
+   "status": "todo"
+  },
+  {
+   "n": 21,
+   "key": "videoskills",
+   "hook": "۵ اسکیل ویدیوسازی برای Claude",
+   "cat": "skills",
+   "format": "list",
+   "keyword": "اسکیل",
+   "ref": "https://www.instagram.com/reel/DezJwDPEaPd/",
+   "status": "todo"
+  },
+  {
+   "n": 22,
+   "key": "autoprompt",
+   "hook": "پرامپت ننویس! بذار خودش دربیاره",
+   "cat": "tips",
+   "format": "list",
+   "keyword": "پرامپت",
+   "status": "todo"
+  },
+  {
+   "n": 23,
+   "key": "game",
+   "hook": "یه بازی کامل با یه پیام به Claude",
+   "cat": "motion",
+   "format": "laptop",
+   "keyword": "بازی",
+   "status": "todo"
+  },
+  {
+   "n": 24,
+   "key": "60s",
+   "hook": "عکس دهه‌ی ۶۰ با یه پرامپت",
+   "cat": "teaser",
+   "format": "list",
+   "keyword": "دهه۶۰",
+   "status": "todo"
+  },
+  {
+   "n": 25,
+   "key": "indicator",
+   "hook": "تریدرها: اندیکاتور رو کپی نکن، با Claude بسازش",
+   "cat": "trade",
+   "format": "laptop",
+   "keyword": "اندیکاتور",
+   "ref": "https://www.instagram.com/reel/De3_TMxNZjl/",
+   "status": "todo",
+   "note": "always add: not financial advice"
+  },
+  {
+   "n": 26,
+   "key": "voice",
+   "hook": "صدای ربات‌طور دیگه نه؛ گوینده‌ی فارسی",
+   "cat": "free-tool",
+   "format": "list",
+   "keyword": "صدا",
+   "status": "todo"
+  },
+  {
+   "n": 27,
+   "key": "news",
+   "hook": "خبر بزرگ هفته با قاب «یه بمب دیگه» (only if real big news)",
+   "cat": "news",
+   "format": "laptop",
+   "keyword": "مدل",
+   "ref": "https://www.instagram.com/reel/DIWdgs-sO9Q/",
+   "status": "todo"
+  },
+  {
+   "n": 28,
+   "key": "connectors",
+   "hook": "۹۰٪ کاربرای Claude این دکمه رو ندیدن",
+   "cat": "tips",
+   "format": "list",
+   "keyword": "کانکتور",
+   "status": "todo"
+  }
+ ]
 }
