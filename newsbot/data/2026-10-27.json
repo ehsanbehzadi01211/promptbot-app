@@ -130,5 +130,41 @@
   "time": "2026-10-27T16:58:02+00:00",
   "image": "",
   "id": "395510eea9821846"
+ },
+ {
+  "title": "How Check Point accelerates vulnerability research with Daybreak",
+  "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+  "url": "https://openai.com/index/check-point-daybreak",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-27T00:00:00+00:00",
+  "image": "",
+  "id": "8cb333260a17a324"
+ },
+ {
+  "title": "Oracle announces new agreement to embed ChatGPT in more of its products",
+  "summary": "Oracle announces new agreement to embed ChatGPT in more of its products CNBC",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMV9BdUFjd3dmcW11cU1hZWR0TkUtcFlXMldabE5WV1NVc3VaRFY0WGdjWmw4QVZQWWcwNDBJRm5xYU1BTW5qdXVUcHdneG5lQXZEaGhjVGw4a1o0V2w4dmJDeDgySXNBWlplRW1KZDRoQktNUE1vVVFRMWdTXzFxUFlLUXNLVUVsbmhZZzB1c3podDhMSnlheElkZUlic2VwQ3Y5R3lJYU9oaFRJUW1iYWR5SVE?oc=5",
+  "source": "CNBC",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-27T17:55:41+00:00",
+  "image": "",
+  "id": "6bfb78cc1e5d86bc"
+ },
+ {
+  "title": "How AI agents shape experts’ judgment calls",
+  "summary": "How AI agents shape experts’ judgment calls Anthropic",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IaTRIX2lBc1kwcDRXenZsRXRxcy1vZWVQVlBGdlJsS1p1bkpOQzBpblRRU0l6elhUa0Z3a0RmOVlaV1NmUlgxU3pQWjE2UTVNcEdMdDBBQ0VobFBMS2k5MS1yQ3dQMzQ?oc=5",
+  "source": "Anthropic",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-27T18:50:21+00:00",
+  "image": "",
+  "id": "66f6e1e9018b7ce5"
  }
 ]

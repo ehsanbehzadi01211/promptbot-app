@@ -1,29 +1,29 @@
-Tue Oct 27 17:56:21 UTC 2026
+Tue Oct 27 22:07:52 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 7 fresh
+OpenAI: 5 fresh
 Google: 1 fresh
 Google DeepMind: 1 fresh
 NVIDIA: 1 fresh
 Hugging Face: 2 fresh
 The Verge: 10 fresh
-TechCrunch: 12 fresh
+TechCrunch: 15 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 3 fresh
+MIT Technology Review: 2 fresh
 Product Hunt: 7 fresh
-Anthropic: 26 links
+Anthropic: 25 links
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 24 fresh
-new items: 7
+Google News: 30 fresh
+new items: 3
 translated via clients5
 translated via clients5
-sent card Cisco’s Privileged Infrastructure Access ties admin and AI a
+sent card OpenAI Announces New Discoveries In Mathematics, Computer Sc
 translated via clients5
 translated via clients5
-sent card OpenAI launches GPT-6.1 Terra for faster, better-performing 
+sent card A good buy or ‘the most ridiculous IPO of 2026’: Anthropic’s
 translated via clients5
 translated via clients5
-sent photo OpenAI announces three big science discoveries and a new way
+sent card OpenAI expands partnership with Oracle to bring its apps to 
