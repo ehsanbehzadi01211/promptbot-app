@@ -21,9 +21,13 @@
    "format": "list",
    "keyword": "HD",
    "ref": "https://www.instagram.com/reel/DWyy9QijN2X/",
-   "status": "todo",
+   "status": "scheduled",
    "host": "robot",
-   "note": "First reel with the owner's chosen host: the frosted-white-glass robot (27 Oct). Ask in the report how he likes it."
+   "note": "First reel with the owner's chosen host: the frosted-white-glass robot (27 Oct). Ask in the report how he likes it.",
+   "post": "post_0c505d7c6cd736ba",
+   "date": "2026-11-03",
+   "automation": "af_05d3a7a654f141a5",
+   "final": "https://res.cloudinary.com/qecsawrr/video/upload/v1793176177/ehbehzad/v10_upscale_final.mp4"
   },
   {
    "n": 3,
