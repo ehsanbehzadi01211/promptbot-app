@@ -1,41 +1,5 @@
 [
  {
-  "title": "Oracle announces new agreement to embed ChatGPT in more of its products",
-  "summary": "Oracle announces new agreement to embed ChatGPT in more of its products CNBC",
-  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMV9BdUFjd3dmcW11cU1hZWR0TkUtcFlXMldabE5WV1NVc3VaRFY0WGdjWmw4QVZQWWcwNDBJRm5xYU1BTW5qdXVUcHdneG5lQXZEaGhjVGw4a1o0V2w4dmJDeDgySXNBWlplRW1KZDRoQktNUE1vVVFRMWdTXzFxUFlLUXNLVUVsbmhZZzB1c3podDhMSnlheElkZUlic2VwQ3Y5R3lJYU9oaFRJUW1iYWR5SVE?oc=5",
-  "source": "CNBC",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-27T17:55:41+00:00",
-  "image": "",
-  "id": "6bfb78cc1e5d86bc"
- },
- {
-  "title": "How AI agents shape experts’ judgment calls",
-  "summary": "How AI agents shape experts’ judgment calls Anthropic",
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IaTRIX2lBc1kwcDRXenZsRXRxcy1vZWVQVlBGdlJsS1p1bkpOQzBpblRRU0l6elhUa0Z3a0RmOVlaV1NmUlgxU3pQWjE2UTVNcEdMdDBBQ0VobFBMS2k5MS1yQ3dQMzQ?oc=5",
-  "source": "Anthropic",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-27T18:50:21+00:00",
-  "image": "",
-  "id": "66f6e1e9018b7ce5"
- },
- {
-  "title": "Retell uses OpenAI models to help power 100M monthly calls",
-  "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-  "url": "https://openai.com/index/retell-ai",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-27T15:00:00+00:00",
-  "image": "",
-  "id": "d42fb1eb3362412f"
- },
- {
   "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
   "summary": "",
   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
@@ -93,5 +57,101 @@
   "time": "2026-10-28T11:10:57+00:00",
   "image": "",
   "id": "47482de1618c9954"
+ },
+ {
+  "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+  "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified […]",
+  "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-28T15:00:46+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-2-1.jpg",
+  "id": "2952348be6c4a620"
+ },
+ {
+  "title": "The future of the firm",
+  "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+  "url": "https://openai.com/index/the-future-of-the-firm",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-28T10:00:00+00:00",
+  "image": "",
+  "id": "0dc3cf0b7c98dcde"
+ },
+ {
+  "title": "Gemini 4 Carbon: Our next frontier model",
+  "summary": "",
+  "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+  "source": "Google DeepMind",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-28T17:00:58+00:00",
+  "image": "",
+  "id": "b0da25ea6c1a2967"
+ },
+ {
+  "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+  "summary": "",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-28T14:58:17+00:00",
+  "image": "",
+  "id": "7ae8eb20550eee76"
+ },
+ {
+  "title": "Monte Carlo Data launches Bayes, an AI agent for autonomously monitoring and fixing autonomous agents",
+  "summary": "Monte Carlo Data launches Bayes, an AI agent for autonomously monitoring and fixing autonomous agents SiliconANGLE",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY0tSdDNTak85ZlMyY01RSlU5dzE2aGZIN001X0dweXJuVk1zZ3hNT1JIOUJfdVptdWVpVi1aY2doaFBGbXpYdkswRTlnazl0emlnM3BJY1dkaHVPaWlXbWhsRmVWOXo1d2dzcDZ3QVJBRjk5VXJNTV9rNG9sazU2bHRlc1ZjcWYzdEdxaFltU3lxUzc2a0Fvc2k3dnl6ZnRTZlhlVk54UGwxeVM2aDJYZTBNNF9KTDItOWk4a1VsVjhQLXpXWW85SkNvMHdUWEJHbjgw?oc=5",
+  "source": "SiliconANGLE",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-28T13:00:00+00:00",
+  "image": "",
+  "id": "3be6f510accfb70e"
+ },
+ {
+  "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+  "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+  "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-28T19:19:58+00:00",
+  "image": "",
+  "id": "2ede9b7f343197b4"
+ },
+ {
+  "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+  "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+  "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-28T17:00:00+00:00",
+  "image": "",
+  "id": "1e8ba9106ed897eb"
+ },
+ {
+  "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+  "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+  "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-28T15:00:00+00:00",
+  "image": "",
+  "id": "f1ebb512d4e04c57"
  }
 ]

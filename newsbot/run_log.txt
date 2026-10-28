@@ -1,28 +1,30 @@
-Wed Oct 28 12:42:39 UTC 2026
+Wed Oct 28 19:30:00 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 OpenAI: 3 fresh
 Google: 0 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 1 fresh
-Hugging Face: 2 fresh
-The Verge: 9 fresh
-TechCrunch: 15 fresh
+Google DeepMind: 2 fresh
+NVIDIA: 2 fresh
+Hugging Face: 3 fresh
+The Verge: 10 fresh
+TechCrunch: 20 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 2 fresh
-Product Hunt: 8 fresh
+Product Hunt: 7 fresh
 Anthropic: 25 links
 Google News: 30 fresh
 Google News: 30 fresh
+Google News: 25 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-new items: 4
-translated via clients5
-sent photo Can we trust LLMs to judge whether a research idea is novel?
+Google News: 22 fresh
+new items: 8
 translated via clients5
 translated via clients5
-sent photo Opera introduces a new web standard to let users deploy AI l
+sent card Oracle announces new agreement to embed ChatGPT in more of i
 translated via clients5
 translated via clients5
-sent card Don’t use Muse? Meta’s AI agent can still access your privat
+sent card How AI agents shape experts’ judgment calls
+translate empty clients5
+translated via gtx
+translated via clients5
+sent card Retell uses OpenAI models to help power 100M monthly calls
