@@ -40,7 +40,43 @@
    "status": "todo"
   },
   {
-   "n": 4,
+   "key": "claudewatch",
+   "hook": "Claude حالا ویدیو می‌بینه! لینک بده، کل ویدیو رو برات آنالیز می‌کنه",
+   "cat": "skills",
+   "format": "laptop",
+   "keyword": "تماشا",
+   "ref": "https://www.instagram.com/reel/Dcg-yfZFet8/",
+   "note": "duncanrogoff 113K/594cm: repo 'Claude Watch' — find and verify the GitHub repo first",
+   "status": "todo",
+   "source": "duncanrogoff",
+   "n": 4
+  },
+  {
+   "key": "videoprompts",
+   "hook": "پرامپت ویدیوی Claude رو حدس نزن؛ یه کتابخونه‌ی رایگان پر از نمونه هست",
+   "cat": "motion",
+   "format": "list",
+   "keyword": "پرامپت‌ویدیو",
+   "ref": "https://www.instagram.com/reel/DezmnipjzG8/",
+   "note": "duncanrogoff 66K/912cm: 'Awesome Opus 5.5 Videos' GitHub list — verify",
+   "status": "todo",
+   "source": "duncanrogoff",
+   "n": 5
+  },
+  {
+   "key": "design5",
+   "hook": "سایت‌هایی که Claude می‌سازه همه شبیه همن؟ این ۵ تا ابزار گیت‌هاب رو نصب کن",
+   "cat": "skills",
+   "format": "list",
+   "keyword": "طراحی",
+   "ref": "https://www.instagram.com/reel/DfAtBw1iQj9/",
+   "note": "duncanrogoff 48K/478cm: Awesome Design MD, Taste, Impeccable, Playwright CLI, img2threejs — verify each repo",
+   "status": "todo",
+   "source": "duncanrogoff",
+   "n": 6
+  },
+  {
+   "n": 7,
    "key": "guess1",
    "hook": "کدوم واقعیه؟ ۱ یا ۲",
    "cat": "game",
@@ -51,7 +87,7 @@
    "needs": "one AI clip + one real clip (credits)"
   },
   {
-   "n": 5,
+   "n": 8,
    "key": "findskills",
    "hook": "یه اسکیل نصب کن، بقیه رو خودش پیدا می‌کنه",
    "cat": "skills",
@@ -61,7 +97,19 @@
    "status": "todo"
   },
   {
-   "n": 6,
+   "key": "pdfmotion",
+   "hook": "پی‌دی‌اف خسته‌کننده‌ت رو با یه دستور انیمیشن کن",
+   "cat": "motion",
+   "format": "laptop",
+   "keyword": "انیمیشن",
+   "ref": "https://www.instagram.com/reel/De5F-r1ide-/",
+   "note": "duncanrogoff 37K: Claude /motion — verify the feature is real and how it is enabled",
+   "status": "todo",
+   "source": "duncanrogoff",
+   "n": 9
+  },
+  {
+   "n": 10,
    "key": "location",
    "hook": "لوکیشن عکست رو با یه پرامپت عوض کن",
    "cat": "teaser",
@@ -71,7 +119,7 @@
    "status": "todo"
   },
   {
-   "n": 7,
+   "n": 11,
    "key": "analyze",
    "hook": "Claude کل پیج اینستاگرامت رو آنالیز می‌کنه + پرامپت",
    "cat": "claude-instagram",
@@ -81,7 +129,19 @@
    "status": "todo"
   },
   {
-   "n": 8,
+   "key": "igagency",
+   "hook": "یه آژانس اینستاگرام کامل، رایگان: ۵۴ متخصص هوش مصنوعی توی Claude",
+   "cat": "claude-instagram",
+   "format": "list",
+   "keyword": "آژانس",
+   "ref": "https://www.instagram.com/reel/DevLZXwDjPZ/",
+   "note": "duncanrogoff 29K/376cm: 'Claude Content Skills' open-source pack — verify",
+   "status": "todo",
+   "source": "duncanrogoff",
+   "n": 12
+  },
+  {
+   "n": 13,
    "key": "offline",
    "hook": "اینترنت قطع شد؟ این هوش مصنوعی آفلاین روی گوشیت کار می‌کنه",
    "cat": "free-tool",
@@ -91,7 +151,7 @@
    "status": "todo"
   },
   {
-   "n": 9,
+   "n": 14,
    "key": "3videos",
    "hook": "امروز فیلم نبین؛ این ۳ ویدیو رو ببین",
    "cat": "learning",
@@ -101,7 +161,19 @@
    "status": "todo"
   },
   {
-   "n": 10,
+   "key": "adobefree",
+   "hook": "پول اشتراک Adobe نده! نسخه‌ی متن‌بازی که با Claude ساخته شده",
+   "cat": "free-tool",
+   "format": "list",
+   "keyword": "ادوبی",
+   "ref": "https://www.instagram.com/reel/De_qSf2DCrM/",
+   "note": "duncanrogoff: ArtCraft — verify maturity; say honestly if it's early",
+   "status": "todo",
+   "source": "duncanrogoff",
+   "n": 15
+  },
+  {
+   "n": 16,
    "key": "localmodel",
    "hook": "مدل غول‌پیکر روی لپ‌تاپ معمولی، بدون کارت گرافیک",
    "cat": "news",
@@ -111,7 +183,7 @@
    "status": "todo"
   },
   {
-   "n": 11,
+   "n": 17,
    "key": "course",
    "hook": "دوره‌ی رایگان هوش مصنوعی مولد، فارسی",
    "cat": "learning",
@@ -121,7 +193,18 @@
    "status": "todo"
   },
   {
-   "n": 12,
+   "key": "dash3d",
+   "hook": "داشبورد فروشت مثل یه بازی ویدیویی، سه‌بعدی، با Claude",
+   "cat": "claude-business",
+   "format": "laptop",
+   "keyword": "سه‌بعدی",
+   "ref": "https://www.instagram.com/reel/De2k0o6An0o/",
+   "status": "todo",
+   "source": "duncanrogoff",
+   "n": 18
+  },
+  {
+   "n": 19,
    "key": "twenty",
    "hook": "فقط عدد ۲۰ رو کامنت کن",
    "cat": "free-tool",
@@ -131,7 +214,7 @@
    "status": "todo"
   },
   {
-   "n": 13,
+   "n": 20,
    "key": "precheck",
    "hook": "قبل از پست گذاشتن این ۵ تا رو چک کن + پرامپت",
    "cat": "claude-instagram",
@@ -141,7 +224,19 @@
    "status": "todo"
   },
   {
-   "n": 14,
+   "key": "filmcode",
+   "hook": "Claude یه فیلم کامل ساخت، بدون هیچ مدل ویدیویی؛ همه‌ش کد",
+   "cat": "motion",
+   "format": "laptop",
+   "keyword": "فیلم",
+   "ref": "https://www.instagram.com/reel/DeupJLPAhGr/",
+   "note": "'Lemo Opuscar' add-on — verify",
+   "status": "todo",
+   "source": "duncanrogoff",
+   "n": 21
+  },
+  {
+   "n": 22,
    "key": "compare",
    "hook": "یه پرامپت، دو ویدیوساز، دو قیمت",
    "cat": "game",
@@ -151,7 +246,7 @@
    "status": "todo"
   },
   {
-   "n": 15,
+   "n": 23,
    "key": "imagealt",
    "hook": "ChatGPT به محدودیت عکس خورد؟ ۴ جایگزین رایگان",
    "cat": "free-tool",
@@ -160,7 +255,7 @@
    "status": "todo"
   },
   {
-   "n": 16,
+   "n": 24,
    "key": "cinematic",
    "hook": "تبلیغ سینمایی محصولت با یه عکس",
    "cat": "teaser",
@@ -170,7 +265,7 @@
    "status": "todo"
   },
   {
-   "n": 17,
+   "n": 25,
    "key": "clientsite",
    "hook": "Claude برای مشتری سایت ساخت، ۱۰ دقیقه",
    "cat": "claude-business",
@@ -180,7 +275,7 @@
    "status": "todo"
   },
   {
-   "n": 18,
+   "n": 26,
    "key": "guess2",
    "hook": "کدوم واقعیه؟ دور دوم",
    "cat": "game",
@@ -189,7 +284,7 @@
    "status": "todo"
   },
   {
-   "n": 19,
+   "n": 27,
    "key": "roadmap",
    "hook": "نقشه‌ی راه یادگیری هوش مصنوعی از صفر",
    "cat": "learning",
@@ -199,7 +294,7 @@
    "status": "todo"
   },
   {
-   "n": 20,
+   "n": 28,
    "key": "influencer",
    "hook": "این آدم‌ها واقعی نیستن؛ اینفلوئنسر مجازی",
    "cat": "motion",
@@ -209,7 +304,7 @@
    "status": "todo"
   },
   {
-   "n": 21,
+   "n": 29,
    "key": "videoskills",
    "hook": "۵ اسکیل ویدیوسازی برای Claude",
    "cat": "skills",
@@ -219,7 +314,7 @@
    "status": "todo"
   },
   {
-   "n": 22,
+   "n": 30,
    "key": "autoprompt",
    "hook": "پرامپت ننویس! بذار خودش دربیاره",
    "cat": "tips",
@@ -228,7 +323,7 @@
    "status": "todo"
   },
   {
-   "n": 23,
+   "n": 31,
    "key": "game",
    "hook": "یه بازی کامل با یه پیام به Claude",
    "cat": "motion",
@@ -237,7 +332,7 @@
    "status": "todo"
   },
   {
-   "n": 24,
+   "n": 32,
    "key": "60s",
    "hook": "عکس دهه‌ی ۶۰ با یه پرامپت",
    "cat": "teaser",
@@ -246,7 +341,7 @@
    "status": "todo"
   },
   {
-   "n": 25,
+   "n": 33,
    "key": "indicator",
    "hook": "تریدرها: اندیکاتور رو کپی نکن، با Claude بسازش",
    "cat": "trade",
@@ -257,7 +352,7 @@
    "note": "always add: not financial advice"
   },
   {
-   "n": 26,
+   "n": 34,
    "key": "voice",
    "hook": "صدای ربات‌طور دیگه نه؛ گوینده‌ی فارسی",
    "cat": "free-tool",
@@ -266,7 +361,7 @@
    "status": "todo"
   },
   {
-   "n": 27,
+   "n": 35,
    "key": "news",
    "hook": "خبر بزرگ هفته با قاب «یه بمب دیگه» (only if real big news)",
    "cat": "news",
@@ -276,7 +371,7 @@
    "status": "todo"
   },
   {
-   "n": 28,
+   "n": 36,
    "key": "connectors",
    "hook": "۹۰٪ کاربرای Claude این دکمه رو ندیدن",
    "cat": "tips",
