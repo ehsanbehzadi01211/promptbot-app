@@ -76,16 +76,15 @@
    "n": 6
   },
   {
-   "key": "design5",
-   "hook": "سایت‌هایی که Claude می‌سازه همه شبیه همن؟ این ۵ تا ابزار گیت‌هاب رو نصب کن",
-   "cat": "skills",
+   "n": 7,
+   "key": "guess1",
+   "hook": "کدوم واقعیه؟ ۱ یا ۲",
+   "cat": "game",
    "format": "list",
-   "keyword": "طراحی",
-   "ref": "https://www.instagram.com/reel/DfAtBw1iQj9/",
-   "note": "duncanrogoff 48K/478cm: Awesome Design MD, Taste, Impeccable, Playwright CLI, img2threejs — verify each repo",
+   "keyword": "۱ یا ۲",
+   "ref": "https://www.instagram.com/reel/DKu_SXNRx-l/",
    "status": "todo",
-   "source": "duncanrogoff",
-   "n": 7
+   "needs": "one AI clip + one real clip (credits)"
   },
   {
    "key": "claudecourses",
@@ -100,15 +99,16 @@
    "n": 8
   },
   {
-   "n": 9,
-   "key": "guess1",
-   "hook": "کدوم واقعیه؟ ۱ یا ۲",
-   "cat": "game",
+   "key": "design5",
+   "hook": "سایت‌هایی که Claude می‌سازه همه شبیه همن؟ این ۵ تا ابزار گیت‌هاب رو نصب کن",
+   "cat": "skills",
    "format": "list",
-   "keyword": "۱ یا ۲",
-   "ref": "https://www.instagram.com/reel/DKu_SXNRx-l/",
+   "keyword": "طراحی",
+   "ref": "https://www.instagram.com/reel/DfAtBw1iQj9/",
+   "note": "duncanrogoff 48K/478cm: Awesome Design MD, Taste, Impeccable, Playwright CLI, img2threejs — verify each repo",
    "status": "todo",
-   "needs": "one AI clip + one real clip (credits)"
+   "source": "duncanrogoff",
+   "n": 9
   },
   {
    "n": 10,
