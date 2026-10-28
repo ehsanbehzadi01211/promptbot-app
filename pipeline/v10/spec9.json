@@ -324,5 +324,59 @@
     "voice": "کلمه‌ی «ویدیو» رو کامنت کن، تا لینکِ هر دو تا رو برات دایرکت بفرستم."
    }
   ]
+ },
+ "upscale": {
+  "series": "FREE AI TOOLS",
+  "accent": "#0EA5E9",
+  "keyword": "HD",
+  "host": "robot",
+  "scenes": [
+   {
+    "type": "shock",
+    "bg": "ink",
+    "title": "عکس تار رو\n[[دور نریز!]]",
+    "sub": "با این ۳ تا مجانی HD می‌شه",
+    "cond_w": 3,
+    "voice": "[excited] عکسِ تارت رو دور نریز! با این سه تا ابزار، مجانی اِچ‌دی میشه.",
+    "emoji": "📸"
+   },
+   {
+    "type": "tool",
+    "bg": "cream",
+    "label": "01 / TOOL",
+    "name": "Upsampler",
+    "url": "upsampler.com",
+    "mark": "U",
+    "tag": "بدون ثبت‌نام و واترمارک",
+    "voice": "یک: آپ‌سمپلر. بدونِ ثبت‌نام و بدونِ واترمارک؛ عکس رو تا چهار برابر بزرگ می‌کنه."
+   },
+   {
+    "type": "tool",
+    "bg": "ink",
+    "label": "02 / TOOL",
+    "name": "iLoveIMG",
+    "url": "iloveimg.com/upscale-image",
+    "mark": "i",
+    "tag": "۲ یا ۴ برابر",
+    "voice": "دو: آی‌لاوایمِیج. عکس رو آپلود کن و دو یا چهار برابر رو بزن؛ برای عکس‌های زیرِ شش مگاپیکسل."
+   },
+   {
+    "type": "tool",
+    "bg": "cream",
+    "label": "03 / APP",
+    "name": "Upscayl",
+    "url": "upscayl.org",
+    "mark": "⬆",
+    "tag": "اوپن‌سورس؛ ویندوز، مک، لینوکس",
+    "voice": "سه: آپ‌اسکِیل. برنامه‌ی اوپن‌سورس و رایگان، برای ویندوز و مک و لینوکس؛ فقط کارت گرافیک می‌خواد."
+   },
+   {
+    "type": "cta",
+    "bg": "accent",
+    "label": "04 / LINK",
+    "link": "Upsampler · iLoveIMG · Upscayl",
+    "voice": "کلمه‌ی «اِچ‌دی» رو کامنت کن، تا لینکِ هر سه تا رو برات دایرکت بفرستم."
+   }
+  ]
  }
 }
