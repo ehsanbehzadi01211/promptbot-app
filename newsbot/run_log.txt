@@ -1,6 +1,6 @@
-Wed Oct 28 19:30:00 UTC 2026
+Wed Oct 28 23:59:22 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 3 fresh
+OpenAI: 4 fresh
 Google: 0 fresh
 Google DeepMind: 2 fresh
 NVIDIA: 2 fresh
@@ -10,21 +10,19 @@ TechCrunch: 20 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 2 fresh
 Product Hunt: 7 fresh
-Anthropic: 25 links
+Anthropic: 26 links
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 25 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 22 fresh
-new items: 8
+Google News: 28 fresh
+Google News: 30 fresh
+new items: 5
+translated via clients5
+sent photo Expanding our partnership with GSA to bring Claude to all le
 translated via clients5
 translated via clients5
-sent card Oracle announces new agreement to embed ChatGPT in more of i
+sent card Legora is building the agentic operating system for legal wo
 translated via clients5
 translated via clients5
-sent card How AI agents shape experts’ judgment calls
-translate empty clients5
-translated via gtx
-translated via clients5
-sent card Retell uses OpenAI models to help power 100M monthly calls
+sent card Exclusive: Prophecy launches DataGPT to run data workflows i

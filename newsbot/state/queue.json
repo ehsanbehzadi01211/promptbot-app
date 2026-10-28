@@ -1,40 +1,5 @@
 [
  {
-  "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-  "summary": "",
-  "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-  "source": "Anthropic",
-  "official": true,
-  "tools": false,
-  "time": "2026-10-28T05:29:15.238473+00:00",
-  "page": true,
-  "id": "16faca12f9641778"
- },
- {
-  "title": "Legora is building the agentic operating system for legal work",
-  "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-  "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-28T09:30:00+00:00",
-  "image": "",
-  "id": "2fc8e689e413caad"
- },
- {
-  "title": "Exclusive: Prophecy launches DataGPT to run data workflows inside ChatGPT, Claude and Copilot",
-  "summary": "Exclusive: Prophecy launches DataGPT to run data workflows inside ChatGPT, Claude and Copilot SiliconANGLE",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbjhIYzk5ZXhCTjNGc3duQ210VnpGVkJ4X2pNOGt3TTNWcHMwWW1LTjlUb3VfRExHMThUaWZUMHJiT0EzVm1DYi01Z0xrUmtqS2ZrdG5zdUQtUzRLTHZtVnZYODFLMlhod3FfaGpPb1dRLWxHNVVKY0ZWWGxVaHpJUVJZbE1wZThMcXNnbnRLTDFLX2hRekJqT29URi1vbHc4RGs0SkhDTTZLU0hsb3hsb2dXUjRXTGYzTEFya1E4a2RVWGRzRWI0?oc=5",
-  "source": "SiliconANGLE",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-28T09:00:00+00:00",
-  "image": "",
-  "id": "c528fb41d9806354"
- },
- {
   "title": "Meta quietly launched an ‘AI pet journal’ app",
   "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" Users should talk, not type, with […]",
   "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
@@ -153,5 +118,63 @@
   "time": "2026-10-28T15:00:00+00:00",
   "image": "",
   "id": "f1ebb512d4e04c57"
+ },
+ {
+  "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+  "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+  "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-28T13:15:00+00:00",
+  "image": "",
+  "id": "75e2017ed4c5a2ec"
+ },
+ {
+  "title": "Public benefit fund",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/public-benefit-fund",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-10-28T23:59:23.630551+00:00",
+  "page": true,
+  "id": "4c6c987b65345788"
+ },
+ {
+  "title": "AI for Science expands to foundations and research institutions",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-10-28T23:59:23.630551+00:00",
+  "page": true,
+  "id": "ad10900db6cdd66b"
+ },
+ {
+  "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+  "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over […]",
+  "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+  "source": "The Verge",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-28T20:03:00+00:00",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "id": "fc7d1d71bde9a18e"
+ },
+ {
+  "title": "OpenAI launches 'war room' to monitor midterm elections",
+  "summary": "OpenAI launches 'war room' to monitor midterm elections Mashable",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsWGRaZ25RLXBYaDhFTjU4V3dYamdreXNzc3lvUWJRMmZxTUE4SXlkME5UZzQ3YUxzbU1tZmNYZ0NCNTNKeE83ajNIZjRUblh6TWZ0dG1JYy1KbV82UDdtSDJkRVFuc3F3ZkVoSDhqWjRCeEVmMkh3?oc=5",
+  "source": "Mashable",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-28T21:51:19+00:00",
+  "image": "",
+  "id": "6f88e32d6b62c724"
  }
 ]
