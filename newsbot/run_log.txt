@@ -1,2 +1,28 @@
-Wed Oct 28 10:51:19 UTC 2026
+Wed Oct 28 12:42:39 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 3 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 1 fresh
+Hugging Face: 2 fresh
+The Verge: 9 fresh
+TechCrunch: 15 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 2 fresh
+Product Hunt: 8 fresh
+Anthropic: 25 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 4
+translated via clients5
+sent photo Can we trust LLMs to judge whether a research idea is novel?
+translated via clients5
+translated via clients5
+sent photo Opera introduces a new web standard to let users deploy AI l
+translated via clients5
+translated via clients5
+sent card Don’t use Muse? Meta’s AI agent can still access your privat

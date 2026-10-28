@@ -21,5 +21,53 @@
   "time": "2026-10-28T05:29:15.238473+00:00",
   "page": true,
   "id": "16faca12f9641778"
+ },
+ {
+  "title": "Legora is building the agentic operating system for legal work",
+  "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+  "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-28T09:30:00+00:00",
+  "image": "",
+  "id": "2fc8e689e413caad"
+ },
+ {
+  "title": "Exclusive: Prophecy launches DataGPT to run data workflows inside ChatGPT, Claude and Copilot",
+  "summary": "Exclusive: Prophecy launches DataGPT to run data workflows inside ChatGPT, Claude and Copilot SiliconANGLE",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbjhIYzk5ZXhCTjNGc3duQ210VnpGVkJ4X2pNOGt3TTNWcHMwWW1LTjlUb3VfRExHMThUaWZUMHJiT0EzVm1DYi01Z0xrUmtqS2ZrdG5zdUQtUzRLTHZtVnZYODFLMlhod3FfaGpPb1dRLWxHNVVKY0ZWWGxVaHpJUVJZbE1wZThMcXNnbnRLTDFLX2hRekJqT29URi1vbHc4RGs0SkhDTTZLU0hsb3hsb2dXUjRXTGYzTEFya1E4a2RVWGRzRWI0?oc=5",
+  "source": "SiliconANGLE",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-28T09:00:00+00:00",
+  "image": "",
+  "id": "c528fb41d9806354"
+ },
+ {
+  "title": "Meta quietly launched an ‘AI pet journal’ app",
+  "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" Users should talk, not type, with […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+  "source": "The Verge",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-28T11:27:30+00:00",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Waddle-World-meta-app-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "id": "6da995572c9c0a77"
+ },
+ {
+  "title": "OpenAI's new model cuts prices again",
+  "summary": "OpenAI's new model cuts prices again Axios",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mb21MYXcyblNzcS0zRzZEMV8xbWF2aFpiWjRRVC13N3NMbGxYcXZvY09XckFtcGJfMUdZMl94VzByWVN6YS1MRjZMdkpRSmp4R1kwQXJVbnVEc1BiVmJPa0pwYXI3N00?oc=5",
+  "source": "Axios",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-28T11:10:57+00:00",
+  "image": "",
+  "id": "47482de1618c9954"
  }
 ]
