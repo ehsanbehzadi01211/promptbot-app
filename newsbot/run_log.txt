@@ -1,2 +1,28 @@
-Wed Oct 28 04:47:13 UTC 2026
+Wed Oct 28 05:29:14 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 4 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 1 fresh
+Hugging Face: 2 fresh
+The Verge: 10 fresh
+TechCrunch: 15 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 2 fresh
+Product Hunt: 6 fresh
+Anthropic: 25 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 27 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 2
+translated via clients5
+translated via clients5
+sent card Genie 4: A new generation of world simulation
+translated via clients5
+translated via clients5
+sent photo How AI Is Changing the Pace of Discovery for Millions Living
+translated via clients5
+sent photo Build specialized multimodal models with LFM3

@@ -1,41 +1,5 @@
 [
  {
-  "title": "Genie 4: A new generation of world simulation",
-  "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-  "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-  "source": "Google DeepMind",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-27T16:01:38+00:00",
-  "image": "",
-  "id": "d17d13a0006a776d"
- },
- {
-  "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-  "summary": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease. The Consortium for Biomedical Research and AI in […]",
-  "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-27T15:00:20+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/cbrain-nvidia-1.png",
-  "id": "df8156dd70629cce"
- },
- {
-  "title": "Build specialized multimodal models with LFM3",
-  "summary": "",
-  "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-27T17:16:52+00:00",
-  "image": "",
-  "id": "db98bf59a6c7e420"
- },
- {
   "title": "Can we trust LLMs to judge whether a research idea is novel?",
   "summary": "",
   "url": "https://huggingface.co/blog/allenai/novelty-bench",
@@ -106,5 +70,28 @@
   "time": "2026-10-27T18:50:21+00:00",
   "image": "",
   "id": "66f6e1e9018b7ce5"
+ },
+ {
+  "title": "Retell uses OpenAI models to help power 100M monthly calls",
+  "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+  "url": "https://openai.com/index/retell-ai",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-27T15:00:00+00:00",
+  "image": "",
+  "id": "d42fb1eb3362412f"
+ },
+ {
+  "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-10-28T05:29:15.238473+00:00",
+  "page": true,
+  "id": "16faca12f9641778"
  }
 ]

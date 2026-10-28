@@ -1,0 +1,25 @@
+[
+ {
+  "title": "Retell uses OpenAI models to help power 100M monthly calls",
+  "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+  "url": "https://openai.com/index/retell-ai",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-27T15:00:00+00:00",
+  "image": "",
+  "id": "d42fb1eb3362412f"
+ },
+ {
+  "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-10-28T05:29:15.238473+00:00",
+  "page": true,
+  "id": "16faca12f9641778"
+ }
+]
