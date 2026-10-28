@@ -1,29 +1,4 @@
-Tue Oct 27 22:07:52 UTC 2026
+Wed Oct 28 04:46:22 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 5 fresh
-Google: 1 fresh
-Google DeepMind: 1 fresh
-NVIDIA: 1 fresh
-Hugging Face: 2 fresh
-The Verge: 10 fresh
-TechCrunch: 15 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 2 fresh
-Product Hunt: 7 fresh
-Anthropic: 25 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-new items: 3
-translated via clients5
-translated via clients5
-sent card OpenAI Announces New Discoveries In Mathematics, Computer Sc
-translated via clients5
-translated via clients5
-sent card A good buy or ‘the most ridiculous IPO of 2026’: Anthropic’s
-translated via clients5
-translated via clients5
-sent card OpenAI expands partnership with Oracle to bring its apps to 
+promo sent in-2026-10-27-reel
+promo sent in-2026-10-27-v8revprompt
