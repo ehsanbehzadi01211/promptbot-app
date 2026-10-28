@@ -52,6 +52,18 @@
    "n": 4
   },
   {
+   "key": "designskills",
+   "hook": "طراحی؟ این ۴ اسکیل Claude رو نصب نکنی، خروجیت «هوش‌مصنوعی‌طور» می‌مونه",
+   "cat": "skills",
+   "format": "list",
+   "keyword": "طراح",
+   "ref": "https://www.instagram.com/p/De_JxR-n6OT/",
+   "note": "vamshi 369cm carousel: Anthropic Frontend Design skill, Emil Kowalski (animation/easing, npx skills add emilkowalski/skill), App Store screenshots (github ParthJadhav/app-store-screenshots), gstack design review (github garrytan/gstack). UI UX Pro Max already used in v9 'skills' — skip it. Verify each repo/command.",
+   "status": "todo",
+   "source": "vamshi.work",
+   "n": 5
+  },
+  {
    "key": "videoprompts",
    "hook": "پرامپت ویدیوی Claude رو حدس نزن؛ یه کتابخونه‌ی رایگان پر از نمونه هست",
    "cat": "motion",
@@ -61,7 +73,7 @@
    "note": "duncanrogoff 66K/912cm: 'Awesome Opus 5.5 Videos' GitHub list — verify",
    "status": "todo",
    "source": "duncanrogoff",
-   "n": 5
+   "n": 6
   },
   {
    "key": "design5",
@@ -73,10 +85,22 @@
    "note": "duncanrogoff 48K/478cm: Awesome Design MD, Taste, Impeccable, Playwright CLI, img2threejs — verify each repo",
    "status": "todo",
    "source": "duncanrogoff",
-   "n": 6
+   "n": 7
   },
   {
-   "n": 7,
+   "key": "claudecourses",
+   "hook": "۹ دوره‌ی رایگان Claude؛ از صفر تا ساختن با هوش مصنوعی، بدون یه ریال",
+   "cat": "learning",
+   "format": "list",
+   "keyword": "دوره",
+   "ref": "https://www.instagram.com/p/DeJ1mXGnybu/",
+   "note": "vamshi 170cm: free Claude courses (Anthropic Academy / Skilljar etc.) — verify each is free and reachable",
+   "status": "todo",
+   "source": "vamshi.work",
+   "n": 8
+  },
+  {
+   "n": 9,
    "key": "guess1",
    "hook": "کدوم واقعیه؟ ۱ یا ۲",
    "cat": "game",
@@ -87,7 +111,7 @@
    "needs": "one AI clip + one real clip (credits)"
   },
   {
-   "n": 8,
+   "n": 10,
    "key": "findskills",
    "hook": "یه اسکیل نصب کن، بقیه رو خودش پیدا می‌کنه",
    "cat": "skills",
@@ -95,6 +119,18 @@
    "keyword": "اسکیل",
    "ref": "https://www.instagram.com/reel/DeyTVgRoh7P/",
    "status": "todo"
+  },
+  {
+   "key": "leadmagnet",
+   "hook": "۱۰۰ پرامپت فارسی کاربردی، رایگان؛ فقط یه کلمه کامنت کن",
+   "cat": "free-tool",
+   "format": "list",
+   "keyword": "پرامپت۱۰۰",
+   "ref": "https://www.instagram.com/reel/DeB9mLhocUH/",
+   "note": "vamshi's best (2294 comments): a free downloadable guide as lead magnet. Make a real PDF of 100 tested Persian prompts first (Docs/PDF), host it, deliver via DM link. Needs owner OK on the PDF before publishing.",
+   "status": "todo",
+   "source": "vamshi.work",
+   "n": 11
   },
   {
    "key": "pdfmotion",
@@ -106,10 +142,10 @@
    "note": "duncanrogoff 37K: Claude /motion — verify the feature is real and how it is enabled",
    "status": "todo",
    "source": "duncanrogoff",
-   "n": 9
+   "n": 12
   },
   {
-   "n": 10,
+   "n": 13,
    "key": "location",
    "hook": "لوکیشن عکست رو با یه پرامپت عوض کن",
    "cat": "teaser",
@@ -119,7 +155,19 @@
    "status": "todo"
   },
   {
-   "n": 11,
+   "key": "uxprompts",
+   "hook": "هنوز فقط برای بازنویسی متن از Claude استفاده می‌کنی؟ این ۹ پرامپت رو ببین",
+   "cat": "tips",
+   "format": "list",
+   "keyword": "۹پرامپت",
+   "ref": "https://www.instagram.com/p/Dd_kji7H6ag/",
+   "note": "vamshi 251cm: practical prompts across a workflow (research, competitors, copy, review); adapt to general users/business owners",
+   "status": "todo",
+   "source": "vamshi.work",
+   "n": 14
+  },
+  {
+   "n": 15,
    "key": "analyze",
    "hook": "Claude کل پیج اینستاگرامت رو آنالیز می‌کنه + پرامپت",
    "cat": "claude-instagram",
@@ -138,10 +186,22 @@
    "note": "duncanrogoff 29K/376cm: 'Claude Content Skills' open-source pack — verify",
    "status": "todo",
    "source": "duncanrogoff",
-   "n": 12
+   "n": 16
   },
   {
-   "n": 13,
+   "key": "twodesigners",
+   "hook": "دو تا طراح، یه تجربه؛ یکی چند برابر اون یکی درآمد داره. فرقش چیه؟",
+   "cat": "claude-business",
+   "format": "list",
+   "keyword": "مسیر",
+   "ref": "https://www.instagram.com/reel/DerWqMCqjd-/",
+   "note": "vamshi 244cm contrast hook. No invented salary numbers — keep it qualitative; answer: speed with AI tools (research, prototype, ship).",
+   "status": "todo",
+   "source": "vamshi.work",
+   "n": 17
+  },
+  {
+   "n": 18,
    "key": "offline",
    "hook": "اینترنت قطع شد؟ این هوش مصنوعی آفلاین روی گوشیت کار می‌کنه",
    "cat": "free-tool",
@@ -151,7 +211,7 @@
    "status": "todo"
   },
   {
-   "n": 14,
+   "n": 19,
    "key": "3videos",
    "hook": "امروز فیلم نبین؛ این ۳ ویدیو رو ببین",
    "cat": "learning",
@@ -159,6 +219,18 @@
    "keyword": "ویدیو",
    "ref": "https://www.instagram.com/reel/De6v1Y8NUSl/",
    "status": "todo"
+  },
+  {
+   "key": "freelance",
+   "hook": "مشتری خارجی می‌خوای؟ این سایت‌ها رو برای فریلنسری بشناس",
+   "cat": "free-tool",
+   "format": "list",
+   "keyword": "فریلنس",
+   "ref": "https://www.instagram.com/reel/De1fYCkKfY5/",
+   "note": "vamshi 148cm. For Iranian users be honest about payment/sanction limits; only list sites that actually work for them; verify.",
+   "status": "todo",
+   "source": "vamshi.work",
+   "n": 20
   },
   {
    "key": "adobefree",
@@ -170,10 +242,10 @@
    "note": "duncanrogoff: ArtCraft — verify maturity; say honestly if it's early",
    "status": "todo",
    "source": "duncanrogoff",
-   "n": 15
+   "n": 21
   },
   {
-   "n": 16,
+   "n": 22,
    "key": "localmodel",
    "hook": "مدل غول‌پیکر روی لپ‌تاپ معمولی، بدون کارت گرافیک",
    "cat": "news",
@@ -183,7 +255,7 @@
    "status": "todo"
   },
   {
-   "n": 17,
+   "n": 23,
    "key": "course",
    "hook": "دوره‌ی رایگان هوش مصنوعی مولد، فارسی",
    "cat": "learning",
@@ -201,10 +273,10 @@
    "ref": "https://www.instagram.com/reel/De2k0o6An0o/",
    "status": "todo",
    "source": "duncanrogoff",
-   "n": 18
+   "n": 24
   },
   {
-   "n": 19,
+   "n": 25,
    "key": "twenty",
    "hook": "فقط عدد ۲۰ رو کامنت کن",
    "cat": "free-tool",
@@ -214,7 +286,7 @@
    "status": "todo"
   },
   {
-   "n": 20,
+   "n": 26,
    "key": "precheck",
    "hook": "قبل از پست گذاشتن این ۵ تا رو چک کن + پرامپت",
    "cat": "claude-instagram",
@@ -233,10 +305,10 @@
    "note": "'Lemo Opuscar' add-on — verify",
    "status": "todo",
    "source": "duncanrogoff",
-   "n": 21
+   "n": 27
   },
   {
-   "n": 22,
+   "n": 28,
    "key": "compare",
    "hook": "یه پرامپت، دو ویدیوساز، دو قیمت",
    "cat": "game",
@@ -246,7 +318,7 @@
    "status": "todo"
   },
   {
-   "n": 23,
+   "n": 29,
    "key": "imagealt",
    "hook": "ChatGPT به محدودیت عکس خورد؟ ۴ جایگزین رایگان",
    "cat": "free-tool",
@@ -255,7 +327,7 @@
    "status": "todo"
   },
   {
-   "n": 24,
+   "n": 30,
    "key": "cinematic",
    "hook": "تبلیغ سینمایی محصولت با یه عکس",
    "cat": "teaser",
@@ -265,7 +337,7 @@
    "status": "todo"
   },
   {
-   "n": 25,
+   "n": 31,
    "key": "clientsite",
    "hook": "Claude برای مشتری سایت ساخت، ۱۰ دقیقه",
    "cat": "claude-business",
@@ -275,7 +347,7 @@
    "status": "todo"
   },
   {
-   "n": 26,
+   "n": 32,
    "key": "guess2",
    "hook": "کدوم واقعیه؟ دور دوم",
    "cat": "game",
@@ -284,7 +356,7 @@
    "status": "todo"
   },
   {
-   "n": 27,
+   "n": 33,
    "key": "roadmap",
    "hook": "نقشه‌ی راه یادگیری هوش مصنوعی از صفر",
    "cat": "learning",
@@ -294,7 +366,7 @@
    "status": "todo"
   },
   {
-   "n": 28,
+   "n": 34,
    "key": "influencer",
    "hook": "این آدم‌ها واقعی نیستن؛ اینفلوئنسر مجازی",
    "cat": "motion",
@@ -304,7 +376,7 @@
    "status": "todo"
   },
   {
-   "n": 29,
+   "n": 35,
    "key": "videoskills",
    "hook": "۵ اسکیل ویدیوسازی برای Claude",
    "cat": "skills",
@@ -314,7 +386,7 @@
    "status": "todo"
   },
   {
-   "n": 30,
+   "n": 36,
    "key": "autoprompt",
    "hook": "پرامپت ننویس! بذار خودش دربیاره",
    "cat": "tips",
@@ -323,7 +395,7 @@
    "status": "todo"
   },
   {
-   "n": 31,
+   "n": 37,
    "key": "game",
    "hook": "یه بازی کامل با یه پیام به Claude",
    "cat": "motion",
@@ -332,7 +404,7 @@
    "status": "todo"
   },
   {
-   "n": 32,
+   "n": 38,
    "key": "60s",
    "hook": "عکس دهه‌ی ۶۰ با یه پرامپت",
    "cat": "teaser",
@@ -341,7 +413,7 @@
    "status": "todo"
   },
   {
-   "n": 33,
+   "n": 39,
    "key": "indicator",
    "hook": "تریدرها: اندیکاتور رو کپی نکن، با Claude بسازش",
    "cat": "trade",
@@ -352,7 +424,7 @@
    "note": "always add: not financial advice"
   },
   {
-   "n": 34,
+   "n": 40,
    "key": "voice",
    "hook": "صدای ربات‌طور دیگه نه؛ گوینده‌ی فارسی",
    "cat": "free-tool",
@@ -361,7 +433,7 @@
    "status": "todo"
   },
   {
-   "n": 35,
+   "n": 41,
    "key": "news",
    "hook": "خبر بزرگ هفته با قاب «یه بمب دیگه» (only if real big news)",
    "cat": "news",
@@ -371,7 +443,7 @@
    "status": "todo"
   },
   {
-   "n": 36,
+   "n": 42,
    "key": "connectors",
    "hook": "۹۰٪ کاربرای Claude این دکمه رو ندیدن",
    "cat": "tips",
