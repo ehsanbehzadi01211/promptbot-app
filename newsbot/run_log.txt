@@ -1,30 +1,32 @@
-Thu Oct 29 12:52:16 UTC 2026
+Thu Oct 29 19:34:16 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 3 fresh
+OpenAI: 6 fresh
 Google: 0 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 1 fresh
-Hugging Face: 2 fresh
+Google DeepMind: 1 fresh
+NVIDIA: 3 fresh
+Hugging Face: 5 fresh
 The Verge: 10 fresh
-TechCrunch: 14 fresh
+TechCrunch: 20 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 3 fresh
-Product Hunt: 10 fresh
+Product Hunt: 9 fresh
 Anthropic: 26 links
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 27 fresh
-Google News: 18 fresh
-new items: 4
+Google News: 30 fresh
+Google News: 19 fresh
+new items: 8
 translated via clients5
 translated via clients5
-sent card The future of the firm
+sent card Monte Carlo Data launches Bayes, an AI agent for autonomousl
 translated via clients5
-sent photo Gemini 4 Carbon: Our next frontier model
 translated via clients5
-sent photo NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent M
+sent photo Anthropic just launched tools to show companies what their A
+translated via clients5
+translated via clients5
+sent photo As AI agents reshape the web, Google opens Gemini and Search
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
 Traceback (most recent call last):

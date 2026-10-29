@@ -58,5 +58,101 @@
   "time": "2026-10-29T10:05:20+00:00",
   "image": "",
   "id": "20d2ae75e24b3ba4"
+ },
+ {
+  "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+  "summary": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to the cloud. There’s also something on the horizon for adventurers: World of Warcraft: Forever arrives Wednesday, […]",
+  "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-29T13:00:16+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/GFN_Thursday-The_Witcher_3_Remastered-1680x840.jpg",
+  "id": "f52687297c33fd6b"
+ },
+ {
+  "title": "An updated Model Spec for more capable and beneficial AI",
+  "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+  "url": "https://openai.com/index/updated-model-spec",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-29T17:00:00+00:00",
+  "image": "",
+  "id": "7bf0065ceb1646f5"
+ },
+ {
+  "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+  "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
+  "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-29T16:00:35+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-scaled.png",
+  "id": "baf7193e75c14529"
+ },
+ {
+  "title": "Granite Switch 4.1.1 — Update models like you update software",
+  "summary": "",
+  "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-29T13:37:07+00:00",
+  "image": "",
+  "id": "f3538b6fb36f4f58"
+ },
+ {
+  "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+  "summary": "",
+  "url": "https://huggingface.co/blog/announcing-project-protostar",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-29T00:00:00+00:00",
+  "image": "",
+  "id": "e1c742c1d925baf7"
+ },
+ {
+  "title": "How we detect frontier model misalignment",
+  "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+  "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-29T09:00:00+00:00",
+  "image": "",
+  "id": "d28967fce9c692cd"
+ },
+ {
+  "title": "How Ropes & Gray is developing AI for transactional diligence",
+  "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+  "url": "https://openai.com/index/ropes-gray-ai-diligence",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-29T07:00:00+00:00",
+  "image": "",
+  "id": "2d9928289658e986"
+ },
+ {
+  "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+  "summary": "",
+  "url": "https://huggingface.co/blog/mistral-large4",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-29T00:00:00+00:00",
+  "image": "",
+  "id": "a1765f446c5b64b5"
  }
 ]
