@@ -1,41 +1,5 @@
 [
  {
-  "title": "The future of the firm",
-  "summary": "How AI might enter the org chart—beneath, beside, and between us.",
-  "url": "https://openai.com/index/the-future-of-the-firm",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-28T10:00:00+00:00",
-  "image": "",
-  "id": "0dc3cf0b7c98dcde"
- },
- {
-  "title": "Gemini 4 Carbon: Our next frontier model",
-  "summary": "",
-  "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-  "source": "Google DeepMind",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-28T17:00:58+00:00",
-  "image": "",
-  "id": "b0da25ea6c1a2967"
- },
- {
-  "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-  "summary": "",
-  "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-28T14:58:17+00:00",
-  "image": "",
-  "id": "7ae8eb20550eee76"
- },
- {
   "title": "Monte Carlo Data launches Bayes, an AI agent for autonomously monitoring and fixing autonomous agents",
   "summary": "Monte Carlo Data launches Bayes, an AI agent for autonomously monitoring and fixing autonomous agents SiliconANGLE",
   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY0tSdDNTak85ZlMyY01RSlU5dzE2aGZIN001X0dweXJuVk1zZ3hNT1JIOUJfdVptdWVpVi1aY2doaFBGbXpYdkswRTlnazl0emlnM3BJY1dkaHVPaWlXbWhsRmVWOXo1d2dzcDZ3QVJBRjk5VXJNTV9rNG9sazU2bHRlc1ZjcWYzdEdxaFltU3lxUzc2a0Fvc2k3dnl6ZnRTZlhlVk54UGwxeVM2aDJYZTBNNF9KTDItOWk4a1VsVjhQLXpXWW85SkNvMHdUWEJHbjgw?oc=5",
@@ -152,5 +116,53 @@
   "time": "2026-10-29T04:11:55+00:00",
   "image": "",
   "id": "5e204ffde20e6289"
+ },
+ {
+  "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+  "summary": "",
+  "url": "https://huggingface.co/blog/anydecisionmodel",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-29T00:00:00+00:00",
+  "image": "",
+  "id": "85d975255b4f9d00"
+ },
+ {
+  "title": "We urgently need to monitor AI agents’ actions in real time",
+  "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…",
+  "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+  "source": "MIT Technology Review",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-29T10:11:12+00:00",
+  "image": "",
+  "id": "f863128399a5ccb3"
+ },
+ {
+  "title": "Google's Gemini Spark is now available to more users",
+  "summary": "Google's Gemini Spark is now available to more users Mashable",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NYXRqbnMxZGRNMXdjZTFyYm9qNkZyVXp1QlZtRXhiaXBuYVUtd00tRHprTnNQaFBhZlZWaHB3d3BpU2M3ZHE1aVZYSjJrM2c2TWlYT0JqT1Q?oc=5",
+  "source": "Mashable",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-29T10:00:00+00:00",
+  "image": "",
+  "id": "5e25ec4bc0c09d42"
+ },
+ {
+  "title": "Ro's CEO showed us its new AI agent — and its bigger plan to own more of your healthcare",
+  "summary": "Ro's CEO showed us its new AI agent — and its bigger plan to own more of your healthcare Business Insider",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORnFEQ0l1c3M1clhNM2hfT0poWG9yY2E1aEdfSDJydUxmb1pyQVhuWWMwc0FxdzUxWmFJMkNLREl2UmtBak5GT21UbEc0M1Q1dnljaGpDZjVzWVVnREZwMk81azNkOFg0amxhaEhTVGtwS25MRVJ2X045a19SVWtQU0M5N1hDVXA3TUxiYnBB?oc=5",
+  "source": "Business Insider",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-29T10:05:20+00:00",
+  "image": "",
+  "id": "20d2ae75e24b3ba4"
  }
 ]

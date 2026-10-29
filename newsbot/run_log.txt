@@ -1,5 +1,30 @@
-Thu Oct 29 11:08:04 UTC 2026
+Thu Oct 29 12:52:16 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 3 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 1 fresh
+Hugging Face: 2 fresh
+The Verge: 10 fresh
+TechCrunch: 14 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 3 fresh
+Product Hunt: 10 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 27 fresh
+Google News: 18 fresh
+new items: 4
+translated via clients5
+translated via clients5
+sent card The future of the firm
+translated via clients5
+sent photo Gemini 4 Carbon: Our next frontier model
+translated via clients5
+sent photo NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent M
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
 Traceback (most recent call last):
