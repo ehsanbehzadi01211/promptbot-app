@@ -5,7 +5,7 @@ Usage: python3 laptop.py <key>    (reads laptop.json[key] and words10/<key>.json
 import json, os, subprocess, sys, html
 from playwright.sync_api import sync_playwright
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from build9 import bed, W, H, FPS, LEAD, FONT, ROOT
+from build9 import bed, final_mix, W, H, FPS, LEAD, FONT, ROOT
 
 TAIL = 1.6
 E = html.escape
@@ -175,8 +175,7 @@ def build(key):
     sc = [{"type": "shock", "title": "x"}] + [{"type": "x"}] * (len(starts) - 1) + [{"type": "cta"}]
     bed(starts + [cta_at], total, wav, {"keyword": spec["keyword"]}, sc)
     final = os.path.join(out_dir, f"{key}_ig_nolvoice.mp4")
-    subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", silent, "-i", wav, "-map", "0:v", "-map", "1:a", "-c:v", "copy",
-                    "-af", "volume=0.30", "-ar", "48000", "-ac", "2", "-c:a", "aac", "-b:a", "160k", "-shortest", "-movflags", "+faststart", final], check=True)
+    final_mix(silent, wav, final, total)
     print(key, f"{total:.2f}s", [round(s, 2) for s in starts], round(cta_at, 2))
 
 

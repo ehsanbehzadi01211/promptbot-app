@@ -42,6 +42,20 @@ laptop: always the top-left circle. Always look at the `--stills` frames and fix
 * Upload the mp3 to Cloudinary (`upload-asset`, `upload_request: {file: <content_url>, public_id:
   "v10_voice_<key>", folder: "ehbehzad", resource_type: "video"}`).
 
+## 3b. Fresh music under every reel (owner, 29 Oct: the music was too repetitive)
+
+Every reel gets its OWN background track; never reuse one.
+* ElevenLabs Music (`eleven_music_v2_5`, through `creative_generate_in_flow` on flow `bu6itCvwoCIwUujfT3Td`):
+  instrumental only, `duration_seconds` = reel length + 2, prompt = a different genre/mood each day that fits
+  the topic (e.g. lo-fi chill, cinematic tension, synthwave, upbeat electronic pop, afro-house, light phonk,
+  ambient tech, funky groove, epic trailer), "no vocals, steady energy, sits under a voice-over".
+  Write the prompt into the idea as `"music": "<prompt>"` and check the last 7 ideas so genres don't repeat.
+* Get the mp3 into the container through the fetch-media workflow: put `music_<key>.mp3 <content_url>` in
+  `/tmp/rm/fetch.txt`, commit, push, wait until `media/music_<key>.mp3` appears (git fetch; ~1 min).
+* Render with `MUSIC_FILE=/tmp/rm/media/music_<key>.mp3` set (build9.py and laptop.py then make only the SFX
+  and mix the track at low volume with fades, 48 kHz stereo). If music generation fails, render without
+  MUSIC_FILE: the built-in synth beat now changes tempo/key/sound per reel. Say which one you used in the report.
+
 ## 4. Render
 
 * list format: add the spec under a new key in `spec9.json`, then

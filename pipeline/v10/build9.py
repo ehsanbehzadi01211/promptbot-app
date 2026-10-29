@@ -495,12 +495,17 @@ def timeline(spec, words, variant):
     return scenes, starts, ends, sw, total
 
 
-def bed(starts, total, out, spec, scenes, seed=3):
-    """Energetic 124 bpm beat + SFX on every scene change."""
+def bed(starts, total, out, spec, scenes, seed=3, music=None):
+    """Synth beat + SFX on every scene change. The beat changes per reel (tempo, key, sound) so videos
+    don't share one loop; with music=False (a real music track is mixed in later) only the SFX are made."""
+    import zlib
+    if music is None:
+        music = not os.environ.get("MUSIC_FILE")
+    var = zlib.crc32((spec.get("keyword", "") + str(round(total, 1))).encode())
     rng = np.random.default_rng(seed)
     N = int(total * SR); t = np.arange(N) / SR
     sig = np.zeros(N)
-    bpm = 124; beat = 60 / bpm
+    bpm = [92, 100, 108, 116, 124, 132, 140][var % 7]; beat = 60 / bpm
     def add(at, x, g=1.0):
         a = int(at * SR)
         if a >= N: return
@@ -515,19 +520,23 @@ def bed(starts, total, out, spec, scenes, seed=3):
         tt = np.arange(int(.18 * SR)) / SR
         return rng.normal(0, 1, len(tt)) * np.exp(-tt * 26) * .45
     K, Hh, C = kick(), hat(), clap()
-    roots = [55.0, 55.0, 65.41, 49.0]
+    roots = [[55.0, 55.0, 65.41, 49.0], [49.0, 58.27, 43.65, 51.91], [61.74, 55.0, 49.0, 55.0],
+             [46.25, 55.0, 61.74, 41.2], [65.41, 49.0, 55.0, 58.27]][(var // 7) % 5]
     nb = int(total / beat) + 1
-    for b in range(nb):
+    sq = (var // 35) % 2 == 0          # square or soft sine bass
+    arp = [[4, 5, 6, 8], [3, 4, 6, 4], [6, 5, 4, 3], [4, 6, 8, 6]][(var // 70) % 4]
+    for b in (range(nb) if music else []):
         at = b * beat
         add(at, K, .9)
         add(at + beat / 2, Hh, .8); add(at + beat / 4 * 3, Hh, .4)
         if b % 2 == 1: add(at, C, .8)
         f = roots[(b // 8) % 4]
         tt = np.arange(int(beat * .9 * SR)) / SR
-        bass = np.sign(np.sin(2 * np.pi * f * tt)) * .22 * np.exp(-tt * 3)
+        w = np.sin(2 * np.pi * f * tt)
+        bass = (np.sign(w) if sq else w * 1.6) * .22 * np.exp(-tt * 3)
         add(at + beat / 2, bass, .55)
         # plucky arp
-        notes = [f * 4, f * 5, f * 6, f * 8]
+        notes = [f * k for k in arp]
         tt2 = np.arange(int(beat / 2 * SR)) / SR
         for q in range(2):
             fr = notes[(b * 2 + q) % 4]
@@ -588,6 +597,20 @@ def bed(starts, total, out, spec, scenes, seed=3):
         w.writeframes((st * 32767).astype(np.int16).tobytes())
 
 
+def final_mix(silent, wav, final, total):
+    """Video + SFX/beat bed (+ an optional real music track from env MUSIC_FILE, a fresh one per reel)."""
+    mf = os.environ.get("MUSIC_FILE")
+    if mf and os.path.exists(mf):
+        fc = (f"[2:a]volume=0.55,afade=t=in:d=0.6,afade=t=out:st={max(0, total - 1.5):.2f}:d=1.5[m];"
+              "[1:a][m]amix=inputs=2:duration=first:normalize=0,volume=0.30[a]")
+        cmd = ["ffmpeg", "-v", "error", "-y", "-i", silent, "-i", wav, "-stream_loop", "-1", "-i", mf,
+               "-filter_complex", fc, "-map", "0:v", "-map", "[a]"]
+    else:
+        cmd = ["ffmpeg", "-v", "error", "-y", "-i", silent, "-i", wav, "-map", "0:v", "-map", "1:a", "-af", "volume=0.30"]
+    subprocess.run(cmd + ["-c:v", "copy", "-ar", "48000", "-ac", "2", "-c:a", "aac", "-b:a", "160k", "-shortest",
+                          "-movflags", "+faststart", final], check=True)
+
+
 def host_for(spec, scenes, starts, sw, total):
     """Optional talking host. spec["host"] = true/"robot" (glass robot) or "ehsan" (owner's cartoon); per scene
     "host": "big" | "corner" | "off" (default: first scene big, the rest corner)."""
@@ -643,8 +666,7 @@ def build(key, variant="ig", stills=False):
     wav = os.path.join(out_dir, f"{key}_{variant}_bed.wav")
     bed(starts, total, wav, spec, scenes)
     final = os.path.join(out_dir, f"{key}_{variant}_nolvoice.mp4")
-    subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", silent, "-i", wav, "-map", "0:v", "-map", "1:a", "-c:v", "copy",
-                    "-af", "volume=0.30", "-c:a", "aac", "-b:a", "160k", "-shortest", "-movflags", "+faststart", final], check=True)
+    final_mix(silent, wav, final, total)
     json.dump({"starts": starts, "total": total, "lead": LEAD}, open(os.path.join(out_dir, f"{key}_{variant}_tl.json"), "w"))
     print(key, variant, f"{total:.2f}s", [round(s, 2) for s in starts])
 
