@@ -1,28 +1,11 @@
-Wed Oct 28 23:59:22 UTC 2026
+Thu Oct 29 04:46:52 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 4 fresh
-Google: 0 fresh
-Google DeepMind: 2 fresh
-NVIDIA: 2 fresh
-Hugging Face: 3 fresh
-The Verge: 10 fresh
-TechCrunch: 20 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 2 fresh
-Product Hunt: 7 fresh
-Anthropic: 26 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 28 fresh
-Google News: 30 fresh
-new items: 5
-translated via clients5
-sent photo Expanding our partnership with GSA to bring Claude to all le
-translated via clients5
-translated via clients5
-sent card Legora is building the agentic operating system for legal wo
-translated via clients5
-translated via clients5
-sent card Exclusive: Prophecy launches DataGPT to run data workflows i
+promo sent in-2026-10-28-reel
+promo sent in-2026-10-29-reel
+Traceback (most recent call last):
+  File "/home/runner/work/promptbot-app/promptbot-app/newsbot/promo.py", line 77, in <module>
+    main()
+  File "/home/runner/work/promptbot-app/promptbot-app/newsbot/promo.py", line 33, in main
+    text = f"{label}\n\n<b>{html.escape(it['topic'])}</b>\n\n🔗 {html.escape(it['url'])}\n\n#هوش_مصنوعی @ehbehzad_ai"
+                                        ~~^^^^^^^^^
+KeyError: 'topic'
