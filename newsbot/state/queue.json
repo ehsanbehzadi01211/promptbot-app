@@ -1,41 +1,5 @@
 [
  {
-  "title": "Meta quietly launched an ‘AI pet journal’ app",
-  "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" Users should talk, not type, with […]",
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-  "source": "The Verge",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-28T11:27:30+00:00",
-  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Waddle-World-meta-app-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
-  "id": "6da995572c9c0a77"
- },
- {
-  "title": "OpenAI's new model cuts prices again",
-  "summary": "OpenAI's new model cuts prices again Axios",
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mb21MYXcyblNzcS0zRzZEMV8xbWF2aFpiWjRRVC13N3NMbGxYcXZvY09XckFtcGJfMUdZMl94VzByWVN6YS1MRjZMdkpRSmp4R1kwQXJVbnVEc1BiVmJPa0pwYXI3N00?oc=5",
-  "source": "Axios",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-28T11:10:57+00:00",
-  "image": "",
-  "id": "47482de1618c9954"
- },
- {
-  "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-  "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified […]",
-  "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-28T15:00:46+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-2-1.jpg",
-  "id": "2952348be6c4a620"
- },
- {
   "title": "The future of the firm",
   "summary": "How AI might enter the org chart—beneath, beside, and between us.",
   "url": "https://openai.com/index/the-future-of-the-firm",
@@ -176,5 +140,17 @@
   "time": "2026-10-28T21:51:19+00:00",
   "image": "",
   "id": "6f88e32d6b62c724"
+ },
+ {
+  "title": "Meta Delays Update Amid Concern About Scraping Websites for AI Training",
+  "summary": "Meta Delays Update Amid Concern About Scraping Websites for AI Training PCMag",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFh6SGNZTGR5MVVqb2gwc01nSWhJem9fU1VTTjFwLWZyLWhVc3dtX3lWVGhCYTdsallsUEwyQ05PcWIxaFgwaHNjT1JiQ2RaRGdPNUctTzE4bHJLeHRteE1kYzRyNHVMWFFmNm9nNG1YaUN3U2xHbzdid0VhODFjckJSWmhVQjdoVkh0LTdITTBZUFpnbDlaWklnbGY0RDhyOUE?oc=5",
+  "source": "PCMag",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-29T04:11:55+00:00",
+  "image": "",
+  "id": "5e204ffde20e6289"
  }
 ]

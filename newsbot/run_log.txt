@@ -1,5 +1,32 @@
-Thu Oct 29 04:47:44 UTC 2026
+Thu Oct 29 05:37:45 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 3 fresh
+Google: 0 fresh
+Google DeepMind: 1 fresh
+NVIDIA: 1 fresh
+Hugging Face: 1 fresh
+The Verge: 10 fresh
+TechCrunch: 19 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 2 fresh
+Product Hunt: 3 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 1
+translated via clients5
+translated via clients5
+sent photo Meta quietly launched an ‘AI pet journal’ app
+translated via clients5
+translated via clients5
+sent card OpenAI's new model cuts prices again
+translated via clients5
+translated via clients5
+sent photo Thin, Light and Built for Everything: NVIDIA RTX Spark Windo
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
 Traceback (most recent call last):
