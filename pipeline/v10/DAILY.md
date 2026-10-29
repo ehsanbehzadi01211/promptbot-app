@@ -78,8 +78,11 @@ Every reel gets its OWN background track; never reuse one.
 * Uplika `media_from_url` (final URL, aiGenerated true) → `publish` to Instagram `conn_a8ade4f9de0c6bca`,
   `options.instagram.contentType: "reel"`, `isAiGenerated: true`, caption = hook line + body + keyword line +
   footer (▶️ یوتیوب: youtube.com/@ehbehzad / 📷 اینستاگرام: @ehbehzad / 📢 تلگرام: @ehbehzad_ai) + 5 hashtags.
-* Slot: the first day from tomorrow on with no reel at 13:30 UTC (17:00 Tehran); check with
-  `list_posts status=scheduled sort=scheduled`. `scheduledAt` like `2026-11-03T17:00:00+03:30`.
+* Slot (owner, 29 Oct): at most TWO Instagram reels per day, at 10:00 and 21:00 Tehran (the hours with the
+  most views/comments on our page; 17:00 was weak). New reels go at 21:00: take the first day from tomorrow on
+  with no reel at 21:00 UTC+03:30 (= 17:30 UTC) and fewer than 2 reels that day; check with
+  `list_posts status=scheduled sort=scheduled`. `scheduledAt` like `2026-11-08T21:00:00+03:30`.
+  Never schedule a third reel on a day; stories and YouTube don't count.
 * Then `create_comment_to_dm` on that post id: keywords (+ spelling variants), `requireFollow: true`,
   same message/button/publicReply wording as the existing v9 automations, deliver text + up to 3 link
   buttons, `enabled: true`. (The `automation` field on `publish` does NOT create it for scheduled posts.)
