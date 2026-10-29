@@ -1,6 +1,6 @@
-Thu Oct 29 19:34:16 UTC 2026
+Thu Oct 29 23:54:58 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 6 fresh
+OpenAI: 4 fresh
 Google: 0 fresh
 Google DeepMind: 1 fresh
 NVIDIA: 3 fresh
@@ -9,24 +9,24 @@ The Verge: 10 fresh
 TechCrunch: 20 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 3 fresh
-Product Hunt: 9 fresh
+Product Hunt: 6 fresh
 Anthropic: 26 links
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 19 fresh
-new items: 8
+Google News: 30 fresh
+new items: 1
 translated via clients5
 translated via clients5
-sent card Monte Carlo Data launches Bayes, an AI agent for autonomousl
+sent photo Voice AI in vogue: Nvidia releases new open transcription mo
 translated via clients5
 translated via clients5
-sent photo Anthropic just launched tools to show companies what their A
+card fail The read operation timed out
+sent text OpenAI and ServiceNow expand partnership across enterprise w
 translated via clients5
-translated via clients5
-sent photo As AI agents reshape the web, Google opens Gemini and Search
+sent photo Public benefit fund
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
 Traceback (most recent call last):

@@ -1,40 +1,5 @@
 [
  {
-  "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-  "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
-  "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-  "source": "TechCrunch",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-28T15:00:00+00:00",
-  "image": "",
-  "id": "f1ebb512d4e04c57"
- },
- {
-  "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-  "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-  "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-28T13:15:00+00:00",
-  "image": "",
-  "id": "75e2017ed4c5a2ec"
- },
- {
-  "title": "Public benefit fund",
-  "summary": "",
-  "url": "https://www.anthropic.com/news/public-benefit-fund",
-  "source": "Anthropic",
-  "official": true,
-  "tools": false,
-  "time": "2026-10-28T23:59:23.630551+00:00",
-  "page": true,
-  "id": "4c6c987b65345788"
- },
- {
   "title": "AI for Science expands to foundations and research institutions",
   "summary": "",
   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
@@ -224,5 +189,17 @@
   "time": "2026-10-29T00:00:00+00:00",
   "image": "",
   "id": "a1765f446c5b64b5"
+ },
+ {
+  "title": "Mistral’s New ‘Le Chonk’ AI Model Is Big, Open and Now Available for Download",
+  "summary": "Mistral’s New ‘Le Chonk’ AI Model Is Big, Open and Now Available for Download CNET",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMExLUnRIU0hNbXhZWjA1WUpDTWxSd3IxQk5iQW05MkZzMXNtUTNNSm4wdzNHMkVmZkViRmtkNUtVLTVqZFVMWVpOY0N2bXhSeEh5UzJ5b3Y0YlExNk9FMGtMbkJPdi02LWpldDUzOElRdkY0N0hGYno3dFdwU0pZRDlpMTVzNWZJTUpRMTZsMXFCU3d6c0RuaEotNUlVSGZCQ2c?oc=5",
+  "source": "CNET",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-29T18:32:00+00:00",
+  "image": "",
+  "id": "9836c4d28eb8daff"
  }
 ]
