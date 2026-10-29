@@ -37,7 +37,13 @@
    "format": "list",
    "keyword": "ادمین",
    "ref": "https://www.instagram.com/reel/De1tSeQobsH/",
-   "status": "todo"
+   "status": "scheduled",
+   "post": "post_00358fa97ddf048b",
+   "date": "2026-11-04",
+   "host": "robot",
+   "automation": "af_422647a8def45f66",
+   "final": "https://res.cloudinary.com/qecsawrr/video/upload/v1793261592/ehbehzad/v10_admin_final.mp4",
+   "hook_used": "ادمین پیجت رو اخراج کن! البته اگه Claude رو این‌طوری راه بندازی"
   },
   {
    "key": "claudewatch",
