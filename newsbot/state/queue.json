@@ -1,40 +1,5 @@
 [
  {
-  "title": "AI for Science expands to foundations and research institutions",
-  "summary": "",
-  "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-  "source": "Anthropic",
-  "official": true,
-  "tools": false,
-  "time": "2026-10-28T23:59:23.630551+00:00",
-  "page": true,
-  "id": "ad10900db6cdd66b"
- },
- {
-  "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-  "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over […]",
-  "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-  "source": "The Verge",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-28T20:03:00+00:00",
-  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0,0,100,100",
-  "id": "fc7d1d71bde9a18e"
- },
- {
-  "title": "OpenAI launches 'war room' to monitor midterm elections",
-  "summary": "OpenAI launches 'war room' to monitor midterm elections Mashable",
-  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsWGRaZ25RLXBYaDhFTjU4V3dYamdreXNzc3lvUWJRMmZxTUE4SXlkME5UZzQ3YUxzbU1tZmNYZ0NCNTNKeE83ajNIZjRUblh6TWZ0dG1JYy1KbV82UDdtSDJkRVFuc3F3ZkVoSDhqWjRCeEVmMkh3?oc=5",
-  "source": "Mashable",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-28T21:51:19+00:00",
-  "image": "",
-  "id": "6f88e32d6b62c724"
- },
- {
   "title": "Meta Delays Update Amid Concern About Scraping Websites for AI Training",
   "summary": "Meta Delays Update Amid Concern About Scraping Websites for AI Training PCMag",
   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFh6SGNZTGR5MVVqb2gwc01nSWhJem9fU1VTTjFwLWZyLWhVc3dtX3lWVGhCYTdsallsUEwyQ05PcWIxaFgwaHNjT1JiQ2RaRGdPNUctTzE4bHJLeHRteE1kYzRyNHVMWFFmNm9nNG1YaUN3U2xHbzdid0VhODFjckJSWmhVQjdoVkh0LTdITTBZUFpnbDlaWklnbGY0RDhyOUE?oc=5",
