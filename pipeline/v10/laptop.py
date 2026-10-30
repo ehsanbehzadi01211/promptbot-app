@@ -18,7 +18,7 @@ CSS = """
 @font-face{font-family:Vaz;font-weight:800;src:url(FONT/vazirmatn/files/vazirmatn-latin-800-normal.woff2);unicode-range:U+0000-00FF}
 @font-face{font-family:Mono;font-weight:700;src:url(FONT/jetbrains-mono/files/jetbrains-mono-latin-700-normal.woff2)}
 *{margin:0;padding:0;box-sizing:border-box}
-html,body{width:1080px;height:1920px;overflow:hidden;background:#0b0806}
+html,body{width:1080px;height:1920px;overflow:clip;background:#0b0806}
 body{font-family:Vaz,sans-serif;direction:rtl;color:#fff;-webkit-font-smoothing:antialiased;--L:#c8ff3e}
 #world{position:absolute;inset:0;transform-origin:50% 45%}
 .room{position:absolute;inset:0;background:
@@ -112,7 +112,7 @@ window.tick=function(t){
     sub.innerHTML=W_.slice(g,g+4).map((w,i)=>`<span class="${g+i==cur?'on':''}">${w[0]}</span>`).join(' ')}
   // CTA takeover
   const c=document.querySelector('.cta'), d=t-window.CTA; c.style.opacity=cl(d/.2);
-  c.style.transform=`scale(${d<0?1.2:1.2-.2*eo(d/.35)})`;
+  c.style.transform=d<0?'none':`scale(${1.2-.2*eo(d/.35)})`;
   const f=document.querySelector('.flash'); let fl=0; for(const s of window.FLASH){const q=t-s; if(q>=0&&q<.18) fl=Math.max(fl,.55*(1-q/.18))} f.style.opacity=fl;
 };
 """
