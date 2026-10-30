@@ -82,5 +82,29 @@
   "time": "2026-10-30T15:42:07+00:00",
   "image": "",
   "id": "80889fd163e9a85e"
+ },
+ {
+  "title": "Fair use benefits everyone",
+  "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+  "url": "https://openai.com/index/fair-use-benefits-everyone",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-30T00:00:00+00:00",
+  "image": "",
+  "id": "d2282bcce1625c64"
+ },
+ {
+  "title": "Google Gemini upgrades are rolling out to all supported Android devices",
+  "summary": "Google Gemini upgrades are rolling out to all supported Android devices Mashable",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aZmpsX1l3LWo0WW96eWRjTktJeWVlZkVGbjQtXzc4UFJSZlhnQnJ4VEhaeU1scWszbnQyZldoaEkwNmZ5T2xtR3FqcVFKRGxRWEZBX05EWmJmTHNfQ3hQM2s3bkFRMDZBa0tuOXdTSzYyU1JMdmc?oc=5",
+  "source": "Mashable",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-30T20:56:27+00:00",
+  "image": "",
+  "id": "b87d79849eebfd61"
  }
 ]
