@@ -1,15 +1,15 @@
-Fri Oct 30 12:43:31 UTC 2026
+Fri Oct 30 19:14:47 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 3 fresh
+OpenAI: 4 fresh
 Google: 0 fresh
 Google DeepMind: 0 fresh
-NVIDIA: 2 fresh
-Hugging Face: 1 fresh
-The Verge: 8 fresh
-TechCrunch: 13 fresh
+NVIDIA: 3 fresh
+Hugging Face: 2 fresh
+The Verge: 10 fresh
+TechCrunch: 20 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 1 fresh
-Product Hunt: 7 fresh
+Product Hunt: 6 fresh
 Anthropic: 26 links
 Google News: 30 fresh
 Google News: 30 fresh
@@ -17,17 +17,16 @@ Google News: 30 fresh
 Google News: 30 fresh
 Google News: 27 fresh
 Google News: 30 fresh
-new items: 0
+new items: 7
 translated via clients5
 translated via clients5
-sent card Meta Delays Update Amid Concern About Scraping Websites for 
+sent card Ro's CEO showed us its new AI agent — and its bigger plan to
 translated via clients5
 translated via clients5
-sent photo We urgently need to monitor AI agents’ actions in real time
+sent photo Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on Ge
 translated via clients5
 translated via clients5
-card fail <urlopen error [Errno 104] Connection reset by peer>
-sent text Google's Gemini Spark is now available to more users
+sent card An updated Model Spec for more capable and beneficial AI
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
 promo sent in-2026-10-30-reel

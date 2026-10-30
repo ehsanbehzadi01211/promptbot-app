@@ -1,1 +1,86 @@
-[]
+[
+ {
+  "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+  "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents […]",
+  "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-30T15:00:10+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/IMG_1607-ATA-2023-CREDIT-Joe-Marfia-scaled.jpg",
+  "id": "4a4bcbde667c128c"
+ },
+ {
+  "title": "Making it easier for websites to express AI training preferences",
+  "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+  "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-30T09:30:00+00:00",
+  "image": "",
+  "id": "25cc4c9bb2e3e7e5"
+ },
+ {
+  "title": "Community safety report and new protections for teens",
+  "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+  "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-30T09:00:00+00:00",
+  "image": "",
+  "id": "c7606af40dbb903f"
+ },
+ {
+  "title": "nemotron-halloween",
+  "summary": "",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-30T17:57:24+00:00",
+  "image": "",
+  "id": "b2263e9f84127c76"
+ },
+ {
+  "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+  "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+  "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-30T17:47:12+00:00",
+  "image": "",
+  "id": "d52c9778a55e47ad"
+ },
+ {
+  "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+  "summary": "DoorDash said that it is open to working with third-party agent makers.",
+  "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-30T13:54:25+00:00",
+  "image": "",
+  "id": "f986a412ee0ee44d"
+ },
+ {
+  "title": "Gemini delivers a Connected Apps update with Strava for running insights",
+  "summary": "Gemini delivers a Connected Apps update with Strava for running insights Android Central",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVWVVai1KVzJudFd6U1RyQWhEVURSc1JVbHZKMV9EZVFSeTJxc0V0Y0tGREZPdDEwczV2bHRSa0c0N3hCNmRPVVRIcUtibnFyQTY2VjhjVUVSMmMzcEJFMlBybXZRdTVNakJFMHdMZ0JWT2lkRGlTdTRNcHROOHVobXVGdUZzUEtqS29HMmwtR0xJX3VGMjhOYUM2ZDRjVkNETEMxSWwwdlZ0dk54czJESHF5c2ZKSVBkTkhPdEY3Zw?oc=5",
+  "source": "Android Central",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-30T15:42:07+00:00",
+  "image": "",
+  "id": "80889fd163e9a85e"
+ }
+]

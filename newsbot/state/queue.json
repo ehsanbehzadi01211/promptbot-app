@@ -1,41 +1,5 @@
 [
  {
-  "title": "Ro's CEO showed us its new AI agent — and its bigger plan to own more of your healthcare",
-  "summary": "Ro's CEO showed us its new AI agent — and its bigger plan to own more of your healthcare Business Insider",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORnFEQ0l1c3M1clhNM2hfT0poWG9yY2E1aEdfSDJydUxmb1pyQVhuWWMwc0FxdzUxWmFJMkNLREl2UmtBak5GT21UbEc0M1Q1dnljaGpDZjVzWVVnREZwMk81azNkOFg0amxhaEhTVGtwS25MRVJ2X045a19SVWtQU0M5N1hDVXA3TUxiYnBB?oc=5",
-  "source": "Business Insider",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-29T10:05:20+00:00",
-  "image": "",
-  "id": "20d2ae75e24b3ba4"
- },
- {
-  "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
-  "summary": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to the cloud. There’s also something on the horizon for adventurers: World of Warcraft: Forever arrives Wednesday, […]",
-  "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-29T13:00:16+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/GFN_Thursday-The_Witcher_3_Remastered-1680x840.jpg",
-  "id": "f52687297c33fd6b"
- },
- {
-  "title": "An updated Model Spec for more capable and beneficial AI",
-  "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-  "url": "https://openai.com/index/updated-model-spec",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-29T17:00:00+00:00",
-  "image": "",
-  "id": "7bf0065ceb1646f5"
- },
- {
   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
   "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
@@ -72,18 +36,6 @@
   "id": "d28967fce9c692cd"
  },
  {
-  "title": "How Ropes & Gray is developing AI for transactional diligence",
-  "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-  "url": "https://openai.com/index/ropes-gray-ai-diligence",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-29T07:00:00+00:00",
-  "image": "",
-  "id": "2d9928289658e986"
- },
- {
   "title": "Mistral’s New ‘Le Chonk’ AI Model Is Big, Open and Now Available for Download",
   "summary": "Mistral’s New ‘Le Chonk’ AI Model Is Big, Open and Now Available for Download CNET",
   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMExLUnRIU0hNbXhZWjA1WUpDTWxSd3IxQk5iQW05MkZzMXNtUTNNSm4wdzNHMkVmZkViRmtkNUtVLTVqZFVMWVpOY0N2bXhSeEh5UzJ5b3Y0YlExNk9FMGtMbkJPdi02LWpldDUzOElRdkY0N0hGYno3dFdwU0pZRDlpMTVzNWZJTUpRMTZsMXFCU3d6c0RuaEotNUlVSGZCQ2c?oc=5",
@@ -94,5 +46,89 @@
   "time": "2026-10-29T18:32:00+00:00",
   "image": "",
   "id": "9836c4d28eb8daff"
+ },
+ {
+  "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+  "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents […]",
+  "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-30T15:00:10+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/IMG_1607-ATA-2023-CREDIT-Joe-Marfia-scaled.jpg",
+  "id": "4a4bcbde667c128c"
+ },
+ {
+  "title": "Making it easier for websites to express AI training preferences",
+  "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+  "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-30T09:30:00+00:00",
+  "image": "",
+  "id": "25cc4c9bb2e3e7e5"
+ },
+ {
+  "title": "Community safety report and new protections for teens",
+  "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+  "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-30T09:00:00+00:00",
+  "image": "",
+  "id": "c7606af40dbb903f"
+ },
+ {
+  "title": "nemotron-halloween",
+  "summary": "",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-30T17:57:24+00:00",
+  "image": "",
+  "id": "b2263e9f84127c76"
+ },
+ {
+  "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+  "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+  "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-30T17:47:12+00:00",
+  "image": "",
+  "id": "d52c9778a55e47ad"
+ },
+ {
+  "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+  "summary": "DoorDash said that it is open to working with third-party agent makers.",
+  "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-10-30T13:54:25+00:00",
+  "image": "",
+  "id": "f986a412ee0ee44d"
+ },
+ {
+  "title": "Gemini delivers a Connected Apps update with Strava for running insights",
+  "summary": "Gemini delivers a Connected Apps update with Strava for running insights Android Central",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVWVVai1KVzJudFd6U1RyQWhEVURSc1JVbHZKMV9EZVFSeTJxc0V0Y0tGREZPdDEwczV2bHRSa0c0N3hCNmRPVVRIcUtibnFyQTY2VjhjVUVSMmMzcEJFMlBybXZRdTVNakJFMHdMZ0JWT2lkRGlTdTRNcHROOHVobXVGdUZzUEtqS29HMmwtR0xJX3VGMjhOYUM2ZDRjVkNETEMxSWwwdlZ0dk54czJESHF5c2ZKSVBkTkhPdEY3Zw?oc=5",
+  "source": "Android Central",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-10-30T15:42:07+00:00",
+  "image": "",
+  "id": "80889fd163e9a85e"
  }
 ]
