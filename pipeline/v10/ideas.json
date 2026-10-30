@@ -53,9 +53,17 @@
    "keyword": "تماشا",
    "ref": "https://www.instagram.com/reel/Dcg-yfZFet8/",
    "note": "duncanrogoff 113K/594cm: repo 'Claude Watch' — find and verify the GitHub repo first",
-   "status": "todo",
+   "status": "scheduled",
    "source": "duncanrogoff",
-   "n": 4
+   "n": 4,
+   "post": "post_3f95751eb8ec23c0",
+   "date": "2026-11-05",
+   "host": "robot",
+   "automation": "af_2a4d8c1cf039b41d",
+   "final": "https://res.cloudinary.com/qecsawrr/video/upload/v1793348075/ehbehzad/v10_claudewatch_final.mp4",
+   "hook_used": "Claude کوره! ویدیو نمی‌بینه. البته اگه این اسکیل رو نداشته باشی",
+   "music": "Retro synthwave instrumental, 105 BPM, pulsing analog bass arpeggio, gated reverb drums, warm neon pads, curious and futuristic mood. No vocals, steady energy, sits under a voice-over. (ElevenLabs music stuck generating >19 min; reel uses the built-in synth beat)",
+   "verified": "2026-10-30: github.com/bradautomates/claude-video, MIT, ~17.7K stars (ossinsight); install /plugin marketplace add bradautomates/claude-video + /plugin install watch@claude-video; needs ffmpeg+yt-dlp; Whisper key (Groq/OpenAI) only for videos without captions"
   },
   {
    "key": "designskills",
