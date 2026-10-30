@@ -1,5 +1,33 @@
-Fri Oct 30 11:03:16 UTC 2026
+Fri Oct 30 12:43:31 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 3 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 2 fresh
+Hugging Face: 1 fresh
+The Verge: 8 fresh
+TechCrunch: 13 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 1 fresh
+Product Hunt: 7 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 27 fresh
+Google News: 30 fresh
+new items: 0
+translated via clients5
+translated via clients5
+sent card Meta Delays Update Amid Concern About Scraping Websites for 
+translated via clients5
+translated via clients5
+sent photo We urgently need to monitor AI agents’ actions in real time
+translated via clients5
+translated via clients5
+card fail <urlopen error [Errno 104] Connection reset by peer>
+sent text Google's Gemini Spark is now available to more users
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
 promo sent in-2026-10-30-reel

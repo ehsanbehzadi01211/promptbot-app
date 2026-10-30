@@ -1,53 +1,5 @@
 [
  {
-  "title": "Meta Delays Update Amid Concern About Scraping Websites for AI Training",
-  "summary": "Meta Delays Update Amid Concern About Scraping Websites for AI Training PCMag",
-  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFh6SGNZTGR5MVVqb2gwc01nSWhJem9fU1VTTjFwLWZyLWhVc3dtX3lWVGhCYTdsallsUEwyQ05PcWIxaFgwaHNjT1JiQ2RaRGdPNUctTzE4bHJLeHRteE1kYzRyNHVMWFFmNm9nNG1YaUN3U2xHbzdid0VhODFjckJSWmhVQjdoVkh0LTdITTBZUFpnbDlaWklnbGY0RDhyOUE?oc=5",
-  "source": "PCMag",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-29T04:11:55+00:00",
-  "image": "",
-  "id": "5e204ffde20e6289"
- },
- {
-  "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-  "summary": "",
-  "url": "https://huggingface.co/blog/anydecisionmodel",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-29T00:00:00+00:00",
-  "image": "",
-  "id": "85d975255b4f9d00"
- },
- {
-  "title": "We urgently need to monitor AI agents’ actions in real time",
-  "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…",
-  "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-  "source": "MIT Technology Review",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-29T10:11:12+00:00",
-  "image": "",
-  "id": "f863128399a5ccb3"
- },
- {
-  "title": "Google's Gemini Spark is now available to more users",
-  "summary": "Google's Gemini Spark is now available to more users Mashable",
-  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NYXRqbnMxZGRNMXdjZTFyYm9qNkZyVXp1QlZtRXhiaXBuYVUtd00tRHprTnNQaFBhZlZWaHB3d3BpU2M3ZHE1aVZYSjJrM2c2TWlYT0JqT1Q?oc=5",
-  "source": "Mashable",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-10-29T10:00:00+00:00",
-  "image": "",
-  "id": "5e25ec4bc0c09d42"
- },
- {
   "title": "Ro's CEO showed us its new AI agent — and its bigger plan to own more of your healthcare",
   "summary": "Ro's CEO showed us its new AI agent — and its bigger plan to own more of your healthcare Business Insider",
   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORnFEQ0l1c3M1clhNM2hfT0poWG9yY2E1aEdfSDJydUxmb1pyQVhuWWMwc0FxdzUxWmFJMkNLREl2UmtBak5GT21UbEc0M1Q1dnljaGpDZjVzWVVnREZwMk81azNkOFg0amxhaEhTVGtwS25MRVJ2X045a19SVWtQU0M5N1hDVXA3TUxiYnBB?oc=5",
@@ -108,18 +60,6 @@
   "id": "f3538b6fb36f4f58"
  },
  {
-  "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-  "summary": "",
-  "url": "https://huggingface.co/blog/announcing-project-protostar",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-29T00:00:00+00:00",
-  "image": "",
-  "id": "e1c742c1d925baf7"
- },
- {
   "title": "How we detect frontier model misalignment",
   "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
@@ -142,18 +82,6 @@
   "time": "2026-10-29T07:00:00+00:00",
   "image": "",
   "id": "2d9928289658e986"
- },
- {
-  "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-  "summary": "",
-  "url": "https://huggingface.co/blog/mistral-large4",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-29T00:00:00+00:00",
-  "image": "",
-  "id": "a1765f446c5b64b5"
  },
  {
   "title": "Mistral’s New ‘Le Chonk’ AI Model Is Big, Open and Now Available for Download",
