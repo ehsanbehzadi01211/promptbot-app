@@ -73,9 +73,17 @@
    "keyword": "طراح",
    "ref": "https://www.instagram.com/p/De_JxR-n6OT/",
    "note": "vamshi 369cm carousel: Anthropic Frontend Design skill, Emil Kowalski (animation/easing, npx skills add emilkowalski/skill), App Store screenshots (github ParthJadhav/app-store-screenshots), gstack design review (github garrytan/gstack). UI UX Pro Max already used in v9 'skills' — skip it. Verify each repo/command.",
-   "status": "todo",
+   "status": "scheduled",
    "source": "vamshi.work",
-   "n": 5
+   "n": 5,
+   "post": "post_e955c0df94bb4957",
+   "date": "2026-11-06",
+   "host": "robot",
+   "automation": "af_a448653c83bdcfe6",
+   "final": "https://res.cloudinary.com/qecsawrr/video/upload/v1793434400/ehbehzad/v10_designskills_final.mp4",
+   "hook_used": "طراحی‌هات بوی هوش مصنوعی میده! البته اگه این ۴ اسکیل رو روی Claude نصب نکردی",
+   "music": "Funky nu-disco groove instrumental, 112 BPM, slap bass line, crisp four-on-the-floor drums, bright clavinet stabs, playful and stylish mood. No vocals, steady energy, sits under a voice-over. (ElevenLabs eleven_music_v2_5, used)",
+   "verified": "2026-10-31: anthropics/claude-plugins-official frontend-design (45.5K★), emilkowalski/skills (52.1K★, npx skills@latest add emilkowalski/skills), ParthJadhav/app-store-screenshots (7.7K★), garrytan/gstack (138.4K★, /design-review)"
   },
   {
    "key": "videoprompts",
