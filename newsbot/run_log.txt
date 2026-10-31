@@ -1,4 +1,4 @@
-Sat Oct 31 12:14:48 UTC 2026
+Sat Oct 31 18:28:41 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 OpenAI: 2 fresh
 Google: 0 fresh
@@ -9,23 +9,21 @@ The Verge: 10 fresh
 TechCrunch: 14 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 0 fresh
-Product Hunt: 6 fresh
+Product Hunt: 5 fresh
 Anthropic: 26 links
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 30 fresh
+Google News: 24 fresh
 Google News: 30 fresh
 new items: 0
 translated via clients5
-sent photo nemotron-halloween
+translated via clients5
+sent card Gemini delivers a Connected Apps update with Strava for runn
 translated via clients5
 translated via clients5
-sent photo Zest’s new AI agent finds restaurants and books reservations
-translated via clients5
-translated via clients5
-sent photo DoorDash said it’s only received ‘several hundred’ orders fr
+sent card Google Gemini upgrades are rolling out to all supported Andr
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
