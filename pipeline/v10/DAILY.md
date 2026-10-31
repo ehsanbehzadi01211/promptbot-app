@@ -17,9 +17,36 @@ MCP tools only.
 
 ## 2. Pick the idea
 
-`ideas.json`: first item with `"status": "todo"`. `format` = `list` (build9.py, scenes like spec9.json) or
-`laptop` (laptop.py, like laptop.json key `motion`). Research the topic, write a 25–40 s Persian script
-(hook → condition/twist → 2–5 concrete items → "کلمه‌ی «X» رو کامنت کن"). Keep claims honest.
+`ideas.json`: first item with `"status": "todo"`. Research the topic, write a 30–50 s Persian script
+(hook → condition/twist → 2–7 concrete items → "کلمه‌ی «X» رو کامنت کن"). Keep claims honest.
+
+**Format (owner, 31 Oct): make every new reel in the `ui` format (ui.py)** unless the owner asks otherwise; the
+idea's old `format` field is only a hint for the content. `ui` = the clean "studio UI" product-explainer look the
+owner asked for (reference: farshad_frhni reel DfJ5NyeRHyl, but higher quality): cream canvas with drifting pastel
+light, white UI cards, node diagrams whose edges draw and carry packets, counters, bars, chat windows, checklists,
+score rings, a chapter pill bar on top, phrase subtitles that darken word by word with the current word in an
+accent chip, blur/slide scene transitions, one dark scene for contrast, the glass robot top-left.
+`list` (build9.py) and `laptop` (laptop.py) still work but are the old look.
+
+### ui.json schema (see key `agents7` for a full worked example)
+Times are word indices of the spoken text (`12`, or `"12+0.3"` / `"12-0.2"` for an offset in seconds).
+* spec: `keyword`, `accent` (default #e8693c), `host: "robot"`, `voice`, `tabs` (chapter names, one per item scene),
+  `scenes`.
+* scene: `w` (start word), optional `tab` (index into tabs), `dark: true`, `head: {kick, h1: [[word, at],...],
+  em: [i], hl: [i], top}`, optional `stage_top`, `els: [...]`. Last scene: `{"w": N, "type": "cta", "keyword": "...",
+  "dm": "what they get in DM"}`.
+* elements (stage = 920×780 px, shown at 1.1×, y 0 ≈ just under the headline):
+  `node {x,y,label,icon,at,pal 0-6,sub,cls "c"|"big"|"c big",lit,m "pop"|"up"|"left"|"right"|"drop"}`,
+  `edges {items:[{id,d (SVG path),at,hot,pk:[[at,dur,period?]]}]}`, `chip {x,y,text,icon,cls "a"|"g",at}`,
+  `chat {x,y,w,h,at,dim,app,msgs:[{who "me"|"ai",text,at,type (end time → typing),dots,out}]}`,
+  `meter {y,at,label,from,to,suffix,count_at,count_end,color,badge{text,at,icon}}`, `big {at,end,count:[a,b],text,y}`,
+  `h {y,words:[[html,at]],size}`, `tiles {y,at,step,items:[[name,icon]]}` (≤8), `lanes {y,at,fill_at,dur,items:[[name,speed]]}`,
+  `checklist {y,at,items:[[text,tick_at]]}`, `score {x,y,at,keys:[[at,value]]}`, `orbit {cx,cy,r,at,speed,items:[[name,icon]]}`,
+  `html {html}` (raw, `{w12+0.3}` placeholders).
+  Icons: chat brain tool db search doc split user users check bolt crown eye pen loop flag mail headset cart code spark target.
+* Every scene must show something within ~0.3 s of its start (first element at `"w+0.3"`), elements must not
+  reach the subtitles (stage y ≤ ~760), and each item scene should *show* the idea (a diagram, UI or demo), not just
+  text. Vary the layouts between reels.
 
 ## 2b. Talking host (every reel)
 
@@ -28,7 +55,7 @@ Put `"host": "robot"` in every spec unless the owner says otherwise (`"ehsan"` =
 asks). `host.py` draws the robot's eyes (blinking) and mouth (opens on every narrated word) on its blank
 screen and bobs the head. build9: first scene big (the hook emoji is hidden), later scenes a circle top-left;
 override per scene with `"host": "big" | "corner" | "off"` (use "off" where a scene's content sits top-left).
-laptop: always the top-left circle. Always look at the `--stills` frames and fix overlaps before rendering.
+laptop and ui: always the top-left circle. Always look at the `--stills` frames and fix overlaps before rendering.
 (ElevenLabs video/lip-sync models need a paid plan on this account, so the host is animated in code.)
 
 ## 3. Voice + word times (ElevenLabs MCP)
@@ -58,6 +85,9 @@ Every reel gets its OWN background track; never reuse one.
 
 ## 4. Render
 
+* ui format (default): add the spec under a new key in `ui.json`, words in `words10/<key>.json`, then
+  `python3 ui.py <key> --stills` (look at every still: overlaps, empty frames, text over subtitles), then
+  `MUSIC_FILE=... python3 ui.py <key>` → `out/<key>_ig_nolvoice.mp4` (~6–8 min for 50 s).
 * list format: add the spec under a new key in `spec9.json`, then
   `SPEC=spec9.json WORDS=words9 python3 build9.py <key> ig` → `out/<key>_ig_nolvoice.mp4`
 * laptop format: add to `laptop.json`, then `python3 laptop.py <key>` → `out/<key>_ig_nolvoice.mp4`

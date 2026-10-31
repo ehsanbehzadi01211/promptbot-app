@@ -98,6 +98,17 @@
    "n": 6
   },
   {
+   "n": 7,
+   "key": "autoprompt",
+   "hook": "پرامپت ننویس! بذار خودش دربیاره",
+   "cat": "tips",
+   "format": "list",
+   "keyword": "پرامپت",
+   "status": "todo",
+   "note": "farshad_frhni 726K views / 20K comments (best on his page): free skill \"Prompt Master\" turns a one-line request into a full prompt, checks 37 common mistakes, installs in 3 steps via Claude Customize > Skills (ZIP upload). Verify the repo/skill and the 37 number.",
+   "ref2": "https://www.instagram.com/reel/DeumFSfRBuE/"
+  },
+  {
    "key": "tvclean",
    "hook": "تلویزیونت پر از تبلیغ و اپ اضافه‌ست؟ با Claude Code تمیزش کن",
    "cat": "github",
@@ -108,10 +119,23 @@
    "status": "todo",
    "source": "amirbwd",
    "host": "robot",
-   "n": 7
+   "n": 8
   },
   {
-   "n": 8,
+   "key": "eli5",
+   "hook": "از Claude بخواه «مثل یه بچه‌ی ۵ ساله» توضیح بده؛ ببین چی می‌شه",
+   "cat": "prompt",
+   "format": "ui",
+   "keyword": "ساده",
+   "ref": "https://www.instagram.com/reel/DexMP11R0jN/",
+   "note": "farshad_frhni 229K: \"explain API like I am five\" -> restaurant analogy (table=frontend, kitchen=backend, waiter=API). Our own examples; show the prompt + 3 analogies.",
+   "status": "todo",
+   "source": "farshad_frhni",
+   "host": "robot",
+   "n": 9
+  },
+  {
+   "n": 10,
    "key": "guess1",
    "hook": "کدوم واقعیه؟ ۱ یا ۲",
    "cat": "game",
@@ -131,7 +155,20 @@
    "note": "vamshi 170cm: free Claude courses (Anthropic Academy / Skilljar etc.) — verify each is free and reachable",
    "status": "todo",
    "source": "vamshi.work",
-   "n": 9
+   "n": 11
+  },
+  {
+   "key": "ytagent",
+   "hook": "یه تیم یوتیوب کامل، رایگان، توی Claude؛ ۱۱ تا اسکیل",
+   "cat": "skills",
+   "format": "list",
+   "keyword": "یوتیوب",
+   "ref": "https://www.instagram.com/reel/DfFLz-zjugn/",
+   "note": "amirbwd 11.6K (Oct 29): \"YouTube Agent Skill\", 11 skills (scripts with 21 hook formulas, titles/thumbnail ideas, cut list, comment replies, weekly plan, Virality). Verify repo and skill count. | farshad_frhni posted the same package: 122K views / 3952 comments -> high demand.",
+   "status": "todo",
+   "source": "amirbwd",
+   "host": "robot",
+   "n": 12
   },
   {
    "key": "remotionedit",
@@ -140,11 +177,24 @@
    "format": "list",
    "keyword": "ادیت",
    "ref": "https://www.instagram.com/reel/Ddl6jSElWOk/",
-   "note": "amirbwd 62K + repost 35K: ChatGPT/Codex + Remotion plugin (captions, cut silences, animate key moments). Verify the plugin/skill name and that it works in Claude Code too (remotion skills exist); show both.",
+   "note": "amirbwd 62K + repost 35K: ChatGPT/Codex + Remotion plugin (captions, cut silences, animate key moments). Verify the plugin/skill name and that it works in Claude Code too (remotion skills exist); show both. | farshad_frhni: \"Claude edited this video in 7 steps\" (learn my style from a reference, cut pauses, subtitles, zooms, vertical export) 108K / 2378 comments.",
    "status": "todo",
    "source": "amirbwd",
    "host": "robot",
-   "n": 10
+   "n": 13
+  },
+  {
+   "key": "textfx",
+   "hook": "۲۰ افکت متن فارسی که حروف رو به‌هم نمی‌ریزه؛ همه با Claude Code",
+   "cat": "motion",
+   "format": "ui",
+   "keyword": "متن",
+   "ref": "https://www.instagram.com/reel/DfF3C1ExWQG/",
+   "note": "farshad_frhni 19.6K / 121 comments: neon, chrome, fire, hologram... Persian text effects. We can make these ourselves with our renderer and give the prompts in DM.",
+   "status": "todo",
+   "source": "farshad_frhni",
+   "host": "robot",
+   "n": 14
   },
   {
    "key": "design5",
@@ -156,10 +206,10 @@
    "note": "duncanrogoff 48K/478cm: Awesome Design MD, Taste, Impeccable, Playwright CLI, img2threejs — verify each repo",
    "status": "todo",
    "source": "duncanrogoff",
-   "n": 11
+   "n": 15
   },
   {
-   "n": 12,
+   "n": 16,
    "key": "findskills",
    "hook": "یه اسکیل نصب کن، بقیه رو خودش پیدا می‌کنه",
    "cat": "skills",
@@ -179,7 +229,20 @@
    "status": "todo",
    "source": "amirbwd",
    "host": "robot",
-   "n": 13
+   "n": 17
+  },
+  {
+   "key": "transitions",
+   "hook": "۲۰ ترنزیشن حرفه‌ای بدون افترافکت؛ فقط با Claude Code",
+   "cat": "motion",
+   "format": "ui",
+   "keyword": "ترنزیشن",
+   "ref": "https://www.instagram.com/reel/DfDbd9VRcEf/",
+   "note": "farshad_frhni 22K / 143 comments: zoom punch, film burn... We can render real examples with our pipeline; DM = guide + prompts.",
+   "status": "todo",
+   "source": "farshad_frhni",
+   "host": "robot",
+   "n": 18
   },
   {
    "key": "leadmagnet",
@@ -188,10 +251,10 @@
    "format": "list",
    "keyword": "پرامپت۱۰۰",
    "ref": "https://www.instagram.com/reel/DeB9mLhocUH/",
-   "note": "vamshi's best (2294 comments): a free downloadable guide as lead magnet. Make a real PDF of 100 tested Persian prompts first (Docs/PDF), host it, deliver via DM link. Needs owner OK on the PDF before publishing.",
+   "note": "vamshi's best (2294 comments): a free downloadable guide as lead magnet. Make a real PDF of 100 tested Persian prompts first (Docs/PDF), host it, deliver via DM link. Needs owner OK on the PDF before publishing. | farshad_frhni \"100 hidden ChatGPT codes\" 82K / 915 comments with keyword 100 -> same mechanic works.",
    "status": "todo",
    "source": "vamshi.work",
-   "n": 14
+   "n": 19
   },
   {
    "key": "pdfmotion",
@@ -203,10 +266,10 @@
    "note": "duncanrogoff 37K: Claude /motion — verify the feature is real and how it is enabled",
    "status": "todo",
    "source": "duncanrogoff",
-   "n": 15
+   "n": 20
   },
   {
-   "n": 16,
+   "n": 21,
    "key": "location",
    "hook": "لوکیشن عکست رو با یه پرامپت عوض کن",
    "cat": "teaser",
@@ -214,6 +277,19 @@
    "keyword": "لوکیشن",
    "ref": "https://www.instagram.com/reel/Dam81kvtrDN/",
    "status": "todo"
+  },
+  {
+   "key": "motionkit",
+   "hook": "هنوز موشن‌های تکراری؟ ۷ سبک موشن که مخاطب ازش رد نمی‌شه",
+   "cat": "motion",
+   "format": "ui",
+   "keyword": "کیت",
+   "ref": "https://www.instagram.com/reel/DfCTjmEsLZL/",
+   "note": "farshad_frhni 28K / 606 comments in 22 s: 7 motion-kit styles. Show 7 short style samples made with our renderer; DM = prompts/kit.",
+   "status": "todo",
+   "source": "farshad_frhni",
+   "host": "robot",
+   "n": 22
   },
   {
    "key": "mapsleads",
@@ -226,7 +302,7 @@
    "status": "todo",
    "source": "amirbwd",
    "host": "robot",
-   "n": 17
+   "n": 23
   },
   {
    "key": "uxprompts",
@@ -238,10 +314,10 @@
    "note": "vamshi 251cm: practical prompts across a workflow (research, competitors, copy, review); adapt to general users/business owners",
    "status": "todo",
    "source": "vamshi.work",
-   "n": 18
+   "n": 24
   },
   {
-   "n": 19,
+   "n": 25,
    "key": "analyze",
    "hook": "Claude کل پیج اینستاگرامت رو آنالیز می‌کنه + پرامپت",
    "cat": "claude-instagram",
@@ -261,7 +337,7 @@
    "status": "todo",
    "source": "amirbwd",
    "host": "robot",
-   "n": 20
+   "n": 26
   },
   {
    "key": "igagency",
@@ -273,7 +349,7 @@
    "note": "duncanrogoff 29K/376cm: 'Claude Content Skills' open-source pack — verify",
    "status": "todo",
    "source": "duncanrogoff",
-   "n": 21
+   "n": 27
   },
   {
    "key": "twodesigners",
@@ -285,23 +361,24 @@
    "note": "vamshi 244cm contrast hook. No invented salary numbers — keep it qualitative; answer: speed with AI tools (research, prototype, ship).",
    "status": "todo",
    "source": "vamshi.work",
-   "n": 22
+   "n": 28
   },
   {
    "key": "agents7",
    "hook": "Claude فقط یه چت نیست؛ ۷ جور ایجنت داره",
    "cat": "claude",
-   "format": "list",
+   "format": "ui",
    "keyword": "ایجنت",
    "ref": "https://www.instagram.com/reel/DemWPmbmt58/",
-   "note": "amirbwd 36K/69cm (101s, long but worked): tool agent (MCP), skill agent, sequential, parallel, router, ... Keep ours ~40s: 7 types, one line each with a tiny example.",
-   "status": "todo",
+   "note": "amirbwd 36K/69cm (101s, long but worked): tool agent (MCP), skill agent, sequential, parallel, router, ... Keep ours ~40s: 7 types, one line each with a tiny example. | Made 31 Oct as the first \"ui\" format sample (Anthropic \"Building effective agents\" 7 patterns). Waiting for owner OK before scheduling.",
+   "status": "made",
    "source": "amirbwd",
    "host": "robot",
-   "n": 23
+   "n": 29,
+   "music": "minimal future-garage / soft house tech underscore 112 bpm"
   },
   {
-   "n": 24,
+   "n": 30,
    "key": "offline",
    "hook": "اینترنت قطع شد؟ این هوش مصنوعی آفلاین روی گوشیت کار می‌کنه",
    "cat": "free-tool",
@@ -311,7 +388,7 @@
    "status": "todo"
   },
   {
-   "n": 25,
+   "n": 31,
    "key": "3videos",
    "hook": "امروز فیلم نبین؛ این ۳ ویدیو رو ببین",
    "cat": "learning",
@@ -330,7 +407,7 @@
    "note": "vamshi 148cm. For Iranian users be honest about payment/sanction limits; only list sites that actually work for them; verify.",
    "status": "todo",
    "source": "vamshi.work",
-   "n": 26
+   "n": 32
   },
   {
    "key": "agentreach",
@@ -343,7 +420,7 @@
    "status": "todo",
    "source": "amirbwd",
    "host": "robot",
-   "n": 27
+   "n": 33
   },
   {
    "key": "adobefree",
@@ -355,10 +432,10 @@
    "note": "duncanrogoff: ArtCraft — verify maturity; say honestly if it's early",
    "status": "todo",
    "source": "duncanrogoff",
-   "n": 28
+   "n": 34
   },
   {
-   "n": 29,
+   "n": 35,
    "key": "localmodel",
    "hook": "مدل غول‌پیکر روی لپ‌تاپ معمولی، بدون کارت گرافیک",
    "cat": "news",
@@ -378,10 +455,10 @@
    "status": "todo",
    "source": "amirbwd",
    "host": "robot",
-   "n": 30
+   "n": 36
   },
   {
-   "n": 31,
+   "n": 37,
    "key": "course",
    "hook": "دوره‌ی رایگان هوش مصنوعی مولد، فارسی",
    "cat": "learning",
@@ -399,23 +476,10 @@
    "ref": "https://www.instagram.com/reel/De2k0o6An0o/",
    "status": "todo",
    "source": "duncanrogoff",
-   "n": 32
+   "n": 38
   },
   {
-   "key": "ytagent",
-   "hook": "یه تیم یوتیوب کامل، رایگان، توی Claude؛ ۱۱ تا اسکیل",
-   "cat": "skills",
-   "format": "list",
-   "keyword": "یوتیوب",
-   "ref": "https://www.instagram.com/reel/DfFLz-zjugn/",
-   "note": "amirbwd 11.6K (Oct 29): \"YouTube Agent Skill\", 11 skills (scripts with 21 hook formulas, titles/thumbnail ideas, cut list, comment replies, weekly plan, Virality). Verify repo and skill count.",
-   "status": "todo",
-   "source": "amirbwd",
-   "host": "robot",
-   "n": 33
-  },
-  {
-   "n": 34,
+   "n": 39,
    "key": "twenty",
    "hook": "فقط عدد ۲۰ رو کامنت کن",
    "cat": "free-tool",
@@ -425,7 +489,7 @@
    "status": "todo"
   },
   {
-   "n": 35,
+   "n": 40,
    "key": "precheck",
    "hook": "قبل از پست گذاشتن این ۵ تا رو چک کن + پرامپت",
    "cat": "claude-instagram",
@@ -445,7 +509,7 @@
    "status": "todo",
    "source": "amirbwd",
    "host": "robot",
-   "n": 36
+   "n": 41
   },
   {
    "key": "filmcode",
@@ -457,10 +521,10 @@
    "note": "'Lemo Opuscar' add-on — verify",
    "status": "todo",
    "source": "duncanrogoff",
-   "n": 37
+   "n": 42
   },
   {
-   "n": 38,
+   "n": 43,
    "key": "compare",
    "hook": "یه پرامپت، دو ویدیوساز، دو قیمت",
    "cat": "game",
@@ -470,7 +534,7 @@
    "status": "todo"
   },
   {
-   "n": 39,
+   "n": 44,
    "key": "imagealt",
    "hook": "ChatGPT به محدودیت عکس خورد؟ ۴ جایگزین رایگان",
    "cat": "free-tool",
@@ -479,7 +543,7 @@
    "status": "todo"
   },
   {
-   "n": 40,
+   "n": 45,
    "key": "cinematic",
    "hook": "تبلیغ سینمایی محصولت با یه عکس",
    "cat": "teaser",
@@ -489,7 +553,7 @@
    "status": "todo"
   },
   {
-   "n": 41,
+   "n": 46,
    "key": "clientsite",
    "hook": "Claude برای مشتری سایت ساخت، ۱۰ دقیقه",
    "cat": "claude-business",
@@ -499,7 +563,7 @@
    "status": "todo"
   },
   {
-   "n": 42,
+   "n": 47,
    "key": "guess2",
    "hook": "کدوم واقعیه؟ دور دوم",
    "cat": "game",
@@ -508,7 +572,7 @@
    "status": "todo"
   },
   {
-   "n": 43,
+   "n": 48,
    "key": "roadmap",
    "hook": "نقشه‌ی راه یادگیری هوش مصنوعی از صفر",
    "cat": "learning",
@@ -518,7 +582,7 @@
    "status": "todo"
   },
   {
-   "n": 44,
+   "n": 49,
    "key": "influencer",
    "hook": "این آدم‌ها واقعی نیستن؛ اینفلوئنسر مجازی",
    "cat": "motion",
@@ -528,7 +592,7 @@
    "status": "todo"
   },
   {
-   "n": 45,
+   "n": 50,
    "key": "videoskills",
    "hook": "۵ اسکیل ویدیوسازی برای Claude",
    "cat": "skills",
@@ -538,16 +602,7 @@
    "status": "todo"
   },
   {
-   "n": 46,
-   "key": "autoprompt",
-   "hook": "پرامپت ننویس! بذار خودش دربیاره",
-   "cat": "tips",
-   "format": "list",
-   "keyword": "پرامپت",
-   "status": "todo"
-  },
-  {
-   "n": 47,
+   "n": 51,
    "key": "game",
    "hook": "یه بازی کامل با یه پیام به Claude",
    "cat": "motion",
@@ -556,7 +611,7 @@
    "status": "todo"
   },
   {
-   "n": 48,
+   "n": 52,
    "key": "60s",
    "hook": "عکس دهه‌ی ۶۰ با یه پرامپت",
    "cat": "teaser",
@@ -565,7 +620,7 @@
    "status": "todo"
   },
   {
-   "n": 49,
+   "n": 53,
    "key": "indicator",
    "hook": "تریدرها: اندیکاتور رو کپی نکن، با Claude بسازش",
    "cat": "trade",
@@ -576,7 +631,7 @@
    "note": "always add: not financial advice"
   },
   {
-   "n": 50,
+   "n": 54,
    "key": "voice",
    "hook": "صدای ربات‌طور دیگه نه؛ گوینده‌ی فارسی",
    "cat": "free-tool",
@@ -585,7 +640,7 @@
    "status": "todo"
   },
   {
-   "n": 51,
+   "n": 55,
    "key": "news",
    "hook": "خبر بزرگ هفته با قاب «یه بمب دیگه» (only if real big news)",
    "cat": "news",
@@ -595,7 +650,7 @@
    "status": "todo"
   },
   {
-   "n": 52,
+   "n": 56,
    "key": "connectors",
    "hook": "۹۰٪ کاربرای Claude این دکمه رو ندیدن",
    "cat": "tips",
