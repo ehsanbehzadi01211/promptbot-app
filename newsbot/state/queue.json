@@ -1,41 +1,5 @@
 [
  {
-  "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-  "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents […]",
-  "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-30T15:00:10+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/IMG_1607-ATA-2023-CREDIT-Joe-Marfia-scaled.jpg",
-  "id": "4a4bcbde667c128c"
- },
- {
-  "title": "Making it easier for websites to express AI training preferences",
-  "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-  "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-30T09:30:00+00:00",
-  "image": "",
-  "id": "25cc4c9bb2e3e7e5"
- },
- {
-  "title": "Community safety report and new protections for teens",
-  "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-  "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-30T09:00:00+00:00",
-  "image": "",
-  "id": "c7606af40dbb903f"
- },
- {
   "title": "nemotron-halloween",
   "summary": "",
   "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",

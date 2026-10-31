@@ -1,5 +1,32 @@
-Sat Oct 31 04:47:45 UTC 2026
+Sat Oct 31 05:26:11 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 3 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 1 fresh
+Hugging Face: 1 fresh
+The Verge: 10 fresh
+TechCrunch: 20 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 0 fresh
+Product Hunt: 4 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 0
+translated via clients5
+translated via clients5
+sent photo Things That Go Beep in the Night: Agentic AI Joins the Searc
+translated via clients5
+translated via clients5
+sent card Making it easier for websites to express AI training prefere
+translated via clients5
+translated via clients5
+sent card Community safety report and new protections for teens
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
