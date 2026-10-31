@@ -1,41 +1,5 @@
 [
  {
-  "title": "nemotron-halloween",
-  "summary": "",
-  "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-30T17:57:24+00:00",
-  "image": "",
-  "id": "b2263e9f84127c76"
- },
- {
-  "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-  "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-  "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-  "source": "TechCrunch",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-30T17:47:12+00:00",
-  "image": "",
-  "id": "d52c9778a55e47ad"
- },
- {
-  "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-  "summary": "DoorDash said that it is open to working with third-party agent makers.",
-  "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-  "source": "TechCrunch",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-30T13:54:25+00:00",
-  "image": "",
-  "id": "f986a412ee0ee44d"
- },
- {
   "title": "Gemini delivers a Connected Apps update with Strava for running insights",
   "summary": "Gemini delivers a Connected Apps update with Strava for running insights Android Central",
   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVWVVai1KVzJudFd6U1RyQWhEVURSc1JVbHZKMV9EZVFSeTJxc0V0Y0tGREZPdDEwczV2bHRSa0c0N3hCNmRPVVRIcUtibnFyQTY2VjhjVUVSMmMzcEJFMlBybXZRdTVNakJFMHdMZ0JWT2lkRGlTdTRNcHROOHVobXVGdUZzUEtqS29HMmwtR0xJX3VGMjhOYUM2ZDRjVkNETEMxSWwwdlZ0dk54czJESHF5c2ZKSVBkTkhPdEY3Zw?oc=5",
@@ -46,18 +10,6 @@
   "time": "2026-10-30T15:42:07+00:00",
   "image": "",
   "id": "80889fd163e9a85e"
- },
- {
-  "title": "Fair use benefits everyone",
-  "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-  "url": "https://openai.com/index/fair-use-benefits-everyone",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-10-30T00:00:00+00:00",
-  "image": "",
-  "id": "d2282bcce1625c64"
  },
  {
   "title": "Google Gemini upgrades are rolling out to all supported Android devices",
