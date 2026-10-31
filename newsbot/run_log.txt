@@ -1,34 +1,10 @@
-Fri Oct 30 23:39:47 UTC 2026
+Sat Oct 31 04:46:45 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 4 fresh
-Google: 0 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 3 fresh
-Hugging Face: 2 fresh
-The Verge: 10 fresh
-TechCrunch: 20 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 0 fresh
-Product Hunt: 4 fresh
-Anthropic: 26 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-new items: 2
-translated via clients5
-translated via clients5
-sent photo Into the Omniverse: How Developers Turn Ideas Into Simulatio
-translated via clients5
-sent photo Granite Switch 4.1.1 — Update models like you update softwar
-translated via clients5
-translated via clients5
-sent card Mistral’s New ‘Le Chonk’ AI Model Is Big, Open and Now Avail
+promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
 promo sent in-2026-10-30-reel
+promo sent in-2026-10-31-reel
 promo sent in-2026-10-29-v8imagetools
 Traceback (most recent call last):
   File "/home/runner/work/promptbot-app/promptbot-app/newsbot/promo.py", line 77, in <module>
