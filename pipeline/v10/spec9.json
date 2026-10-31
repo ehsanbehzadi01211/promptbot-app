@@ -432,5 +432,89 @@
     "voice": "کلمه‌ی «ادمین» رو کامنت کن، تا لینکِ هر سه تا رو برات دایرکت بفرستم."
    }
   ]
+ },
+ "designskills": {
+  "series": "CLAUDE × DESIGN",
+  "accent": "#F97316",
+  "keyword": "طراح",
+  "host": "robot",
+  "scenes": [
+   {
+    "type": "shock",
+    "bg": "ink",
+    "title": "طراحیت\n[[بوی AI میده!]]",
+    "sub": "اگه این ۴ اسکیل روی Claude نیست…",
+    "emoji": "🎨",
+    "voice": "[excited] طراحی‌هات بوی هوشِ مصنوعی میده! البته اگه این چهار تا اسکیل رو روی کلاد نصب نکردی. شماره‌ی چهار مالِ رئیسِ وای‌کامبیناتوره.",
+    "cond_w": 5
+   },
+   {
+    "type": "skill",
+    "bg": "cream",
+    "label": "01 / SKILL",
+    "num": "۱",
+    "of": "1/4",
+    "name": "Frontend Design",
+    "stars": "45K",
+    "bad": "سایت‌ها همه شبیه هم",
+    "good": "فونت و سبک خاص",
+    "cmd": "/plugin install frontend-design@claude-plugins-official",
+    "voice": "یک: فرانت‌اند دیزاین، اسکیلِ رسمیِ آنتروپیک. به‌جای طرحِ تکراری، فونت و سبکِ خاص می‌سازه.",
+    "bad_w": 6,
+    "good_w": 9
+   },
+   {
+    "type": "skill",
+    "bg": "ink",
+    "label": "02 / SKILL",
+    "num": "۲",
+    "of": "2/4",
+    "name": "Emil Kowalski",
+    "stars": "52K",
+    "bad": "انیمیشن خشک و ناشیانه",
+    "good": "حرکت نرم و حرفه‌ای",
+    "cmd": "npx skills@latest add emilkowalski/skills",
+    "voice": "دو: اسکیل‌های اِمیل کوالسکی، که تو وِرسِل و لینیر کار کرده. انیمیشن‌هات رو نرم و حرفه‌ای می‌کنه.",
+    "bad_w": 11,
+    "good_w": 13
+   },
+   {
+    "type": "skill",
+    "bg": "cream",
+    "label": "03 / SKILL",
+    "num": "۳",
+    "of": "3/4",
+    "name": "App Store Screenshots",
+    "stars": "7.7K",
+    "bad": "اسکرین‌شات خام و بی‌روح",
+    "good": "عکس تبلیغاتی آماده‌ی استور",
+    "cmd": "npx skills add ParthJadhav/app-store-screenshots",
+    "voice": "سه: اپ‌استور اسکرین‌شاتس. از اسکرین‌شاتِ خامِ اپت، عکسِ تبلیغاتی برای اپ‌استور و گوگل‌پلی می‌سازه.",
+    "bad_w": 3,
+    "good_w": 7
+   },
+   {
+    "type": "skill",
+    "bg": "accent",
+    "label": "04 / SKILL",
+    "num": "۴",
+    "of": "4/4",
+    "name": "gstack",
+    "stars": "138K",
+    "bad": "خروجی تکراری تحویل مشتری",
+    "good": "یه طراح سخت‌گیر بررسیش می‌کنه",
+    "cmd": "/design-review",
+    "voice": "و چهار: جی‌استک، از مدیرعاملِ وای‌کامبیناتور. با دیزاین‌ریویو، یه طراحِ سخت‌گیر خروجیت رو چک می‌کنه.",
+    "bad_w": 6,
+    "good_w": 8
+   },
+   {
+    "type": "cta",
+    "bg": "ink",
+    "label": "05 / LINK",
+    "link": "۴ لینک GitHub",
+    "voice": "کلمه‌ی «طراح» رو کامنت کن، تا لینکِ هر چهار تا رو برات دایرکت بفرستم."
+   }
+  ]
  }
 }
