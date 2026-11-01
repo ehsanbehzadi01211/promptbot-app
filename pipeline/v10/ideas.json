@@ -116,11 +116,19 @@
    "key": "course",
    "hook": "دوره‌ی رایگان هوش مصنوعی مولد، فارسی",
    "cat": "learning",
-   "format": "list",
+   "format": "ui",
    "keyword": "دوره",
    "ref": "https://www.instagram.com/reel/De1SShTxQ23/",
-   "status": "todo",
-   "note": "mgh.mobin 249K views / 31,922 comments: Microsoft \"Generative AI for Beginners\" on GitHub, free, has a Persian translation, 21 lessons, 120K+ stars (verify count + that the fa translation exists). Biggest comment count we have seen."
+   "status": "scheduled",
+   "note": "mgh.mobin 249K views / 31,922 comments: Microsoft \"Generative AI for Beginners\" on GitHub, free, has a Persian translation, 21 lessons, 120K+ stars (verify count + that the fa translation exists). Biggest comment count we have seen.",
+   "post": "post_1359a07679561827",
+   "date": "2026-11-07",
+   "host": "robot",
+   "automation": "af_c879dc8339c6cc95",
+   "final": "https://res.cloudinary.com/qecsawrr/video/upload/v1793521121/ehbehzad/v10_course_final.mp4",
+   "hook_used": "پول دوره‌ی هوش مصنوعی نده! البته اگه این دوره‌ی رایگان مایکروسافت رو هنوز ندیدی",
+   "music": "Warm lo-fi chill-hop instrumental, 84 BPM, dusty boom-bap drums, mellow Rhodes chords, soft upright bass, light vinyl crackle, focused and optimistic study mood. No vocals, steady energy, sits under a voice-over. (ElevenLabs eleven_music_v2_5, used)",
+   "verified": "2026-11-01: github.com/microsoft/generative-ai-for-beginners, MIT, 122.0K stars, 64.5K forks; 21 lessons + 00 setup; translations/fa covers all lessons; Python+TypeScript; lesson videos English (01-18); running code needs Azure OpenAI / Foundry / OpenAI key (GitHub Models retiring end of Jul 2026)"
   },
   {
    "key": "ytagent",
@@ -254,7 +262,7 @@
    "format": "list",
    "keyword": "دوره",
    "ref": "https://www.instagram.com/p/DeJ1mXGnybu/",
-   "note": "vamshi 170cm: free Claude courses (Anthropic Academy / Skilljar etc.) — verify each is free and reachable",
+   "note": "vamshi 170cm: free Claude courses (Anthropic Academy / Skilljar etc.) — verify each is free and reachable | keyword «دوره» already used by course reel (7 Nov); pick a different keyword.",
    "status": "todo",
    "source": "vamshi.work",
    "n": 19
