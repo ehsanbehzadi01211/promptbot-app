@@ -1,31 +1,5 @@
-Sun Nov  1 05:52:26 UTC 2026
+Sun Nov  1 11:31:00 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 0 fresh
-Google: 0 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 0 fresh
-Hugging Face: 1 fresh
-The Verge: 5 fresh
-TechCrunch: 10 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 0 fresh
-Product Hunt: 4 fresh
-Anthropic: 26 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 28 fresh
-Google News: 30 fresh
-Google News: 27 fresh
-Google News: 28 fresh
-new items: 8
-translated via clients5
-sent photo Physicist Christopher Stubbs joins Anthropic's Long-Term Ben
-translated via clients5
-translated via clients5
-sent card SpaceXAI launches Grok Bot, an always-on AI agent
-translated via clients5
-translated via clients5
-sent card 'ChatGPT Voice' is now available to free users. Here's how t
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
