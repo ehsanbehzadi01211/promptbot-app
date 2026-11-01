@@ -138,6 +138,54 @@
    "hy_final": "https://res.cloudinary.com/qecsawrr/video/upload/v1793523745/ehbehzad/v10_course_hy_final.mp4"
   },
   {
+   "key": "modelcheck",
+   "status": "todo",
+   "title": "اگه Claude بد جواب می‌ده، ۳ چیز رو چک کن (مدل انتخاب‌شده، چت طولانی، پرامپت مبهم)",
+   "keyword": "کیفیت",
+   "source": "albert.olgaard DfNHMkaE9yg 207K؛ فقط زاویه‌ی کاربردی. ادعای «مدل خراب شد» بدون سند نباید گفته بشه؛ قبل از ساخت از منابع رسمی بررسی کن",
+   "priority": "high"
+  },
+  {
+   "key": "sellagents",
+   "status": "todo",
+   "title": "۳ نوع ایجنت هوش مصنوعی که کسب‌وکارهای کوچک بهش نیاز دارن (پاسخ‌گوی پیام، رزرو، پیگیری)",
+   "keyword": "ایجنت‌فروش",
+   "source": "albert.olgaard DNgJb4Hs5FZ 2.7M بازدید؛ هوک درآمد/فروش ایجنت. هیچ عدد درآمدی نگو؛ فقط مثال‌های واقعی و بررسی‌شده",
+   "priority": "high"
+  },
+  {
+   "key": "ugcads",
+   "status": "todo",
+   "title": "از یک عکس محصول، تبلیغ UGC چندزبانه بساز",
+   "keyword": "تبلیغ",
+   "source": "albert.olgaard De4aDLHD3OP 80K؛ قبل از ساخت ابزار و پلن رایگان رو آنلاین چک کن",
+   "priority": "high"
+  },
+  {
+   "key": "voicestudio",
+   "status": "todo",
+   "title": "ریپوی گیت‌هاب VoiceStudio: مدل صدا روی کامپیوتر خودت اجرا می‌شه",
+   "keyword": "صدا۲",
+   "source": "albert.olgaard DfAPQ06isZ2؛ مشخصات ریپو و مجوز رو از خود گیت‌هاب تأیید کن",
+   "priority": "high"
+  },
+  {
+   "key": "sfx",
+   "status": "todo",
+   "title": "جلوه‌ی صوتی با یه پرامپت (تفنگ، شیشه، رعد) با ElevenLabs",
+   "keyword": "افکت",
+   "source": "albert.olgaard DfH9rKXkUx-؛ سهمیه‌ی رایگان و قابلیت SFX رو از سایت رسمی چک کن",
+   "priority": "high"
+  },
+  {
+   "key": "landing",
+   "status": "todo",
+   "title": "ساخت لندینگ‌پیج با Claude قدم‌به‌قدم",
+   "keyword": "لندینگ",
+   "source": "albert.olgaard DezQedACT6R؛ بدون اسم مدل ناشناخته؛ مراحل واقعی رو خودت تست کن",
+   "priority": "high"
+  },
+  {
    "key": "ytagent",
    "hook": "یه تیم یوتیوب کامل، رایگان، توی Claude؛ ۱۱ تا اسکیل",
    "cat": "skills",
