@@ -129,8 +129,10 @@ hooshyar = «هوشیار | هوش مصنوعی به زبان ساده», same t
 * Render a second version of the same reel: `UI_VARIANT=hooshyar MUSIC_FILE=... python3 ui.py <key>`
   → `out/<key>_hy_ig_nolvoice.mp4` (violet accent; same voice + music). Push it as `v10/<key>_hy_ig_nolvoice.mp4`,
   upload to Cloudinary as `ehbehzad/v10_<key>_hy_nolvoice`, mix the same voice the same way, save as `ehbehzad/v10_<key>_hy_final`.
-* Schedule on hooshyar at **21:00 Tehran tomorrow** (one reel per day there; if tomorrow already has a reel,
-  the first free day). It goes out on hooshyar first and later on @ehbehzad, which is fine.
+* Schedule on hooshyar (owner, 1 Nov: **2 reels/day, 10:00 and 21:00 Tehran**). On 1 Nov the 18 older @ehbehzad reels were copied as-is
+  (media_from_url of their Uplika cdn file, same caption with the hooshyar footer, own comment_to_dm automations) and fill every slot until
+  11 Nov 10:00. A new reel takes the first free 21:00 slot (check `list_posts status=scheduled sort=scheduled` with workspaceId ws_b59367124738a6a7).
+  Every hooshyar post needs its own comment_to_dm. DM auto-reply (ai_reply) is on for both pages (af_ec33805335e450f1 hooshyar, af_d33e3005c804bd63 ehbehzad). It goes out on hooshyar first and later on @ehbehzad, which is fine.
 * Caption: same text, but the footer is `🤖 هوشیار | هوش مصنوعی به زبان ساده` + `📷 @hooshyar__ai`
   (no @ehbehzad YouTube/Telegram lines). Same 5 hashtags.
 * `create_comment_to_dm` with workspaceId ws_b59367124738a6a7, accountId conn_dbfffe5a1a54753c, same keyword,
