@@ -131,7 +131,11 @@
    "final": "https://res.cloudinary.com/qecsawrr/video/upload/v1793521121/ehbehzad/v10_course_final.mp4",
    "hook_used": "پول دوره‌ی هوش مصنوعی نده! البته اگه این دوره‌ی رایگان مایکروسافت رو هنوز ندیدی",
    "music": "Warm lo-fi chill-hop instrumental, 84 BPM, dusty boom-bap drums, mellow Rhodes chords, soft upright bass, light vinyl crackle, focused and optimistic study mood. No vocals, steady energy, sits under a voice-over. (ElevenLabs eleven_music_v2_5, used)",
-   "verified": "2026-11-01: github.com/microsoft/generative-ai-for-beginners, MIT, 122.0K stars, 64.5K forks; 21 lessons + 00 setup; translations/fa covers all lessons; Python+TypeScript; lesson videos English (01-18); running code needs Azure OpenAI / Foundry / OpenAI key (GitHub Models retiring end of Jul 2026)"
+   "verified": "2026-11-01: github.com/microsoft/generative-ai-for-beginners, MIT, 122.0K stars, 64.5K forks; 21 lessons + 00 setup; translations/fa covers all lessons; Python+TypeScript; lesson videos English (01-18); running code needs Azure OpenAI / Foundry / OpenAI key (GitHub Models retiring end of Jul 2026)",
+   "hy_post": "post_1b3dec242c9557bc",
+   "hy_date": "2026-11-02",
+   "hy_automation": "af_95ef138dc2014027",
+   "hy_final": "https://res.cloudinary.com/qecsawrr/video/upload/v1793523745/ehbehzad/v10_course_hy_final.mp4"
   },
   {
    "key": "ytagent",
