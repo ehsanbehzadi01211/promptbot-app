@@ -1,31 +1,11 @@
-Sat Oct 31 23:18:49 UTC 2026
+Sun Nov  1 04:45:53 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 0 fresh
-Google: 0 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 1 fresh
-Hugging Face: 1 fresh
-The Verge: 9 fresh
-TechCrunch: 17 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 0 fresh
-Product Hunt: 4 fresh
-Anthropic: 26 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 28 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-new items: 1
-translated via clients5
-translated via clients5
-sent card Got PayPal or Venmo? You get a free year of Perplexity AI: H
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
 promo sent in-2026-10-30-reel
 promo sent in-2026-10-31-reel
+promo sent in-2026-11-01-reel
 promo sent in-2026-10-29-v8imagetools
 Traceback (most recent call last):
   File "/home/runner/work/promptbot-app/promptbot-app/newsbot/promo.py", line 77, in <module>
