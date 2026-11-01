@@ -92,13 +92,16 @@
    "format": "ui",
    "keyword": "ایجنت",
    "ref": "https://www.instagram.com/reel/DemWPmbmt58/",
-   "note": "amirbwd 36K/69cm (101s, long but worked): tool agent (MCP), skill agent, sequential, parallel, router, ... Keep ours ~40s: 7 types, one line each with a tiny example. | Made 31 Oct as the first \"ui\" format sample (Anthropic \"Building effective agents\" 7 patterns). Waiting for owner OK before scheduling.",
+   "note": "amirbwd 36K/69cm (101s, long but worked): tool agent (MCP), skill agent, sequential, parallel, router, ... Keep ours ~40s: 7 types, one line each with a tiny example. | Made 31 Oct as the first \"ui\" format sample (Anthropic \"Building effective agents\" 7 patterns). First post of @hooshyar__ai (1 Nov 21:00). Not on @ehbehzad yet.",
    "status": "made",
    "source": "amirbwd",
    "host": "robot",
    "n": 6,
    "music": "minimal future-garage / soft house tech underscore 112 bpm",
-   "final": "https://res.cloudinary.com/qecsawrr/video/upload/v1793473056/ehbehzad/v10_agents7_final.mp4"
+   "final": "https://res.cloudinary.com/qecsawrr/video/upload/v1793473056/ehbehzad/v10_agents7_final.mp4",
+   "hy_post": "post_c5094d948da86ec5",
+   "hy_date": "2026-11-01",
+   "hy_automation": "af_56d9170e4662c485"
   },
   {
    "n": 7,

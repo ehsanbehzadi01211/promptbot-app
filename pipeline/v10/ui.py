@@ -118,10 +118,10 @@ svg.edges circle.pk{fill:var(--a);filter:drop-shadow(0 0 8px var(--a))}
 .bub.ai{background:#f3eee7;border-bottom-right-radius:8px}
 .dots{display:inline-flex;gap:8px}.dots i{width:13px;height:13px;border-radius:50%;background:var(--mut)}
 .bar{height:26px;border-radius:20px;background:#ece6de;overflow:hidden;position:relative}
-.bar i{position:absolute;top:0;bottom:0;right:0;width:0;border-radius:20px;background:linear-gradient(90deg,var(--a),#ff9d6b)}
+.bar i{position:absolute;top:0;bottom:0;right:0;width:0;border-radius:20px;background:linear-gradient(90deg,var(--a),color-mix(in srgb,var(--a) 55%,#fff))}
 .dk .bar{background:rgba(255,255,255,.1)}
 .big7{font-weight:900;font-size:430px;line-height:.9;color:var(--a);text-align:center;letter-spacing:-8px;
-  text-shadow:0 30px 80px rgba(232,105,60,.35)}
+  text-shadow:0 30px 80px color-mix(in srgb,var(--a) 35%,transparent)}
 .tile{position:absolute;width:196px;height:196px;border-radius:40px;background:var(--card);border:1.5px solid var(--line);
   box-shadow:0 20px 50px rgba(60,40,20,.10);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;opacity:0;
   font-weight:800;font-size:27px}
@@ -139,14 +139,14 @@ svg.edges circle.pk{fill:var(--a);filter:drop-shadow(0 0 8px var(--a))}
 #subs{position:absolute;left:70px;right:70px;top:1445px;text-align:center;font-weight:900;font-size:60px;line-height:1.4;min-height:100px}
 #subs span{display:inline-block;margin:0 7px;color:#cbc4bb}
 #subs span.s{color:var(--ink)}
-#subs span.on{color:#fff;background:var(--a);border-radius:18px;padding:0 16px;box-shadow:0 10px 30px rgba(232,105,60,.35)}
+#subs span.on{color:#fff;background:var(--a);border-radius:18px;padding:0 16px;box-shadow:0 10px 30px color-mix(in srgb,var(--a) 40%,transparent)}
 body.dkm #subs span{color:#5b5664}body.dkm #subs span.s{color:#fff}
 /* CTA */
 .cta-box{position:absolute;left:110px;right:110px;top:690px;border-radius:50px;background:var(--card);padding:56px 50px 60px;text-align:center;
   box-shadow:0 40px 90px rgba(60,40,20,.16);border:1.5px solid var(--line);opacity:0}
 .cta-box .t{font-weight:900;font-size:76px}
 .kw{display:inline-block;margin-top:30px;font-weight:900;font-size:120px;color:#fff;background:var(--a);border-radius:40px;padding:6px 56px 16px;
-  box-shadow:0 26px 60px rgba(232,105,60,.45)}
+  box-shadow:0 26px 60px color-mix(in srgb,var(--a) 45%,transparent)}
 .kw u{text-decoration:none;display:inline-block;width:8px;height:110px;background:#fff;vertical-align:middle;margin-right:10px;border-radius:4px}
 .cbox{margin-top:46px;border-radius:40px;border:2px solid var(--line);background:#f7f3ee;padding:26px 34px;display:flex;align-items:center;gap:22px;
   font-weight:800;font-size:40px;color:var(--mut);text-align:right}
@@ -431,6 +431,10 @@ def scene_html(sc, T, n_tabs):
 
 def build(key):
     spec = json.load(open(os.path.join(ROOT, "ui.json")))[key]
+    # page variant: UI_VARIANT=hooshyar renders the @hooshyar__ai version (violet accent, own output name)
+    variant = os.environ.get("UI_VARIANT", "")
+    if variant == "hooshyar":
+        spec = dict(spec, accent="#6a5cff", accent2="rgba(106,92,255,.22)")
     words = json.load(open(os.path.join(ROOT, "words10", key + ".json")))
     toks = spec["voice"].replace("[excited]", "").split()
     ts = [LEAD + x for x in words["t"]]
@@ -460,6 +464,8 @@ def build(key):
     blobs = ('<div class="blob" style="left:-200px;top:80px;width:760px;height:760px;background:#ffb38a"></div>'
              '<div class="blob" style="right:-260px;top:620px;width:820px;height:820px;background:#b7a8ff"></div>'
              '<div class="blob" style="left:-120px;bottom:-160px;width:760px;height:760px;background:#9ee6c9"></div>')
+    if variant == "hooshyar":
+        blobs = blobs.replace("#ffb38a", "#b9a8ff").replace("#b7a8ff", "#9fd8ff")
     host_html = ""
     if spec.get("host"):
         from host import host_any, words_to_spans
@@ -484,7 +490,7 @@ def build(key):
                 for tt in (a + .5, min(e - .4, a + 3.2)):
                     pg.evaluate(seek, tt); pg.screenshot(path=os.path.join(out_dir, f"{key}_ui_{k_}_{tt:05.2f}.png"))
             br.close(); return
-        silent = os.path.join(out_dir, f"{key}_silent.mp4")
+        silent = os.path.join(out_dir, f"{key}{'_hy' if variant else ''}_silent.mp4")
         ff = subprocess.Popen(["ffmpeg", "-v", "error", "-y", "-f", "image2pipe", "-framerate", str(FPS), "-c:v", "mjpeg", "-i", "-",
                                "-c:v", "libx264", "-pix_fmt", "yuv420p", "-crf", "17", "-preset", "veryfast", silent], stdin=subprocess.PIPE)
         for f in range(int(total * FPS)):
@@ -496,7 +502,7 @@ def build(key):
     sc_ = [{"type": "grid"}] * len(starts)
     sc_[-1] = {"type": "cta"}
     bed(starts, total, wav, {"keyword": spec["keyword"]}, sc_)
-    final = os.path.join(out_dir, f"{key}_ig_nolvoice.mp4")
+    final = os.path.join(out_dir, f"{key}{'_hy' if variant == 'hooshyar' else ''}_ig_nolvoice.mp4")
     final_mix(silent, wav, final, total)
     print(key, f"{total:.2f}s", [round(s, 2) for s in starts])
 

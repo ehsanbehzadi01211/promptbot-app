@@ -119,6 +119,24 @@ Every reel gets its OWN background track; never reuse one.
 * YouTube (`conn_0518c6141bae7d86`) is optional: its daily slot 12:30 UTC is already filled until Nov 18 and
   Uplika's shared YouTube quota fails often.
 
+## 5b. Second page @hooshyar__ai (owner, 1 Nov) — every new reel goes there too
+
+Uplika now has TWO workspaces, so **every Uplika call needs workspaceId**:
+* @ehbehzad (Instagram conn_a8ade4f9de0c6bca, YouTube conn_0518c6141bae7d86): `ws_680c8b2ee3656246`
+* @hooshyar__ai (Instagram conn_dbfffe5a1a54753c): `ws_b59367124738a6a7`
+
+hooshyar = «هوشیار | هوش مصنوعی به زبان ساده», same topics, violet look, the glass robot is "هوشیار".
+* Render a second version of the same reel: `UI_VARIANT=hooshyar MUSIC_FILE=... python3 ui.py <key>`
+  → `out/<key>_hy_ig_nolvoice.mp4` (violet accent; same voice + music). Push it as `v10/<key>_hy_ig_nolvoice.mp4`,
+  upload to Cloudinary as `ehbehzad/v10_<key>_hy_nolvoice`, mix the same voice the same way, save as `ehbehzad/v10_<key>_hy_final`.
+* Schedule on hooshyar at **21:00 Tehran tomorrow** (one reel per day there; if tomorrow already has a reel,
+  the first free day). It goes out on hooshyar first and later on @ehbehzad, which is fine.
+* Caption: same text, but the footer is `🤖 هوشیار | هوش مصنوعی به زبان ساده` + `📷 @hooshyar__ai`
+  (no @ehbehzad YouTube/Telegram lines). Same 5 hashtags.
+* `create_comment_to_dm` with workspaceId ws_b59367124738a6a7, accountId conn_dbfffe5a1a54753c, same keyword,
+  deliver and button; notFollowingMessage asks to follow @hooshyar__ai. Example: automation af_56d9170e4662c485 (agents7).
+* In ideas.json also set `hy_post`, `hy_date`, `hy_automation`.
+
 ## 6. Finish
 
 Set the idea to `"status": "scheduled", "post": <id>, "date": <day>` in `ideas.json`, commit + push.
