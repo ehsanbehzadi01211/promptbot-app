@@ -860,5 +860,503 @@
     "dm": "مقاله + ۷ پرامپت آماده"
    }
   ]
+ },
+ "course": {
+  "keyword": "دوره",
+  "accent": "#e8693c",
+  "host": "robot",
+  "voice": "[excited] پول دوره‌ی هوش مصنوعی نده! البته اگه این دوره‌ی رایگان مایکروسافت رو هنوز ندیدی. اسمش «هوش مصنوعی مولد برای مبتدی‌ها»ست، روی گیت‌هاب، با بیش از صد و بیست هزار ستاره. یک: بیست و یک درس؛ از اینکه مدل زبانی چیه، تا ساختن اپ واقعی. دو: ترجمه‌ی کامل فارسی داره. سه: مهندسی پرامپت رو قدم‌به‌قدم یاد می‌گیری. چهار: ساختن چت‌بات، جستجوی هوشمند و ایجنت هم توشه. پنج: کدها هم پایتون دارن، هم تایپ‌اسکریپت. و شش: مجوزش MIT ئه؛ یعنی رایگان و آزاد. کلمه‌ی «دوره» رو کامنت کن، تا لینک نسخه‌ی فارسی رو برات بفرستم.",
+  "tabs": [
+   "۲۱ درس",
+   "فارسی",
+   "پرامپت",
+   "ایجنت",
+   "کد",
+   "رایگان"
+  ],
+  "scenes": [
+   {
+    "w": 0,
+    "head": {
+     "h1": [
+      [
+       "پول",
+       0
+      ],
+      [
+       "دوره",
+       1
+      ],
+      [
+       "نده!",
+       4
+      ]
+     ],
+     "hl": [
+      2
+     ]
+    },
+    "els": [
+     {
+      "el": "html",
+      "html": "<div class=\"card\" style=\"left:110px;top:10px;width:700px;padding:40px 46px\" data-in=\"{w0+0.3}\" data-m=\"up\">\n<div style=\"display:flex;align-items:center;gap:24px\"><div style=\"width:84px;height:84px;border-radius:24px;flex:none;display:flex;align-items:center;justify-content:center;background:linear-gradient(145deg,#6a5cff,#a493ff)\"><svg width=\"40\" height=\"40\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2z\"/><path d=\"M4 19V5\"/></svg></div><div style=\"font-weight:900;font-size:44px\">دوره‌ی هوش مصنوعی<small style=\"display:block;font-weight:700;font-size:27px;color:var(--mut)\">ثبت‌نام · دسترسی کامل</small></div></div>\n<div style=\"margin-top:34px;display:flex;justify-content:space-between;align-items:center;font-weight:800;font-size:38px\"><span style=\"color:var(--mut)\">قیمت</span><span style=\"position:relative\">کلی تومان<i data-in=\"{w4-0.1}\" data-m=\"left\" style=\"position:absolute;left:-10px;right:-10px;top:50%;height:7px;border-radius:4px;background:#ff4f5e;display:block\"></i></span></div>\n<div style=\"margin-top:30px;height:96px;border-radius:28px;background:var(--ink);color:#fff;display:flex;align-items:center;justify-content:center;gap:16px;font-weight:900;font-size:40px\"><svg width=\"40\" height=\"40\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"9\" cy=\"20\" r=\"1.5\"/><circle cx=\"17\" cy=\"20\" r=\"1.5\"/><path d=\"M3 4h2.5l2.2 11h11l2-8H6.3\"/></svg> پرداخت</div>\n</div>\n<div class=\"chipr\" style=\"left:300px;top:540px;font-size:44px;padding:16px 34px;background:#ff4f5e\" data-in=\"{w4}\">✋ صبر کن!</div>\n<div class=\"chipr g\" style=\"left:180px;top:660px;font-size:40px;padding:14px 30px\" data-in=\"{w9}\">رایگان</div>\n<div class=\"chipr\" style=\"left:440px;top:660px;font-size:40px;padding:14px 30px;direction:ltr\" data-in=\"{w10}\">Microsoft</div>"
+     }
+    ]
+   },
+   {
+    "w": 14,
+    "head": {
+     "kick": "<b>Microsoft</b> · GitHub",
+     "h1": [],
+     "top": 250
+    },
+    "stage_top": 380,
+    "els": [
+     {
+      "el": "html",
+      "html": "<div class=\"card\" style=\"left:70px;top:470px;width:780px;padding:0\" data-in=\"{w14+0.3}\" data-m=\"up\"><div class=\"win\"><i></i><i></i><i></i><span>github.com</span></div>\n<div style=\"padding:30px 38px;direction:ltr;text-align:left\"><div style=\"font-family:Mono;font-size:30px;color:var(--mut)\">microsoft /</div>\n<div style=\"font-family:Mono;font-size:36px;font-weight:700;color:var(--ink);margin-top:6px\">generative-ai-for-beginners</div>\n<div style=\"display:flex;gap:14px;margin-top:22px;font-family:Vaz;font-weight:800;font-size:28px\"><span style=\"background:#f3eee7;border-radius:20px;padding:8px 18px\">★ 122K</span><span style=\"background:#f3eee7;border-radius:20px;padding:8px 18px\">MIT</span><span style=\"background:#f3eee7;border-radius:20px;padding:8px 18px\">21 Lessons</span></div></div></div>"
+     },
+     {
+      "el": "big",
+      "at": "23-0.1",
+      "end": "28",
+      "count": [
+       0,
+       120
+      ],
+      "y": -30,
+      "style": "font-size:300px"
+     },
+     {
+      "el": "h",
+      "y": 300,
+      "size": 80,
+      "words": [
+       [
+        "هزار",
+        28
+       ],
+       [
+        "<em>ستاره</em>",
+        29
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "w": 30,
+    "tab": 0,
+    "head": {
+     "h1": [
+      [
+       "۲۱",
+       31
+      ],
+      [
+       "درس",
+       34
+      ]
+     ],
+     "em": [
+      0
+     ]
+    },
+    "els": [
+     {
+      "el": "edges",
+      "items": [
+       {
+        "id": "l1",
+        "d": "M700 170 C 700 300 470 230 470 330",
+        "at": 37,
+        "hot": 38,
+        "pk": [
+         [
+          38,
+          0.9
+         ]
+        ]
+       },
+       {
+        "id": "l2",
+        "d": "M470 440 C 470 560 230 490 230 600",
+        "at": 40,
+        "hot": 41,
+        "pk": [
+         [
+          41,
+          0.9
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "el": "node",
+      "x": 520,
+      "y": 40,
+      "label": "درس ۱",
+      "icon": "brain",
+      "at": "30+0.3",
+      "pal": 1,
+      "sub": "مدل زبانی چیه؟"
+     },
+     {
+      "el": "node",
+      "x": 250,
+      "y": 320,
+      "label": "پرامپت · چت · ایجنت",
+      "icon": "chat",
+      "at": 39,
+      "pal": 3,
+      "sub": "درس‌های وسط"
+     },
+     {
+      "el": "node",
+      "x": 40,
+      "y": 600,
+      "label": "اپ واقعی",
+      "icon": "code",
+      "at": 41,
+      "pal": 2,
+      "sub": "درس‌های «ساخت»",
+      "lit": 43
+     }
+    ]
+   },
+   {
+    "w": 44,
+    "tab": 1,
+    "head": {
+     "h1": [
+      [
+       "ترجمه‌ی",
+       45
+      ],
+      [
+       "فارسی",
+       47
+      ]
+     ],
+     "em": [
+      1
+     ]
+    },
+    "els": [
+     {
+      "el": "html",
+      "html": "<div class=\"card\" style=\"left:150px;top:0;width:620px;padding:0\" data-in=\"{w44+0.25}\" data-m=\"up\"><div class=\"win\"><i></i><i></i><i></i><span>translations/</span></div>\n<div style=\"padding:22px 30px;direction:ltr;text-align:left;font-family:Mono;font-size:31px;font-weight:700;display:flex;flex-direction:column;gap:4px\"><div data-in=\"{w44+0.30}\" data-m=\"right\" style=\"display:flex;align-items:center;gap:18px;padding:12px 22px;border-radius:18px;color:var(--mut)\">📁 translations/ar</div><div data-in=\"{w44+0.37}\" data-m=\"right\" style=\"display:flex;align-items:center;gap:18px;padding:12px 22px;border-radius:18px;color:var(--mut)\">📁 translations/de</div><div data-in=\"{w44+0.44}\" data-m=\"right\" style=\"display:flex;align-items:center;gap:18px;padding:12px 22px;border-radius:18px;color:var(--mut)\">📁 translations/es</div><div data-in=\"{w44+0.51}\" data-m=\"right\" style=\"display:flex;align-items:center;gap:18px;padding:12px 22px;border-radius:18px;background:var(--a);color:#fff;font-size:38px\">📁 translations/fa ✓</div><div data-in=\"{w44+0.58}\" data-m=\"right\" style=\"display:flex;align-items:center;gap:18px;padding:12px 22px;border-radius:18px;color:var(--mut)\">📁 translations/fr</div><div data-in=\"{w44+0.65}\" data-m=\"right\" style=\"display:flex;align-items:center;gap:18px;padding:12px 22px;border-radius:18px;color:var(--mut)\">📁 translations/ja</div><div data-in=\"{w44+0.72}\" data-m=\"right\" style=\"display:flex;align-items:center;gap:18px;padding:12px 22px;border-radius:18px;color:var(--mut)\">📁 translations/ko</div><div data-in=\"{w44+0.79}\" data-m=\"right\" style=\"display:flex;align-items:center;gap:18px;padding:12px 22px;border-radius:18px;color:var(--mut)\">📁 translations/tr</div></div></div>"
+     },
+     {
+      "el": "chip",
+      "x": 290,
+      "y": 690,
+      "text": "همه‌ی درس‌ها",
+      "icon": "check",
+      "cls": "g",
+      "at": 46
+     }
+    ]
+   },
+   {
+    "w": 49,
+    "tab": 2,
+    "head": {
+     "h1": [
+      [
+       "مهندسی",
+       50
+      ],
+      [
+       "پرامپت",
+       51
+      ]
+     ],
+     "em": [
+      1
+     ]
+    },
+    "els": [
+     {
+      "el": "node",
+      "x": 40,
+      "y": 20,
+      "label": "پرامپت ساده",
+      "icon": "pen",
+      "at": "49+0.3",
+      "pal": 6,
+      "sub": "یه خط"
+     },
+     {
+      "el": "node",
+      "x": 500,
+      "y": 20,
+      "label": "پرامپت حرفه‌ای",
+      "icon": "spark",
+      "at": 52,
+      "pal": 0,
+      "sub": "ساختاردار",
+      "lit": 55
+     },
+     {
+      "el": "edges",
+      "items": [
+       {
+        "id": "p1",
+        "d": "M420 85 L 495 85",
+        "at": "51+0.2",
+        "hot": 52,
+        "pk": [
+         [
+          52,
+          0.6,
+          1.4
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "el": "checklist",
+      "y": 220,
+      "at": 52,
+      "items": [
+       [
+        "نقش و هدف",
+        53
+       ],
+       [
+        "مثال",
+        54
+       ],
+       [
+        "قالب خروجی",
+        55
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "w": 56,
+    "tab": 3,
+    "head": {
+     "h1": [
+      [
+       "چت‌بات",
+       58
+      ],
+      [
+       "جستجو",
+       59
+      ],
+      [
+       "ایجنت",
+       62
+      ]
+     ],
+     "em": [
+      2
+     ]
+    },
+    "els": [
+     {
+      "el": "edges",
+      "items": [
+       {
+        "id": "a1",
+        "d": "M160 210 C 160 380 460 330 460 480",
+        "at": 58,
+        "hot": 58,
+        "pk": [
+         [
+          "58+0.3",
+          0.8,
+          1.8
+         ]
+        ]
+       },
+       {
+        "id": "a2",
+        "d": "M460 210 L 460 480",
+        "at": 59,
+        "hot": 59,
+        "pk": [
+         [
+          "59+0.3",
+          0.8,
+          1.8
+         ]
+        ]
+       },
+       {
+        "id": "a3",
+        "d": "M760 210 C 760 380 460 330 460 480",
+        "at": 62,
+        "hot": 62,
+        "pk": [
+         [
+          "62+0.3",
+          0.8,
+          1.8
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "el": "node",
+      "x": 310,
+      "y": 500,
+      "label": "اپ خودت",
+      "icon": "code",
+      "at": "56+0.3",
+      "pal": 6,
+      "cls": "c big",
+      "lit": 64
+     },
+     {
+      "el": "node",
+      "x": 30,
+      "y": 40,
+      "label": "چت‌بات",
+      "icon": "chat",
+      "at": 58,
+      "pal": 0,
+      "cls": "c",
+      "m": "drop"
+     },
+     {
+      "el": "node",
+      "x": 335,
+      "y": 40,
+      "label": "جستجو",
+      "icon": "search",
+      "at": 59,
+      "pal": 3,
+      "cls": "c",
+      "m": "drop"
+     },
+     {
+      "el": "node",
+      "x": 640,
+      "y": 40,
+      "label": "ایجنت",
+      "icon": "spark",
+      "at": 62,
+      "pal": 1,
+      "cls": "c",
+      "m": "drop"
+     }
+    ]
+   },
+   {
+    "w": 65,
+    "tab": 4,
+    "head": {
+     "h1": [
+      [
+       "پایتون",
+       68
+      ],
+      [
+       "+",
+       70
+      ],
+      [
+       "تایپ‌اسکریپت",
+       71
+      ]
+     ],
+     "em": [
+      0,
+      2
+     ]
+    },
+    "els": [
+     {
+      "el": "html",
+      "html": "<div class=\"card\" style=\"left:465px;top:60px;width:440px;padding:0;background:#1c1a22;border-color:#2c2934\" data-in=\"{w65}\" data-m=\"up\"><div class=\"win\" style=\"border-color:#2c2934\"><i></i><i></i><i></i><span style=\"color:#ffd065\">app.py</span></div><div style=\"padding:26px 26px;direction:ltr;text-align:left;font-family:Mono;font-size:23px;font-weight:700;color:#e9e4f0;line-height:1.75\"><div data-in=\"{w65+0.15}\" data-m=\"left\"><span style=\"color:#a493ff\">prompt</span> = \"...\"</div><div data-in=\"{w65+0.30}\" data-m=\"left\">reply = ask(prompt)</div><div data-in=\"{w65+0.45}\" data-m=\"left\"><span style=\"color:#5fd9b6\">print</span>(reply)</div></div></div>"
+     },
+     {
+      "el": "html",
+      "html": "<div class=\"card\" style=\"left:15px;top:60px;width:440px;padding:0;background:#1c1a22;border-color:#2c2934\" data-in=\"{w70}\" data-m=\"up\"><div class=\"win\" style=\"border-color:#2c2934\"><i></i><i></i><i></i><span style=\"color:#7cc1ff\">app.ts</span></div><div style=\"padding:26px 26px;direction:ltr;text-align:left;font-family:Mono;font-size:23px;font-weight:700;color:#e9e4f0;line-height:1.75\"><div data-in=\"{w70+0.15}\" data-m=\"left\"><span style=\"color:#7cc1ff\">const</span> prompt = \"...\";</div><div data-in=\"{w70+0.30}\" data-m=\"left\"><span style=\"color:#7cc1ff\">const</span> reply =</div><div data-in=\"{w70+0.45}\" data-m=\"left\">  <span style=\"color:#7cc1ff\">await</span> ask(prompt);</div><div data-in=\"{w70+0.60}\" data-m=\"left\">console.log(reply);</div></div></div>"
+     },
+     {
+      "el": "chip",
+      "x": 300,
+      "y": 560,
+      "text": "هر دو زبان",
+      "icon": "code",
+      "cls": "a",
+      "at": 71
+     }
+    ]
+   },
+   {
+    "w": 72,
+    "tab": 5,
+    "dark": true,
+    "head": {
+     "h1": [
+      [
+       "رایگان",
+       78
+      ],
+      [
+       "و",
+       79
+      ],
+      [
+       "آزاد",
+       80
+      ]
+     ],
+     "em": [
+      0
+     ]
+    },
+    "els": [
+     {
+      "el": "node",
+      "x": 290,
+      "y": 30,
+      "label": "MIT",
+      "icon": "check",
+      "at": "72+0.3",
+      "pal": 2,
+      "sub": "مجوز متن‌باز",
+      "cls": "c big",
+      "lit": 75
+     },
+     {
+      "el": "checklist",
+      "y": 360,
+      "at": 76,
+      "items": [
+       [
+        "خوندن همه‌ی درس‌ها",
+        78
+       ],
+       [
+        "دانلود و تغییر",
+        79
+       ],
+       [
+        "بدون اشتراک",
+        80
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "w": 81,
+    "type": "cta",
+    "keyword": "دوره",
+    "dm": "لینک نسخه‌ی فارسی دوره"
+   }
+  ]
  }
 }
