@@ -1149,7 +1149,7 @@
   "topic": "کپشن اینستاگرام با AI",
   "metricool_uuid": "5117316827222917434",
   "metricool_date": "2026-10-25T21:00",
-  "status": "scheduled",
+  "status": "published",
   "id": "in-2026-11-03-reel",
   "yt_key": "fa_caption",
   "override": {
@@ -1159,7 +1159,8 @@
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel14_caption.jpg"
   },
   "via": "uplika",
-  "uplika_post": "post_eed97ccd419f38ca"
+  "uplika_post": "post_eed97ccd419f38ca",
+  "url": "https://www.instagram.com/reel/DfMF7NSjRVE/"
  },
  {
   "platform": "instagram",
@@ -1432,9 +1433,10 @@
   "kind": "short",
   "id": "yt-revprompt",
   "yt_key": "revprompt",
-  "status": "scheduled",
+  "status": "failed",
   "via": "uplika",
-  "uplika_post": "post_edaacc47760637f1"
+  "uplika_post": "post_edaacc47760637f1",
+  "note": "Uplika youtube_daily_cap (1 Nov 16:00 Tehran): Uplika's shared daily YouTube upload limit ran out; refills 2 Nov 08:00 UTC (11:30 Tehran). Not an account problem, reconnecting won't help. Uplika help: after the refill, resend with retry_post (https://uplika.com/en/docs/help#youtube-daily-limit)."
  },
  {
   "platform": "youtube",
