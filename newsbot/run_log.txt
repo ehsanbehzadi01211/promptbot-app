@@ -1,35 +1,12 @@
-Sun Nov  1 23:31:54 UTC 2026
+Mon Nov  2 04:46:38 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 0 fresh
-Google: 0 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 0 fresh
-Hugging Face: 0 fresh
-The Verge: 1 fresh
-TechCrunch: 6 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 0 fresh
-Product Hunt: 1 fresh
-Anthropic: 26 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 21 fresh
-new items: 2
-translated via clients5
-translated via clients5
-sent card Anthropic Updates Claude To Stop It From Recreating Existing
-translated via clients5
-translated via clients5
-sent card AI agents don't have to break security controls to go rogue.
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
 promo sent in-2026-10-30-reel
 promo sent in-2026-10-31-reel
 promo sent in-2026-11-01-reel
+promo sent in-2026-11-03-reel
 promo sent in-2026-10-29-v8imagetools
 Traceback (most recent call last):
   File "/home/runner/work/promptbot-app/promptbot-app/newsbot/promo.py", line 77, in <module>
