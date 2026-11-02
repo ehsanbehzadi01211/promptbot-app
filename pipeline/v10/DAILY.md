@@ -58,6 +58,20 @@ override per scene with `"host": "big" | "corner" | "off"` (use "off" where a sc
 laptop and ui: always the top-left circle. Always look at the `--stills` frames and fix overlaps before rendering.
 (ElevenLabs video/lip-sync models need a paid plan on this account, so the host is animated in code.)
 
+## 2c. Reach rules (owner asked 2 Nov after the diagnosis; see project doc reach-diagnosis-2026-11-02)
+
+Measured: @ehbehzad reels get ~200 views (3.6K followers) while mgh.mobin (149K) has a median of 62K. Spikes came only from
+"free tool + comment keyword" reels (2-4K); generic tip lists and ads for Claude stayed at ~200. So:
+* **Pick order**: prefer ideas that name a real FREE tool/limit (verified) or a surprising proof («این رو من نساختم», «X رو کشت»). Skip pure tip lists
+  and trading/finance topics unless nothing else is todo.
+* **Hook (first 2 s, spoken + on screen)**: one sharp claim or proof, not a title. Examples of the style that works for the references:
+  «این ویدیو رو من نساختم 👀», «هنوز توی سطح یکی هستی؟», «پول X نده، این رایگانه». Never start with "۳ تا ..." alone.
+* **Length**: the references run 40-75 s (mgh.mobin median 66 s). From now on make every second reel 45-60 s (more concrete steps,
+  not filler) to test watch time; keep the others at 30-40 s. Note the length in ideas.json (`len`).
+* **Caption**: hook line + 2-4 short lines + the keyword line. Footer is ONE line `📷 @ehbehzad` only (no YouTube/Telegram lines),
+  at most 3 hashtags. Telegram/YouTube links go into the DM message instead.
+* After 7 days, re-measure with `/api/v1/media/{id}/info/` (Chrome tab) and compare against the previous week; log the numbers in the project doc.
+
 ## 3. Voice + word times (ElevenLabs MCP)
 
 * `creative_generate_speech`: model `eleven_v4`, voice Aran Parsi `PEdcOLzbXYhL8IKOswXB`,
@@ -107,7 +121,7 @@ Every reel gets its OWN background track; never reuse one.
   `ehbehzad/v10_<key>_final` so the file is fixed.
 * Uplika `media_from_url` (final URL, aiGenerated true) → `publish` to Instagram `conn_a8ade4f9de0c6bca`,
   `options.instagram.contentType: "reel"`, `isAiGenerated: true`, caption = hook line + body + keyword line +
-  footer (▶️ یوتیوب: youtube.com/@ehbehzad / 📷 اینستاگرام: @ehbehzad / 📢 تلگرام: @ehbehzad_ai) + 5 hashtags.
+  footer `📷 @ehbehzad` only (see 2c: no YouTube/Telegram lines in the caption) + at most 3 hashtags.
 * Slot (owner, 29 Oct): at most TWO Instagram reels per day, at 10:00 and 21:00 Tehran (the hours with the
   most views/comments on our page; 17:00 was weak). New reels go at 21:00: take the first day from tomorrow on
   with no reel at 21:00 UTC+03:30 (= 17:30 UTC) and fewer than 2 reels that day; check with
@@ -133,8 +147,10 @@ hooshyar = «هوشیار | هوش مصنوعی به زبان ساده», same t
   (media_from_url of their Uplika cdn file, same caption with the hooshyar footer, own comment_to_dm automations) and fill every slot until
   11 Nov 10:00. A new reel takes the first free 21:00 slot (check `list_posts status=scheduled sort=scheduled` with workspaceId ws_b59367124738a6a7).
   Every hooshyar post needs its own comment_to_dm. DM auto-reply (ai_reply) is on for both pages (af_ec33805335e450f1 hooshyar, af_d33e3005c804bd63 ehbehzad). It goes out on hooshyar first and later on @ehbehzad, which is fine.
+* **Duplicate-content rule (2 Nov)**: the 18 copied reels stay as scheduled, but NEW reels must not be a same-day twin. Post on hooshyar at least 3 days AFTER
+  @ehbehzad, with a re-worded hook line and caption (not copy-paste). If the topic queue allows, prefer giving hooshyar a different idea.
 * Caption: same text, but the footer is `🤖 هوشیار | هوش مصنوعی به زبان ساده` + `📷 @hooshyar__ai`
-  (no @ehbehzad YouTube/Telegram lines). Same 5 hashtags.
+  (no @ehbehzad YouTube/Telegram lines). At most 3 hashtags.
 * `create_comment_to_dm` with workspaceId ws_b59367124738a6a7, accountId conn_dbfffe5a1a54753c, same keyword,
   deliver and button; notFollowingMessage asks to follow @hooshyar__ai. Example: automation af_56d9170e4662c485 (agents7).
 * In ideas.json also set `hy_post`, `hy_date`, `hy_automation`.

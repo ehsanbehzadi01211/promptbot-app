@@ -1,5 +1,5 @@
 {
- "_note": "Daily queue. The daily task takes the first item with status 'todo', makes it, and sets status 'scheduled' + post id + date. Formats: list = build9 numbered-list style (spec9.json), laptop = laptop.py neon laptop style (laptop.json). Verify every tool, price and free quota on the day; if it changed or can't be verified, rewrite or skip the idea.",
+ "_note": "Daily queue. The daily task takes the first item with status 'todo', makes it, and sets status 'scheduled' + post id + date. Formats: list = build9 numbered-list style (spec9.json), laptop = laptop.py neon laptop style (laptop.json). Verify every tool, price and free quota on the day; if it changed or can't be verified, rewrite or skip the idea. | 2 Nov: see DAILY.md 2c - prefer free-tool/proof hooks, 45-60 s on every 2nd reel.",
  "items": [
   {
    "n": 1,
