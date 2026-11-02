@@ -12,7 +12,7 @@ from playwright.sync_api import sync_playwright
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from build9 import bed, final_mix, W, H, FPS, LEAD, FONT, ROOT
 
-TAIL = 1.6
+TAIL = 3.4   # last ~2.6 s = follow card (owner 2 Nov, style of the speedy_devv reference)
 E = html.escape
 
 # ----------------------------------------------------------------------------------------------- icons
@@ -78,6 +78,12 @@ body{font-family:Vaz,sans-serif;direction:rtl;color:var(--ink);-webkit-font-smoo
   box-shadow:0 6px 20px rgba(40,30,20,.06);white-space:nowrap;overflow:hidden;transition:none}
 #hdl{position:absolute;top:26px;right:60px;z-index:50;font:800 30px Vaz,sans-serif;direction:ltr;color:#3a3340;background:rgba(255,255,255,.82);border:1.5px solid var(--line);border-radius:30px;padding:6px 22px 8px;box-shadow:0 6px 18px rgba(40,30,20,.08)}
 .dk-on #hdl{color:#fff;background:rgba(255,255,255,.14)}
+#fol{position:absolute;inset:0;z-index:70;opacity:0;pointer-events:none;background:rgba(246,241,234,.72);-webkit-backdrop-filter:blur(26px);backdrop-filter:blur(26px);display:flex;align-items:center;justify-content:center}
+#fol .fc{width:800px;border-radius:64px;background:#fff;box-shadow:0 40px 100px rgba(40,30,20,.22);padding:70px 50px 64px;text-align:center}
+#fol .av{width:230px;height:230px;border-radius:50%;margin:0 auto 34px;border:6px solid #fff;box-shadow:0 14px 40px rgba(40,30,20,.25);background:#111 center/cover}
+#fol .hd{font:900 66px Vaz,sans-serif;direction:ltr;color:#17141c}
+#fol .tg{font:700 40px Vaz,sans-serif;color:var(--mut);margin-top:14px}
+#fol .bt{display:inline-block;margin-top:46px;font:900 54px Vaz,sans-serif;background:var(--a);color:#fff;padding:20px 76px 26px;border-radius:70px;box-shadow:0 16px 40px var(--a2)}
 #tabs .tb.on{background:var(--ink);color:#fff;border-color:var(--ink)}
 #tabs .tb.done{color:var(--a)}
 /* headline */
@@ -247,6 +253,8 @@ window.tick=function(t){
     const age=t-WS[ids[0]][1];
     sub.style.opacity=cl(age/.15);
     sub.innerHTML=ids.map(i=>`<span class="${i===cur?'on':(i<cur?'s':'')}">${WS[i][0]}</span>`).join('')}
+  // follow card
+  {const fo=document.getElementById('fol'); if(fo){const q=cl((t-window.FOL)/.5); fo.style.opacity=q; fo.firstElementChild.style.transform=`translateY(${(1-ex(q))*70}px) scale(${.93+.07*ex(q)})`}}
   // flash
   let fl=0; for(const s of window.FLASH){const q=t-s; if(q>=0&&q<.2) fl=Math.max(fl,.45*(1-q/.2))} document.getElementById('flash').style.opacity=fl;
 };
@@ -437,6 +445,11 @@ def build(key):
     variant = os.environ.get("UI_VARIANT", "")
     # owner 2 Nov: the hooshyar version differs ONLY by the page handle burned into the video (same colours, same voice)
     handle = "@hooshyar__ai" if variant == "hooshyar" else "@ehbehzad"
+    tagline = "هوش مصنوعی به زبان ساده" if variant == "hooshyar" else "ترفندهای هوش مصنوعی"
+    import base64
+    av = base64.b64encode(open(os.path.join(ROOT, "out", "mascot_2_robot_glass.png"), "rb").read()).decode()
+    fol_html = (f'<div id="fol"><div class="fc"><div class="av" style="background-image:url(data:image/png;base64,{av})"></div>'
+                f'<div class="hd">{handle}</div><div class="tg">{tagline}</div><div class="bt">+ فالو</div></div></div>')
     words = json.load(open(os.path.join(ROOT, "words10", key + ".json")))
     toks = spec["voice"].replace("[excited]", "").split()
     ts = [LEAD + x for x in words["t"]]
@@ -475,8 +488,8 @@ def build(key):
     page = (f'<!doctype html><html lang="fa"><head><meta charset="utf-8"><style>{CSS.replace("FONT", FONT)}</style></head>'
             f'<body style="--a:{spec.get("accent", "#e8693c")};--a2:{spec.get("accent2", "rgba(232,105,60,.22)")}">'
             f'<div id="bg">{blobs}<div class="grid"></div></div><div id="dark"><div class="grid"></div></div>'
-            f'<div id="cam">{"".join(parts)}</div><div id="hdl">{handle}</div><div id="tabs">{tabs}</div><div id="subs"></div><div id="flash"></div>'
-            f'<script>window.SCN={json.dumps(S)};window.TOTAL={total:.3f};window.CTA={cta_at:.3f};window.TABS_ON={tabs_on};'
+            f'<div id="cam">{"".join(parts)}</div><div id="hdl">{handle}</div><div id="tabs">{tabs}</div><div id="subs"></div><div id="flash"></div>{fol_html}'
+            f'<script>window.SCN={json.dumps(S)};window.TOTAL={total:.3f};window.CTA={cta_at:.3f};window.FOL={total - 2.6:.3f};window.TABS_ON={tabs_on};'
             f'window.WORDS={json.dumps(WORDS, ensure_ascii=False)};window.FLASH={json.dumps([round(cta_at + .1, 3)])};{JS}</script>'
             f'{host_html}</body></html>')
     out_dir = os.path.join(ROOT, "out"); os.makedirs(out_dir, exist_ok=True)
@@ -489,6 +502,7 @@ def build(key):
             for k_, (a, e) in enumerate(zip(starts, ends)):
                 for tt in (a + .5, min(e - .4, a + 3.2)):
                     pg.evaluate(seek, tt); pg.screenshot(path=os.path.join(out_dir, f"{key}_ui_{k_}_{tt:05.2f}.png"))
+            pg.evaluate(seek, total - .4); pg.screenshot(path=os.path.join(out_dir, f"{key}_ui_end.png"))
             br.close(); return
         silent = os.path.join(out_dir, f"{key}{'_hy' if variant else ''}_silent.mp4")
         ff = subprocess.Popen(["ffmpeg", "-v", "error", "-y", "-f", "image2pipe", "-framerate", str(FPS), "-c:v", "mjpeg", "-i", "-",
