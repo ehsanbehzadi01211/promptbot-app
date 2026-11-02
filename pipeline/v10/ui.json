@@ -1358,5 +1358,545 @@
     "dm": "لینک نسخه‌ی فارسی دوره"
    }
   ]
+ },
+ "hyperframes": {
+  "keyword": "هایپر",
+  "accent": "#e8693c",
+  "host": "robot",
+  "voice": "[excited] من دیگه ویدیو ادیت نمی‌کنم؛ کدش رو می‌نویسم! همین ویدیو هم با کد ساخته شده. ابزار رایگانش اسمش HyperFrames هست؛ اوپن‌سورسه، مال HeyGen، و کد HTML رو مستقیم تبدیل می‌کنه به ویدیوی MP4. یعنی Claude کد می‌نویسه، تو ویدیو تحویل می‌گیری. یک: با دو تا دستور، روی Claude Code نصبش می‌کنی. دو: فقط بگو چی می‌خوای؛ مثلاً یه معرفی محصول ده ثانیه‌ای، با تیتر و موزیک. سه: Claude صحنه‌ها رو با HTML و انیمیشن می‌سازه، و توی مرورگر پیش‌نمایشش رو می‌بینی. چهار: حدود چهارصد و پنجاه بلوک آماده داره؛ ترنزیشن، زیرنویس، نمودار، نقشه. پنج: رندر روی سیستم خودت انجام می‌شه، بدون هزینه‌ی هر رندر؛ فقط Node بیست‌ودو و FFmpeg می‌خواد. کلمه‌ی «هایپر» رو کامنت کن، تا دستورهای نصب و لینک گیت‌هابش رو برات بفرستم.",
+  "tabs": [
+   "نصب",
+   "پرامپت",
+   "پیش‌نمایش",
+   "۴۵۰ بلوک",
+   "رندر رایگان"
+  ],
+  "scenes": [
+   {
+    "w": 0,
+    "head": {
+     "h1": [
+      [
+       "ویدیو",
+       2
+      ],
+      [
+       "ادیت",
+       3
+      ],
+      [
+       "نمی‌کنم!",
+       4
+      ]
+     ],
+     "hl": [
+      1
+     ]
+    },
+    "els": [
+     {
+      "el": "html",
+      "html": "<div class=\"card\" style=\"left:90px;top:0;width:740px;padding:0\" data-in=\"{w0+0.3}\" data-m=\"up\"><div class=\"win\"><i></i><i></i><i></i><span>video-editor</span></div><div style=\"padding:26px 30px;display:flex;flex-direction:column;gap:14px;direction:ltr\"><div style=\"display:flex;gap:10px\"><i style=\"display:block;height:46px;width:230px;border-radius:12px;background:#b7a8ff\"></i><i style=\"display:block;height:46px;width:150px;border-radius:12px;background:#ffb38a\"></i><i style=\"display:block;height:46px;width:260px;border-radius:12px;background:#9ee6c9\"></i></div><div style=\"display:flex;gap:10px\"><i style=\"display:block;height:46px;width:120px;border-radius:12px;background:#ffd065\"></i><i style=\"display:block;height:46px;width:330px;border-radius:12px;background:#7cc1ff\"></i><i style=\"display:block;height:46px;width:150px;border-radius:12px;background:#ff9db0\"></i></div><div style=\"display:flex;gap:10px\"><i style=\"display:block;height:30px;width:660px;border-radius:10px;background:repeating-linear-gradient(90deg,#d9d2c8 0 6px,transparent 6px 12px)\"></i></div></div><i data-in=\"{w3}\" data-m=\"left\" style=\"position:absolute;left:30px;right:30px;top:52%;height:9px;border-radius:5px;background:#ff4f5e;display:block;transform:rotate(-8deg)\"></i></div>"
+     },
+     {
+      "el": "html",
+      "html": "<div class=\"card\" style=\"left:130px;top:330px;width:660px;padding:0;background:#1c1a22;border-color:#2c2934\" data-in=\"{w5}\" data-m=\"up\"><div class=\"win\" style=\"border-color:#2c2934\"><i></i><i></i><i></i><span style=\"color:#ffd065\">video.html</span></div><div style=\"padding:26px 30px;direction:ltr;text-align:left;font-family:Mono;font-size:27px;font-weight:700;color:#e9e4f0;line-height:1.7\"><div data-in=\"{w5+0.2}\" data-m=\"left\"><span style=\"color:#a493ff\">&lt;div</span> class=\"title\"<span style=\"color:#a493ff\">&gt;</span></div><div data-in=\"{w6+0.1}\" data-m=\"left\">  gsap.from(title, {y: 80})</div><div data-in=\"{w7}\" data-m=\"left\"><span style=\"color:#5fd9b6\">render</span>() → video.mp4 ✓</div></div></div>"
+     },
+     {
+      "el": "chip",
+      "x": 250,
+      "y": 690,
+      "text": "همین ویدیو هم کده",
+      "icon": "code",
+      "cls": "a",
+      "at": 10
+     }
+    ]
+   },
+   {
+    "w": 15,
+    "head": {
+     "kick": "<b>HeyGen</b> · open source",
+     "h1": [
+      [
+       "HyperFrames",
+       18
+      ]
+     ],
+     "em": [
+      0
+     ]
+    },
+    "els": [
+     {
+      "el": "edges",
+      "items": [
+       {
+        "id": "h1",
+        "d": "M460 185 L 460 330",
+        "at": 25,
+        "hot": 27,
+        "pk": [
+         [
+          "25+0.2",
+          0.7,
+          1.4
+         ]
+        ]
+       },
+       {
+        "id": "h2",
+        "d": "M460 510 L 460 600",
+        "at": 29,
+        "hot": 31,
+        "pk": [
+         [
+          "29+0.2",
+          0.7,
+          1.4
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "el": "node",
+      "x": 300,
+      "y": 20,
+      "label": "HTML",
+      "icon": "code",
+      "at": "15+0.3",
+      "pal": 3,
+      "sub": "کد صفحه",
+      "cls": "c"
+     },
+     {
+      "el": "node",
+      "x": 290,
+      "y": 335,
+      "label": "HyperFrames",
+      "icon": "bolt",
+      "at": 18,
+      "pal": 0,
+      "sub": "رندر",
+      "cls": "c big",
+      "lit": 28
+     },
+     {
+      "el": "node",
+      "x": 300,
+      "y": 610,
+      "label": "MP4",
+      "icon": "eye",
+      "at": 31,
+      "pal": 2,
+      "sub": "ویدیوی نهایی",
+      "cls": "c",
+      "lit": 32
+     },
+     {
+      "el": "chip",
+      "x": 30,
+      "y": 330,
+      "text": "رایگان",
+      "icon": "check",
+      "cls": "g",
+      "at": 16
+     },
+     {
+      "el": "chip",
+      "x": 660,
+      "y": 330,
+      "text": "اوپن‌سورس",
+      "icon": "code",
+      "cls": "a",
+      "at": 20
+     }
+    ]
+   },
+   {
+    "w": 33,
+    "head": {
+     "h1": [
+      [
+       "کد",
+       35
+      ],
+      [
+       "←",
+       37
+      ],
+      [
+       "ویدیو",
+       38
+      ]
+     ],
+     "em": [
+      2
+     ]
+    },
+    "els": [
+     {
+      "el": "chat",
+      "x": 90,
+      "y": 0,
+      "w": 740,
+      "h": 400,
+      "at": "33+0.3",
+      "app": "Claude Code",
+      "msgs": [
+       {
+        "who": "me",
+        "text": "یه ویدیو بساز",
+        "at": "33+0.3"
+       },
+       {
+        "who": "ai",
+        "text": "index.html · animation.js ✓",
+        "at": 35,
+        "type": "36+0.3"
+       }
+      ]
+     },
+     {
+      "el": "html",
+      "html": "<div class=\"card\" style=\"left:200px;top:440px;width:520px;height:300px;padding:0;background:linear-gradient(135deg,#6a5cff,#ff9d6b)\" data-in=\"{w38}\" data-m=\"pop\"><div style=\"position:absolute;inset:0;display:flex;align-items:center;justify-content:center\"><div style=\"width:110px;height:110px;border-radius:50%;background:rgba(255,255,255,.9);display:flex;align-items:center;justify-content:center\"><svg width=\"50\" height=\"50\" viewBox=\"0 0 24 24\"><path d=\"M8 5v14l11-7z\" fill=\"#1c1a22\"/></svg></div></div><div style=\"position:absolute;left:24px;right:24px;bottom:22px;height:10px;border-radius:5px;background:rgba(255,255,255,.35)\"><i data-fill=\"{w39},{w40+0.6},100\" style=\"display:block;height:100%;border-radius:5px;background:#fff\"></i></div></div>"
+     }
+    ]
+   },
+   {
+    "w": 41,
+    "tab": 0,
+    "head": {
+     "h1": [
+      [
+       "دو",
+       "43"
+      ],
+      [
+       "دستور",
+       "45"
+      ]
+     ],
+     "em": [
+      1
+     ]
+    },
+    "els": [
+     {
+      "el": "html",
+      "html": "<div class=\"card\" style=\"left:40px;top:20px;width:840px;padding:0;background:#1c1a22;border-color:#2c2934\" data-in=\"{w41+0.3}\" data-m=\"up\"><div class=\"win\" style=\"border-color:#2c2934\"><i></i><i></i><i></i><span style=\"color:#ffd065\">terminal</span></div><div style=\"padding:26px 30px;direction:ltr;text-align:left;font-family:Mono;font-size:27px;font-weight:700;color:#e9e4f0;line-height:1.7\"><div data-in=\"{w42}\" data-m=\"left\"><span style=\"color:#5fd9b6\">$</span> claude plugin marketplace add</div><div data-in=\"{w43}\" data-m=\"left\">  heygen-com/hyperframes</div><div data-in=\"{w45}\" data-m=\"left\"><span style=\"color:#5fd9b6\">$</span> claude plugin install</div><div data-in=\"{w46}\" data-m=\"left\">  hyperframes@hyperframes</div><div data-in=\"{w49}\" data-m=\"left\"><span style=\"color:#9ee6c9\">✓ installed</span></div></div></div>"
+     },
+     {
+      "el": "chip",
+      "x": 300,
+      "y": 520,
+      "text": "Claude Code",
+      "icon": "tool",
+      "cls": "a",
+      "at": 47
+     },
+     {
+      "el": "chip",
+      "x": 330,
+      "y": 640,
+      "text": "نصب شد",
+      "icon": "check",
+      "cls": "g",
+      "at": 49
+     }
+    ]
+   },
+   {
+    "w": 51,
+    "tab": 1,
+    "head": {
+     "h1": [
+      [
+       "فقط",
+       "52"
+      ],
+      [
+       "بگو",
+       "53"
+      ]
+     ],
+     "em": [
+      1
+     ]
+    },
+    "els": [
+     {
+      "el": "chat",
+      "x": 70,
+      "y": 0,
+      "w": 780,
+      "h": 330,
+      "at": "51+0.3",
+      "app": "/hyperframes",
+      "msgs": [
+       {
+        "who": "me",
+        "text": "یه معرفی محصول ۱۰ ثانیه‌ای، با تیتر و موزیک",
+        "at": "52",
+        "type": "61"
+       },
+       {
+        "who": "ai",
+        "dots": true,
+        "at": "62"
+       }
+      ]
+     },
+     {
+      "el": "tiles",
+      "y": 420,
+      "at": 60,
+      "step": 0.45,
+      "items": [
+       [
+        "۱۰ ثانیه",
+        "target"
+       ],
+       [
+        "تیتر",
+        "pen"
+       ],
+       [
+        "موزیک",
+        "spark"
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "w": 66,
+    "tab": 2,
+    "head": {
+     "h1": [
+      [
+       "صحنه‌ها",
+       "68"
+      ],
+      [
+       "پیش‌نمایش",
+       "78"
+      ]
+     ],
+     "em": [
+      1
+     ]
+    },
+    "els": [
+     {
+      "el": "edges",
+      "items": [
+       {
+        "id": "p1",
+        "d": "M150 210 C 150 330 460 300 460 425",
+        "at": 74,
+        "hot": 76,
+        "pk": [
+         [
+          "74+0.2",
+          0.8
+         ]
+        ]
+       },
+       {
+        "id": "p2",
+        "d": "M460 210 L 460 425",
+        "at": "74+0.1",
+        "pk": [
+         [
+          "74+0.3",
+          0.8
+         ]
+        ]
+       },
+       {
+        "id": "p3",
+        "d": "M770 210 C 770 330 460 300 460 425",
+        "at": "74+0.2",
+        "pk": [
+         [
+          "74+0.4",
+          0.8
+         ]
+        ]
+       }
+      ]
+     },
+     {
+      "el": "node",
+      "x": 30,
+      "y": 50,
+      "label": "صحنه ۱",
+      "icon": "doc",
+      "at": "66+0.3",
+      "pal": 3,
+      "cls": "c",
+      "m": "drop"
+     },
+     {
+      "el": "node",
+      "x": 335,
+      "y": 50,
+      "label": "صحنه ۲",
+      "icon": "doc",
+      "at": 68,
+      "pal": 1,
+      "cls": "c",
+      "m": "drop"
+     },
+     {
+      "el": "node",
+      "x": 640,
+      "y": 50,
+      "label": "صحنه ۳",
+      "icon": "doc",
+      "at": 71,
+      "pal": 5,
+      "cls": "c",
+      "sub": "انیمیشن",
+      "m": "drop"
+     },
+     {
+      "el": "html",
+      "html": "<div class=\"card\" style=\"left:180px;top:430px;width:560px;padding:0\" data-in=\"{w76}\" data-m=\"up\"><div class=\"win\"><i></i><i></i><i></i><span>localhost · preview</span></div><div style=\"height:200px;margin:20px;border-radius:20px;background:linear-gradient(135deg,#1c1a22,#3b3550);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:900;font-size:46px\">محصول تو ✨</div><div style=\"margin:0 24px 24px;height:12px;border-radius:6px;background:#ece6de\"><i data-fill=\"{w77},{w80+0.5},100\" style=\"display:block;height:100%;border-radius:6px;background:var(--a)\"></i></div></div>"
+     }
+    ]
+   },
+   {
+    "w": 81,
+    "tab": 3,
+    "head": {
+     "kick": "<b>HyperFrames Registry</b>",
+     "h1": [],
+     "top": 250
+    },
+    "stage_top": 380,
+    "els": [
+     {
+      "el": "big",
+      "at": "81+0.3",
+      "end": "85+0.4",
+      "count": [
+       0,
+       450
+      ],
+      "y": -30,
+      "style": "font-size:260px"
+     },
+     {
+      "el": "h",
+      "y": 290,
+      "size": 80,
+      "words": [
+       [
+        "بلوک",
+        "86"
+       ],
+       [
+        "<em>آماده</em>",
+        "87"
+       ]
+      ]
+     },
+     {
+      "el": "tiles",
+      "y": 430,
+      "at": 89,
+      "step": 0.42,
+      "items": [
+       [
+        "ترنزیشن",
+        "loop"
+       ],
+       [
+        "زیرنویس",
+        "doc"
+       ],
+       [
+        "نمودار",
+        "target"
+       ],
+       [
+        "نقشه",
+        "flag"
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "w": 93,
+    "tab": 4,
+    "dark": true,
+    "head": {
+     "h1": [
+      [
+       "رندر",
+       "94"
+      ],
+      [
+       "روی",
+       "95"
+      ],
+      [
+       "سیستم",
+       "96"
+      ],
+      [
+       "خودت",
+       "97"
+      ]
+     ],
+     "em": [
+      3
+     ]
+    },
+    "els": [
+     {
+      "el": "node",
+      "x": 300,
+      "y": 20,
+      "label": "لپ‌تاپ خودت",
+      "icon": "code",
+      "at": "93+0.3",
+      "pal": 0,
+      "sub": "رندر محلی",
+      "cls": "c big",
+      "lit": 99
+     },
+     {
+      "el": "checklist",
+      "y": 340,
+      "at": 99,
+      "items": [
+       [
+        "بدون هزینه‌ی هر رندر",
+        "103"
+       ],
+       [
+        "Node 22+",
+        "106"
+       ],
+       [
+        "FFmpeg",
+        "108"
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "w": 110,
+    "type": "cta",
+    "keyword": "هایپر",
+    "dm": "دستورهای نصب + لینک گیت‌هاب"
+   }
+  ]
  }
 }
