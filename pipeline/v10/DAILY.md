@@ -58,6 +58,12 @@ override per scene with `"host": "big" | "corner" | "off"` (use "off" where a sc
 laptop and ui: always the top-left circle. Always look at the `--stills` frames and fix overlaps before rendering.
 (ElevenLabs video/lip-sync models need a paid plan on this account, so the host is animated in code.)
 
+## 2c-bis. Closing follow card (owner, 2 Nov)
+
+Every ui reel ends with a ~2.6 s follow card (robot avatar, page handle, tagline, «+ فالو») on a blurred backdrop, like the speedy_devv reference.
+It is built into ui.py (`TAIL = 3.4`, `#fol`); nothing to do per reel. `python3 ui.py <key> --stills` also writes `<key>_ui_end.png` to check it.
+Per-page handle chip + card: default = @ehbehzad, `UI_VARIANT=hooshyar` = @hooshyar__ai.
+
 ## 2c. Reach rules (owner asked 2 Nov after the diagnosis; see project doc reach-diagnosis-2026-11-02)
 
 Measured: @ehbehzad reels get ~200 views (3.6K followers) while mgh.mobin (149K) has a median of 62K. Spikes came only from
