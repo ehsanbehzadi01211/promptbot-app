@@ -10,5 +10,41 @@
   "time": "2026-11-02T03:34:00+00:00",
   "image": "",
   "id": "40b0a3e9f053a6a8"
+ },
+ {
+  "title": "Introducing the Grid Protectors Program",
+  "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+  "url": "https://openai.com/index/grid-protectors-program",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-02T15:00:00+00:00",
+  "image": "",
+  "id": "19244c7aa2063fd3"
+ },
+ {
+  "title": "DeepSeek Unveils Autonomous Coding Agent Prototype",
+  "summary": "DeepSeek Unveils Autonomous Coding Agent Prototype The Information",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXhyOWhiLW00bk9LNG5JOHRySVNHMF83WEhoblJ5ck1qSlUzZFcwYkRCTTJ3WXVoYUlUellRZ0hHbGEteldoaVJSWmJwclgzWEstRm52bGN2RkQ2b05XZkp1R29uMERxMGl0amY0aThhMlh2M0VlYm9mRFhvak9NMWNIQm5lR2tuUXktWTZad1lnUTBjemc?oc=5",
+  "source": "The Information",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-02T05:55:00+00:00",
+  "image": "",
+  "id": "829d86ac1d237b6d"
+ },
+ {
+  "title": "My tennis buddy isn't a tech expert. His AI agent is changing how he works, from tennis to daily chores.",
+  "summary": "My tennis buddy isn't a tech expert. His AI agent is changing how he works, from tennis to daily chores. Business Insider",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWmlOcWw5d0hpNmpXdFNEdEE3WFNDdDhjNHNqRVMxN1lEVDlXUGJQTmVNZVRDUFBvVl8ta1NqT0lfRGhaSFhPM2JMMjVfS1pKTjBhcERfTnVON01MSjI4alhseXNwNTJvQTRrdkVUR2VwNUlaelcyUTF0WmlPb2p6RUg4bEc2QVFKRUlDOXgxVE0?oc=5",
+  "source": "Business Insider",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-02T13:53:00+00:00",
+  "image": "",
+  "id": "d2be640f03556bee"
  }
 ]
