@@ -1,5 +1,26 @@
-Mon Nov  2 04:46:38 UTC 2026
+Mon Nov  2 05:52:25 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 0 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 0 fresh
+Hugging Face: 0 fresh
+The Verge: 0 fresh
+TechCrunch: 5 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 0 fresh
+Product Hunt: 1 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 24 fresh
+Google News: 30 fresh
+Google News: 27 fresh
+Google News: 21 fresh
+new items: 1
+translated via clients5
+translated via clients5
+sent card HSBC to open Hong Kong AI Institute following Singapore laun
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
