@@ -138,6 +138,17 @@
    "hy_final": "https://res.cloudinary.com/qecsawrr/video/upload/v1793523745/ehbehzad/v10_course_hy_final.mp4"
   },
   {
+   "key": "hyperframes",
+   "status": "todo",
+   "hook": "ویدیوهای وایرال رو دیگه ادیت نمی‌کنم؛ کدش رو می‌نویسم 👀",
+   "cat": "tips",
+   "format": "ui",
+   "keyword": "هایپر",
+   "len": "50-60s",
+   "ref": "https://www.instagram.com/reel/DeyusrQMOmi/",
+   "note": "Similar to speedy_devv DeyusrQMOmi (323K views, 17K comments, 62 s, keyword FOLDER; dark-mode motion-graphics explainer with blue word-highlight subtitles; it promotes his own PAID Keyframes packs $39-249). Ours = FREE: HyperFrames by HeyGen, open source, Apache 2.0, HTML/CSS/GSAP to MP4 via headless Chrome + FFmpeg, no per-render fees, needs Node 22+ and FFmpeg; install with Claude Code: `claude plugin marketplace add heygen-com/hyperframes` then `claude plugin install hyperframes@hyperframes` (or `npx skills add heygen-com/hyperframes`). Verified on github.com/heygen-com/hyperframes 2 Nov. Show the result honestly (a real clip made by it), no virality promises, no copy of his video. Use ONE dark scene up front for the look. DM text: both commands + repo link."
+  },
+  {
    "key": "modelcheck",
    "status": "todo",
    "keyword": "کیفیت",
