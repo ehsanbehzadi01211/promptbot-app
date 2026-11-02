@@ -198,6 +198,56 @@
    "ref": "https://www.instagram.com/albert.olgaard/"
   },
   {
+   "key": "opendesign",
+   "status": "todo",
+   "hook": "ابزار متن‌باز برای ساخت موشن‌گرافیک؛ لازم نیست پول مدل گران بدی",
+   "cat": "tips",
+   "format": "ui",
+   "keyword": "اوپن",
+   "ref": "https://www.instagram.com/mgh.mobin/",
+   "note": "mgh.mobin DelwV40O-Nv 194K / 15,028 comments (keyword «open»). Name of the tool is cut off in the caption: open the reel, find the exact repo, verify license and that it works"
+  },
+  {
+   "key": "igskill",
+   "status": "todo",
+   "hook": "اسکیل رایگان Claude برای اینستاگرام (محتوا، کپشن، برنامه‌ی هفته)",
+   "cat": "tips",
+   "format": "ui",
+   "keyword": "اینستا",
+   "ref": "https://www.instagram.com/mgh.mobin/",
+   "note": "mgh.mobin De9-7X7pQd6 160K / 12,210 comments (keyword «اسکیل»). Find the exact repo from the reel, verify it and install steps"
+  },
+  {
+   "key": "usagelimit",
+   "status": "todo",
+   "hook": "چرا بعضی‌ها هیچ‌وقت به سقف مصرف Claude نمی‌خورن؟ ۳ ترفند صرفه‌جویی",
+   "cat": "tips",
+   "format": "ui",
+   "keyword": "صرفه‌جویی",
+   "ref": "https://www.instagram.com/mgh.mobin/",
+   "note": "mgh.mobin Dev9-VGuvTg 37K / 2,006 comments (keyword «صرفه جویی»). Use only tips from Anthropic's official help pages"
+  },
+  {
+   "key": "kimik3",
+   "status": "todo",
+   "hook": "مدل رایگان چینی Kimi K3.1 Pro: چی می‌تونه و چی نمی‌تونه",
+   "cat": "tips",
+   "format": "ui",
+   "keyword": "کیمی",
+   "ref": "https://www.instagram.com/mgh.mobin/",
+   "note": "mgh.mobin DfJtnIRB0J6 76K / 350 comments (31 Oct). News: verify on Moonshot's official page before saying anything; no benchmark claims unless the page states them"
+  },
+  {
+   "key": "folder",
+   "status": "todo",
+   "hook": "(موضوع باید از روی ویدیو مشخص بشه) ریل speedy_devv با کامنت FOLDER",
+   "cat": "tips",
+   "format": "ui",
+   "keyword": "فولدر",
+   "ref": "https://www.instagram.com/mgh.mobin/",
+   "note": "speedy_devv DfKFymuMwXM 233K views / 7.8K comments, 17 s, caption only says Comment FOLDER. The topic isn't in the caption: open the reel before making anything"
+  },
+  {
    "key": "ytagent",
    "hook": "یه تیم یوتیوب کامل، رایگان، توی Claude؛ ۱۱ تا اسکیل",
    "cat": "skills",
