@@ -1,1 +1,52 @@
-[]
+[
+ {
+  "title": "LifeVal",
+  "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+  "url": "https://openai.com/index/lifeval",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-02T09:00:00+00:00",
+  "image": "",
+  "id": "ed4b58253682640f",
+  "title_fa": "",
+  "summary_fa": "معرفی LifeVal، معیاری برای سنجش میزان کمک هوش مصنوعی به افراد در انجام وظایف روزمره، از پیدا کردن مراقبت از کودک گرفته تا مدیریت امور مالی و اسناد دولتی."
+ },
+ {
+  "title": "Qodo builds context into AI code review with Codex",
+  "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+  "url": "https://openai.com/index/qodo-codex-plugin",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-02T00:00:00+00:00",
+  "image": "",
+  "id": "598c6194c0d34c23"
+ },
+ {
+  "title": "Anthropic’s growth slowed and costs jumped in the third quarter, updated IPO filing shows",
+  "summary": "Anthropic’s growth slowed and costs jumped in the third quarter, updated IPO filing shows Fortune",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZHZSZi1UbEFQVUZqb2dFMExZVmhJNGtTbXdvc2FuZmtlMTdHRmF6TU5aNnlmMUdfOEJtcUZVLWZMYmw1WTM4RkhwNnRsTXVNQmFGVUJqcFR5bWc1eHhOa0xueUtkcTQ1bF9pOU9KOGxiWl8wUFFsUnhpRldOamtnMlJ5UTFCSGU3eHlnTWZHb1VvT1BoeG0zU2h4TFBNU2w5akQ3YUI1WHUwNktqZWhzc1JTRnVkNWY0VWRv?oc=5",
+  "source": "Fortune",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-02T15:58:00+00:00",
+  "image": "",
+  "id": "65b72736e4faaa93"
+ },
+ {
+  "title": "DeepSeek Boosts AI Agent Offering With New Creator Mode",
+  "summary": "DeepSeek Boosts AI Agent Offering With New Creator Mode Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDJicHpmUFp0QkVIcWJGSk14ekpmQkxFU0Fxd2l6MndNc2tSU1lROHo0dHQwUk1YcjJmUUU4R2g5NXM1WTlnaXpUZ1FTQXAtbXFLT1ZnVmJwRklLRUFacmNKTUVIb0Z6eWd2RUVMVVc3ZTVYcXhtTmlhdjE0WkVHT1VvOXlrTmdXaVpoRGVodm1raG5iamlXbnhncDJlRmpRRTU1ZGZ5TFNFQQ?oc=5",
+  "source": "Bloomberg.com",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-02T17:16:29+00:00",
+  "image": "",
+  "id": "4de017842dfa0ad2"
+ }
+]

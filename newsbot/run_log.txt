@@ -1,32 +1,31 @@
-Mon Nov  2 15:38:21 UTC 2026
+Mon Nov  2 23:26:56 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 1 fresh
-Google: 0 fresh
+OpenAI: 3 fresh
+Google: 1 fresh
 Google DeepMind: 0 fresh
 NVIDIA: 0 fresh
 Hugging Face: 0 fresh
-The Verge: 0 fresh
-TechCrunch: 5 fresh
+The Verge: 3 fresh
+TechCrunch: 11 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 2 fresh
+MIT Technology Review: 3 fresh
 Product Hunt: 2 fresh
 Anthropic: 26 links
 Google News: 30 fresh
 Google News: 30 fresh
+Google News: 24 fresh
 Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 16 fresh
-new items: 3
+Google News: 28 fresh
+Google News: 20 fresh
+new items: 5
 translated via clients5
 translated via clients5
-sent card Introducing the Grid Protectors Program
+sent photo The latest AI news we announced in October 2026
+translate empty clients5
+translate empty gtx
+translate empty mymemory
 translated via clients5
-translated via clients5
-sent card DeepSeek Unveils Autonomous Coding Agent Prototype
-translated via clients5
-translated via clients5
-sent card My tennis buddy isn't a tech expert. His AI agent is changin
+no translation; will retry next run
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
