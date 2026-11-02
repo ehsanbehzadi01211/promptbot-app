@@ -76,6 +76,8 @@ body{font-family:Vaz,sans-serif;direction:rtl;color:var(--ink);-webkit-font-smoo
 #tabs .tb{height:62px;min-width:62px;border-radius:40px;background:rgba(255,255,255,.75);border:1.5px solid var(--line);
   display:flex;align-items:center;justify-content:center;font-weight:800;font-size:28px;color:var(--mut);padding:0 18px;
   box-shadow:0 6px 20px rgba(40,30,20,.06);white-space:nowrap;overflow:hidden;transition:none}
+#hdl{position:absolute;top:26px;right:60px;z-index:50;font:800 30px Vaz,sans-serif;direction:ltr;color:#3a3340;background:rgba(255,255,255,.82);border:1.5px solid var(--line);border-radius:30px;padding:6px 22px 8px;box-shadow:0 6px 18px rgba(40,30,20,.08)}
+.dk-on #hdl{color:#fff;background:rgba(255,255,255,.14)}
 #tabs .tb.on{background:var(--ink);color:#fff;border-color:var(--ink)}
 #tabs .tb.done{color:var(--a)}
 /* headline */
@@ -433,8 +435,8 @@ def build(key):
     spec = json.load(open(os.path.join(ROOT, "ui.json")))[key]
     # page variant: UI_VARIANT=hooshyar renders the @hooshyar__ai version (violet accent, own output name)
     variant = os.environ.get("UI_VARIANT", "")
-    if variant == "hooshyar":
-        spec = dict(spec, accent="#6a5cff", accent2="rgba(106,92,255,.22)")
+    # owner 2 Nov: the hooshyar version differs ONLY by the page handle burned into the video (same colours, same voice)
+    handle = "@hooshyar__ai" if variant == "hooshyar" else "@ehbehzad"
     words = json.load(open(os.path.join(ROOT, "words10", key + ".json")))
     toks = spec["voice"].replace("[excited]", "").split()
     ts = [LEAD + x for x in words["t"]]
@@ -464,8 +466,6 @@ def build(key):
     blobs = ('<div class="blob" style="left:-200px;top:80px;width:760px;height:760px;background:#ffb38a"></div>'
              '<div class="blob" style="right:-260px;top:620px;width:820px;height:820px;background:#b7a8ff"></div>'
              '<div class="blob" style="left:-120px;bottom:-160px;width:760px;height:760px;background:#9ee6c9"></div>')
-    if variant == "hooshyar":
-        blobs = blobs.replace("#ffb38a", "#b9a8ff").replace("#b7a8ff", "#9fd8ff")
     host_html = ""
     if spec.get("host"):
         from host import host_any, words_to_spans
@@ -475,7 +475,7 @@ def build(key):
     page = (f'<!doctype html><html lang="fa"><head><meta charset="utf-8"><style>{CSS.replace("FONT", FONT)}</style></head>'
             f'<body style="--a:{spec.get("accent", "#e8693c")};--a2:{spec.get("accent2", "rgba(232,105,60,.22)")}">'
             f'<div id="bg">{blobs}<div class="grid"></div></div><div id="dark"><div class="grid"></div></div>'
-            f'<div id="cam">{"".join(parts)}</div><div id="tabs">{tabs}</div><div id="subs"></div><div id="flash"></div>'
+            f'<div id="cam">{"".join(parts)}</div><div id="hdl">{handle}</div><div id="tabs">{tabs}</div><div id="subs"></div><div id="flash"></div>'
             f'<script>window.SCN={json.dumps(S)};window.TOTAL={total:.3f};window.CTA={cta_at:.3f};window.TABS_ON={tabs_on};'
             f'window.WORDS={json.dumps(WORDS, ensure_ascii=False)};window.FLASH={json.dumps([round(cta_at + .1, 3)])};{JS}</script>'
             f'{host_html}</body></html>')
