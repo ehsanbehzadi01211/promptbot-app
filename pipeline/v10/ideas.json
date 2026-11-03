@@ -162,6 +162,16 @@
    "verified": "2026-11-02: github.com/heygen-com/hyperframes README: Apache 2.0, Node 22+ and FFmpeg, 'claude plugin marketplace add heygen-com/hyperframes' + 'claude plugin install hyperframes@hyperframes' (or npx skills add heygen-com/hyperframes), ~450 registry blocks, local CLI render (cloud render optional); npm hyperframes 0.9.1 Apache-2.0. Star count not checked (API unreachable) so not claimed."
   },
   {
+   "key": "kimik3",
+   "status": "todo",
+   "hook": "مدل رایگان چینی Kimi K3.1 Pro: چی می‌تونه و چی نمی‌تونه",
+   "cat": "tips",
+   "format": "ui",
+   "keyword": "کیمی",
+   "ref": "https://www.instagram.com/mgh.mobin/",
+   "note": "mgh.mobin DfJtnIRB0J6 76K / 350 comments (31 Oct). News: verify on Moonshot's official page before saying anything; no benchmark claims unless the page states them | 2nd reference (3 Nov): mohtipss DfOxfc-h2T0, 22.8K views, 64 comments, 57 s, caption just 'استفاده رایگان 👇 kimi.ai' (no comment keyword). Two pages in a week cover free Kimi: the angle that works is 'free + where to use it'. Verify on kimi.ai / Moonshot's page what is free today (limits, Persian support, login needs) before saying anything; no benchmark numbers unless the official page states them."
+  },
+  {
    "key": "modelcheck",
    "status": "todo",
    "keyword": "کیفیت",
@@ -250,16 +260,6 @@
    "keyword": "صرفه‌جویی",
    "ref": "https://www.instagram.com/mgh.mobin/",
    "note": "mgh.mobin Dev9-VGuvTg 37K / 2,006 comments (keyword «صرفه جویی»). Use only tips from Anthropic's official help pages"
-  },
-  {
-   "key": "kimik3",
-   "status": "todo",
-   "hook": "مدل رایگان چینی Kimi K3.1 Pro: چی می‌تونه و چی نمی‌تونه",
-   "cat": "tips",
-   "format": "ui",
-   "keyword": "کیمی",
-   "ref": "https://www.instagram.com/mgh.mobin/",
-   "note": "mgh.mobin DfJtnIRB0J6 76K / 350 comments (31 Oct). News: verify on Moonshot's official page before saying anything; no benchmark claims unless the page states them"
   },
   {
    "key": "folder",
