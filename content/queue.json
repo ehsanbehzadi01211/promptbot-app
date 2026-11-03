@@ -883,10 +883,11 @@
   "media": "youtube/shorts/fa_photo.mp4",
   "metricool_uuid": "-8911630040966673544",
   "metricool_date": "2026-10-19T10:00",
-  "status": "scheduled",
+  "status": "failed",
   "id": "yo-2026-10-27-short",
   "via": "uplika",
-  "uplika_post": "post_fe3ffeac0fd6a4dd"
+  "uplika_post": "post_fe3ffeac0fd6a4dd",
+  "note": "youtube_daily_cap: Uplika daily YouTube limit hit; retryable after 2026-11-03 08:00 UTC"
  },
  {
   "platform": "youtube",
@@ -1203,7 +1204,8 @@
   "topic": "نقد رزومه",
   "metricool_uuid": "1032403482078105447",
   "metricool_date": "2026-10-27T16:00",
-  "status": "scheduled",
+  "status": "published",
+  "url": "https://www.instagram.com/reel/DfOqt9Rj-sU/",
   "id": "in-2026-11-05-reel",
   "yt_key": "fa_resume",
   "override": {
