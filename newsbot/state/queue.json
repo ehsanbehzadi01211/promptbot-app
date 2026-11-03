@@ -1,79 +1,5 @@
 [
  {
-  "title": "LifeVal",
-  "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-  "url": "https://openai.com/index/lifeval",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-02T09:00:00+00:00",
-  "image": "",
-  "id": "ed4b58253682640f",
-  "title_fa": "",
-  "summary_fa": "معرفی LifeVal، معیاری برای سنجش میزان کمک هوش مصنوعی به افراد در انجام وظایف روزمره، از پیدا کردن مراقبت از کودک گرفته تا مدیریت امور مالی و اسناد دولتی."
- },
- {
-  "title": "Qodo builds context into AI code review with Codex",
-  "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-  "url": "https://openai.com/index/qodo-codex-plugin",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-02T00:00:00+00:00",
-  "image": "",
-  "id": "598c6194c0d34c23"
- },
- {
-  "title": "Anthropic’s growth slowed and costs jumped in the third quarter, updated IPO filing shows",
-  "summary": "Anthropic’s growth slowed and costs jumped in the third quarter, updated IPO filing shows Fortune",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZHZSZi1UbEFQVUZqb2dFMExZVmhJNGtTbXdvc2FuZmtlMTdHRmF6TU5aNnlmMUdfOEJtcUZVLWZMYmw1WTM4RkhwNnRsTXVNQmFGVUJqcFR5bWc1eHhOa0xueUtkcTQ1bF9pOU9KOGxiWl8wUFFsUnhpRldOamtnMlJ5UTFCSGU3eHlnTWZHb1VvT1BoeG0zU2h4TFBNU2w5akQ3YUI1WHUwNktqZWhzc1JTRnVkNWY0VWRv?oc=5",
-  "source": "Fortune",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-02T15:58:00+00:00",
-  "image": "",
-  "id": "65b72736e4faaa93"
- },
- {
-  "title": "DeepSeek Boosts AI Agent Offering With New Creator Mode",
-  "summary": "DeepSeek Boosts AI Agent Offering With New Creator Mode Bloomberg.com",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDJicHpmUFp0QkVIcWJGSk14ekpmQkxFU0Fxd2l6MndNc2tSU1lROHo0dHQwUk1YcjJmUUU4R2g5NXM1WTlnaXpUZ1FTQXAtbXFLT1ZnVmJwRklLRUFacmNKTUVIb0Z6eWd2RUVMVVc3ZTVYcXhtTmlhdjE0WkVHT1VvOXlrTmdXaVpoRGVodm1raG5iamlXbnhncDJlRmpRRTU1ZGZ5TFNFQQ?oc=5",
-  "source": "Bloomberg.com",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-02T17:16:29+00:00",
-  "image": "",
-  "id": "4de017842dfa0ad2"
- },
- {
-  "title": "Scaling Git at OpenAI",
-  "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-  "url": "https://openai.com/index/scaling-git-at-openai",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-02T15:30:00+00:00",
-  "image": "",
-  "id": "de4cf53f9db96311"
- },
- {
-  "title": "Rewarding defenders with bigger bug bounties",
-  "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-  "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-02T18:00:00+00:00",
-  "image": "",
-  "id": "6fd6ad7938fa5bc5"
- },
- {
   "title": "Preparing our next security sprint to harden OpenAI",
   "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
@@ -84,18 +10,6 @@
   "time": "2026-11-02T18:00:00+00:00",
   "image": "",
   "id": "262cfa35f4308cc0"
- },
- {
-  "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-  "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-  "url": "https://openai.com/index/dan-driscoll-joins-openai",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-02T00:00:00+00:00",
-  "image": "",
-  "id": "ff138f709a7e7c37"
  },
  {
   "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
@@ -120,5 +34,89 @@
   "time": "2026-11-03T00:06:13+00:00",
   "image": "",
   "id": "3253f6cb04262d93"
+ },
+ {
+  "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+  "summary": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to close that gap, from digital twins for infrastructure planning to vision and service agents, while keeping local governments […]",
+  "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-03T07:00:12+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/smart-city-blog-1920x1080-1.jpeg",
+  "id": "928e7584e6cd5965"
+ },
+ {
+  "title": "Same Model, Different Harness: CUGA, Hermes, and Deep Agents — When to Pick CUGA?",
+  "summary": "",
+  "url": "https://huggingface.co/blog/ibm-research/cuga-harness",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-03T15:57:39+00:00",
+  "image": "",
+  "id": "003d54f4d366367a"
+ },
+ {
+  "title": "Heimstaden is changing residential real estate management with AI",
+  "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+  "url": "https://openai.com/index/heimstaden",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-03T08:00:00+00:00",
+  "image": "",
+  "id": "08b710f1e7801fa8"
+ },
+ {
+  "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
+  "summary": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor […]",
+  "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-03T16:00:45+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/ai-semiconductor-fab-still-1920x1080-1.jpg",
+  "id": "c90cd6cc0c02e350"
+ },
+ {
+  "title": "Transformers Model Integration Contracts",
+  "summary": "",
+  "url": "https://huggingface.co/blog/transformers-mic",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-03T00:00:00+00:00",
+  "image": "",
+  "id": "fec0e46ceba430b8"
+ },
+ {
+  "title": "Snowflake launches Business Ontology to boost AI agent reliability",
+  "summary": "Snowflake launches Business Ontology to boost AI agent reliability InfoWorld",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObFAxYkdFM3M2Yl8zX1FvQk9feWpOM1RLbkhXbk1HMFJNN0lLWTltcWtEc0JER250b2tWQndaT0t5bldhbnc1aWpQUW5TTHQ2bFJhQzJCVGZPWjBUaGVrYmdjamtPUXRkMFJ3b0NQVlp0Ni1URUpkZXo4aWhfRUJ5R0FkN3EwSkdlUlltVHZlUE5WMk0wXy1vVnVZcDdKVzlMWS13S0JPRUt1RkRReVpCNktnOA?oc=5",
+  "source": "InfoWorld",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-03T14:03:41+00:00",
+  "image": "",
+  "id": "c87b747039763cf3"
+ },
+ {
+  "title": "How “reverse game theory” could keep AI agents in check",
+  "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
+  "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+  "source": "MIT Technology Review",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-03T10:43:41+00:00",
+  "image": "",
+  "id": "c7a94f8b7c585c91"
  }
 ]
