@@ -162,6 +162,17 @@
    "verified": "2026-11-02: github.com/heygen-com/hyperframes README: Apache 2.0, Node 22+ and FFmpeg, 'claude plugin marketplace add heygen-com/hyperframes' + 'claude plugin install hyperframes@hyperframes' (or npx skills add heygen-com/hyperframes), ~450 registry blocks, local CLI render (cloud render optional); npm hyperframes 0.9.1 Apache-2.0. Star count not checked (API unreachable) so not claimed."
   },
   {
+   "key": "free4",
+   "status": "todo",
+   "hook": "۴ سایت هوش مصنوعی که رایگان امتحانشون می‌کنی و پولی نمی‌دی 👇",
+   "cat": "tips",
+   "format": "list",
+   "keyword": "رایگان",
+   "len": "45-50s",
+   "ref": "https://www.instagram.com/reel/DfO7EhiS8Xv/",
+   "note": "Ref 3 Nov: arlian_agency DfO7EhiS8Xv, 7.3K views, 160 likes, 6 comments, 48 s, original audio: a save-worthy list of 4 resources (Land-book, Awwwards, Godly, Pinterest) + agency DM CTA, NO comment keyword (weak comments). Ours: same 'save this list of 4' format but with a comment keyword and DM links. Pick 4 REAL AI sites that are free to use right now; verify each on its official page the day of the build (free tier limits, no login wall, price), do not guess; never claim 'unlimited' unless verified. Hook = sharp claim in first 2 s. Show each site on screen with its real UI. DM = 4 links + one-line what each does. Caption footer + max 3 hashtags per DAILY.md 2c."
+  },
+  {
    "key": "kimik3",
    "status": "todo",
    "hook": "مدل رایگان چینی Kimi K3.1 Pro: چی می‌تونه و چی نمی‌تونه",
