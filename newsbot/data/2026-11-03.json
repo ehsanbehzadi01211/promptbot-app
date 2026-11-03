@@ -154,5 +154,77 @@
   "time": "2026-11-03T10:43:41+00:00",
   "image": "",
   "id": "c7a94f8b7c585c91"
+ },
+ {
+  "title": "Accelerating engineering for the physical world",
+  "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+  "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-03T12:00:00+00:00",
+  "image": "",
+  "id": "26c6032e1d267765"
+ },
+ {
+  "title": "How Cisco defends at machine speed with OpenAI",
+  "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+  "url": "https://openai.com/index/cisco-cyber",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-03T08:00:00+00:00",
+  "image": "",
+  "id": "a2357e701f020223"
+ },
+ {
+  "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+  "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+  "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-03T00:00:00+00:00",
+  "image": "",
+  "id": "3d509e27bae229a3"
+ },
+ {
+  "title": "StateBench: Testing how language models track state changes over long documents",
+  "summary": "",
+  "url": "https://huggingface.co/blog/allenai/statebench",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-03T17:15:21+00:00",
+  "image": "",
+  "id": "a55665cf48953af7"
+ },
+ {
+  "title": "Palette: teaching a small model to build decks in your design language",
+  "summary": "",
+  "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-03T16:35:36+00:00",
+  "image": "",
+  "id": "bc4177032a04e266"
+ },
+ {
+  "title": "CWE-bench v2: More coverage, quality, and transparency",
+  "summary": "",
+  "url": "https://huggingface.co/blog/cwe-bench",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-03T00:00:00+00:00",
+  "image": "",
+  "id": "20954e3ac0ff87f7"
  }
 ]

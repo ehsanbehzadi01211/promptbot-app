@@ -1,84 +1,32 @@
-Tue Nov  3 16:08:03 UTC 2026
-Traceback (most recent call last):
-  File "/home/runner/work/promptbot-app/promptbot-app/newsbot/discover.py", line 10, in <module>
-    data = json.loads(urllib.request.urlopen(f"https://api.telegram.org/bot{token}/getUpdates?allowed_updates=%5B%22message%22%2C%22channel_post%22%2C%22my_chat_member%22%5D", timeout=30).read())
-                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/urllib/request.py", line 216, in urlopen
-    return opener.open(url, data, timeout)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/urllib/request.py", line 519, in open
-    response = self._open(req, data)
-               ^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/urllib/request.py", line 536, in _open
-    result = self._call_chain(self.handle_open, protocol, protocol +
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/urllib/request.py", line 496, in _call_chain
-    result = func(*args)
-             ^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/urllib/request.py", line 1404, in https_open
-    return self.do_open(http.client.HTTPSConnection, req,
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/urllib/request.py", line 1365, in do_open
-    r = h.getresponse()
-        ^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/http/client.py", line 1443, in getresponse
-    response.begin()
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/http/client.py", line 337, in begin
-    version, status, reason = self._read_status()
-                              ^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/http/client.py", line 298, in _read_status
-    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/socket.py", line 718, in readinto
-    return self._sock.recv_into(b)
-           ^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/ssl.py", line 1327, in recv_into
-    return self.read(nbytes, buffer)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/ssl.py", line 1179, in read
-    return self._sslobj.read(len, buffer)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-TimeoutError: The read operation timed out
-OpenAI: 6 fresh
+Tue Nov  3 23:14:17 UTC 2026
+{'channel': 'set', 'owner': 'set'}
+OpenAI: 8 fresh
 Google: 1 fresh
 Google DeepMind: 0 fresh
 NVIDIA: 2 fresh
-Hugging Face: 2 fresh
-The Verge: 6 fresh
-TechCrunch: 16 fresh
+Hugging Face: 4 fresh
+The Verge: 10 fresh
+TechCrunch: 20 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 5 fresh
-Product Hunt: 15 fresh
+MIT Technology Review: 4 fresh
+Product Hunt: 12 fresh
 Anthropic: 26 links
 Google News: 30 fresh
 Google News: 30 fresh
+Google News: 28 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 30 fresh
-Google News: 25 fresh
-new items: 7
-translate empty clients5
-translate fail gtx HTTP Error 429: Too Many Requests
-translated via mymemory
-translated via clients5
-card fail The read operation timed out
-send fail The read operation timed out
+Google News: 23 fresh
+new items: 6
 translated via clients5
 translated via clients5
-card fail The read operation timed out
-send fail The read operation timed out
+sent card Preparing our next security sprint to harden OpenAI
 translated via clients5
 translated via clients5
-card fail The read operation timed out
-sent text DeepSeek Boosts AI Agent Offering With New Creator Mode
+sent photo Y Combinator’s Garry Tan uses AI agents so much, he spends u
 translated via clients5
 translated via clients5
-card fail The read operation timed out
-sent text Scaling Git at OpenAI
-translated via clients5
-translated via clients5
-card fail HTTP Error 500: Internal Server Error
-sent text Rewarding defenders with bigger bug bounties
+sent card Anthropic Addresses Video Game Cloning With Minor Claude Upd
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
