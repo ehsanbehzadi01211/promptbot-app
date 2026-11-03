@@ -1,28 +1,5 @@
-Tue Nov  3 06:36:39 UTC 2026
+Tue Nov  3 12:24:25 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 7 fresh
-Google: 1 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 0 fresh
-Hugging Face: 0 fresh
-The Verge: 3 fresh
-TechCrunch: 14 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 4 fresh
-Product Hunt: 1 fresh
-Anthropic: 26 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-new items: 6
-translate empty clients5
-translate fail gtx HTTP Error 429: Too Many Requests
-translate empty mymemory
-translated via clients5
-no translation; will retry next run
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
