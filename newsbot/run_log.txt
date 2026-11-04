@@ -1,32 +1,5 @@
-Tue Nov  3 23:14:17 UTC 2026
+Wed Nov  4 04:53:26 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 8 fresh
-Google: 1 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 2 fresh
-Hugging Face: 4 fresh
-The Verge: 10 fresh
-TechCrunch: 20 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 4 fresh
-Product Hunt: 12 fresh
-Anthropic: 26 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 28 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 23 fresh
-new items: 6
-translated via clients5
-translated via clients5
-sent card Preparing our next security sprint to harden OpenAI
-translated via clients5
-translated via clients5
-sent photo Y Combinator’s Garry Tan uses AI agents so much, he spends u
-translated via clients5
-translated via clients5
-sent card Anthropic Addresses Video Game Cloning With Minor Claude Upd
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
@@ -35,6 +8,7 @@ promo sent in-2026-10-31-reel
 promo sent in-2026-11-01-reel
 promo sent in-2026-11-03-reel
 promo sent in-2026-11-05-reel
+promo sent in-2026-11-07-reel
 promo sent in-2026-10-29-v8imagetools
 Traceback (most recent call last):
   File "/home/runner/work/promptbot-app/promptbot-app/newsbot/promo.py", line 77, in <module>
