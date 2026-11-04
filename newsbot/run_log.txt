@@ -1,32 +1,30 @@
-Wed Nov  4 14:24:22 UTC 2026
+Wed Nov  4 21:50:22 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 OpenAI: 3 fresh
 Google: 0 fresh
-Google DeepMind: 1 fresh
-NVIDIA: 2 fresh
-Hugging Face: 2 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 1 fresh
+Hugging Face: 3 fresh
 The Verge: 10 fresh
-TechCrunch: 14 fresh
+TechCrunch: 19 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 3 fresh
-Product Hunt: 11 fresh
+Product Hunt: 8 fresh
 Anthropic: 26 links
 Google News: 30 fresh
 Google News: 30 fresh
+Google News: 25 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 30 fresh
-Google News: 21 fresh
-new items: 0
+Google News: 23 fresh
+new items: 7
 translated via clients5
 translated via clients5
-sent photo AI Is Changing How Semiconductor Fabs Work — and Engineers A
+sent card Accelerating engineering for the physical world
 translated via clients5
+sent photo StateBench: Testing how language models track state changes 
 translated via clients5
-sent card Snowflake launches Business Ontology to boost AI agent relia
-translated via clients5
-translated via clients5
-sent photo How “reverse game theory” could keep AI agents in check
+sent photo Palette: teaching a small model to build decks in your desig
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel

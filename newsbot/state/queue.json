@@ -1,53 +1,5 @@
 [
  {
-  "title": "Accelerating engineering for the physical world",
-  "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-  "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-03T12:00:00+00:00",
-  "image": "",
-  "id": "26c6032e1d267765"
- },
- {
-  "title": "How Cisco defends at machine speed with OpenAI",
-  "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-  "url": "https://openai.com/index/cisco-cyber",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-03T08:00:00+00:00",
-  "image": "",
-  "id": "a2357e701f020223"
- },
- {
-  "title": "StateBench: Testing how language models track state changes over long documents",
-  "summary": "",
-  "url": "https://huggingface.co/blog/allenai/statebench",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-03T17:15:21+00:00",
-  "image": "",
-  "id": "a55665cf48953af7"
- },
- {
-  "title": "Palette: teaching a small model to build decks in your design language",
-  "summary": "",
-  "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-03T16:35:36+00:00",
-  "image": "",
-  "id": "bc4177032a04e266"
- },
- {
   "title": "Agentic cheminformatics with Google Antigravity",
   "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
   "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
@@ -58,5 +10,89 @@
   "time": "2026-11-03T17:01:49+00:00",
   "image": "",
   "id": "7b04a568c5adccd6"
+ },
+ {
+  "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+  "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+  "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-04T07:00:00+00:00",
+  "image": "",
+  "id": "75679f5aa60bfcf8"
+ },
+ {
+  "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+  "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+  "url": "https://openai.com/index/openai-to-acquire-pierre",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-04T14:30:00+00:00",
+  "image": "",
+  "id": "3a06f84c0f51a102"
+ },
+ {
+  "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+  "summary": "",
+  "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-04T17:50:10+00:00",
+  "image": "",
+  "id": "5afc49da7bd40515"
+ },
+ {
+  "title": "Nothing teases a screen-free AI device ahead of launch next month",
+  "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+  "source": "The Verge",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-04T18:26:07+00:00",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "id": "d0178f35064d57a6"
+ },
+ {
+  "title": "How ElevenLabs' CTO is rolling out AI agents—and why he thinks bigger efficiency gains are ahead for the voice AI startup",
+  "summary": "How ElevenLabs' CTO is rolling out AI agents—and why he thinks bigger efficiency gains are ahead for the voice AI startup Fortune",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN3AzaXpCVkVhZlJnTGtVdWZSZGUxVG9hTm5ST1VpUURJdlB2OFVqZ2hsMlpLWVNnSWJ0RXhtQU5xcjRIWXJqS0lJMWUxaGhHUUpDekY5aDdzTE91N25ObVBMb2wzOWU5RjRQUlBfT3N2cmFMRV96c3k1TnFwQ3E4TzdRdHVCcVhJU3hwelBYWHZtNk5QLWFYV3JmWmI0REswQmNJLXNwakI3aXhCeUxkXzRrMkFNUQ?oc=5",
+  "source": "Fortune",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-04T18:25:00+00:00",
+  "image": "",
+  "id": "0a38212334a85342"
+ },
+ {
+  "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+  "summary": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording \"around 500\" during […]",
+  "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+  "source": "The Verge",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-04T15:58:45+00:00",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "id": "e818c1486ecfa20d"
+ },
+ {
+  "title": "Exclusive: BlueFlag Security expands AI agent governance to cover unapproved coding agents",
+  "summary": "Exclusive: BlueFlag Security expands AI agent governance to cover unapproved coding agents SiliconANGLE",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQlY3QnNIN2VlOGJGbC1sTzZuRVpYZjNhZ0swdDJBdF82R3lHMng0eWg4ZVRaVU9qcVA2dlh4ejFDNHBYa1RLQnV5ZDhDeWRycTIxaGV2NmFRMjVlSjB4LVBKeU5nWlh2TmNpQ3hoQlVZWUJiSmx0NkdCdi1QdXVyb2VsZWFsNUY3MFBieG1ldEpxSkl4NDNzdVdlWnozQ05JQXNId1VuNkVOWVdQNlZqV05XVjhPMG40SHRSWHNQdl8wQUJw?oc=5",
+  "source": "SiliconANGLE",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-04T14:00:00+00:00",
+  "image": "",
+  "id": "3add1944874ec8a0"
  }
 ]
