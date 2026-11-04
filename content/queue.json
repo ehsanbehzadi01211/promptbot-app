@@ -899,10 +899,11 @@
   "media": "youtube/shorts/fa_tasks.mp4",
   "metricool_uuid": "6007307728183709306",
   "metricool_date": "2026-10-20T16:00",
-  "status": "scheduled",
+  "status": "failed",
   "id": "yo-2026-10-28-short",
   "via": "uplika",
-  "uplika_post": "post_9dbdefac54ccc641"
+  "uplika_post": "post_9dbdefac54ccc641",
+  "note": "youtube_daily_cap: Uplika daily YouTube upload limit hit; refills 2026-11-04 08:00 UTC"
  },
  {
   "platform": "instagram",
@@ -1273,7 +1274,7 @@
   "topic": "«نه» گفتن مؤدبانه",
   "metricool_uuid": "-8281566411686526764",
   "metricool_date": "2026-10-29T10:00",
-  "status": "scheduled",
+  "status": "published",
   "id": "in-2026-11-07-reel",
   "yt_key": "fa_no",
   "override": {
@@ -1283,7 +1284,8 @@
    "cover": "https://raw.githubusercontent.com/ehsanbehzadi01211/promptbot-app/reels-media/covers2/cover_reel18_no.jpg"
   },
   "via": "uplika",
-  "uplika_post": "post_d1fc7c0d5ad62d58"
+  "uplika_post": "post_d1fc7c0d5ad62d58",
+  "url": "https://www.instagram.com/reel/DfRPgYOjpp6/"
  },
  {
   "platform": "youtube",
