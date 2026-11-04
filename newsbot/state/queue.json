@@ -1,53 +1,5 @@
 [
  {
-  "title": "AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It",
-  "summary": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor […]",
-  "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-03T16:00:45+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/ai-semiconductor-fab-still-1920x1080-1.jpg",
-  "id": "c90cd6cc0c02e350"
- },
- {
-  "title": "Transformers Model Integration Contracts",
-  "summary": "",
-  "url": "https://huggingface.co/blog/transformers-mic",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-03T00:00:00+00:00",
-  "image": "",
-  "id": "fec0e46ceba430b8"
- },
- {
-  "title": "Snowflake launches Business Ontology to boost AI agent reliability",
-  "summary": "Snowflake launches Business Ontology to boost AI agent reliability InfoWorld",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObFAxYkdFM3M2Yl8zX1FvQk9feWpOM1RLbkhXbk1HMFJNN0lLWTltcWtEc0JER250b2tWQndaT0t5bldhbnc1aWpQUW5TTHQ2bFJhQzJCVGZPWjBUaGVrYmdjamtPUXRkMFJ3b0NQVlp0Ni1URUpkZXo4aWhfRUJ5R0FkN3EwSkdlUlltVHZlUE5WMk0wXy1vVnVZcDdKVzlMWS13S0JPRUt1RkRReVpCNktnOA?oc=5",
-  "source": "InfoWorld",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-03T14:03:41+00:00",
-  "image": "",
-  "id": "c87b747039763cf3"
- },
- {
-  "title": "How “reverse game theory” could keep AI agents in check",
-  "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
-  "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-  "source": "MIT Technology Review",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-03T10:43:41+00:00",
-  "image": "",
-  "id": "c7a94f8b7c585c91"
- },
- {
   "title": "Accelerating engineering for the physical world",
   "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
@@ -72,18 +24,6 @@
   "id": "a2357e701f020223"
  },
  {
-  "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-  "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-  "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-03T00:00:00+00:00",
-  "image": "",
-  "id": "3d509e27bae229a3"
- },
- {
   "title": "StateBench: Testing how language models track state changes over long documents",
   "summary": "",
   "url": "https://huggingface.co/blog/allenai/statebench",
@@ -106,18 +46,6 @@
   "time": "2026-11-03T16:35:36+00:00",
   "image": "",
   "id": "bc4177032a04e266"
- },
- {
-  "title": "CWE-bench v2: More coverage, quality, and transparency",
-  "summary": "",
-  "url": "https://huggingface.co/blog/cwe-bench",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-03T00:00:00+00:00",
-  "image": "",
-  "id": "20954e3ac0ff87f7"
  },
  {
   "title": "Agentic cheminformatics with Google Antigravity",
