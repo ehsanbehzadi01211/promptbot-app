@@ -1,30 +1,32 @@
-Wed Nov  4 21:50:22 UTC 2026
+Thu Nov  5 02:18:09 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 3 fresh
+OpenAI: 5 fresh
 Google: 0 fresh
-Google DeepMind: 0 fresh
+Google DeepMind: 1 fresh
 NVIDIA: 1 fresh
 Hugging Face: 3 fresh
 The Verge: 10 fresh
-TechCrunch: 19 fresh
+TechCrunch: 20 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 3 fresh
-Product Hunt: 8 fresh
+MIT Technology Review: 2 fresh
+Product Hunt: 4 fresh
 Anthropic: 26 links
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 25 fresh
+Google News: 26 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 23 fresh
-new items: 7
+Google News: 27 fresh
+new items: 4
 translated via clients5
 translated via clients5
-sent card Accelerating engineering for the physical world
+sent card Agentic cheminformatics with Google Antigravity
 translated via clients5
-sent photo StateBench: Testing how language models track state changes 
 translated via clients5
-sent photo Palette: teaching a small model to build decks in your desig
+sent card Daybreak Red is now available in AWS GovCloud (US-East)
+translated via clients5
+translated via clients5
+sent card OpenAI to acquire Pierre Computer Company, Inc.
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel

@@ -1,41 +1,5 @@
 [
  {
-  "title": "Agentic cheminformatics with Google Antigravity",
-  "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-  "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-  "source": "Google DeepMind",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-03T17:01:49+00:00",
-  "image": "",
-  "id": "7b04a568c5adccd6"
- },
- {
-  "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-  "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-  "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-04T07:00:00+00:00",
-  "image": "",
-  "id": "75679f5aa60bfcf8"
- },
- {
-  "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-  "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
-  "url": "https://openai.com/index/openai-to-acquire-pierre",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-04T14:30:00+00:00",
-  "image": "",
-  "id": "3a06f84c0f51a102"
- },
- {
   "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
   "summary": "",
   "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
@@ -94,5 +58,53 @@
   "time": "2026-11-04T14:00:00+00:00",
   "image": "",
   "id": "3add1944874ec8a0"
+ },
+ {
+  "title": "Introducing Images 2.6",
+  "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+  "url": "https://openai.com/index/introducing-images-2-6",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-04T00:00:00+00:00",
+  "image": "",
+  "id": "0a437d67f2effbc5"
+ },
+ {
+  "title": "A thousand fewer paths to root",
+  "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+  "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-04T08:00:00+00:00",
+  "image": "",
+  "id": "a4f4c423c5426033"
+ },
+ {
+  "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+  "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+  "url": "https://openai.com/index/devrev-enterprise-self-service",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-04T00:00:00+00:00",
+  "image": "",
+  "id": "bf25be8f87794d7d"
+ },
+ {
+  "title": "Almost no one uses AI agents to book their Uber, company says",
+  "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+  "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-04T21:56:01+00:00",
+  "image": "",
+  "id": "f3f4f568585b6de9"
  }
 ]
