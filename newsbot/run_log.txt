@@ -1,5 +1,32 @@
-Thu Nov  5 12:46:53 UTC 2026
+Thu Nov  5 21:02:43 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 3 fresh
+Google: 1 fresh
+Google DeepMind: 1 fresh
+NVIDIA: 5 fresh
+Hugging Face: 3 fresh
+The Verge: 10 fresh
+TechCrunch: 20 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 2 fresh
+Product Hunt: 6 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 29 fresh
+Google News: 30 fresh
+Google News: 29 fresh
+Google News: 18 fresh
+new items: 8
+translated via clients5
+translated via clients5
+sent photo Uber only fulfilled 4 rides from AI agents last quarter
+translated via clients5
+translated via clients5
+sent card Exclusive: BlueFlag Security expands AI agent governance to 
+translated via clients5
+translated via clients5
+sent photo Almost no one uses AI agents to book their Uber, company say
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
