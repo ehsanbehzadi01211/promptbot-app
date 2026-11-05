@@ -1,31 +1,5 @@
-Thu Nov  5 12:12:28 UTC 2026
+Thu Nov  5 12:46:53 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 4 fresh
-Google: 0 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 0 fresh
-Hugging Face: 2 fresh
-The Verge: 10 fresh
-TechCrunch: 14 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 2 fresh
-Product Hunt: 10 fresh
-Anthropic: 26 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 27 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 20 fresh
-new items: 4
-translated via clients5
-sent photo Dharma Field Extractor: Any Document In, Structured Fields i
-translated via clients5
-translated via clients5
-sent photo Nothing teases a screen-free AI device ahead of launch next 
-translated via clients5
-translated via clients5
-sent card How ElevenLabs' CTO is rolling out AI agents—and why he thin
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
