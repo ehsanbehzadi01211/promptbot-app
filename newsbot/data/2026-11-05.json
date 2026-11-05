@@ -46,5 +46,53 @@
   "time": "2026-11-04T21:56:01+00:00",
   "image": "",
   "id": "f3f4f568585b6de9"
+ },
+ {
+  "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+  "summary": "",
+  "url": "https://huggingface.co/blog/phonon-tts",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-05T00:00:00+00:00",
+  "image": "",
+  "id": "89209ab642b10e25"
+ },
+ {
+  "title": "Setting a new standard for responsible AI infrastructure",
+  "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+  "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-05T02:00:00+00:00",
+  "image": "",
+  "id": "f93567576105c713"
+ },
+ {
+  "title": "How Trust Is Holding Back AI Agents",
+  "summary": "How Trust Is Holding Back AI Agents Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd2loUTlKY1QwVnREa0NWRktuZEJfVlVfWFFWSHhrMmRVeWV0cEsxbG5RTnJNN2FqZ08ydTE5Ql8ySGItSGdWcW96dmRLdGxNa3RtU0hDeUxhNFY2WkU4Z2IwcTdvM2pwSlV4TGtwVmR0WGhScGhWZVBkLUExVkRRNkFGUVRMbFE0eGVJZWp6UU13UC01T3kycjg3a1JHU2FpSlFvQkppT0VETzI3WnRlUjdGZzlVYnJHVzN6MElaQ084T2ZOOEE?oc=5",
+  "source": "Bloomberg.com",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-05T11:29:33+00:00",
+  "image": "",
+  "id": "062bc0914a1a1f53"
+ },
+ {
+  "title": "An Anthropic engineer warns about 'cognitive surrender' as AI agents take over his work",
+  "summary": "An Anthropic engineer warns about 'cognitive surrender' as AI agents take over his work Business Insider",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUklQdDVGTG53Ql84czNTdEVNWW1SYWQ1SldtWmtkMEdlZHZ3LWVZUm5kazJsYW5rdmp4c1p4Mlg2TEN4SGNwNENpQ1cwT2tNWHVVU3VUYTN0bkY4WXFiNVhOMG9Md2NqYWkzZjRZanM1SVpXN3g4ZHpDbEJQQU5MS0VRSmgxN0JJMTZOSTF1WGd4U090aWtDR1Ytckk5UlE?oc=5",
+  "source": "Business Insider",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-05T10:00:00+00:00",
+  "image": "",
+  "id": "371ded3c5d337f9d"
  }
 ]

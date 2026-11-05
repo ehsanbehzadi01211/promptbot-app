@@ -1,41 +1,5 @@
 [
  {
-  "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-  "summary": "",
-  "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-04T17:50:10+00:00",
-  "image": "",
-  "id": "5afc49da7bd40515"
- },
- {
-  "title": "Nothing teases a screen-free AI device ahead of launch next month",
-  "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature […]",
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-  "source": "The Verge",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-04T18:26:07+00:00",
-  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-2.jpg?quality=90&strip=all&crop=0,0,100,100",
-  "id": "d0178f35064d57a6"
- },
- {
-  "title": "How ElevenLabs' CTO is rolling out AI agents—and why he thinks bigger efficiency gains are ahead for the voice AI startup",
-  "summary": "How ElevenLabs' CTO is rolling out AI agents—and why he thinks bigger efficiency gains are ahead for the voice AI startup Fortune",
-  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN3AzaXpCVkVhZlJnTGtVdWZSZGUxVG9hTm5ST1VpUURJdlB2OFVqZ2hsMlpLWVNnSWJ0RXhtQU5xcjRIWXJqS0lJMWUxaGhHUUpDekY5aDdzTE91N25ObVBMb2wzOWU5RjRQUlBfT3N2cmFMRV96c3k1TnFwQ3E4TzdRdHVCcVhJU3hwelBYWHZtNk5QLWFYV3JmWmI0REswQmNJLXNwakI3aXhCeUxkXzRrMkFNUQ?oc=5",
-  "source": "Fortune",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-04T18:25:00+00:00",
-  "image": "",
-  "id": "0a38212334a85342"
- },
- {
   "title": "Uber only fulfilled 4 rides from AI agents last quarter",
   "summary": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording \"around 500\" during […]",
   "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
@@ -60,18 +24,6 @@
   "id": "3add1944874ec8a0"
  },
  {
-  "title": "Introducing Images 2.6",
-  "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-  "url": "https://openai.com/index/introducing-images-2-6",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-04T00:00:00+00:00",
-  "image": "",
-  "id": "0a437d67f2effbc5"
- },
- {
   "title": "A thousand fewer paths to root",
   "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
   "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
@@ -84,18 +36,6 @@
   "id": "a4f4c423c5426033"
  },
  {
-  "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-  "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-  "url": "https://openai.com/index/devrev-enterprise-self-service",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-04T00:00:00+00:00",
-  "image": "",
-  "id": "bf25be8f87794d7d"
- },
- {
   "title": "Almost no one uses AI agents to book their Uber, company says",
   "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
   "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
@@ -106,5 +46,53 @@
   "time": "2026-11-04T21:56:01+00:00",
   "image": "",
   "id": "f3f4f568585b6de9"
+ },
+ {
+  "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+  "summary": "",
+  "url": "https://huggingface.co/blog/phonon-tts",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-05T00:00:00+00:00",
+  "image": "",
+  "id": "89209ab642b10e25"
+ },
+ {
+  "title": "Setting a new standard for responsible AI infrastructure",
+  "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+  "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-05T02:00:00+00:00",
+  "image": "",
+  "id": "f93567576105c713"
+ },
+ {
+  "title": "How Trust Is Holding Back AI Agents",
+  "summary": "How Trust Is Holding Back AI Agents Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd2loUTlKY1QwVnREa0NWRktuZEJfVlVfWFFWSHhrMmRVeWV0cEsxbG5RTnJNN2FqZ08ydTE5Ql8ySGItSGdWcW96dmRLdGxNa3RtU0hDeUxhNFY2WkU4Z2IwcTdvM2pwSlV4TGtwVmR0WGhScGhWZVBkLUExVkRRNkFGUVRMbFE0eGVJZWp6UU13UC01T3kycjg3a1JHU2FpSlFvQkppT0VETzI3WnRlUjdGZzlVYnJHVzN6MElaQ084T2ZOOEE?oc=5",
+  "source": "Bloomberg.com",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-05T11:29:33+00:00",
+  "image": "",
+  "id": "062bc0914a1a1f53"
+ },
+ {
+  "title": "An Anthropic engineer warns about 'cognitive surrender' as AI agents take over his work",
+  "summary": "An Anthropic engineer warns about 'cognitive surrender' as AI agents take over his work Business Insider",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUklQdDVGTG53Ql84czNTdEVNWW1SYWQ1SldtWmtkMEdlZHZ3LWVZUm5kazJsYW5rdmp4c1p4Mlg2TEN4SGNwNENpQ1cwT2tNWHVVU3VUYTN0bkY4WXFiNVhOMG9Md2NqYWkzZjRZanM1SVpXN3g4ZHpDbEJQQU5MS0VRSmgxN0JJMTZOSTF1WGd4U090aWtDR1Ytckk5UlE?oc=5",
+  "source": "Business Insider",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-05T10:00:00+00:00",
+  "image": "",
+  "id": "371ded3c5d337f9d"
  }
 ]
