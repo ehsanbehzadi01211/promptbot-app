@@ -1,5 +1,32 @@
-Fri Nov  6 12:31:38 UTC 2026
+Fri Nov  6 19:17:44 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 6 fresh
+Google: 1 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 6 fresh
+Hugging Face: 3 fresh
+The Verge: 10 fresh
+TechCrunch: 20 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 1 fresh
+Product Hunt: 8 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 26 fresh
+new items: 7
+translated via clients5
+translated via clients5
+sent photo Gemini Omni 1.2 Flash: Fast and cost-effective with longer c
+translated via clients5
+translated via clients5
+sent photo The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With
+translated via clients5
+translated via clients5
+sent photo More Performance From Every Byte: How Full-Stack Codesign So
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
