@@ -94,5 +94,41 @@
   "time": "2026-11-05T22:52:00+00:00",
   "image": "",
   "id": "e99cfe7e05d067b4"
+ },
+ {
+  "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+  "summary": "",
+  "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-06T00:00:00+00:00",
+  "image": "",
+  "id": "82196d4ece0a644e"
+ },
+ {
+  "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+  "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+  "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-06T06:28:32+00:00",
+  "image": "",
+  "id": "9889510bec40cd60"
+ },
+ {
+  "title": "Perplexity Lets You Build Teammate AI Agents Ready to Handle Your Work",
+  "summary": "Perplexity Lets You Build Teammate AI Agents Ready to Handle Your Work PCMag",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSzlIRnNCMnQtWHBIMTVjU3F1em1ZYXRiYV9VenJNcDZHa0k3Y29KcFEzbDdaaENRLXcwU01QOEVTSWp1Q1ZSQzYxN3Vkc1ZWMHdqUmFTQ3o0SXVqRzdiNC1oSkFBTzA1cm5LTEtIaWV2NGxJQkcxM05QbW91ME5PZ0U3YjVlMVMzWGxrNlJ6RUpSV1Y5RXoxWTdvb2stZw?oc=5",
+  "source": "PCMag",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-06T10:53:43+00:00",
+  "image": "",
+  "id": "fda7cf22fbffb12d"
  }
 ]
