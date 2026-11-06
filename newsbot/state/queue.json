@@ -1,41 +1,5 @@
 [
  {
-  "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-  "summary": "",
-  "url": "https://huggingface.co/blog/phonon-tts",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-05T00:00:00+00:00",
-  "image": "",
-  "id": "89209ab642b10e25"
- },
- {
-  "title": "Setting a new standard for responsible AI infrastructure",
-  "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
-  "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-05T02:00:00+00:00",
-  "image": "",
-  "id": "f93567576105c713"
- },
- {
-  "title": "How Trust Is Holding Back AI Agents",
-  "summary": "How Trust Is Holding Back AI Agents Bloomberg.com",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd2loUTlKY1QwVnREa0NWRktuZEJfVlVfWFFWSHhrMmRVeWV0cEsxbG5RTnJNN2FqZ08ydTE5Ql8ySGItSGdWcW96dmRLdGxNa3RtU0hDeUxhNFY2WkU4Z2IwcTdvM2pwSlV4TGtwVmR0WGhScGhWZVBkLUExVkRRNkFGUVRMbFE0eGVJZWp6UU13UC01T3kycjg3a1JHU2FpSlFvQkppT0VETzI3WnRlUjdGZzlVYnJHVzN6MElaQ084T2ZOOEE?oc=5",
-  "source": "Bloomberg.com",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-05T11:29:33+00:00",
-  "image": "",
-  "id": "062bc0914a1a1f53"
- },
- {
   "title": "An Anthropic engineer warns about 'cognitive surrender' as AI agents take over his work",
   "summary": "An Anthropic engineer warns about 'cognitive surrender' as AI agents take over his work Business Insider",
   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUklQdDVGTG53Ql84czNTdEVNWW1SYWQ1SldtWmtkMEdlZHZ3LWVZUm5kazJsYW5rdmp4c1p4Mlg2TEN4SGNwNENpQ1cwT2tNWHVVU3VUYTN0bkY4WXFiNVhOMG9Md2NqYWkzZjRZanM1SVpXN3g4ZHpDbEJQQU5MS0VRSmgxN0JJMTZOSTF1WGd4U090aWtDR1Ytckk5UlE?oc=5",
@@ -142,5 +106,101 @@
   "time": "2026-11-05T20:05:43+00:00",
   "image": "",
   "id": "d26806a1212a08ef"
+ },
+ {
+  "title": "Australian universities are creating AI-native graduates",
+  "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+  "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-05T17:00:00+00:00",
+  "image": "",
+  "id": "b58fee4edbbb5f7a"
+ },
+ {
+  "title": "Cult.fit builds operational muscle with Codex",
+  "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+  "url": "https://openai.com/index/cultfit-builds-with-codex",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-05T20:00:00+00:00",
+  "image": "",
+  "id": "c88b52d0b21039c7"
+ },
+ {
+  "title": "Merge builds product and business tools with OpenAI technology",
+  "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+  "url": "https://openai.com/index/merge-builds-with-openai",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-05T08:00:00+00:00",
+  "image": "",
+  "id": "300d91101f21ec1d"
+ },
+ {
+  "title": "Flipsnack grows product signups with conversion optimization",
+  "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+  "url": "https://openai.com/ads/customers/flipsnack",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-05T00:45:15+00:00",
+  "image": "",
+  "id": "1f9981de57006417"
+ },
+ {
+  "title": "Franklin Templeton uses OpenAI to support investment research",
+  "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+  "url": "https://openai.com/index/franklin-templeton",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-05T00:00:00+00:00",
+  "image": "",
+  "id": "c0d7b0808284d182"
+ },
+ {
+  "title": "Perplexity launches its own take on AI agents for work",
+  "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+  "source": "The Verge",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-05T22:26:50+00:00",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "id": "8e75ec02fc50e91f"
+ },
+ {
+  "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+  "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+  "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-05T22:40:55+00:00",
+  "image": "",
+  "id": "01af2f668adeb82b"
+ },
+ {
+  "title": "OpenAI launches GPT-6 Cyber, an Astra model built to keep vulnerability research in scope",
+  "summary": "OpenAI launches GPT-6 Cyber, an Astra model built to keep vulnerability research in scope SiliconANGLE",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM0Q3Tzkwa2RTa01WLWp6aXNqaXFnUTlmaHpFWEJkMVo5SU1aNW5EcFFiZEJNWGRfTXdmRnJBM0tXU1lWMjJsVmpFdVFpa01KMDN2aW5SMl91NUJabmVNckpHM0xwRlF6ZWdONkUzcl9QbzVGNF9CZWNEZUxDbHdkcFE4N2pxbmFMOUZPNWlQRDNNeFdsVlpqb3pIR2tzN1NueWQ3US03UzY5cUZqd1JuNEJSZmZjbmhoN1BJcTZkNkl1UWRZTzFCYmpR?oc=5",
+  "source": "SiliconANGLE",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-05T22:52:00+00:00",
+  "image": "",
+  "id": "e99cfe7e05d067b4"
  }
 ]
