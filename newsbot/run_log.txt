@@ -1,5 +1,32 @@
-Sat Nov  7 11:22:27 UTC 2026
+Sat Nov  7 12:53:14 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 1 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 1 fresh
+Hugging Face: 1 fresh
+The Verge: 10 fresh
+TechCrunch: 11 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 1 fresh
+Product Hunt: 2 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 28 fresh
+Google News: 30 fresh
+Google News: 19 fresh
+Google News: 27 fresh
+new items: 0
+translated via clients5
+translated via clients5
+sent photo Palo Alto Networks in talks to buy AI agent security startup
+translated via clients5
+translated via clients5
+sent card Perplexity Lets You Build Teammate AI Agents Ready to Handle
+translated via clients5
+translated via clients5
+sent card Partnering with Hacktron to find vulnerabilities in OpenAI’s
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
