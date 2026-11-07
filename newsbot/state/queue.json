@@ -1,41 +1,5 @@
 [
  {
-  "title": "‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
-  "summary": "Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft: Forever also opens a new chapter in Azeroth, with a launch-week access reward available for GeForce NOW members. Meanwhile, Ubisoft brings fresh challenges with expansions […]",
-  "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-05T14:00:34+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/gfn-thursday-11-5-blog-1920x1080-no-copy.jpg",
-  "id": "d050786c603e8a4b"
- },
- {
-  "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-  "summary": "",
-  "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-05T19:35:16+00:00",
-  "image": "",
-  "id": "e8690f74b67f5698"
- },
- {
-  "title": "OpenAI launches GPT-6 Cyber with 'Critical' cybersecurity rating",
-  "summary": "OpenAI launches GPT-6 Cyber with 'Critical' cybersecurity rating Reuters",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZnpqZW1wbThoTUY1UWpZWi1aeU5rMzZxMDVRMnRUWWo3R1Z1cnJrblN1bVVpbXVGcldYOTNyT3d2MFVnZTlsNS0yZ0J3aDRlYXpUdmlmc0lTUWduYTZzLWpaYkowc1h5MFBwd0tja3RDbjZMcUcybFByX29ZUkl2V0IxdWhkSU5sb2VsT1VHWUs4Z0tVMkZqU2wxak1hYjNSSFQ2Zm1Ea1d5d25jNkE?oc=5",
-  "source": "Reuters",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-05T20:05:43+00:00",
-  "image": "",
-  "id": "d26806a1212a08ef"
- },
- {
   "title": "Australian universities are creating AI-native graduates",
   "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
   "url": "https://openai.com/index/australian-universities-ai-native-graduates",
@@ -58,18 +22,6 @@
   "time": "2026-11-05T20:00:00+00:00",
   "image": "",
   "id": "c88b52d0b21039c7"
- },
- {
-  "title": "Merge builds product and business tools with OpenAI technology",
-  "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
-  "url": "https://openai.com/index/merge-builds-with-openai",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-05T08:00:00+00:00",
-  "image": "",
-  "id": "300d91101f21ec1d"
  },
  {
   "title": "Perplexity launches its own take on AI agents for work",
@@ -226,5 +178,29 @@
   "time": "2026-11-06T11:18:59+00:00",
   "image": "",
   "id": "44e6d1707343f515"
+ },
+ {
+  "title": "All the latest updates on AI data centers",
+  "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+  "source": "The Verge",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-06T20:02:22+00:00",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "id": "c0641eb0de56205a"
+ },
+ {
+  "title": "Need Help at Work? How About a Perplexity 'Teammate' AI Agent?",
+  "summary": "Need Help at Work? How About a Perplexity 'Teammate' AI Agent? PCMag",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLbGMyRDJhem9VS2JjcDR3T1ZEUVVnUHVTMl9nWXVwanVDZWp6bnZlWVFlalhQdVAzOXJFcWxXMDlZbG0wZWpIMjFtRVRoTndzMzZ6YlJMd1FpWjg3ZmJCVzlxMUlQTHRRczdDT0xnamIwdkxTZU9RbnZR?oc=5",
+  "source": "PCMag",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-06T19:08:41+00:00",
+  "image": "",
+  "id": "7d86040ff7e73efa"
  }
 ]
