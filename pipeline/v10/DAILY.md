@@ -78,6 +78,8 @@ Measured: @ehbehzad reels get ~200 views (3.6K followers) while mgh.mobin (149K)
   at most 3 hashtags. Telegram/YouTube links go into the DM message instead.
 * After 7 days, re-measure with `/api/v1/media/{id}/info/` (Chrome tab) and compare against the previous week; log the numbers in the project doc.
 
+> **BLOCKER (7 Nov 2026, 20:23 UTC):** ElevenLabs refused the free4 narration: "Unusual activity has been detected on your account, so Free Tier access has been disabled ... Please upgrade to a paid subscription". Music then failed with "Insufficient funds". Do NOT retry TTS/music until the owner says the account is fixed (upgrade or support). Until then: prepare script/scenes only, use the built-in synth beat (no MUSIC_FILE), and tell the owner no new voiced reel can be made.
+
 ## 3. Voice + word times (ElevenLabs MCP)
 
 * `creative_generate_speech`: model `eleven_v4`, voice Aran Parsi `PEdcOLzbXYhL8IKOswXB`,
