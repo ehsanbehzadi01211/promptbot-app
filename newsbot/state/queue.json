@@ -1,53 +1,5 @@
 [
  {
-  "title": "I tried replacing Claude Code with a local AI stack that’s completely free – how it went",
-  "summary": "I tried replacing Claude Code with a local AI stack that’s completely free – how it went ZDNET",
-  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlptZkRvbzF4ZHIzSUxpRTROYjVIbVVNZHFxMU9QZzdMLVJvb1Y5aEhGY0p0VVU2N2Y1N3MzUVBvUjdzWGdEXzlwSENoUnZyeksxM0hwZ19DWkt0bTV1cFZPZVpzMlZVUmZJdkhpczhQdWdWMi0xeUdmckFaN1BXUF9sYWNlNkVDd3ow?oc=5",
-  "source": "ZDNET",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-06T13:34:18+00:00",
-  "image": "",
-  "id": "c9c05d695091cbac"
- },
- {
-  "title": "Perplexity's 'Teammates' Are The Company's AI Agents For Daily Work Tasks",
-  "summary": "Perplexity's 'Teammates' Are The Company's AI Agents For Daily Work Tasks Engadget",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMEg0eW5XRUhEWEE5cEVqLXFfd0c5VE9xcVI1VGdEMlJ5dlU0N2RPSzJscC16SEpObEtqdlVEVklFaWRDQ0N2VnpVTGNwNVB5UmVjLVI5Y3QxOUxzSC1RMmx2SGRPSTJZdzFlMWQtQWxNeHVwZnVWTVZkeGg3UE1XWEpPenQ2NTVO?oc=5",
-  "source": "Engadget",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-06T11:18:59+00:00",
-  "image": "",
-  "id": "44e6d1707343f515"
- },
- {
-  "title": "All the latest updates on AI data centers",
-  "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead […]",
-  "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-  "source": "The Verge",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-06T20:02:22+00:00",
-  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-  "id": "c0641eb0de56205a"
- },
- {
-  "title": "Need Help at Work? How About a Perplexity 'Teammate' AI Agent?",
-  "summary": "Need Help at Work? How About a Perplexity 'Teammate' AI Agent? PCMag",
-  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLbGMyRDJhem9VS2JjcDR3T1ZEUVVnUHVTMl9nWXVwanVDZWp6bnZlWVFlalhQdVAzOXJFcWxXMDlZbG0wZWpIMjFtRVRoTndzMzZ6YlJMd1FpWjg3ZmJCVzlxMUlQTHRRczdDT0xnamIwdkxTZU9RbnZR?oc=5",
-  "source": "PCMag",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-06T19:08:41+00:00",
-  "image": "",
-  "id": "7d86040ff7e73efa"
- },
- {
   "title": "An unreleased Anthropic model just helped solve a major quantum-computing question",
   "summary": "An unreleased Anthropic model just helped solve a major quantum-computing question Business Insider",
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVV2MmJnQVdxRkgtcmdrS2JNeUNWOGZfOV9hdi1yVG1WTXAxd0RWSlpJN3lZSFRwOUxvS1BSVjY5eTJDdHJYZFRaY0U3aTNfTURBYUdUbGRBVzJadXJmMWZGdzZjV3c1RGlWb3dBT2RDZldOUGxWLTlQcDVQMGhxX3NhclJidXg4WkRVczFhRUtHWi1VZTItcDIyRnRIOFZadDNwd1l5SU9IVmt4dU94XzVtckhadw?oc=5",

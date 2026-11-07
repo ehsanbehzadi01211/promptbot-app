@@ -1,31 +1,32 @@
-Sat Nov  7 18:42:22 UTC 2026
+Sat Nov  7 23:37:20 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 1 fresh
+OpenAI: 0 fresh
 Google: 0 fresh
 Google DeepMind: 0 fresh
 NVIDIA: 1 fresh
 Hugging Face: 1 fresh
 The Verge: 10 fresh
-TechCrunch: 10 fresh
+TechCrunch: 12 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 1 fresh
+MIT Technology Review: 0 fresh
 Product Hunt: 2 fresh
 Anthropic: 26 links
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 25 fresh
 Google News: 30 fresh
-Google News: 22 fresh
-Google News: 29 fresh
-new items: 1
+Google News: 23 fresh
+Google News: 27 fresh
+new items: 0
 translated via clients5
 translated via clients5
-sent photo How NVIDIA Open Source Tools Are Helping Researchers Build N
-translated via clients5
-sent photo ToyBlocks: A controlled world for robot learning and evaluat
+sent card I tried replacing Claude Code with a local AI stack that’s c
 translated via clients5
 translated via clients5
-sent card Anthropic IPO announcement odds drop on Kalshi following mid
+sent photo All the latest updates on AI data centers
+translated via clients5
+translated via clients5
+sent card Need Help at Work? How About a Perplexity 'Teammate' AI Agen
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
