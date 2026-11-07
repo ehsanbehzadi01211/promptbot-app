@@ -139,6 +139,10 @@ Every reel gets its OWN background track; never reuse one.
 * YouTube (`conn_0518c6141bae7d86`) is optional: its daily slot 12:30 UTC is already filled until Nov 18 and
   Uplika's shared YouTube quota fails often.
 
+
+## 2d. Reach rules v2 (owner research request, 7 Nov)
+Measured: our reels ~230 views; named free tool + visual proof + keyword spikes (design skills 4K, motion 1.5K). @cookin.code (7K followers) gets 16K-193K with 30-40 s reels, one named free GitHub tool/skill, one-word keyword, caption of ONE line + <=3 hashtags. So: make new reels 30-35 s (max 45), one named free thing, hook = the claim in 2 s, show the real UI/result, one-word keyword, and the creator-style comment replies are handled by the automation. Never promise results. Only @ehbehzad now.
+
 ## 5b. Second page @hooshyar__ai — CANCELLED (owner, 7 Nov)
 **STOP: do NOT render, schedule or publish anything on @hooshyar__ai any more. Only @ehbehzad. Ignore everything below in this section; kept for history only.** On 7 Nov all 9 scheduled hooshyar posts were deleted and the automations attached to them were disabled; already-published hooshyar posts and their automations were left as they are.
 

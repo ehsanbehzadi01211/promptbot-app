@@ -173,6 +173,56 @@
    "note": "Ref 3 Nov: arlian_agency DfO7EhiS8Xv, 7.3K views, 160 likes, 6 comments, 48 s, original audio: a save-worthy list of 4 resources (Land-book, Awwwards, Godly, Pinterest) + agency DM CTA, NO comment keyword (weak comments). Ours: same 'save this list of 4' format but with a comment keyword and DM links. Pick 4 REAL AI sites that are free to use right now; verify each on its official page the day of the build (free tier limits, no login wall, price), do not guess; never claim 'unlimited' unless verified. Hook = sharp claim in first 2 s. Show each site on screen with its real UI. DM = 4 links + one-line what each does. Caption footer + max 3 hashtags per DAILY.md 2c."
   },
   {
+   "key": "ytskill",
+   "hook": "اسکیل یوتیوب برای Claude؛ ایده، اسکریپت و عنوان رو خودش می‌نویسه",
+   "cat": "skills",
+   "format": "ui",
+   "keyword": "یوتیوب",
+   "status": "todo",
+   "ref": "https://www.instagram.com/cookin.code/ (reel DfPrdtFigs8, caption 'skill package' + keyword YOUTUBE, 2 Nov)",
+   "note": "From @cookin.code (7.3K followers, reels 16K-193K, all 30-40 s, English, one-word keyword giveaways of GitHub repos/skills). We saw only the caption, not the video: find a REAL free YouTube skill/plugin for Claude on GitHub today, verify repo, license, install command, then make it honestly. Do not copy his video."
+  },
+  {
+   "key": "gitclaude",
+   "hook": "گیت‌هاب رو بلد نیستی؟ Claude برات یاد می‌ده",
+   "cat": "tips",
+   "format": "ui",
+   "keyword": "گیت",
+   "status": "todo",
+   "ref": "https://www.instagram.com/cookin.code/ (reel DfctZ8ZC5Xw, keyword Git, 7 Nov)",
+   "note": "Angle: using GitHub with Claude for non-programmers (clone a repo, install a skill, star). Verify the exact steps today. Only a caption was seen."
+  },
+  {
+   "key": "launchapp",
+   "hook": "یه سایت یا اپ رو توی یه روز لانچ کن؛ بدون برنامه‌نویس",
+   "cat": "tips",
+   "format": "ui",
+   "keyword": "لانچ",
+   "status": "todo",
+   "ref": "https://www.instagram.com/cookin.code/ (reel DfYWq7RRAW2, keyword LAUNCH, 6 Nov)",
+   "note": "Angle: launching a website/app with Claude, step by step with REAL free tools (hosting, domain, etc.) verified today with prices. Caption seen only."
+  },
+  {
+   "key": "starrepo",
+   "hook": "این ریپو گیت‌هاب این هفته ترکید؛ رایگانه",
+   "cat": "tools",
+   "format": "ui",
+   "keyword": "ریپو",
+   "status": "todo",
+   "ref": "https://www.instagram.com/cookin.code/ (reel Det9wWwiCmu, 110K views, keyword Star, 20 Oct)",
+   "note": "Angle: one hot open-source repo per reel (30-35 s), keyword delivers the link. Pick a REAL trending repo today (github trending), verify license/what it does/stars count; no hype numbers."
+  },
+  {
+   "key": "growthhack",
+   "hook": "این اسکیل ۲ ساعت کار رشد پیجت رو ۲ دقیقه می‌کنه",
+   "cat": "skills",
+   "format": "ui",
+   "keyword": "رشد",
+   "status": "todo",
+   "ref": "https://www.instagram.com/cookin.code/ (reel DfS0VWCCjNr, 193K views, 6.1K comments, keyword Hack, 4 Nov)",
+   "note": "His best reel; caption only (IG/influencer/YouTube hashtags). Find a REAL free skill or tool for content/growth planning with Claude, verify, show honestly; no growth promises."
+  },
+  {
    "key": "kimik3",
    "status": "todo",
    "hook": "مدل رایگان چینی Kimi K3.1 Pro: چی می‌تونه و چی نمی‌تونه",
