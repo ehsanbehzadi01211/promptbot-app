@@ -139,7 +139,10 @@ Every reel gets its OWN background track; never reuse one.
 * YouTube (`conn_0518c6141bae7d86`) is optional: its daily slot 12:30 UTC is already filled until Nov 18 and
   Uplika's shared YouTube quota fails often.
 
-## 5b. Second page @hooshyar__ai (owner, 1 Nov) — every new reel goes there too
+## 5b. Second page @hooshyar__ai — CANCELLED (owner, 7 Nov)
+**STOP: do NOT render, schedule or publish anything on @hooshyar__ai any more. Only @ehbehzad. Ignore everything below in this section; kept for history only.** On 7 Nov all 9 scheduled hooshyar posts were deleted and the automations attached to them were disabled; already-published hooshyar posts and their automations were left as they are.
+
+(old text, no longer valid:) 5b. Second page @hooshyar__ai (owner, 1 Nov) 
 
 Uplika now has TWO workspaces, so **every Uplika call needs workspaceId**:
 * @ehbehzad (Instagram conn_a8ade4f9de0c6bca, YouTube conn_0518c6141bae7d86): `ws_680c8b2ee3656246`
