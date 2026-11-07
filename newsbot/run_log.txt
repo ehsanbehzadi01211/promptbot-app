@@ -1,31 +1,32 @@
-Sat Nov  7 00:04:56 UTC 2026
+Sat Nov  7 05:51:12 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 4 fresh
-Google: 1 fresh
-Google DeepMind: 1 fresh
-NVIDIA: 6 fresh
+OpenAI: 3 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 2 fresh
 Hugging Face: 3 fresh
 The Verge: 10 fresh
-TechCrunch: 20 fresh
+TechCrunch: 17 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 1 fresh
-Product Hunt: 6 fresh
+Product Hunt: 3 fresh
 Anthropic: 26 links
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 30 fresh
-Google News: 26 fresh
+Google News: 28 fresh
+Google News: 27 fresh
 new items: 2
 translated via clients5
 translated via clients5
-sent photo ‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on Ge
-translated via clients5
-sent photo New NVIDIA Cosmos 3 Open Models for Interactive World Simula
+sent card Cult.fit builds operational muscle with Codex
 translated via clients5
 translated via clients5
-sent card OpenAI launches GPT-6 Cyber with 'Critical' cybersecurity ra
+sent photo Perplexity launches its own take on AI agents for work
+translated via clients5
+translated via clients5
+sent photo Airbnb says it’s launching an AI travel agent in the first h
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel

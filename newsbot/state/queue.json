@@ -1,53 +1,5 @@
 [
  {
-  "title": "Australian universities are creating AI-native graduates",
-  "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-  "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-05T17:00:00+00:00",
-  "image": "",
-  "id": "b58fee4edbbb5f7a"
- },
- {
-  "title": "Cult.fit builds operational muscle with Codex",
-  "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-  "url": "https://openai.com/index/cultfit-builds-with-codex",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-05T20:00:00+00:00",
-  "image": "",
-  "id": "c88b52d0b21039c7"
- },
- {
-  "title": "Perplexity launches its own take on AI agents for work",
-  "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device […]",
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-  "source": "The Verge",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-05T22:26:50+00:00",
-  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-  "id": "8e75ec02fc50e91f"
- },
- {
-  "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-  "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-  "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-  "source": "TechCrunch",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-05T22:40:55+00:00",
-  "image": "",
-  "id": "01af2f668adeb82b"
- },
- {
   "title": "OpenAI launches GPT-6 Cyber, an Astra model built to keep vulnerability research in scope",
   "summary": "OpenAI launches GPT-6 Cyber, an Astra model built to keep vulnerability research in scope SiliconANGLE",
   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM0Q3Tzkwa2RTa01WLWp6aXNqaXFnUTlmaHpFWEJkMVo5SU1aNW5EcFFiZEJNWGRfTXdmRnJBM0tXU1lWMjJsVmpFdVFpa01KMDN2aW5SMl91NUJabmVNckpHM0xwRlF6ZWdONkUzcl9QbzVGNF9CZWNEZUxDbHdkcFE4N2pxbmFMOUZPNWlQRDNNeFdsVlpqb3pIR2tzN1NueWQ3US03UzY5cUZqd1JuNEJSZmZjbmhoN1BJcTZkNkl1UWRZTzFCYmpR?oc=5",
@@ -202,5 +154,29 @@
   "time": "2026-11-06T19:08:41+00:00",
   "image": "",
   "id": "7d86040ff7e73efa"
+ },
+ {
+  "title": "An unreleased Anthropic model just helped solve a major quantum-computing question",
+  "summary": "An unreleased Anthropic model just helped solve a major quantum-computing question Business Insider",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVV2MmJnQVdxRkgtcmdrS2JNeUNWOGZfOV9hdi1yVG1WTXAxd0RWSlpJN3lZSFRwOUxvS1BSVjY5eTJDdHJYZFRaY0U3aTNfTURBYUdUbGRBVzJadXJmMWZGdzZjV3c1RGlWb3dBT2RDZldOUGxWLTlQcDVQMGhxX3NhclJidXg4WkRVczFhRUtHWi1VZTItcDIyRnRIOFZadDNwd1l5SU9IVmt4dU94XzVtckhadw?oc=5",
+  "source": "Business Insider",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-07T00:49:00+00:00",
+  "image": "",
+  "id": "16ee10293b6a50f9"
+ },
+ {
+  "title": "Meta's AI agent Muse adds voice support, expressive avatars",
+  "summary": "Meta's AI agent Muse adds voice support, expressive avatars Mashable",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14ZnhKRHUxVFljdW5VQlpISm5UeXdlaUJVdjFqTGlBZ1pTSkJtX3hQanA5Tlk1NXZ3MHh4Tmt2SXZ4R1dBTEhWT0xXa0ZGTlNqR0RISWdPVFd3Zw?oc=5",
+  "source": "Mashable",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-06T23:36:29+00:00",
+  "image": "",
+  "id": "eaee4bef3d6388b4"
  }
 ]
