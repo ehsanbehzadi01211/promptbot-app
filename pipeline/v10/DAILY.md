@@ -78,7 +78,7 @@ Measured: @ehbehzad reels get ~200 views (3.6K followers) while mgh.mobin (149K)
   at most 3 hashtags. Telegram/YouTube links go into the DM message instead.
 * After 7 days, re-measure with `/api/v1/media/{id}/info/` (Chrome tab) and compare against the previous week; log the numbers in the project doc.
 
-> **BLOCKER (7 Nov 2026, 20:23 UTC):** ElevenLabs refused the free4 narration: "Unusual activity has been detected on your account, so Free Tier access has been disabled ... Please upgrade to a paid subscription". Music then failed with "Insufficient funds". Do NOT retry TTS/music until the owner says the account is fixed (upgrade or support). Until then: prepare script/scenes only, use the built-in synth beat (no MUSIC_FILE), and tell the owner no new voiced reel can be made.
+> **UPDATE (8 Nov 2026):** ElevenLabs TTS works again after the owner fixed the account, but only in the NEW flow `bL6QQph8QFSQMkqJ05SL` (the old flow `bu6itCvwoCIwUujfT3Td` is dead: create a new flow if it errors). Music (`eleven_music_v2_5`) was still "busy" / "Insufficient funds": try once per turn, and if it answers busy do not start a second generation; fall back to the built-in synth beat and say so in the report. Never reuse an old track.
 
 ## 3. Voice + word times (ElevenLabs MCP)
 
