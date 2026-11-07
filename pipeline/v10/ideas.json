@@ -163,14 +163,14 @@
   },
   {
    "key": "free4",
-   "status": "todo",
+   "status": "scheduled",
    "hook": "۴ سایت هوش مصنوعی که رایگان امتحانشون می‌کنی و پولی نمی‌دی 👇",
    "cat": "tips",
    "format": "list",
    "keyword": "رایگان",
    "len": "45-50s",
    "ref": "https://www.instagram.com/reel/DfO7EhiS8Xv/",
-   "note": "Ref 3 Nov: arlian_agency DfO7EhiS8Xv, 7.3K views, 160 likes, 6 comments, 48 s, original audio: a save-worthy list of 4 resources (Land-book, Awwwards, Godly, Pinterest) + agency DM CTA, NO comment keyword (weak comments). Ours: same 'save this list of 4' format but with a comment keyword and DM links. Pick 4 REAL AI sites that are free to use right now; verify each on its official page the day of the build (free tier limits, no login wall, price), do not guess; never claim 'unlimited' unless verified. Hook = sharp claim in first 2 s. Show each site on screen with its real UI. DM = 4 links + one-line what each does. Caption footer + max 3 hashtags per DAILY.md 2c."
+   "note": "Ref 3 Nov: arlian_agency DfO7EhiS8Xv, 7.3K views, 160 likes, 6 comments, 48 s, original audio: a save-worthy list of 4 resources (Land-book, Awwwards, Godly, Pinterest) + agency DM CTA, NO comment keyword (weak comments). Ours: same 'save this list of 4' format but with a comment keyword and DM links. Pick 4 REAL AI sites that are free to use right now; verify each on its official page the day of the build (free tier limits, no login wall, price), do not guess; never claim 'unlimited' unless verified. Hook = sharp claim in first 2 s. Show each site on screen with its real UI. DM = 4 links + one-line what each does. Caption footer + max 3 hashtags per DAILY.md 2c. | BUILT 8 Nov: Google AI Studio, Hugging Face ZeroGPU (5 min/day), NotebookLM (50 sources), Canva (20 AI uses/month). Different from the 9 Nov Suno/Perplexity/Gamma/Leonardo reel. Voice Aran Parsi, synth beat (ElevenLabs music was busy)."
   },
   {
    "key": "gh_filee",
