@@ -1,41 +1,5 @@
 [
  {
-  "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
-  "summary": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless […]",
-  "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-06T16:00:35+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-8.30.25-PM-scaled.png",
-  "id": "215687ca939d14a6"
- },
- {
-  "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-  "summary": "",
-  "url": "https://huggingface.co/blog/allenai/toyblocks",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-06T14:00:48+00:00",
-  "image": "",
-  "id": "be1ba71e55b7f125"
- },
- {
-  "title": "Anthropic IPO announcement odds drop on Kalshi following midterms and AI sell-off",
-  "summary": "Anthropic IPO announcement odds drop on Kalshi following midterms and AI sell-off CNBC",
-  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVkV4WTlpM3hKLUxlRXdrV1JBb3B0Q0VxYVc5bHdDZEh5bG14V2h1eVFXeE5IZllWbEU4TFE3X2k0MnpWVUhrT05BWnkxa2I2NDhPTEJlY1R0d1Y4Q0NmZ0FNQlJsVmMyWjV4VjBCSWxnQTdLamFyMnVqRWQ4bzhKRWQ5VTBsOWdqTURz0gGQAUFVX3lxTE1PZFZSN3pSZmFYLWRXV3FWSUtBWl85aUJlV1REX1N5SzVScE5xQ1lvcnl3Zll5a2hlUXlnUWpHLXFfY3cyeGNyOGRySnNwbklJd2tBbXQ2Q2dnSkd0OFJlR0h0SXl2OGpBcTd6SjVQdnpRQUZTRVRlNjZxQjJBcWl3blY1dGdieXN3ektwY1FobA?oc=5",
-  "source": "CNBC",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-06T15:42:41+00:00",
-  "image": "",
-  "id": "b641438c235b7405"
- },
- {
   "title": "I tried replacing Claude Code with a local AI stack that’s completely free – how it went",
   "summary": "I tried replacing Claude Code with a local AI stack that’s completely free – how it went ZDNET",
   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlptZkRvbzF4ZHIzSUxpRTROYjVIbVVNZHFxMU9QZzdMLVJvb1Y5aEhGY0p0VVU2N2Y1N3MzUVBvUjdzWGdEXzlwSENoUnZyeksxM0hwZ19DWkt0bTV1cFZPZVpzMlZVUmZJdkhpczhQdWdWMi0xeUdmckFaN1BXUF9sYWNlNkVDd3ow?oc=5",
@@ -106,5 +70,17 @@
   "time": "2026-11-06T23:36:29+00:00",
   "image": "",
   "id": "eaee4bef3d6388b4"
+ },
+ {
+  "title": "A growing streetwear retailer reveals its AI agent shopping strategy ahead of the holidays",
+  "summary": "A growing streetwear retailer reveals its AI agent shopping strategy ahead of the holidays Business Insider",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS2dRU3FtR3FSVEV5S3RPak5yTVhJc2N1ajBzZkg4ZWFCM1JHWDA3VTZ2ZkhCQ0d2SnJqdHZUYnJYZWl4c1dXNmdKNGo1TG1VWFROV0FlUUVfcnYyd0hhYnJiQVlGd0JWZk5wMURMbnRlVUFhOTA0cjYwalYtd2tOVURGbS15WDlFOW55V3BkQS1EZHNHS0FvMWtEbkJUTVlUb1lV?oc=5",
+  "source": "Business Insider",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-07T10:47:00+00:00",
+  "image": "",
+  "id": "94e50539ee9a90bb"
  }
 ]
