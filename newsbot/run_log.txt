@@ -1,42 +1,21 @@
-Sat Nov  7 23:37:20 UTC 2026
+Sun Nov  8 04:50:21 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 0 fresh
-Google: 0 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 1 fresh
-Hugging Face: 1 fresh
-The Verge: 10 fresh
-TechCrunch: 12 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 0 fresh
-Product Hunt: 2 fresh
-Anthropic: 26 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 25 fresh
-Google News: 30 fresh
-Google News: 23 fresh
-Google News: 27 fresh
-new items: 0
-translated via clients5
-translated via clients5
-sent card I tried replacing Claude Code with a local AI stack that’s c
-translated via clients5
-translated via clients5
-sent photo All the latest updates on AI data centers
-translated via clients5
-translated via clients5
-sent card Need Help at Work? How About a Perplexity 'Teammate' AI Agen
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
+promo sent yo-2026-10-29-short
 promo sent in-2026-10-30-reel
+promo sent yo-2026-10-30-short
 promo sent in-2026-10-31-reel
 promo sent in-2026-11-01-reel
+promo sent in-2026-11-02-reel
 promo sent in-2026-11-03-reel
+promo sent in-2026-11-04-reel
 promo sent in-2026-11-05-reel
+promo sent in-2026-11-06-reel
 promo sent in-2026-11-07-reel
 promo sent in-2026-10-29-v8imagetools
+promo sent in-2026-10-30-v8indicator
 Traceback (most recent call last):
   File "/home/runner/work/promptbot-app/promptbot-app/newsbot/promo.py", line 77, in <module>
     main()
