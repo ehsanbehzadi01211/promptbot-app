@@ -176,7 +176,25 @@ hooshyar = «هوشیار | هوش مصنوعی به زبان ساده», same t
   deliver and button; notFollowingMessage asks to follow @hooshyar__ai. Example: automation af_56d9170e4662c485 (agents7).
 * In ideas.json also set `hy_post`, `hy_date`, `hy_automation`.
 
+## 5c. Put the new reel in the upload queue (owner, 8 Nov: every day one new reel AND it goes into the upload queue)
+
+Every new reel must also be added to `content/queue.json` (list, indent=1, ensure_ascii=False), so the daily
+publisher task tracks it and also uploads it to YouTube. Append TWO items (`<day>` = the day you scheduled it):
+
+* Instagram (already scheduled by you in 5):
+  `{"platform":"instagram","kind":"reel","when":"<day>T21:00","topic":"<hook>","key":"v10_<key>",
+  "media":"<final Cloudinary URL>","status":"scheduled","id":"in-<day>-reel-v10","via":"uplika",
+  "uplika_post":"<post id>","automation":"<automation id>"}`
+* YouTube Short (the publisher schedules it through Uplika):
+  `{"platform":"youtube","kind":"short","lang":"fa","when":"<day>T21:00","topic":"<hook>","key":"fa_v10_<key>",
+  "media":"<final Cloudinary URL>","status":"queued","id":"yo-<day>-short-v10"}`
+* Add `pipeline/scripts_en.json["fa_v10_<key>"]` = `{"lang":"fa","title":"<Persian title, max 90 chars> #Shorts",
+  "desc":"<2-4 Persian lines>\n\n▶️ یوتیوب: https://youtube.com/@ehbehzad\n📷 اینستاگرام: https://instagram.com/ehbehzad\n📢 تلگرام: https://t.me/ehbehzad_ai\n\n#Shorts #هوش_مصنوعی ...",
+  "tags":[5-10 Persian/English tags]}` (same shape as the existing fa_* entries; no comment-keyword line, YouTube has no DM automation).
+* If an id already exists, do not add a second one. `git pull --rebase` before committing.
+
 ## 6. Finish
 
-Set the idea to `"status": "scheduled", "post": <id>, "date": <day>` in `ideas.json`, commit + push.
+Set the idea to `"status": "scheduled", "post": <id>, "date": <day>` in `ideas.json`, make sure step 5c is done
+(queue.json + scripts_en.json), commit "reel v10_<key> + queue" and push.
 Report to the owner in Persian: the hook, the day/time, the keyword, and a link to the final video.
