@@ -178,7 +178,7 @@ hooshyar = «هوشیار | هوش مصنوعی به زبان ساده», same t
 
 ## 5c. Put the new reel in the upload queue (owner, 8 Nov: every day one new reel AND it goes into the upload queue)
 
-Every new reel must also be added to `content/queue.json` (list, indent=1, ensure_ascii=False), so the daily
+Every new reel must also be added to `content/queue.json` (list, indent=2, ensure_ascii=False), so the daily
 publisher task tracks it and also uploads it to YouTube. Append TWO items (`<day>` = the day you scheduled it):
 
 * Instagram (already scheduled by you in 5):
