@@ -1,5 +1,32 @@
-Sun Nov  8 04:50:21 UTC 2026
+Sun Nov  8 05:52:12 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 0 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 0 fresh
+Hugging Face: 0 fresh
+The Verge: 8 fresh
+TechCrunch: 7 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 0 fresh
+Product Hunt: 2 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 22 fresh
+Google News: 30 fresh
+Google News: 23 fresh
+Google News: 27 fresh
+new items: 0
+translated via clients5
+translated via clients5
+sent card An unreleased Anthropic model just helped solve a major quan
+translated via clients5
+translated via clients5
+sent card Meta's AI agent Muse adds voice support, expressive avatars
+translated via clients5
+translated via clients5
+sent card A growing streetwear retailer reveals its AI agent shopping 
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
