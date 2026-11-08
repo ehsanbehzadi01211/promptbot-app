@@ -115,6 +115,12 @@ Every reel gets its OWN background track; never reuse one.
 * laptop format: add to `laptop.json`, then `python3 laptop.py <key>` → `out/<key>_ig_nolvoice.mp4`
   (`--stills` renders one frame per beat to check the layout first; look at them).
 * Render takes several minutes: run it with nohup and poll the log.
+* **LENGTH CHECK (owner, 8 Nov: the gh_filee reel was cut in the middle of «کلمه رو کامنت کن»).** The transcript's
+  last word time can be earlier than the real end of the voice. Before rendering set `words10/<key>.json` `"end"` to
+  the REAL voice length (the duration Cloudinary/ElevenLabs reports for the voice file) and make sure the last
+  words (the keyword/CTA sentence) have times. After rendering, check with ffprobe:
+  video duration ≥ voice duration + 0.25 + 3.0 s (CTA fully spoken, then the ~2.6 s follow card). Look at a still
+  1 s before the end: it must be the follow card. If the check fails, fix and re-render; never publish a cut reel.
 
 ## 5. Mix voice + publish
 
