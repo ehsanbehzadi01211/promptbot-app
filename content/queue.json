@@ -1471,12 +1471,12 @@
   {
     "platform": "instagram",
     "kind": "reel",
-    "when": "2026-11-09T21:00",
+    "when": "2026-11-11T21:00",
     "topic": "دیگه برای تبدیل فایل سایت آنلاین نرو! 👇",
     "key": "v10_gh_filee",
-    "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794136536/ehbehzad/v10_gh_filee_final.mp4",
+    "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794165925/ehbehzad/v10_gh_filee_final2.mp4",
     "status": "scheduled",
-    "id": "in-2026-11-09-reel-v10",
+    "id": "in-2026-11-11-reel-v10",
     "via": "uplika",
     "uplika_post": "post_620c32be8da4e198",
     "automation": "af_67afcdfec5869aec"
@@ -1485,11 +1485,11 @@
     "platform": "youtube",
     "kind": "short",
     "lang": "fa",
-    "when": "2026-11-09T21:00",
+    "when": "2026-11-11T21:00",
     "topic": "دیگه برای تبدیل فایل سایت آنلاین نرو! 👇",
     "key": "fa_v10_gh_filee",
-    "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794136536/ehbehzad/v10_gh_filee_final.mp4",
+    "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794165925/ehbehzad/v10_gh_filee_final2.mp4",
     "status": "queued",
-    "id": "yo-2026-11-09-short-v10"
+    "id": "yo-2026-11-11-short-v10"
   }
 ]
