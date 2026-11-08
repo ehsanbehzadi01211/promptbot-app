@@ -1,5 +1,23 @@
-Sun Nov  8 19:26:49 UTC 2026
+Sun Nov  8 23:39:34 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 0 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 0 fresh
+Hugging Face: 0 fresh
+The Verge: 8 fresh
+TechCrunch: 3 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 0 fresh
+Product Hunt: 1 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 25 fresh
+Google News: 30 fresh
+Google News: 27 fresh
+Google News: 25 fresh
+new items: 0
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
