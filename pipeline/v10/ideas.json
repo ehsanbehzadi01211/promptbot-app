@@ -185,13 +185,18 @@
       "script": "[excited] دیگه برای تبدیل فایل، سایت آنلاین نرو! این برنامه‌ی رایگان و متن‌باز اسمش Filee هست و توی گیت‌هاب بیشتر از بیست و سه هزار ستاره داره. کلید Ctrl رو نگه دار، فایل رو بکش، و روی فرمت دلخواه ول کن. حدود دویست و هفتاد فرمت: عکس، پی‌دی‌اف، ورد، اکسل، پاورپوینت، کتاب الکترونیکی. همه‌چی روی کامپیوتر خودت انجام می‌شه و هیچ فایلی آپلود نمی‌شه. راهنمای فارسی هم داره. کلمه‌ی «تبدیل» رو کامنت کن تا لینکش رو برات بفرستم.",
       "scenes": "1 hook: upload-site UI crossed out → 2 repo card with star counter → 3 drag demo: file icon dragged, format donut opens at cursor, PNG chosen, progress ring (rebuild from the filee.sh demo, not a fake screenshot) → 4 format tiles grid → 5 'offline / no upload' lock → 6 فارسی README chip → CTA.",
       "dm": "لینک گیت‌هاب + لینک دانلود Releases + دستور winget",
-      "status": "todo",
+      "status": "scheduled",
+      "post": "post_620c32be8da4e198",
+      "date": "2026-11-09",
+      "automation": "af_67afcdfec5869aec",
       "cat": "github",
       "format": "ui",
       "host": "robot",
       "len": "30-35s",
       "source": "github search 7 Nov",
-      "verify": "GitHub data checked 7 Nov 2026 via GitHub search API + README; re-check stars/license/install on the build day and never round stars up."
+      "verify": "GitHub data checked 7 Nov 2026 via GitHub search API + README; re-check stars/license/install on the build day and never round stars up.",
+      "music": "synth beat (ElevenLabs eleven_music_v2_5 was busy)",
+      "final": "https://res.cloudinary.com/qecsawrr/video/upload/v1794136536/ehbehzad/v10_gh_filee_final.mp4"
     },
     {
       "key": "gh_genoffice",
