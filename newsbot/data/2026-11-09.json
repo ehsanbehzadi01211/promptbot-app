@@ -1,0 +1,62 @@
+[
+ {
+  "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+  "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key […]",
+  "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-09T05:00:39+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-agentic-ai-1920x1080-1.jpg",
+  "id": "741e635ddb789d7c"
+ },
+ {
+  "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+  "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung…",
+  "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-09T05:00:40+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/omniverse-overall-ai-day-seoul-1920x1080-1.jpeg",
+  "id": "dc742b2cbd8fb92b"
+ },
+ {
+  "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+  "summary": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes […]",
+  "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-09T05:00:04+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-sovereign-ai-nvlink-fusion.jpg",
+  "id": "22dc4f77b8e2cd3f"
+ },
+ {
+  "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+  "summary": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing […]",
+  "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-09T05:00:00+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/dynamo-korea-ai-day.jpg",
+  "id": "e18a5f64b586f52b"
+ },
+ {
+  "title": "Cemex builds an always-on HR experience with a Copilot Studio agent",
+  "summary": "Cemex builds an always-on HR experience with a Copilot Studio agent Microsoft",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeU5jbk9yZUVlWkdPa3ZUbHVMWVBlck9LSG5JTUQ4WmtzU0VENmYzZVAtdDFHQVJwQllsWXNISEg4TDlMN2k4NDd5NFhFLWpsNmVxVEdNNVN1MGFnalktS0pNZUhLcGZHYk5IckdCaG5PcEFFZFpueW5MVHZ4a3JENk52b0k3WXFD?oc=5",
+  "source": "Microsoft",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-09T00:33:58+00:00",
+  "image": "",
+  "id": "53c28df884e3d639"
+ }
+]
