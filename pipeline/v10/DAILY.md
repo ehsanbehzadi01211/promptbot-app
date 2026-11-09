@@ -48,6 +48,12 @@ Times are word indices of the spoken text (`12`, or `"12+0.3"` / `"12-0.2"` for 
   reach the subtitles (stage y ≤ ~760), and each item scene should *show* the idea (a diagram, UI or demo), not just
   text. Vary the layouts between reels.
 
+## 2f. Background themes (owner, 9 Nov: the cream/pastel background got repetitive; film-strip edges were "ugly")
+`ui.json` spec key `"bg"`: `"mesh"` (default, cream + pastel blobs) or `"cine"` (dark cinematic: orange/violet glow, light beams,
+rising sparks, film grain, glass cards; inspired by the reference reels leonaedit / ai.akshu). New reels use `"cine"` from 9 Nov
+(first: key `openmontage`). Never add film strips. In cine, html elements must use light text and glass backgrounds
+(`rgba(255,255,255,.06-.12)`), never `#fff` cards with inherited text. Don't use `dark: true` scenes in cine (whole reel is dark).
+
 ## 2b. Talking host (every reel)
 
 The owner chose a host character: a small robot in frosted white glass (`out/mascot_2_robot_glass.png`).

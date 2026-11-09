@@ -68,6 +68,39 @@ body{font-family:Vaz,sans-serif;direction:rtl;color:var(--ink);-webkit-font-smoo
 #dark{position:absolute;inset:0;background:radial-gradient(ellipse 90% 60% at 50% 40%,#1d1a24,#0b0a0e 70%);opacity:0}
 #dark .grid{position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,.10) 1.6px,transparent 1.7px);background-size:36px 36px;
   -webkit-mask:radial-gradient(ellipse 70% 55% at 50% 45%,#000 20%,transparent 75%)}
+/* ===== theme "cine" (owner 9 Nov: cream/pastel got repetitive; refs = dark cinematic, orange glow, glass UI) ===== */
+body.th-cine{--ink:#f5f2f8;--mut:#9d96aa;--bg:#07060a;--card:rgba(255,255,255,.06);--line:rgba(255,255,255,.12);background:#07060a}
+.th-cine #bg{background:radial-gradient(ellipse 120% 80% at 50% 28%,#1b1422 0%,#0c0a10 55%,#050407 100%)}
+.th-cine #bg .grid{background-image:radial-gradient(rgba(255,255,255,.09) 1.4px,transparent 1.5px);background-size:44px 44px;opacity:.55}
+.th-cine #bg .blob{filter:blur(140px);opacity:.42;mix-blend-mode:screen}
+.th-cine #bg .beam{position:absolute;left:-400px;width:1900px;height:340px;opacity:.55;filter:blur(30px);
+  background:linear-gradient(90deg,transparent,rgba(255,255,255,.07) 35%,rgba(255,190,150,.10) 50%,rgba(255,255,255,.05) 65%,transparent)}
+.th-cine #bg .spk{position:absolute;border-radius:50%;background:#ffb27a;box-shadow:0 0 14px 4px rgba(255,140,80,.55)}
+.th-cine #bg .grain{position:absolute;inset:-60px;opacity:.10;mix-blend-mode:overlay;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='240'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>")}
+.th-cine #bg .vig{position:absolute;inset:0;background:radial-gradient(ellipse 80% 70% at 50% 42%,transparent 50%,rgba(0,0,0,.55) 100%)}
+.th-cine #hdl{color:#fff;background:rgba(255,255,255,.10);border-color:rgba(255,255,255,.16);box-shadow:none}
+.th-cine #tabs .tb{background:rgba(255,255,255,.07);border-color:rgba(255,255,255,.12);color:#8f889c}
+.th-cine #tabs .tb.on{background:var(--a);border-color:var(--a);color:#fff;box-shadow:0 8px 26px color-mix(in srgb,var(--a) 50%,transparent)}
+.th-cine .kick{background:rgba(255,255,255,.07);border-color:rgba(255,255,255,.12);color:#b9b3c4}
+.th-cine h1{text-shadow:0 10px 40px rgba(0,0,0,.5)}
+.th-cine .card,.th-cine .node,.th-cine .tile,.th-cine .li.lt,.th-cine .cta-box{
+  background:linear-gradient(160deg,rgba(255,255,255,.11),rgba(255,255,255,.035));border:1.5px solid rgba(255,255,255,.14);color:var(--ink);
+  box-shadow:0 30px 80px rgba(0,0,0,.55),inset 0 1px 0 rgba(255,255,255,.16);-webkit-backdrop-filter:blur(18px);backdrop-filter:blur(18px)}
+.th-cine .node small{color:#a39cb0}
+.th-cine .node .ring{box-shadow:0 0 40px color-mix(in srgb,var(--a) 60%,transparent)}
+.th-cine svg.edges path.e{stroke:rgba(255,255,255,.22)}
+.th-cine .win{border-color:rgba(255,255,255,.10)}.th-cine .win i{background:rgba(255,255,255,.18)}
+.th-cine .win i:nth-child(1){background:#ff6b5f}.th-cine .win i:nth-child(2){background:#ffbd2e}.th-cine .win i:nth-child(3){background:#29c840}
+.th-cine .bub.me{background:var(--a);color:#fff}.th-cine .bub.ai{background:rgba(255,255,255,.10);color:#fff}
+.th-cine .li .tick,.th-cine .li.lt .tick{background:rgba(255,255,255,.12)}
+.th-cine .bar{background:rgba(255,255,255,.1)}
+.th-cine .cbox{background:rgba(255,255,255,.06);border-color:rgba(255,255,255,.12)}
+.th-cine .dm{background:#16131c;border:1.5px solid rgba(255,255,255,.12)}
+.th-cine #subs span{color:#5d5768}.th-cine #subs span.s{color:#fff}
+.th-cine .big7{text-shadow:0 0 60px color-mix(in srgb,var(--a) 55%,transparent),0 30px 80px rgba(0,0,0,.6)}
+.th-cine #fol{background:rgba(7,6,10,.72)}
+.th-cine #fol .fc{background:linear-gradient(160deg,#1d1924,#121016);border:1.5px solid rgba(255,255,255,.12);box-shadow:0 40px 120px rgba(0,0,0,.7)}
+.th-cine #fol .av{border-color:#2a2532}.th-cine #fol .hd{color:#fff}
 #cam{position:absolute;inset:0;transform-origin:50% 45%}
 .sc{position:absolute;inset:0;opacity:0;will-change:transform,opacity,filter}
 .sc.dk{color:#fff}
@@ -177,6 +210,9 @@ const S=window.SCN;
 $('path.e').forEach(p=>{const L=p.getTotalLength();p.dataset.len=L;p.style.strokeDasharray=L;p.style.strokeDashoffset=L});
 window.tick=function(t){
   // background light drift
+  $('#bg .beam').forEach((b,i)=>{b.style.transform=`translateY(${(i?1200:350)+Math.sin(t*.12+i*2)*160}px) rotate(${-24+Math.sin(t*.1+i)*5}deg)`});
+  $('#bg .spk').forEach(p=>{const sp=+p.dataset.s,ph=+p.dataset.p,y=1960-((t*sp+ph)%2100);p.style.transform=`translate(${Math.sin(t*.8+ph)*22}px,${y}px)`;p.style.opacity=Math.max(0,Math.min(1,(1960-y)/300))*Math.max(0,Math.min(1,y/500))*(+p.dataset.o)});
+  $('#bg .grain').forEach(g=>{const k=Math.floor(t*24);g.style.transform=`translate(${(k*37)%60-30}px,${(k*53)%60-30}px)`});
   $('#bg .blob').forEach((b,i)=>{const k=i*1.7;b.style.transform=`translate(${Math.sin(t*.23+k)*90}px,${Math.cos(t*.19+k)*70}px) scale(${1+Math.sin(t*.3+k)*.08})`});
   // dark mode amount
   let dk=0; for(const s of S){ if(s.dark){ dk=Math.max(dk,cl((t-s.a+.2)/.5)*cl((s.e-t+.2)/.5)); } }
@@ -479,6 +515,20 @@ def build(key):
     blobs = ('<div class="blob" style="left:-200px;top:80px;width:760px;height:760px;background:#ffb38a"></div>'
              '<div class="blob" style="right:-260px;top:620px;width:820px;height:820px;background:#b7a8ff"></div>'
              '<div class="blob" style="left:-120px;bottom:-160px;width:760px;height:760px;background:#9ee6c9"></div>')
+    theme = spec.get("bg", "mesh")
+    if theme == "cine":
+        import random
+        rnd = random.Random(7)
+        acc = spec.get("accent", "#e8693c")
+        spk = "".join(f'<div class="spk" data-s="{rnd.uniform(40, 110):.1f}" data-p="{rnd.uniform(0, 2100):.0f}" data-o="{rnd.uniform(.35, .9):.2f}" '
+                      f'style="left:{rnd.uniform(20, 1060):.0f}px;top:0;width:{rnd.choice([3, 4, 4, 5, 6])}px;height:{rnd.choice([3, 4, 4, 5, 6])}px"></div>' for _ in range(28))
+        blobs = (f'<div class="blob" style="left:-260px;top:-120px;width:900px;height:900px;background:{acc}"></div>'
+                 '<div class="blob" style="right:-320px;top:760px;width:900px;height:900px;background:#6a4cff"></div>'
+                 f'<div class="blob" style="left:180px;bottom:-380px;width:720px;height:720px;background:{acc};opacity:.22"></div>'
+                 '<div class="beam" style="top:0"></div><div class="beam" style="top:0"></div>' + spk)
+        blobs_tail = '<div class="grain"></div><div class="vig"></div>'
+    else:
+        blobs_tail = ""
     host_html = ""
     if spec.get("host"):
         from host import host_any, words_to_spans
@@ -486,8 +536,8 @@ def build(key):
                      host_any(spec["host"], ROOT, words_to_spans(ts, total - 1.0), [[0, "corner"]], spec.get("accent", "#e8693c")))
         host_html = host_html.replace("#host{", "#host{border-color:#fff!important;box-shadow:0 14px 40px rgba(60,40,20,.25)!important;", 1)
     page = (f'<!doctype html><html lang="fa"><head><meta charset="utf-8"><style>{CSS.replace("FONT", FONT)}</style></head>'
-            f'<body style="--a:{spec.get("accent", "#e8693c")};--a2:{spec.get("accent2", "rgba(232,105,60,.22)")}">'
-            f'<div id="bg">{blobs}<div class="grid"></div></div><div id="dark"><div class="grid"></div></div>'
+            f'<body class="th-{spec.get("bg", "mesh")}" style="--a:{spec.get("accent", "#e8693c")};--a2:{spec.get("accent2", "rgba(232,105,60,.22)")}">'
+            f'<div id="bg">{blobs}<div class="grid"></div>{blobs_tail}</div><div id="dark"><div class="grid"></div></div>'
             f'<div id="cam">{"".join(parts)}</div><div id="hdl">{handle}</div><div id="tabs">{tabs}</div><div id="subs"></div><div id="flash"></div>{fol_html}'
             f'<script>window.SCN={json.dumps(S)};window.TOTAL={total:.3f};window.CTA={cta_at:.3f};window.FOL={total - 2.6:.3f};window.TABS_ON={tabs_on};'
             f'window.WORDS={json.dumps(WORDS, ensure_ascii=False)};window.FLASH={json.dumps([round(cta_at + .1, 3)])};{JS}</script>'
