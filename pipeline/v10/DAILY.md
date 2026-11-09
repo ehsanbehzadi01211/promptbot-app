@@ -4,6 +4,22 @@ Reply to the owner in Persian. Every reel: strong hook in the first 2 seconds, n
 subtitles, one short comment keyword with an automatic DM of links. Never invent numbers; check every tool,
 price and free quota on the web the same day (if it changed or can't be checked, rewrite or skip the idea).
 
+## 0. Credit budget (owner, 9 Nov: one new reel EVERY day, with credit management; it always goes into the upload queue)
+Free/cheap first, one paid generation per step, never a retry that charges twice.
+* **ElevenLabs voice**: exactly one `creative_generate_speech` (eleven_v4, generations_count 1, ~500 credits for 35-40 s).
+  Before it, call it once with `estimate_only: true`; if the estimate or the answer says "Insufficient funds", stop and report
+  (do not switch to another paid voice). "busy" means nothing started and nothing was charged: wait 2-3 min and try again,
+  at most 4 tries spread over ~20 min, then report. Never regenerate a finished voice unless the words are wrong.
+* **Word timings: FREE path first.** Fetch the voice mp3 into the repo (fetch.txt), then put its file name in
+  `transcribe.txt` and push: the GitHub Action (Whisper large-v3) writes `transcripts/<name>.json` in ~3 min. Map its
+  words to the script tokens (Whisper splits «گیت‌هاب», «API» etc.; merge them). Use ElevenLabs `creative_transcribe_audio`
+  only if the Action fails.
+* **Music**: ElevenLabs music at most ONE try per reel; if busy or no funds, use the built-in synth beat (no MUSIC_FILE)
+  and say so. Never pay for image/video generation for a reel.
+* **Render once**: `--stills` first, fix, then one full render. Cloudinary: one upload of the silent mp4 + one of the final.
+* Script length 30-40 s keeps the voice cost at ~500 credits; at most 45 s.
+* Report the credits used (voice estimate) in the daily report.
+
 ## 1. Setup (fresh session)
 
     git clone -b reels-media https://github.com/ehsanbehzadi01211/promptbot-app /tmp/rm
@@ -160,6 +176,13 @@ Measured: our reels ~230 views; named free tool + visual proof + keyword spikes 
 ## 2e. HyperFrames for some segments (owner, 7 Nov)
 Owner: do NOT replace the renderer, the designs still smell AI and must look more professional, like the reel that got ~4K views.
 Use HyperFrames (see pipeline/v10/hf/README.md) for selected segments of SOME new reels only (a title card, kinetic hook, chart, transition, overlay), then composite into the normal render. Never for every reel.
+
+## 5d. YouTube comments (owner, 9 Nov: answer YouTube comments like Instagram)
+YouTube has no DMs and Uplika has no YouTube comment automation, so a separate scheduled task (3x a day) answers them with
+Uplika `list_channel_posts` (YouTube conn_0518c6141bae7d86) + `list_replies` + `reply`, logging answered comment ids in
+`content/yt_replied.json`. A comment asking for the link / writing the video's keyword gets a short Persian thank-you plus
+the tool's link from that video's description (public reply, since there is no DM); questions get a short honest answer;
+spam, insults and empty emoji comments are skipped. So: always put the main link(s) in the YouTube description.
 
 ## 5b. Second page @hooshyar__ai — CANCELLED (owner, 7 Nov)
 **STOP: do NOT render, schedule or publish anything on @hooshyar__ai any more. Only @ehbehzad. Ignore everything below in this section; kept for history only.** On 7 Nov all 9 scheduled hooshyar posts were deleted and the automations attached to them were disabled; already-published hooshyar posts and their automations were left as they are.

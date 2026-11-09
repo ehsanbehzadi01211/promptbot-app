@@ -2398,6 +2398,30 @@
   "lang": "fa",
   "title": "پول آفیس نده! GenOffice: آفیس رایگان و متن‌باز با هوش مصنوعی #Shorts",
   "desc": "GenOffice یه آفیس کامل، رایگان و متن‌بازه، برای ویندوز، مک و لینوکس.\nفایل‌های ورد، اکسل و پاورپوینت رو باز می‌کنه و با همون فرمت ذخیره می‌کنه.\nکنار هر فایل یه هوش مصنوعی نشسته: متن رو ویرایش می‌کنه، فرمول اکسل می‌نویسه، اسلاید می‌سازه، و هر تغییر رو Tracked Change ثبت می‌کنه.\nخود برنامه رایگانه؛ برای هوش مصنوعی یا با حساب Genspark رایگان وارد می‌شی یا کلید OpenAI/Gemini خودت رو می‌دی.\n\n🔗 https://github.com/genspark-ai/genoffice\n\n▶️ یوتیوب: https://youtube.com/@ehbehzad\n📷 اینستاگرام: https://instagram.com/ehbehzad\n📢 تلگرام: https://t.me/ehbehzad_ai\n\n#Shorts #هوش_مصنوعی #ابزار_رایگان",
-  "tags": ["آفیس رایگان", "ابزار رایگان", "متن باز", "GenOffice", "گیت هاب", "open source", "هوش مصنوعی", "Microsoft Office"]
+  "tags": [
+   "آفیس رایگان",
+   "ابزار رایگان",
+   "متن باز",
+   "GenOffice",
+   "گیت هاب",
+   "open source",
+   "هوش مصنوعی",
+   "Microsoft Office"
+  ]
+ },
+ "fa_v10_openmontage": {
+  "lang": "fa",
+  "title": "رتبه‌ی یک ترندینگ گیت‌هاب: کلاد رو استودیوی ساخت ویدیو کن! OpenMontage #Shorts",
+  "desc": "OpenMontage رتبه‌ی یکِ ترندینگ گیت‌هاب شده: اسکیلی رایگان و متن‌باز که کلاد رو به یه استودیوی کامل ساخت ویدیو تبدیل می‌کنه.\n\n🔗 گیت‌هاب: https://github.com/OpenMontageInc/OpenMontage\n\n▶️ یوتیوب: https://youtube.com/@ehbehzad\n📷 اینستاگرام: https://instagram.com/ehbehzad\n📢 تلگرام: https://t.me/ehbehzad_ai\n\n#Shorts #هوش_مصنوعی #کلاد",
+  "tags": [
+   "OpenMontage",
+   "اوپن مونتاژ",
+   "کلاد",
+   "Claude Code",
+   "ساخت ویدیو با هوش مصنوعی",
+   "هوش مصنوعی",
+   "گیت هاب",
+   "ابزار رایگان"
+  ]
  }
 }
