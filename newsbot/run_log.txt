@@ -1,32 +1,5 @@
-Mon Nov  9 06:07:32 UTC 2026
+Mon Nov  9 09:34:41 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 0 fresh
-Google: 0 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 4 fresh
-Hugging Face: 0 fresh
-The Verge: 4 fresh
-TechCrunch: 4 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 0 fresh
-Product Hunt: 0 fresh
-Anthropic: 26 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 28 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 26 fresh
-new items: 5
-translated via clients5
-translated via clients5
-sent photo Korea’s AI Ecosystem Advances and Secures Agentic AI With NV
-translated via clients5
-translated via clients5
-sent photo Korea Advances Physical AI Across Industries With NVIDIA
-translated via clients5
-translated via clients5
-sent photo From Chips to Skills, NVIDIA and Korea Expand Sovereign AI C
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
