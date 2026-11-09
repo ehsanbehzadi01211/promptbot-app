@@ -1,26 +1,50 @@
 [
  {
-  "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
-  "summary": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing […]",
-  "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+  "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+  "summary": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in […]",
+  "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
   "source": "NVIDIA",
   "official": true,
   "tools": false,
   "gnews": false,
-  "time": "2026-11-09T05:00:00+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/dynamo-korea-ai-day.jpg",
-  "id": "e18a5f64b586f52b"
+  "time": "2026-11-09T14:00:01+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/corl-corp-blog-promo-pack-1920x1080-1.png",
+  "id": "97be7dad625b85b1"
  },
  {
-  "title": "Cemex builds an always-on HR experience with a Copilot Studio agent",
-  "summary": "Cemex builds an always-on HR experience with a Copilot Studio agent Microsoft",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeU5jbk9yZUVlWkdPa3ZUbHVMWVBlck9LSG5JTUQ4WmtzU0VENmYzZVAtdDFHQVJwQllsWXNISEg4TDlMN2k4NDd5NFhFLWpsNmVxVEdNNVN1MGFnalktS0pNZUhLcGZHYk5IckdCaG5PcEFFZFpueW5MVHZ4a3JENk52b0k3WXFD?oc=5",
-  "source": "Microsoft",
+  "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+  "summary": "",
+  "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-09T15:05:57+00:00",
+  "image": "",
+  "id": "057e22ab69c04fb1"
+ },
+ {
+  "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+  "summary": "",
+  "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-09T12:34:29+00:00",
+  "image": "",
+  "id": "7b1451fc786c34f9"
+ },
+ {
+  "title": "Meta's AI-powered age assurance tech is rolling out globally",
+  "summary": "Meta's AI-powered age assurance tech is rolling out globally Mashable",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UTzI2c1pJNDRwZS1ld0dJS0Nkd3lGMEc2NE8zdWZwS1M5TWpGeFJDd1pJS2VTV0JSVXgyQlF5UDZCWGJ6aTRNX05tWWRSNE5BRWV6bUlOWXIwaDl2aS03QnA0ZVRyWkN6UEw1MVlYVnpPYnRILW1z?oc=5",
+  "source": "Mashable",
   "official": false,
   "tools": false,
   "gnews": true,
-  "time": "2026-11-09T00:33:58+00:00",
+  "time": "2026-11-09T15:36:17+00:00",
   "image": "",
-  "id": "53c28df884e3d639"
+  "id": "4ff29cea5fc5fc09"
  }
 ]
