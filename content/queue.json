@@ -1492,5 +1492,30 @@
     "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794165925/ehbehzad/v10_gh_filee_final2.mp4",
     "status": "queued",
     "id": "yo-2026-11-11-short-v10"
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "lang": "fa",
+    "when": "2026-11-12T21:00",
+    "topic": "پول آفیس نده! GenOffice: آفیس کامل، رایگان و متن‌باز با هوش مصنوعی",
+    "key": "fa_v10_gh_genoffice",
+    "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794216314/ehbehzad/v10_gh_genoffice_final.mp4",
+    "status": "queued",
+    "id": "ig-2026-11-12-reel-v10",
+    "via": "uplika",
+    "uplika_post": "post_48af79ac08e49a2c",
+    "automation": "af_4879eed5451a8fcc"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-11-12T21:00",
+    "topic": "پول آفیس نده! GenOffice: آفیس کامل، رایگان و متن‌باز با هوش مصنوعی",
+    "key": "fa_v10_gh_genoffice",
+    "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794216314/ehbehzad/v10_gh_genoffice_final.mp4",
+    "status": "queued",
+    "id": "yo-2026-11-12-short-v10"
   }
 ]

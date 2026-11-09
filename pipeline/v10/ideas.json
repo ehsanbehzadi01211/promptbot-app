@@ -209,13 +209,16 @@
       "script": "[excited] پول آفیس نده! GenOffice یه آفیس کامل، رایگان و متن‌بازه، برای ویندوز، مک و لینوکس. فایل‌های ورد، اکسل و پاورپوینت رو باز می‌کنه و با همون فرمت ذخیره می‌کنه. فرقش؟ کنار هر فایل یه هوش مصنوعی نشسته؛ متن رو ویرایش می‌کنه، فرمول اکسل می‌نویسه، اسلاید می‌سازه، و هر تغییر رو نشونت می‌ده که اگه نخواستی برگردونی. خود برنامه رایگانه؛ برای هوش مصنوعی یا با حساب Genspark وارد می‌شی، یا کلید API خودت رو می‌دی. کلمه‌ی «آفیس» رو کامنت کن تا لینکش رو برات بفرستم.",
       "scenes": "1 hook: subscription bill torn → 2 three app tiles Docs/Sheets/Slides + OS badges → 3 doc window with AI panel, tracked-change diff, rollback button → 4 sheet cell gets a live formula → 5 slide generated on canvas → 6 honest chip 'AI: Genspark یا کلید خودت' → CTA.",
       "dm": "لینک گیت‌هاب + صفحه‌ی دانلود + یک خط توضیح درباره‌ی کلید API",
-      "status": "todo",
+      "status": "scheduled",
       "cat": "github",
       "format": "ui",
       "host": "robot",
       "len": "30-35s",
       "source": "github search 7 Nov",
-      "verify": "GitHub data checked 7 Nov 2026 via GitHub search API + README; re-check stars/license/install on the build day and never round stars up."
+      "verify": "GitHub data checked 7 Nov 2026 via GitHub search API + README; re-check stars/license/install on the build day and never round stars up.",
+      "post_id": "post_48af79ac08e49a2c",
+      "automation_id": "af_4879eed5451a8fcc",
+      "scheduled_at": "2026-11-12T21:00+03:30"
     },
     {
       "key": "gh_jobsearch",
