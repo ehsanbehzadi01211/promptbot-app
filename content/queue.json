@@ -1037,10 +1037,11 @@
     "media": "youtube/shorts/fa_english.mp4",
     "metricool_uuid": "-1955133328616045130",
     "metricool_date": "2026-10-22T10:00",
-    "status": "scheduled",
+    "status": "published",
     "id": "yo-2026-10-31-short",
     "via": "uplika",
-    "uplika_post": "post_67be099dc987fee1"
+    "uplika_post": "post_67be099dc987fee1",
+    "url": "https://www.youtube.com/watch?v=ush-oCyc2_M"
   },
   {
     "platform": "instagram",
