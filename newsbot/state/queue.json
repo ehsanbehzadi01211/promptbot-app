@@ -1,41 +1,5 @@
 [
  {
-  "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
-  "summary": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in […]",
-  "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-09T14:00:01+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/corl-corp-blog-promo-pack-1920x1080-1.png",
-  "id": "97be7dad625b85b1"
- },
- {
-  "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-  "summary": "",
-  "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-09T15:05:57+00:00",
-  "image": "",
-  "id": "057e22ab69c04fb1"
- },
- {
-  "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-  "summary": "",
-  "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-09T12:34:29+00:00",
-  "image": "",
-  "id": "7b1451fc786c34f9"
- },
- {
   "title": "Meta's AI-powered age assurance tech is rolling out globally",
   "summary": "Meta's AI-powered age assurance tech is rolling out globally Mashable",
   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UTzI2c1pJNDRwZS1ld0dJS0Nkd3lGMEc2NE8zdWZwS1M5TWpGeFJDd1pJS2VTV0JSVXgyQlF5UDZCWGJ6aTRNX05tWWRSNE5BRWV6bUlOWXIwaDl2aS03QnA0ZVRyWkN6UEw1MVlYVnpPYnRILW1z?oc=5",
@@ -46,5 +10,101 @@
   "time": "2026-11-09T15:36:17+00:00",
   "image": "",
   "id": "4ff29cea5fc5fc09"
+ },
+ {
+  "title": "ChatGPT Enterprise now available in AWS Marketplace",
+  "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+  "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-09T19:00:00+00:00",
+  "image": "",
+  "id": "9c331579e229757a"
+ },
+ {
+  "title": "CodeRabbit scales agentic software development and ships 20x more",
+  "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+  "url": "https://openai.com/index/coderabbit-codex-daybreak",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-09T08:00:00+00:00",
+  "image": "",
+  "id": "23b94c697622500f"
+ },
+ {
+  "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+  "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+  "url": "https://openai.com/index/control-room",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-09T13:00:00+00:00",
+  "image": "",
+  "id": "f37b680abcf7adcb"
+ },
+ {
+  "title": "Kuken Industries searches 70 years of drawings in minutes",
+  "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+  "url": "https://openai.com/index/kuken",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-09T08:00:00+00:00",
+  "image": "",
+  "id": "932fe34bad728f30"
+ },
+ {
+  "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+  "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+  "source": "The Verge",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-09T19:00:00+00:00",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "id": "f1eea0a2781af6aa"
+ },
+ {
+  "title": "Anthropic launches Fable 5.2 and Mythos 5.2 with science, coding upgrades",
+  "summary": "Anthropic launches Fable 5.2 and Mythos 5.2 with science, coding upgrades SiliconANGLE",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTkdMd0hfb1Z0amJnRVNBWFViSlJxYUpTYjJzN0dhc1k1NHphNTNONnR3Z1Jqd3czVmVfMk5ubncwVVlJZDIzMktLQVlJRThET3ZaUTV6MF9jQlVnYV9ST2RPX3NKWms4SlRHYjJ5VklfZVY1Z3VsRE01bUpORmJyaFpqdTFkU1pIMWxzdVU0XzdHWFJMOVd6cnNuMjdLYnppdEdnaGYtOHlFZXZQaFE?oc=5",
+  "source": "SiliconANGLE",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-10T00:08:00+00:00",
+  "image": "",
+  "id": "359c1294c74976bd"
+ },
+ {
+  "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+  "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+  "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-09T19:24:51+00:00",
+  "image": "",
+  "id": "2b128ff095485e1c"
+ },
+ {
+  "title": "Anthropic debuts Claude Fable, Mythos 5.2 models, priced 20% below OpenAI’s GPT-6 Astra",
+  "summary": "Anthropic debuts Claude Fable, Mythos 5.2 models, priced 20% below OpenAI’s GPT-6 Astra Fortune",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZXh5WWJvWmxMbkZBakNhNWhkR3R2YnFvS2Uwc3JuOFlPOGh0aU1mbWZXZEJJU0xuRDZ2TW1nLXdyMWxnWllFcnRnRGlHWDJBdWUxdHJaR1NIZDc5Y0djdEliTUhGTDlxazlFbER1cmZyTk9udlJ1eHJxRHo1cmlKV2QtMW0yVTFaVk55dFJJVE9DRVYyM21nMXl0eEVzVEVxR1lVVGJWb2lzNDl1MmJONWVsc2ZET2VST3dEUUxGQWdIeFFkQjB6TnlKY0M5WmFqck80Q1VaSHQ?oc=5",
+  "source": "Fortune",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-09T21:02:00+00:00",
+  "image": "",
+  "id": "f70b4b296011638a"
  }
 ]
