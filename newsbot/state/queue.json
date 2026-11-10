@@ -1,41 +1,5 @@
 [
  {
-  "title": "Anthropic launches Fable 5.2 and Mythos 5.2 with science, coding upgrades",
-  "summary": "Anthropic launches Fable 5.2 and Mythos 5.2 with science, coding upgrades SiliconANGLE",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTkdMd0hfb1Z0amJnRVNBWFViSlJxYUpTYjJzN0dhc1k1NHphNTNONnR3Z1Jqd3czVmVfMk5ubncwVVlJZDIzMktLQVlJRThET3ZaUTV6MF9jQlVnYV9ST2RPX3NKWms4SlRHYjJ5VklfZVY1Z3VsRE01bUpORmJyaFpqdTFkU1pIMWxzdVU0XzdHWFJMOVd6cnNuMjdLYnppdEdnaGYtOHlFZXZQaFE?oc=5",
-  "source": "SiliconANGLE",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-10T00:08:00+00:00",
-  "image": "",
-  "id": "359c1294c74976bd"
- },
- {
-  "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-  "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-  "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-  "source": "TechCrunch",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-09T19:24:51+00:00",
-  "image": "",
-  "id": "2b128ff095485e1c"
- },
- {
-  "title": "Anthropic debuts Claude Fable, Mythos 5.2 models, priced 20% below OpenAI’s GPT-6 Astra",
-  "summary": "Anthropic debuts Claude Fable, Mythos 5.2 models, priced 20% below OpenAI’s GPT-6 Astra Fortune",
-  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZXh5WWJvWmxMbkZBakNhNWhkR3R2YnFvS2Uwc3JuOFlPOGh0aU1mbWZXZEJJU0xuRDZ2TW1nLXdyMWxnWllFcnRnRGlHWDJBdWUxdHJaR1NIZDc5Y0djdEliTUhGTDlxazlFbER1cmZyTk9udlJ1eHJxRHo1cmlKV2QtMW0yVTFaVk55dFJJVE9DRVYyM21nMXl0eEVzVEVxR1lVVGJWb2lzNDl1MmJONWVsc2ZET2VST3dEUUxGQWdIeFFkQjB6TnlKY0M5WmFqck80Q1VaSHQ?oc=5",
-  "source": "Fortune",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-09T21:02:00+00:00",
-  "image": "",
-  "id": "f70b4b296011638a"
- },
- {
   "title": "Closing the AI guidance gap in education",
   "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
   "url": "https://openai.com/index/closing-ai-guidance-gap-education",
@@ -177,5 +141,101 @@
   "time": "2026-11-09T19:51:47+00:00",
   "image": "",
   "id": "a98763b80c842ad2"
+ },
+ {
+  "title": "Introducing Businesses in ChatGPT",
+  "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+  "url": "https://openai.com/index/introducing-businesses-chatgpt",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-10T10:00:00+00:00",
+  "image": "",
+  "id": "5ca4dc7b6d88cb31"
+ },
+ {
+  "title": "Gemini Intelligence: New features, on more devices",
+  "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+  "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+  "source": "Google",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-10T19:00:00+00:00",
+  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp",
+  "id": "ac5a661efbfd509d"
+ },
+ {
+  "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+  "summary": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks TechCrunch",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdkN0VWFWT3BuM1RBTG1ZWVp6TWs3RVpNZ2JHSGp2Q0NmcEh6Z3p6anZYY1FYYXpSTXRYZ2hoX2dXY2MyaXdGSXptUFlxWXhMRmVyLVgwbEw0N05PTWJmMmF5bE9uYzF5RkhGOHpueGpuUzA3UE5mekh1UE1oWmp1dWhvWTVEaHhacXJkb0poVklsRWd1V2xWVkpuWlZBbDQ3X3RHajUzWmlabGM5Wml4Ni1KWDZLOV9PYlhPag?oc=5",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-10T17:30:00+00:00",
+  "image": "",
+  "id": "f5e3481274c21d4f"
+ },
+ {
+  "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+  "summary": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature The Verge",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS1FMM2Rhc1RaOWNteEpIRDZLV2RNanAxOEtlY25LQ0tLejhndUQ1M1lpRFdXQjdkMnJ1SGxQSFhSODByVDhrWHp4dzdqM01pTzhTTVBpY2swLTZncWFJU1NaeXlTYk0tbFFzOVFISWFuamYzaXhiNlFfQmZoekk4YXkyaHdBRDhLMF9DSmo4UEZUV0pWcEVYZUNGci1iZw?oc=5",
+  "source": "The Verge",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-10T16:00:00+00:00",
+  "image": "",
+  "id": "742a83ff5a845a68"
+ },
+ {
+  "title": "ChatGPT is getting verified AI ‘Business Agents’",
+  "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+  "source": "The Verge",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-10T18:00:00+00:00",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Business-Agent-Customer-Conversation.png?quality=90&strip=all&crop=0,0,100,100",
+  "id": "7396b577c72532a7"
+ },
+ {
+  "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+  "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+  "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-10T18:49:52+00:00",
+  "image": "",
+  "id": "ccdccf818b30a0e0"
+ },
+ {
+  "title": "OpenAI Acquires AI Travel Agent Odessia",
+  "summary": "OpenAI Acquires AI Travel Agent Odessia The Information",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYXZGTWs3akI4NHc2ZkJ0WUp0djlMeHlQVVk4MXc1Ym9zWVpvTnVCVnI2dlU5TW00WTBKajlheWRsZm1IVDdVTG90ZXB3U09kN1hNbVVDellsd0lBSzJRSG9XUG1sVTN6VUJGSHF1QmkyUXFHT2tNTFQ4NzM4YXZfTGMwSFNOMjA?oc=5",
+  "source": "The Information",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-10T18:39:00+00:00",
+  "image": "",
+  "id": "0f173336970a61b9"
+ },
+ {
+  "title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
+  "summary": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions The Decoder",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM2FfaG1Sc200SHlGQ2RQVkl0LUFNQTBJUllhR05XMnpCaTU4NUQ5eWUyRXlFblZlUUk3cU1qYVBuMXFpY0FFeWdITzVpbm5xLUN4cnpqVGxUemp6RmRhRTBBbFhGVjdBTFl0TmJoREhCcVd5aDE3b0lXSVVnOGVQaFFraUY2T3AzYnBadTdoMk5HbXhYbFg4cS1MbUxBYWQ2eXRfRXFEM0NIWUMtT25oVnNRZXRRbmRJ?oc=5",
+  "source": "The Decoder",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-10T20:22:19+00:00",
+  "image": "",
+  "id": "d99ed32a5970bff1"
  }
 ]
