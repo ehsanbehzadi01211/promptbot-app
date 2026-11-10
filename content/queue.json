@@ -1546,5 +1546,31 @@
     "id": "yo-2026-11-10-short-v10am",
     "via": "uplika",
     "uplika_post": "post_999f80fab18c8573"
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "lang": "fa",
+    "when": "2026-11-10T18:00",
+    "topic": "Fable 5.2 برای کاربرای پولی کلاد باز شد",
+    "key": "fa_v10_fable52",
+    "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794292119/v10_fable52_final.mp4",
+    "status": "scheduled",
+    "id": "ig-2026-11-10-reel-v10pm",
+    "via": "uplika",
+    "uplika_post": "post_6b38d08819fd0ea4"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-11-10T18:00",
+    "topic": "Fable 5.2 برای کاربرای پولی کلاد باز شد",
+    "key": "fa_v10_fable52",
+    "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794292119/v10_fable52_final.mp4",
+    "status": "scheduled",
+    "id": "yo-2026-11-10-short-v10pm",
+    "via": "uplika",
+    "uplika_post": "post_6b38d08819fd0ea4"
   }
 ]
