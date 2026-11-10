@@ -1,41 +1,5 @@
 [
  {
-  "title": "Meta's AI-powered age assurance tech is rolling out globally",
-  "summary": "Meta's AI-powered age assurance tech is rolling out globally Mashable",
-  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UTzI2c1pJNDRwZS1ld0dJS0Nkd3lGMEc2NE8zdWZwS1M5TWpGeFJDd1pJS2VTV0JSVXgyQlF5UDZCWGJ6aTRNX05tWWRSNE5BRWV6bUlOWXIwaDl2aS03QnA0ZVRyWkN6UEw1MVlYVnpPYnRILW1z?oc=5",
-  "source": "Mashable",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-09T15:36:17+00:00",
-  "image": "",
-  "id": "4ff29cea5fc5fc09"
- },
- {
-  "title": "ChatGPT Enterprise now available in AWS Marketplace",
-  "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-  "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-09T19:00:00+00:00",
-  "image": "",
-  "id": "9c331579e229757a"
- },
- {
-  "title": "CodeRabbit scales agentic software development and ships 20x more",
-  "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-  "url": "https://openai.com/index/coderabbit-codex-daybreak",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-09T08:00:00+00:00",
-  "image": "",
-  "id": "23b94c697622500f"
- },
- {
   "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
   "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
   "url": "https://openai.com/index/control-room",
@@ -106,5 +70,53 @@
   "time": "2026-11-09T21:02:00+00:00",
   "image": "",
   "id": "f70b4b296011638a"
+ },
+ {
+  "title": "Closing the AI guidance gap in education",
+  "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+  "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-10T09:00:00+00:00",
+  "image": "",
+  "id": "01a8528fa117926a"
+ },
+ {
+  "title": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+  "summary": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’ The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnBiX0Z2cUluNEtMVUJhSG83U09OQUo0ZzVxSUQtTXpxa2FMOWNvN1JZNVdMT1FUbW9tenFYOGNIWmxuLWZpOFc1bkFSN1d6Nk9kaklCczUwYjZXNkktT3NkX2hDOTRzT1prb0pmWWlObm9nbGJVa0NmWlZ4dU5NRS1XNXNHMkFLbDFreGxmd05EY3BZczR5NS1aYkdtSTAyQXl2eA?oc=5",
+  "source": "The Guardian",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-10T02:31:00+00:00",
+  "image": "",
+  "id": "e1a761b2ca5108f3"
+ },
+ {
+  "title": "Mandatory AI safety and security protections announced after OpenAI breach of Medicare – video",
+  "summary": "Mandatory AI safety and security protections announced after OpenAI breach of Medicare – video The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMjFHd0I3TEc4NDM2Vi04eHN1R1kxVXZId3ZzWTUtdkR4VGJhRmgzTF9hM092UFFhUHRpRWhRelBRdktCLXpPRU53UWVTX1pEVndIZlg3ZFZNRy1ZUjdkRXJuYlhHaS1qR3hwWWloMnpFN3hmbVpTN1hCa2N5WjVPSUhtS3FwaFM1cTMtQVVTdWlmWE9uZk50M1RRakFwMXZwbEc1WmQ3Q0dvY3gzY0RmUk5jdjlrQWhKQ2syNW1RQnVCOHlmX1lZOExFNklGZHdWYnVMd3RQdEFkeHhsRzRweEJGOW1IZnk0?oc=5",
+  "source": "The Guardian",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-10T05:29:00+00:00",
+  "image": "",
+  "id": "e79222b383d0f69c"
+ },
+ {
+  "title": "Meta AI glasses can get too warm from water and sweat — update right now",
+  "summary": "Meta AI glasses can get too warm from water and sweat — update right now Tom's Guide",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWVCUl9UV3hqZXpZOHRpUFhtM3BXZUFBZ1NnSTlTTk9kM19IbEozWUwzdWpEeFgxeVU2OW1mYmhkbXpHaEZFSW8xaWtPU3FteXp3eFpkbzlVQTRKUmZod0g0V2VGTzFVTjFtZ0hSeUEzZnF3bjlwYlByRXF6WEIxbzlPMDNUTzNuYzk4c3hCbVJNdFdBYmhRVWhpUjFnQ0RILXU1WUxMN0lWT1A4Vmg3UWVkMmdWLVE?oc=5",
+  "source": "Tom's Guide",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-09T22:07:58+00:00",
+  "image": "",
+  "id": "977027975cc1265a"
  }
 ]

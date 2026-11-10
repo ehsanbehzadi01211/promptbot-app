@@ -1,5 +1,32 @@
-Tue Nov 10 09:09:23 UTC 2026
+Tue Nov 10 09:40:02 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 5 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 6 fresh
+Hugging Face: 2 fresh
+The Verge: 10 fresh
+TechCrunch: 13 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 3 fresh
+Product Hunt: 16 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 24 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 24 fresh
+new items: 4
+translated via clients5
+translated via clients5
+sent card Meta's AI-powered age assurance tech is rolling out globally
+translated via clients5
+translated via clients5
+sent card ChatGPT Enterprise now available in AWS Marketplace
+translated via clients5
+translated via clients5
+sent card CodeRabbit scales agentic software development and ships 20x
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
@@ -17,7 +44,7 @@ promo sent in-2026-11-05-reel
 promo sent in-2026-11-06-reel
 promo sent in-2026-11-07-reel
 promo sent in-2026-10-29-v8imagetools
-promo sent in-2026-10-30-v8indicator
+promo fail in-2026-10-30-v8indicator HTTP Error 429: Too Many Requests
 Traceback (most recent call last):
   File "/home/runner/work/promptbot-app/promptbot-app/newsbot/promo.py", line 77, in <module>
     main()
