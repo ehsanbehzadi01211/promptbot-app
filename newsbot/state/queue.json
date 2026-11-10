@@ -1,41 +1,5 @@
 [
  {
-  "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-  "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-  "url": "https://openai.com/index/control-room",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-09T13:00:00+00:00",
-  "image": "",
-  "id": "f37b680abcf7adcb"
- },
- {
-  "title": "Kuken Industries searches 70 years of drawings in minutes",
-  "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-  "url": "https://openai.com/index/kuken",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-09T08:00:00+00:00",
-  "image": "",
-  "id": "932fe34bad728f30"
- },
- {
-  "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-  "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […]",
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-  "source": "The Verge",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-09T19:00:00+00:00",
-  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-  "id": "f1eea0a2781af6aa"
- },
- {
   "title": "Anthropic launches Fable 5.2 and Mythos 5.2 with science, coding upgrades",
   "summary": "Anthropic launches Fable 5.2 and Mythos 5.2 with science, coding upgrades SiliconANGLE",
   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTkdMd0hfb1Z0amJnRVNBWFViSlJxYUpTYjJzN0dhc1k1NHphNTNONnR3Z1Jqd3czVmVfMk5ubncwVVlJZDIzMktLQVlJRThET3ZaUTV6MF9jQlVnYV9ST2RPX3NKWms4SlRHYjJ5VklfZVY1Z3VsRE01bUpORmJyaFpqdTFkU1pIMWxzdVU0XzdHWFJMOVd6cnNuMjdLYnppdEdnaGYtOHlFZXZQaFE?oc=5",
@@ -118,5 +82,100 @@
   "time": "2026-11-09T22:07:58+00:00",
   "image": "",
   "id": "977027975cc1265a"
+ },
+ {
+  "title": "Google Cloud launches Gemini for healthcare.",
+  "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+  "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+  "source": "Google",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-10T13:00:00+00:00",
+  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp",
+  "id": "155d33cae7267931"
+ },
+ {
+  "title": "Anthropic launches roadshow for proposed initial public offering",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/roadshow-launch",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-11-10T17:43:08.225924+00:00",
+  "page": true,
+  "id": "85a32fe1244f6425"
+ },
+ {
+  "title": "Work at the Frontier: AI’s effect on freelance work",
+  "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+  "url": "https://openai.com/index/ai-effect-on-freelance-work",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-10T07:00:00+00:00",
+  "image": "",
+  "id": "3588ceed41552e46"
+ },
+ {
+  "title": "Gemini 4 Carbon is now available",
+  "summary": "",
+  "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+  "source": "Google DeepMind",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-10T16:03:47+00:00",
+  "image": "",
+  "id": "0b2e1c02de474f20"
+ },
+ {
+  "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+  "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+  "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+  "source": "Google DeepMind",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-10T12:02:28+00:00",
+  "image": "",
+  "id": "428ac4b42c0b5f39"
+ },
+ {
+  "title": "Helping caregivers use AI in everyday life",
+  "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+  "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-10T12:00:00+00:00",
+  "image": "",
+  "id": "46ecb159c1535b09"
+ },
+ {
+  "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+  "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+  "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+  "source": "Google",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-10T14:00:00+00:00",
+  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp",
+  "id": "c5fffc8a0cbdc3d4"
+ },
+ {
+  "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+  "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+  "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+  "source": "Google DeepMind",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-09T19:51:47+00:00",
+  "image": "",
+  "id": "a98763b80c842ad2"
  }
 ]

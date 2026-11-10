@@ -1,5 +1,32 @@
-Tue Nov 10 13:02:10 UTC 2026
+Tue Nov 10 17:43:07 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+OpenAI: 7 fresh
+Google: 2 fresh
+Google DeepMind: 3 fresh
+NVIDIA: 3 fresh
+Hugging Face: 4 fresh
+The Verge: 10 fresh
+TechCrunch: 20 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 3 fresh
+Product Hunt: 15 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 25 fresh
+new items: 8
+translated via clients5
+translated via clients5
+sent card Control Room: A central system to track and stop model workl
+translated via clients5
+translated via clients5
+sent card Kuken Industries searches 70 years of drawings in minutes
+translated via clients5
+translated via clients5
+sent photo Anthropic launches new Claude Fable and Mythos 5.2 models
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
@@ -17,7 +44,7 @@ promo sent in-2026-11-05-reel
 promo sent in-2026-11-06-reel
 promo sent in-2026-11-07-reel
 promo sent in-2026-10-29-v8imagetools
-promo sent in-2026-10-30-v8indicator
+promo fail in-2026-10-30-v8indicator HTTP Error 429: Too Many Requests
 Traceback (most recent call last):
   File "/home/runner/work/promptbot-app/promptbot-app/newsbot/promo.py", line 77, in <module>
     main()
