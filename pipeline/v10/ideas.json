@@ -231,13 +231,19 @@
       "script": "[excited] یه زمین‌شناس کارش رو از دست داد؛ با Claude Code برای خودش یه دستیار کاریابی ساخت، و حالا رایگان و متن‌بازش کرده. اسمش ai-job-search هست و هفتاد هزار ستاره داره. آگهی کار رو می‌سنجه، رزومه‌ت رو برای همون آگهی تنظیم می‌کنه، کاورلتر می‌نویسه، و برای مصاحبه آماده‌ت می‌کنه. خودش می‌گه با شصت و نه درخواست، بیست تا مصاحبه گرفت و استخدام شد. نتیجه‌ی تو تضمینی نیست، ولی کلی وقت می‌خره. کلمه‌ی «کار» رو کامنت کن تا لینکش رو برات بفرستم.",
       "scenes": "1 hook: funnel counter 69 → 20 → 1 (big numbers) → 2 repo card → 3 terminal: /scrape, /apply, /interview typed one by one → 4 CV doc highlights change to match a posting → 5 cover letter typing → 6 honest chip 'تضمینی نیست' → CTA.",
       "dm": "لینک گیت‌هاب + راهنمای نصب (Setup guide)",
-      "status": "todo",
+      "status": "scheduled",
       "cat": "github",
       "format": "ui",
       "host": "robot",
-      "len": "30-35s",
+      "len": "38.6s",
       "source": "github search 7 Nov",
-      "verify": "GitHub data checked 7 Nov 2026 via GitHub search API + README; re-check stars/license/install on the build day and never round stars up."
+      "verify": "GitHub data checked 7 Nov 2026 via GitHub search API + README; re-check stars/license/install on the build day and never round stars up.",
+      "post": "post_e627665f483f6e7b",
+      "yt_post": "post_337b3a622236faa5",
+      "date": "2026-11-13T21:00",
+      "automation": "enabled",
+      "final": "https://res.cloudinary.com/qecsawrr/video/upload/v1794301260/ehbehzad/v10_gh_jobsearch_final.mp4",
+      "music": "elevenlabs_ambient"
     },
     {
       "key": "gh_prompts",

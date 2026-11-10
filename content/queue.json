@@ -1572,5 +1572,32 @@
     "id": "yo-2026-11-10-short-v10pm",
     "via": "uplika",
     "uplika_post": "post_6b38d08819fd0ea4"
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "lang": "fa",
+    "when": "2026-11-13T21:00",
+    "topic": "زمینشناس با کلود کود دستیار کاریابی ساخت — رایگان، متن‌باز، ۷۰ هزار ستاره",
+    "key": "v10_gh_jobsearch",
+    "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794301260/ehbehzad/v10_gh_jobsearch_final.mp4",
+    "status": "scheduled",
+    "id": "ig-2026-11-13-reel-v10",
+    "via": "uplika",
+    "uplika_post": "post_e627665f483f6e7b",
+    "automation": "enabled"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-11-13T21:00",
+    "topic": "زمینشناس با کلود کود دستیار کاریابی ساخت — رایگان، متن‌باز، ۷۰ هزار ستاره",
+    "key": "fa_v10_gh_jobsearch",
+    "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794301260/ehbehzad/v10_gh_jobsearch_final.mp4",
+    "status": "scheduled",
+    "id": "yo-2026-11-13-short-v10",
+    "via": "uplika",
+    "uplika_post": "post_337b3a622236faa5"
   }
 ]
