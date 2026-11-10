@@ -1093,10 +1093,11 @@
     "media": "youtube/shorts/fa_phrases.mp4",
     "metricool_uuid": "3971228787939362266",
     "metricool_date": "2026-10-23T16:00",
-    "status": "scheduled",
+    "status": "published",
     "id": "yo-2026-11-01-short",
     "via": "uplika",
-    "uplika_post": "post_33378ba57cae92ab"
+    "uplika_post": "post_33378ba57cae92ab",
+    "url": "https://www.youtube.com/watch?v=kO_IomRCdgk"
   },
   {
     "platform": "instagram",
@@ -1490,8 +1491,10 @@
     "topic": "دیگه برای تبدیل فایل سایت آنلاین نرو! 👇",
     "key": "fa_v10_gh_filee",
     "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794165925/ehbehzad/v10_gh_filee_final2.mp4",
-    "status": "queued",
-    "id": "yo-2026-11-11-short-v10"
+    "status": "scheduled",
+    "id": "yo-2026-11-11-short-v10",
+    "via": "uplika",
+    "uplika_post": "post_c59521eb09e66d8d"
   },
   {
     "platform": "instagram",
@@ -1501,7 +1504,7 @@
     "topic": "پول آفیس نده! GenOffice: آفیس کامل، رایگان و متن‌باز با هوش مصنوعی",
     "key": "fa_v10_gh_genoffice",
     "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794216314/ehbehzad/v10_gh_genoffice_final.mp4",
-    "status": "queued",
+    "status": "scheduled",
     "id": "ig-2026-11-12-reel-v10",
     "via": "uplika",
     "uplika_post": "post_48af79ac08e49a2c",
