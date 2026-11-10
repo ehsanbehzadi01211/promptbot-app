@@ -1,30 +1,5 @@
-Tue Nov 10 01:27:57 UTC 2026
+Tue Nov 10 04:55:12 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 4 fresh
-Google: 0 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 6 fresh
-Hugging Face: 2 fresh
-The Verge: 10 fresh
-TechCrunch: 13 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 3 fresh
-Product Hunt: 1 fresh
-Anthropic: 26 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 24 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 19 fresh
-new items: 8
-translated via clients5
-translated via clients5
-sent photo Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal 
-translated via clients5
-sent photo Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturi
-translated via clients5
-sent photo Your Experts Have Partners. There's HOPE for Keeping Them To
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
@@ -34,6 +9,7 @@ promo sent yo-2026-10-30-short
 promo sent yo-2026-10-31-short
 promo sent in-2026-10-31-reel
 promo sent in-2026-11-01-reel
+promo sent yo-2026-11-01-short
 promo sent in-2026-11-02-reel
 promo sent in-2026-11-03-reel
 promo sent in-2026-11-04-reel
