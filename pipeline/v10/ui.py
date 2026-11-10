@@ -259,7 +259,8 @@ window.tick=function(t){
   $('[data-fill]').forEach(el=>{const [a,e,p]=el.dataset.fill.split(',').map(Number);el.style.width=(eio((t-a)/(e-a))*p)+'%'});
   // counters: data-count="a,e,from,to[,suffix]"
   $('[data-count]').forEach(el=>{const f=el.dataset.count.split(',');const [a,e,x0,x1]=f.slice(0,4).map(Number);
-    el.textContent=FAN(Math.round(x0+(x1-x0)*ex((t-a)/(e-a))))+(f[4]||'')});
+    const dg=(f[3].split('.')[1]||'').length, v=x0+(x1-x0)*ex((t-a)/(e-a));
+    el.textContent=(dg?FAN(v.toFixed(dg)).replace('.','٫'):FAN(Math.round(v)))+(f[4]||'')});
   // score ring: data-ring="t:v;t:v"
   $('[data-ring]').forEach(el=>{const ks=el.dataset.ring.split(';').map(s=>s.split(':').map(Number));let v=ks[0][1];
     for(let i=1;i<ks.length;i++){const [ta,va]=ks[i-1],[tb,vb]=ks[i];if(t>=ta) v=va+(vb-va)*eio((t-ta)/(tb-ta))}

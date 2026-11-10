@@ -2995,5 +2995,248 @@
    }
   ],
   "bg": "cine"
+ },
+ "fable52": {
+  "keyword": "فیبل",
+  "accent": "#ff6a3d",
+  "host": "robot",
+  "bg": "cine",
+  "voice": "[excited] فِیبل پنج و دو اومد و برای همه‌ی کاربرای پولی کلاد باز شد! قوی‌ترین مدل آنتروپیک برای کارهای فنی. چی عوض شده؟ یک، کدنویسی: توی تست مهندسی نرم‌افزار از پنجاه و شش به نزدیک هفتاد درصد رسیده. دو، کار با کامپیوتر: نزدیک نود درصد. سه، نمودار و عکس رو خیلی دقیق‌تر می‌خونه. چهار، تا سی درصد سریع‌تر جواب می‌ده، و توی کلاد کد یه حالت فست داره که تا دو و نیم برابر سریع‌تره. قیمت API هم بیست درصد ارزون‌تر شده. کلمه‌ی «فیبل» رو کامنت کن تا لینک‌هاش رو برات بفرستم.",
+  "tabs": [
+   "کد",
+   "کامپیوتر",
+   "بینایی",
+   "سرعت",
+   "قیمت"
+  ],
+  "scenes": [
+   {
+    "w": 0,
+    "head": {
+     "h1": [],
+     "top": 250
+    },
+    "stage_top": 330,
+    "els": [
+     {
+      "el": "html",
+      "html": "<div data-in=\"{w0+0.15}\" data-m=\"pop\" style=\"position:absolute;left:0;right:0;top:20px;text-align:center;direction:ltr\"><div style=\"display:inline-block;font-family:Vaz;font-weight:800;font-size:30px;color:#fff;background:var(--a);border-radius:30px;padding:8px 26px;box-shadow:0 10px 30px rgba(255,106,61,.5)\">NEW · Nov 9</div><div style=\"font-family:Vaz;font-weight:900;font-size:150px;line-height:1.05;margin-top:20px;background:linear-gradient(180deg,#fff 20%,#ffb08a);-webkit-background-clip:text;color:transparent;filter:drop-shadow(0 0 40px rgba(255,106,61,.45))\">Fable 5.2</div><div style=\"font-family:Mono;font-size:30px;color:#a39cb0;margin-top:6px\">Claude · Anthropic</div></div><div data-in=\"{w7}\" data-m=\"pop\" style=\"position:absolute;left:40px;top:470px;height:92px;padding:0 26px;border-radius:46px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;align-items:center;gap:12px;font-family:Vaz;font-weight:800;font-size:34px;color:#fff;direction:ltr\"><span style=\"width:40px;height:40px;border-radius:50%;background:#21b26b;display:flex;align-items:center;justify-content:center;font-size:24px\">✓</span>Pro</div><div data-in=\"{w8}\" data-m=\"pop\" style=\"position:absolute;left:250px;top:470px;height:92px;padding:0 26px;border-radius:46px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;align-items:center;gap:12px;font-family:Vaz;font-weight:800;font-size:34px;color:#fff;direction:ltr\"><span style=\"width:40px;height:40px;border-radius:50%;background:#21b26b;display:flex;align-items:center;justify-content:center;font-size:24px\">✓</span>Max</div><div data-in=\"{w9}\" data-m=\"pop\" style=\"position:absolute;left:462px;top:470px;height:92px;padding:0 26px;border-radius:46px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;align-items:center;gap:12px;font-family:Vaz;font-weight:800;font-size:34px;color:#fff;direction:ltr\"><span style=\"width:40px;height:40px;border-radius:50%;background:#21b26b;display:flex;align-items:center;justify-content:center;font-size:24px\">✓</span>Ultra</div><div data-in=\"{w9+0.25}\" data-m=\"pop\" style=\"position:absolute;left:690px;top:470px;height:92px;padding:0 26px;border-radius:46px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;align-items:center;gap:12px;font-family:Vaz;font-weight:800;font-size:34px;color:#fff;direction:ltr\"><span style=\"width:40px;height:40px;border-radius:50%;background:#21b26b;display:flex;align-items:center;justify-content:center;font-size:24px\">✓</span>Team</div><div data-in=\"{w10}\" data-m=\"pop\" style=\"position:absolute;left:150px;top:582px;height:92px;padding:0 26px;border-radius:46px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;align-items:center;gap:12px;font-family:Vaz;font-weight:800;font-size:34px;color:#fff;direction:ltr\"><span style=\"width:40px;height:40px;border-radius:50%;background:#21b26b;display:flex;align-items:center;justify-content:center;font-size:24px\">✓</span>Enterprise</div><div data-in=\"{w11}\" data-m=\"pop\" style=\"position:absolute;left:520px;top:582px;height:92px;padding:0 30px;border-radius:46px;background:var(--a);color:#fff;display:flex;align-items:center;font-family:Vaz;font-weight:900;font-size:36px;box-shadow:0 14px 40px rgba(255,106,61,.5)\">همه‌ی پلن‌های پولی</div>"
+     }
+    ]
+   },
+   {
+    "w": 13,
+    "head": {
+     "h1": [
+      [
+       "قوی‌ترین",
+       13
+      ],
+      [
+       "مدل",
+       14
+      ]
+     ],
+     "em": [
+      0
+     ]
+    },
+    "els": [
+     {
+      "el": "html",
+      "html": "<div class=\"card\" data-in=\"{w13+0.2}\" data-m=\"up\" style=\"left:160px;top:40px;width:600px;padding:40px;text-align:center\"><div style=\"font-size:90px;line-height:1\">👑</div><div style=\"font-family:Vaz;font-weight:900;font-size:64px;color:#fff;direction:ltr;margin-top:10px\">Fable 5.2</div><div style=\"font-family:Vaz;font-weight:800;font-size:34px;color:#ffb08a;margin-top:12px\">قوی‌ترین مدل برای کار فنی</div></div><div data-in=\"{w19}\" data-m=\"pop\" style=\"position:absolute;left:80px;top:520px;padding:16px 30px;border-radius:40px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);font-family:Vaz;font-weight:800;font-size:36px;color:#fff\">💻 کد</div><div data-in=\"{w19+0.3}\" data-m=\"pop\" style=\"position:absolute;left:350px;top:600px;padding:16px 30px;border-radius:40px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);font-family:Vaz;font-weight:800;font-size:36px;color:#fff\">🖱️ کامپیوتر</div><div data-in=\"{w20}\" data-m=\"pop\" style=\"position:absolute;left:640px;top:520px;padding:16px 30px;border-radius:40px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);font-family:Vaz;font-weight:800;font-size:36px;color:#fff\">👁️ بینایی</div><div data-in=\"{w21}\" data-m=\"pop\" style=\"position:absolute;left:230px;top:690px;padding:16px 30px;border-radius:40px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);font-family:Vaz;font-weight:800;font-size:36px;color:#fff\">⚡ سرعت</div><div data-in=\"{w21+0.3}\" data-m=\"pop\" style=\"position:absolute;left:530px;top:690px;padding:16px 30px;border-radius:40px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);font-family:Vaz;font-weight:800;font-size:36px;color:#fff\">💸 قیمت</div>"
+     }
+    ]
+   },
+   {
+    "w": 22,
+    "tab": 0,
+    "head": {
+     "kick": "<b>۱</b> · SWE v2",
+     "h1": [
+      [
+       "کدنویسی",
+       23
+      ]
+     ],
+     "em": [
+      0
+     ]
+    },
+    "els": [
+     {
+      "el": "meter",
+      "y": 40,
+      "at": 24,
+      "label": "Fable 5.1",
+      "from": 0,
+      "to": 56.3,
+      "suffix": "٪",
+      "count_at": 28,
+      "count_end": 31,
+      "color": "#6d6878"
+     },
+     {
+      "el": "meter",
+      "y": 290,
+      "at": 32,
+      "label": "Fable 5.2",
+      "from": 0,
+      "to": 69.9,
+      "suffix": "٪",
+      "count_at": 32,
+      "count_end": 35,
+      "color": "#ff6a3d",
+      "badge": {
+       "text": "+۱۳.۶",
+       "at": 36,
+       "icon": "bolt"
+      }
+     }
+    ]
+   },
+   {
+    "w": 37,
+    "tab": 1,
+    "head": {
+     "kick": "<b>۲</b> · OSWorld 2.1 · کار با کامپیوتر",
+     "h1": [],
+     "top": 250
+    },
+    "stage_top": 330,
+    "els": [
+     {
+      "el": "big",
+      "at": "41",
+      "end": "42+0.4",
+      "count": [
+       0,
+       89.3
+      ],
+      "y": 0,
+      "style": "font-size:260px"
+     },
+     {
+      "el": "h",
+      "y": 300,
+      "size": 80,
+      "words": [
+       [
+        "درصد",
+        43
+       ],
+       [
+        "<em>موفقیت</em>",
+        43
+       ]
+      ]
+     },
+     {
+      "el": "html",
+      "html": "<div data-in=\"{w39}\" data-m=\"pop\" style=\"position:absolute;left:680px;top:440px;width:190px;height:190px;border-radius:38px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;font-family:Vaz;font-weight:800;font-size:28px;color:#fff\"><div style=\"font-size:60px;line-height:1\">🌐</div>مرورگر<div data-in=\"{w39+0.5}\" data-m=\"pop\" style=\"position:absolute;top:-14px;right:-14px;width:54px;height:54px;border-radius:50%;background:#21b26b;display:flex;align-items:center;justify-content:center;font-size:30px\">✓</div></div><div data-in=\"{w40}\" data-m=\"pop\" style=\"position:absolute;left:470px;top:440px;width:190px;height:190px;border-radius:38px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;font-family:Vaz;font-weight:800;font-size:28px;color:#fff\"><div style=\"font-size:60px;line-height:1\">📊</div>اکسل<div data-in=\"{w40+0.5}\" data-m=\"pop\" style=\"position:absolute;top:-14px;right:-14px;width:54px;height:54px;border-radius:50%;background:#21b26b;display:flex;align-items:center;justify-content:center;font-size:30px\">✓</div></div><div data-in=\"{w41}\" data-m=\"pop\" style=\"position:absolute;left:260px;top:440px;width:190px;height:190px;border-radius:38px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;font-family:Vaz;font-weight:800;font-size:28px;color:#fff\"><div style=\"font-size:60px;line-height:1\">📁</div>فایل‌ها<div data-in=\"{w41+0.5}\" data-m=\"pop\" style=\"position:absolute;top:-14px;right:-14px;width:54px;height:54px;border-radius:50%;background:#21b26b;display:flex;align-items:center;justify-content:center;font-size:30px\">✓</div></div><div data-in=\"{w42}\" data-m=\"pop\" style=\"position:absolute;left:50px;top:440px;width:190px;height:190px;border-radius:38px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;font-family:Vaz;font-weight:800;font-size:28px;color:#fff\"><div style=\"font-size:60px;line-height:1\">✉️</div>ایمیل<div data-in=\"{w42+0.5}\" data-m=\"pop\" style=\"position:absolute;top:-14px;right:-14px;width:54px;height:54px;border-radius:50%;background:#21b26b;display:flex;align-items:center;justify-content:center;font-size:30px\">✓</div></div>"
+     }
+    ]
+   },
+   {
+    "w": 44,
+    "tab": 2,
+    "head": {
+     "kick": "<b>۳</b> · Vision",
+     "h1": [
+      [
+       "نمودار",
+       45
+      ],
+      [
+       "و",
+       46
+      ],
+      [
+       "عکس",
+       47
+      ]
+     ],
+     "hl": [
+      0
+     ]
+    },
+    "els": [
+     {
+      "el": "html",
+      "html": "<div class=\"card\" data-in=\"{w44+0.2}\" data-m=\"up\" style=\"left:110px;top:20px;width:700px;padding:0\"><div class=\"win\"><i></i><i></i><i></i><span>chart.png</span></div><div style=\"position:relative;padding:40px 50px 30px;display:flex;justify-content:space-between;align-items:flex-end;direction:ltr\"><div style=\"display:flex;align-items:flex-end;gap:10px;height:240px\"><div data-in=\"{w45+0.00}\" data-m=\"up\" style=\"width:58px;height:120px;border-radius:14px 14px 4px 4px;background:rgba(255,255,255,.25)\"></div></div><div style=\"display:flex;align-items:flex-end;gap:10px;height:240px\"><div data-in=\"{w45+0.12}\" data-m=\"up\" style=\"width:58px;height:200px;border-radius:14px 14px 4px 4px;background:var(--a)\"></div></div><div style=\"display:flex;align-items:flex-end;gap:10px;height:240px\"><div data-in=\"{w45+0.24}\" data-m=\"up\" style=\"width:58px;height:90px;border-radius:14px 14px 4px 4px;background:rgba(255,255,255,.25)\"></div></div><div style=\"display:flex;align-items:flex-end;gap:10px;height:240px\"><div data-in=\"{w45+0.36}\" data-m=\"up\" style=\"width:58px;height:230px;border-radius:14px 14px 4px 4px;background:#6a5cff\"></div></div><div style=\"display:flex;align-items:flex-end;gap:10px;height:240px\"><div data-in=\"{w45+0.48}\" data-m=\"up\" style=\"width:58px;height:160px;border-radius:14px 14px 4px 4px;background:rgba(255,255,255,.25)\"></div></div><div style=\"display:flex;align-items:flex-end;gap:10px;height:240px\"><div data-in=\"{w45+0.60}\" data-m=\"up\" style=\"width:58px;height:210px;border-radius:14px 14px 4px 4px;background:var(--a)\"></div></div><div data-in=\"{w47}\" style=\"position:absolute;inset:22px 30px 16px;border:4px dashed #ffb08a;border-radius:20px;box-shadow:0 0 40px rgba(255,106,61,.35)\"></div></div></div><div class=\"card\" data-in=\"{w50}\" data-m=\"pop\" style=\"left:180px;top:450px;width:560px;padding:30px 36px;text-align:center\"><div style=\"font-family:Vaz;font-weight:800;font-size:30px;color:#a39cb0\">خوندن نمودار (بدون ابزار)</div><div style=\"font-family:Vaz;font-weight:900;font-size:64px;color:#fff;margin-top:8px;direction:ltr\"><span style=\"color:#8f889c;text-decoration:line-through\">44.8%</span> → <span style=\"color:#ff8a5c\">73.4%</span></div></div>"
+     }
+    ]
+   },
+   {
+    "w": 52,
+    "tab": 3,
+    "head": {
+     "kick": "<b>۴</b> · Speed",
+     "h1": [],
+     "top": 250
+    },
+    "els": [
+     {
+      "el": "big",
+      "at": "53",
+      "end": "55",
+      "count": [
+       0,
+       30
+      ],
+      "y": -10,
+      "style": "font-size:220px"
+     },
+     {
+      "el": "h",
+      "y": 230,
+      "size": 60,
+      "words": [
+       [
+        "درصد",
+        54
+       ],
+       [
+        "<em>سریع‌تر</em>",
+        56
+       ]
+      ]
+     },
+     {
+      "el": "html",
+      "html": "<div class=\"card\" data-in=\"{w60+0.2}\" data-m=\"up\" style=\"left:110px;top:360px;width:700px;padding:0;background:#141219\"><div class=\"win\"><i></i><i></i><i></i><span>Claude Code</span></div><div style=\"padding:30px 40px;direction:ltr;text-align:left;font-family:Mono;font-size:32px;line-height:1.7;color:#cfc8d8\"><div>&gt; <span style=\"color:#fff\">Fable 5.2</span></div><div data-in=\"{w64}\">⚡ <span style=\"color:#ffb08a\">Fast mode</span> <span style=\"color:#5fe0a0\">on</span></div></div><div data-in=\"{w71}\" data-m=\"pop\" style=\"position:absolute;right:-20px;top:-60px;width:220px;height:220px;border-radius:50%;background:var(--a);color:#fff;display:flex;align-items:center;justify-content:center;font-family:Vaz;font-weight:900;font-size:76px;direction:ltr;box-shadow:0 20px 60px rgba(255,106,61,.6)\">×2.5</div></div>"
+     }
+    ],
+    "stage_top": 330
+   },
+   {
+    "w": 74,
+    "tab": 4,
+    "head": {
+     "kick": "<b>۵</b> · API",
+     "h1": [
+      [
+       "ارزون‌تر",
+       79
+      ]
+     ],
+     "hl": [
+      0
+     ]
+    },
+    "els": [
+     {
+      "el": "html",
+      "html": "<div class=\"card\" data-in=\"{w74+0.2}\" data-m=\"up\" style=\"left:110px;top:30px;width:700px;padding:44px 50px\"><div style=\"font-family:Vaz;font-weight:800;font-size:30px;color:#a39cb0\">قیمت API · هر یک میلیون توکن (ورودی / خروجی)</div><div style=\"display:flex;justify-content:space-between;align-items:center;margin-top:30px;direction:ltr\"><div style=\"font-family:Vaz;font-weight:900;font-size:52px;color:#8f889c;position:relative\">$10 / $50<i data-in=\"{w77}\" data-m=\"left\" style=\"position:absolute;left:-6px;right:-6px;top:50%;height:6px;border-radius:3px;background:#ff4f5e;display:block\"></i></div><div style=\"font-size:44px;color:#a39cb0\">→</div><div data-in=\"{w78}\" data-m=\"pop\" style=\"font-family:Vaz;font-weight:900;font-size:60px;color:#fff\">$8 / $40</div></div></div><div data-in=\"{w79}\" data-m=\"pop\" style=\"position:absolute;left:340px;top:330px;width:240px;height:240px;border-radius:50%;background:#21b26b;color:#fff;display:flex;align-items:center;justify-content:center;font-family:Vaz;font-weight:900;font-size:80px;box-shadow:0 20px 60px rgba(33,178,107,.5)\">۲۰٪−</div>"
+     }
+    ]
+   },
+   {
+    "w": 81,
+    "type": "cta",
+    "keyword": "فیبل",
+    "dm": "لینک معرفی رسمی + قیمت‌ها"
+   }
+  ]
  }
 }
