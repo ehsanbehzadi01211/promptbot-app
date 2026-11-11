@@ -1129,10 +1129,11 @@
     "media": "youtube/shorts/fa_dont.mp4",
     "metricool_uuid": "-3523643794431717602",
     "metricool_date": "2026-10-24T21:00",
-    "status": "scheduled",
+    "status": "published",
     "id": "yo-2026-11-02-short",
     "via": "uplika",
-    "uplika_post": "post_4c299d53cb9da9f3"
+    "uplika_post": "post_4c299d53cb9da9f3",
+    "url": "https://www.youtube.com/watch?v=vY37TXIFFMM"
   },
   {
     "platform": "youtube",
@@ -1518,8 +1519,10 @@
     "topic": "پول آفیس نده! GenOffice: آفیس کامل، رایگان و متن‌باز با هوش مصنوعی",
     "key": "fa_v10_gh_genoffice",
     "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794216314/ehbehzad/v10_gh_genoffice_final.mp4",
-    "status": "queued",
-    "id": "yo-2026-11-12-short-v10"
+    "status": "scheduled",
+    "id": "yo-2026-11-12-short-v10",
+    "via": "uplika",
+    "uplika_post": "post_91d6cb81cda28f88"
   },
   {
     "platform": "instagram",
@@ -1528,11 +1531,12 @@
     "topic": "رتبه‌ی یکِ ترندینگ گیت‌هاب! اسکیلی که کلاد رو استودیوی ساخت ویدیو می‌کنه",
     "key": "v10_openmontage",
     "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794233250/ehbehzad/v10_openmontage_final.mp4",
-    "status": "scheduled",
+    "status": "published",
     "id": "in-2026-11-10-reel-v10am",
     "via": "uplika",
     "uplika_post": "post_f8be8b0ea1e1a99f",
-    "automation": "af_ddfef82f76153642"
+    "automation": "af_ddfef82f76153642",
+    "url": "https://www.instagram.com/reel/DfjRI8UlH-u/"
   },
   {
     "platform": "youtube",
@@ -1542,10 +1546,11 @@
     "topic": "رتبه‌ی یکِ ترندینگ گیت‌هاب! اسکیلی که کلاد رو استودیوی ساخت ویدیو می‌کنه",
     "key": "fa_v10_openmontage",
     "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794233250/ehbehzad/v10_openmontage_final.mp4",
-    "status": "scheduled",
+    "status": "published",
     "id": "yo-2026-11-10-short-v10am",
     "via": "uplika",
-    "uplika_post": "post_999f80fab18c8573"
+    "uplika_post": "post_999f80fab18c8573",
+    "url": "https://www.youtube.com/watch?v=91-g3yn40H8"
   },
   {
     "platform": "instagram",
@@ -1555,10 +1560,11 @@
     "topic": "Fable 5.2 برای کاربرای پولی کلاد باز شد",
     "key": "fa_v10_fable52",
     "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794292119/v10_fable52_final.mp4",
-    "status": "scheduled",
+    "status": "published",
     "id": "ig-2026-11-10-reel-v10pm",
     "via": "uplika",
-    "uplika_post": "post_6b38d08819fd0ea4"
+    "uplika_post": "post_6b38d08819fd0ea4",
+    "url": "https://www.instagram.com/reel/DfkIDgEgpER/"
   },
   {
     "platform": "youtube",
@@ -1568,10 +1574,11 @@
     "topic": "Fable 5.2 برای کاربرای پولی کلاد باز شد",
     "key": "fa_v10_fable52",
     "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794292119/v10_fable52_final.mp4",
-    "status": "scheduled",
+    "status": "published",
     "id": "yo-2026-11-10-short-v10pm",
     "via": "uplika",
-    "uplika_post": "post_6b38d08819fd0ea4"
+    "uplika_post": "post_6b38d08819fd0ea4",
+    "url": "https://www.youtube.com/watch?v=yy4-F9MHla8"
   },
   {
     "platform": "instagram",
