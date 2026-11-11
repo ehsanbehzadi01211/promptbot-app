@@ -1,9 +1,4 @@
 [
- "MPS in PyTorch 2.15",
- "FairStress: A deeper evaluation of fairness in LLM decision-making",
- "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
- "Hugging Face ❤️ TorchTPU: TPUs, Natively",
- "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
  "DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs",
  "Announcements",
  "Franchisee reconciles cash in 94% less time with ChatGPT Work",
@@ -298,5 +293,10 @@
  "ChatGPT is getting verified AI ‘Business Agents’",
  "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
  "OpenAI Acquires AI Travel Agent Odessia",
- "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions"
+ "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
+ "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+ "Gilbert + Tobin rethinks the business of law with AI",
+ "ChatGPT Plus for veterans and servicemembers",
+ "Cogent and OpenAI build cyber defense factories for enterprises",
+ "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material"
 ]
