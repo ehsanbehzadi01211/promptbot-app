@@ -1,2 +1,1 @@
-voice_gh_jobsearch.mp3 https://res.cloudinary.com/qecsawrr/video/upload/v1794298634/ehbehzad/v10_voice_gh_jobsearch.mp3
-music_gh_jobsearch.mp3 https://res.cloudinary.com/qecsawrr/video/upload/v1794298933/ehbehzad/v10_music_gh_jobsearch.mp3
+v10_voice_gh_prompts.mp3 https://res.cloudinary.com/qecsawrr/video/upload/v1794384069/ehbehzad/v10_voice_gh_prompts.mp3
