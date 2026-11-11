@@ -1606,5 +1606,35 @@
     "id": "yo-2026-11-13-short-v10",
     "via": "uplika",
     "uplika_post": "post_337b3a622236faa5"
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "lang": "fa",
+    "when": "2026-11-14T21:00",
+    "topic": "prompts.chat – بزرگ‌ترین کتابخونه‌ی پرامپت متن‌باز با ۱۷۰K ستاره",
+    "key": "v10_gh_prompts",
+    "status": "needs_video_upload",
+    "id": "ig-2026-11-14-reel-v10gp",
+    "note": "voice: ehbehzad/v10_voice_gh_prompts | nolvoice target: ehbehzad/v10_gh_prompts_nolvoice | mix_url ready once nolvoice uploaded",
+    "media_pending": "https://res.cloudinary.com/qecsawrr/video/upload/l_ehbehzad:v10_voice_gh_prompts.mp3,fl_layer_apply/ehbehzad/v10_gh_prompts_nolvoice.mp4",
+    "caption": "دیگه پرامپت از خودت ننویس!\nبزرگ‌ترین کتابخونه‌ی پرامپت متن‌باز دنیاست 🔥\n+۱۷۰K ستاره توی گیتاب. هزاران پرامپت آماده.\nبا ChatGPT، Claude و Gemini کار می‌کنه.\nکلمه‌ی «کتابخونه» رو کامنت کن 👇\n📷 @ehbehzad\n#هوش_مصنوعی #ChatGPT #پرامپت",
+    "keyword": "کتابخونه",
+    "account": "conn_a8ade4f9de0c6bca",
+    "workspace": "ws_680c8b2ee3656246"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "lang": "fa",
+    "when": "2026-11-14T21:00",
+    "topic": "prompts.chat – بزرگ‌ترین کتابخونه‌ی پرامپت متن‌باز با ۱۷۰K ستاره",
+    "key": "fa_v10_gh_prompts",
+    "status": "needs_video_upload",
+    "id": "yo-2026-11-14-short-v10gp",
+    "note": "same video as Instagram entry ig-2026-11-14-reel-v10gp; schedule after video upload",
+    "media_pending": "https://res.cloudinary.com/qecsawrr/video/upload/l_ehbehzad:v10_voice_gh_prompts.mp3,fl_layer_apply/ehbehzad/v10_gh_prompts_nolvoice.mp4",
+    "account": "conn_0518c6141bae7d86",
+    "workspace": "ws_680c8b2ee3656246"
   }
 ]
