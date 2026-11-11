@@ -58,5 +58,53 @@
   "time": "2026-11-11T03:00:20+00:00",
   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/recycling-company-grid-1920x1080-1.png",
   "id": "34dcc0e759ee209b"
+ },
+ {
+  "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+  "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+  "url": "https://openai.com/index/singapore-airlines-travel-work",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-10T08:00:00+00:00",
+  "image": "",
+  "id": "4e3e5904c85ae763"
+ },
+ {
+  "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+  "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
+  "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+  "source": "Google",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-11T09:00:00+00:00",
+  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/esther_video_still.max-600x600.format-webp.webp",
+  "id": "7e65614cc89aac7b"
+ },
+ {
+  "title": "What we’re worried about as Anthropic prepares for its public debut",
+  "summary": "What we’re worried about as Anthropic prepares for its public debut Fortune",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeWkyNVVST1BCQ1hNRXpCQnRmZ0RLOTZDM0JjcnBfelFNRUdhaWNoZ2FPdWpwVmJORUViZFRqMGx3UTgzdEw3S0E3QWhDX01BTXdzN3ctcE9jWmFoWEhxVmFSSG02Yl9pRW11OWp3c0ktdkw4bGNrUWNoUXIzWWhDS2c4UC1oSUlTR25CV1N5U3h3cHQzeXh0Tw?oc=5",
+  "source": "Fortune",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-11T11:51:00+00:00",
+  "image": "",
+  "id": "ced3e78c91a1e6b9"
+ },
+ {
+  "title": "A Grok Vibe-Coding Agent Leaked Sensitive SpaceXSI Data",
+  "summary": "A Grok Vibe-Coding Agent Leaked Sensitive SpaceXSI Data Engadget",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0ZNMWpzMFVXZ2ROM2RFYW5Mbm5lNzhZUE9OU1VGNzZvSHF2UlBReGtHOGJabDZvWEJuc3ZjRVpVRjBmbTVtclVXaHVPSDYxaVY1MWtQbFY4WkxYTGthNk5Cam1faGlMRHpOZUpyYmU5Yzg0a1ExRzVHQ2pfYVJWVA?oc=5",
+  "source": "Engadget",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-11T12:35:10+00:00",
+  "image": "",
+  "id": "a731f779f5d81ad7"
  }
 ]

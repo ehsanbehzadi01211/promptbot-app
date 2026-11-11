@@ -1,52 +1,5 @@
 [
  {
-  "title": "Meta AI glasses can get too warm from water and sweat — update right now",
-  "summary": "Meta AI glasses can get too warm from water and sweat — update right now Tom's Guide",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLWVCUl9UV3hqZXpZOHRpUFhtM3BXZUFBZ1NnSTlTTk9kM19IbEozWUwzdWpEeFgxeVU2OW1mYmhkbXpHaEZFSW8xaWtPU3FteXp3eFpkbzlVQTRKUmZod0g0V2VGTzFVTjFtZ0hSeUEzZnF3bjlwYlByRXF6WEIxbzlPMDNUTzNuYzk4c3hCbVJNdFdBYmhRVWhpUjFnQ0RILXU1WUxMN0lWT1A4Vmg3UWVkMmdWLVE?oc=5",
-  "source": "Tom's Guide",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-09T22:07:58+00:00",
-  "image": "",
-  "id": "977027975cc1265a"
- },
- {
-  "title": "Google Cloud launches Gemini for healthcare.",
-  "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-  "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-  "source": "Google",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-10T13:00:00+00:00",
-  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp",
-  "id": "155d33cae7267931"
- },
- {
-  "title": "Anthropic launches roadshow for proposed initial public offering",
-  "summary": "",
-  "url": "https://www.anthropic.com/news/roadshow-launch",
-  "source": "Anthropic",
-  "official": true,
-  "tools": false,
-  "time": "2026-11-10T17:43:08.225924+00:00",
-  "page": true,
-  "id": "85a32fe1244f6425"
- },
- {
-  "title": "Work at the Frontier: AI’s effect on freelance work",
-  "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-  "url": "https://openai.com/index/ai-effect-on-freelance-work",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-10T07:00:00+00:00",
-  "image": "",
-  "id": "3588ceed41552e46"
- },
- {
   "title": "Gemini 4 Carbon is now available",
   "summary": "",
   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
@@ -93,18 +46,6 @@
   "time": "2026-11-10T14:00:00+00:00",
   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp",
   "id": "c5fffc8a0cbdc3d4"
- },
- {
-  "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-  "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-  "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-  "source": "Google DeepMind",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-09T19:51:47+00:00",
-  "image": "",
-  "id": "a98763b80c842ad2"
  },
  {
   "title": "Introducing Businesses in ChatGPT",
@@ -239,18 +180,6 @@
   "id": "80b38ea7da372c49"
  },
  {
-  "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-  "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-  "url": "https://openai.com/index/cogent-security",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-10T00:00:00+00:00",
-  "image": "",
-  "id": "1ff74ee2cb106637"
- },
- {
   "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
   "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
   "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
@@ -261,5 +190,53 @@
   "time": "2026-11-11T03:00:20+00:00",
   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/recycling-company-grid-1920x1080-1.png",
   "id": "34dcc0e759ee209b"
+ },
+ {
+  "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+  "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+  "url": "https://openai.com/index/singapore-airlines-travel-work",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-10T08:00:00+00:00",
+  "image": "",
+  "id": "4e3e5904c85ae763"
+ },
+ {
+  "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+  "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
+  "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+  "source": "Google",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-11T09:00:00+00:00",
+  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/esther_video_still.max-600x600.format-webp.webp",
+  "id": "7e65614cc89aac7b"
+ },
+ {
+  "title": "What we’re worried about as Anthropic prepares for its public debut",
+  "summary": "What we’re worried about as Anthropic prepares for its public debut Fortune",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeWkyNVVST1BCQ1hNRXpCQnRmZ0RLOTZDM0JjcnBfelFNRUdhaWNoZ2FPdWpwVmJORUViZFRqMGx3UTgzdEw3S0E3QWhDX01BTXdzN3ctcE9jWmFoWEhxVmFSSG02Yl9pRW11OWp3c0ktdkw4bGNrUWNoUXIzWWhDS2c4UC1oSUlTR25CV1N5U3h3cHQzeXh0Tw?oc=5",
+  "source": "Fortune",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-11T11:51:00+00:00",
+  "image": "",
+  "id": "ced3e78c91a1e6b9"
+ },
+ {
+  "title": "A Grok Vibe-Coding Agent Leaked Sensitive SpaceXSI Data",
+  "summary": "A Grok Vibe-Coding Agent Leaked Sensitive SpaceXSI Data Engadget",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0ZNMWpzMFVXZ2ROM2RFYW5Mbm5lNzhZUE9OU1VGNzZvSHF2UlBReGtHOGJabDZvWEJuc3ZjRVpVRjBmbTVtclVXaHVPSDYxaVY1MWtQbFY4WkxYTGthNk5Cam1faGlMRHpOZUpyYmU5Yzg0a1ExRzVHQ2pfYVJWVA?oc=5",
+  "source": "Engadget",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-11T12:35:10+00:00",
+  "image": "",
+  "id": "a731f779f5d81ad7"
  }
 ]
