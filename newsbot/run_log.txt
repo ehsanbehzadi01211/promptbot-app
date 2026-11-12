@@ -1,32 +1,31 @@
-Thu Nov 12 02:53:14 UTC 2026
+Thu Nov 12 12:34:27 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 3 fresh
-Google: 4 fresh
-Google DeepMind: 2 fresh
-NVIDIA: 2 fresh
-Hugging Face: 2 fresh
-The Verge: 10 fresh
-TechCrunch: 20 fresh
+OpenAI: 4 fresh
+Google: 3 fresh
+Google DeepMind: 1 fresh
+NVIDIA: 1 fresh
+Hugging Face: 1 fresh
+The Verge: 5 fresh
+TechCrunch: 15 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 0 fresh
-Product Hunt: 9 fresh
+Product Hunt: 11 fresh
 Anthropic: 26 links
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 25 fresh
-new items: 3
+Google News: 23 fresh
+new items: 5
+translated via clients5
+sent photo BotPsy: On-Device Personal Assistant with a Sub-Billion-Para
 translated via clients5
 translated via clients5
-sent photo Gemini Intelligence: New features, on more devices
+sent card Gilbert + Tobin rethinks the business of law with AI
 translated via clients5
 translated via clients5
-sent card Anthropic launches Claude Meetings to turn workplace discuss
-translated via clients5
-translated via clients5
-sent card Google releases Gemini 4 Carbon with agent ‘swarm’ feature
+sent card ChatGPT Plus for veterans and servicemembers
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
