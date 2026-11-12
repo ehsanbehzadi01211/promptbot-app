@@ -94,5 +94,101 @@
   "time": "2026-11-12T05:06:00+00:00",
   "image": "",
   "id": "570c85c417b62c74"
+ },
+ {
+  "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+  "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+  "url": "https://openai.com/index/amplitude",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-12T20:00:00+00:00",
+  "image": "",
+  "id": "372847c9499451eb"
+ },
+ {
+  "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+  "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+  "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+  "source": "Google",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-12T18:00:00+00:00",
+  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp",
+  "id": "459a57b4750adf48"
+ },
+ {
+  "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+  "summary": "Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5 technology coming to War Thunder and Where Winds Meet. Meanwhile, Dragon’s Dogma 2: Dark Arisen brings new tales […]",
+  "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-12T14:00:59+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/GFN_Thursday-Dragons_Dogma-1680x840.jpg",
+  "id": "42899cb2010af537"
+ },
+ {
+  "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+  "summary": "",
+  "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-12T19:07:35+00:00",
+  "image": "",
+  "id": "a88bddb17214a029"
+ },
+ {
+  "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+  "summary": "",
+  "url": "https://huggingface.co/blog/3d-lora-finetuning",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-12T00:00:00+00:00",
+  "image": "",
+  "id": "56dac742ff29ffe2"
+ },
+ {
+  "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+  "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+  "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-12T19:11:00+00:00",
+  "image": "",
+  "id": "f7effce2db920f5c"
+ },
+ {
+  "title": "OpenAI launches security products, tells orgs they’re doomed if they don’t use them",
+  "summary": "OpenAI launches security products, tells orgs they’re doomed if they don’t use them The Register",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWlRDS0FrQTVoOWtIT1JsRnJScy1vVzVGRnJOakd0bkllUHdTNkhJVzd3OWZ0X2FDb1g3cG1YOVM4Q1I0TW5tWGpBd21URFFaTDVkS1NNaVVxX19MVTY0dFlFZ055VVR2OWJNSkd2MXZ6NXBoMTVldGNEakNJbEd0TnAxa1loV1FWcjByWGpWVmpvc2o5VmJsR3Jlb0Q1QXBkcWtTVXg4ZHpETktma3R0Y3pVUEZPOE1meEdwS2R4NU96MUJiS0lDQnJ1NXZPTzMxdVE?oc=5",
+  "source": "The Register",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-12T20:48:45+00:00",
+  "image": "",
+  "id": "faba5b3286394b88"
+ },
+ {
+  "title": "With IPO looming, Anthropic launches Claude product for manufacturers",
+  "summary": "With IPO looming, Anthropic launches Claude product for manufacturers Business Insider",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVFzTkpNdV9uc2JnQUFWcTF0c0Y1UnRVcU1ETUZHRGZVUjlRNGpBWXI5UGF4TThRWEFEc1J2alNTbmFYSUEzXzNhb1p4RlRpRDdmd1BSdi1xeXB4aFgwQTlUalZYc19yM2U1S2JYWFVWQWRvSUM3RF9ETkN2bWY0T2g1ZEtWemNpYThCM3lBZFhMRlM5VHRuTG94WDA?oc=5",
+  "source": "Business Insider",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-12T17:00:00+00:00",
+  "image": "",
+  "id": "d399323c2ae5a5bf"
  }
 ]
