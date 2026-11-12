@@ -1,0 +1,38 @@
+[
+ {
+  "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+  "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+  "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+  "source": "Google DeepMind",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-11T15:00:15+00:00",
+  "image": "",
+  "id": "5b916f1bea878c9c"
+ },
+ {
+  "title": "Meta launches Muse AI agent for Apple Watch and Android Wear OS — so now you can talk to your fluffy life assistant anywhere",
+  "summary": "Meta launches Muse AI agent for Apple Watch and Android Wear OS — so now you can talk to your fluffy life assistant anywhere TechRadar",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRnZrX20wQWtXVlpwY1lRS1EwTEx6WHRHR0d3LW55RFozOXI4aFZuM05ld3psQ1p4SUZQMmNlTy1YbDNsdXRkMTVwUk9GWG5nZW01Mmg5NmhTMC1tc3VtYU5tNHVBTHl5MFJLVEpkdkVzREtxenB0LU83SzZ4NGNiZ2NJVktsVVdGRHhxX0V1eTRYbWFSU3ZPWDBVUWg5R292TjJhWmh2V1BWVFRDamFmNWJtdmlqeGdmenJmbUI3bk5mMGNYd1ZvY3ZHWV9IVjF0a1BCZkFvZ2s5WUJwNlhMMi1LMmdiVElyWld5N2wtY3A5Tkozb2ZBa3ZwQ3ZRNWtfNmc?oc=5",
+  "source": "TechRadar",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-12T02:00:00+00:00",
+  "image": "",
+  "id": "38551b7704cb9108"
+ },
+ {
+  "title": "United won’t let your AI agent book your flight",
+  "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+  "source": "The Verge",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-11T21:54:21+00:00",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "id": "33bddd1c40023b58"
+ }
+]

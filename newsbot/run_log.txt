@@ -1,31 +1,32 @@
-Wed Nov 11 21:21:45 UTC 2026
+Thu Nov 12 02:53:14 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 5 fresh
-Google: 6 fresh
-Google DeepMind: 0 fresh
+OpenAI: 3 fresh
+Google: 4 fresh
+Google DeepMind: 2 fresh
 NVIDIA: 2 fresh
 Hugging Face: 2 fresh
 The Verge: 10 fresh
 TechCrunch: 20 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 0 fresh
-Product Hunt: 12 fresh
+Product Hunt: 9 fresh
 Anthropic: 26 links
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 23 fresh
-new items: 8
-translated via clients5
-sent photo Gemini 4 Carbon is now available
+Google News: 25 fresh
+new items: 3
 translated via clients5
 translated via clients5
-sent card Introducing AlphaProof Code: a breakthrough in verifying com
+sent photo Gemini Intelligence: New features, on more devices
 translated via clients5
 translated via clients5
-sent card Helping caregivers use AI in everyday life
+sent card Anthropic launches Claude Meetings to turn workplace discuss
+translated via clients5
+translated via clients5
+sent card Google releases Gemini 4 Carbon with agent ‘swarm’ feature
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel

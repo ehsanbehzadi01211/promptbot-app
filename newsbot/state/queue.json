@@ -1,65 +1,5 @@
 [
  {
-  "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-  "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-  "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-  "source": "Google",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-10T14:00:00+00:00",
-  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp",
-  "id": "c5fffc8a0cbdc3d4"
- },
- {
-  "title": "Introducing Businesses in ChatGPT",
-  "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-  "url": "https://openai.com/index/introducing-businesses-chatgpt",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-10T10:00:00+00:00",
-  "image": "",
-  "id": "5ca4dc7b6d88cb31"
- },
- {
-  "title": "Gemini Intelligence: New features, on more devices",
-  "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
-  "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-  "source": "Google",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-10T19:00:00+00:00",
-  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp",
-  "id": "ac5a661efbfd509d"
- },
- {
-  "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-  "summary": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks TechCrunch",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdkN0VWFWT3BuM1RBTG1ZWVp6TWs3RVpNZ2JHSGp2Q0NmcEh6Z3p6anZYY1FYYXpSTXRYZ2hoX2dXY2MyaXdGSXptUFlxWXhMRmVyLVgwbEw0N05PTWJmMmF5bE9uYzF5RkhGOHpueGpuUzA3UE5mekh1UE1oWmp1dWhvWTVEaHhacXJkb0poVklsRWd1V2xWVkpuWlZBbDQ3X3RHajUzWmlabGM5Wml4Ni1KWDZLOV9PYlhPag?oc=5",
-  "source": "TechCrunch",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-10T17:30:00+00:00",
-  "image": "",
-  "id": "f5e3481274c21d4f"
- },
- {
-  "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-  "summary": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature The Verge",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS1FMM2Rhc1RaOWNteEpIRDZLV2RNanAxOEtlY25LQ0tLejhndUQ1M1lpRFdXQjdkMnJ1SGxQSFhSODByVDhrWHp4dzdqM01pTzhTTVBpY2swLTZncWFJU1NaeXlTYk0tbFFzOVFISWFuamYzaXhiNlFfQmZoekk4YXkyaHdBRDhLMF9DSmo4UEZUV0pWcEVYZUNGci1iZw?oc=5",
-  "source": "The Verge",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-10T16:00:00+00:00",
-  "image": "",
-  "id": "742a83ff5a845a68"
- },
- {
   "title": "ChatGPT is getting verified AI ‘Business Agents’",
   "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You […]",
   "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
@@ -286,5 +226,41 @@
   "time": "2026-11-11T19:50:14+00:00",
   "image": "",
   "id": "30e59f0ba0076d23"
+ },
+ {
+  "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+  "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+  "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+  "source": "Google DeepMind",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-11T15:00:15+00:00",
+  "image": "",
+  "id": "5b916f1bea878c9c"
+ },
+ {
+  "title": "Meta launches Muse AI agent for Apple Watch and Android Wear OS — so now you can talk to your fluffy life assistant anywhere",
+  "summary": "Meta launches Muse AI agent for Apple Watch and Android Wear OS — so now you can talk to your fluffy life assistant anywhere TechRadar",
+  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRnZrX20wQWtXVlpwY1lRS1EwTEx6WHRHR0d3LW55RFozOXI4aFZuM05ld3psQ1p4SUZQMmNlTy1YbDNsdXRkMTVwUk9GWG5nZW01Mmg5NmhTMC1tc3VtYU5tNHVBTHl5MFJLVEpkdkVzREtxenB0LU83SzZ4NGNiZ2NJVktsVVdGRHhxX0V1eTRYbWFSU3ZPWDBVUWg5R292TjJhWmh2V1BWVFRDamFmNWJtdmlqeGdmenJmbUI3bk5mMGNYd1ZvY3ZHWV9IVjF0a1BCZkFvZ2s5WUJwNlhMMi1LMmdiVElyWld5N2wtY3A5Tkozb2ZBa3ZwQ3ZRNWtfNmc?oc=5",
+  "source": "TechRadar",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-12T02:00:00+00:00",
+  "image": "",
+  "id": "38551b7704cb9108"
+ },
+ {
+  "title": "United won’t let your AI agent book your flight",
+  "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+  "source": "The Verge",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-11T21:54:21+00:00",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "id": "33bddd1c40023b58"
  }
 ]
