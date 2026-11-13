@@ -1,53 +1,5 @@
 [
  {
-  "title": "From SpaceX to Anthropic, markets have a new playbook for mega-share debuts",
-  "summary": "From SpaceX to Anthropic, markets have a new playbook for mega-share debuts Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVBKOUFhVENlOHhiWWtwTlhGOEdkTXJLaWRrV0I0a19lOGhsVWp6RFNkVHJVdWVYMUk5N3RkX1BueVUtcGV3dkRFeFdrZmdqR0tNWFViY01SZlhkcExlN3BTV1JWcDFTR3NXZDdURDBMY2tsN1U5bXRwOXRWY1BfZTFyTGlGMnhXT1N2SVRXX05UVV9oSmFSdlVBRnBaV1QzcFkwdnhzaS0?oc=5",
-  "source": "Reuters",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-12T05:06:00+00:00",
-  "image": "",
-  "id": "570c85c417b62c74"
- },
- {
-  "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-  "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-  "url": "https://openai.com/index/amplitude",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-12T20:00:00+00:00",
-  "image": "",
-  "id": "372847c9499451eb"
- },
- {
-  "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-  "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
-  "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-  "source": "Google",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-12T18:00:00+00:00",
-  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp",
-  "id": "459a57b4750adf48"
- },
- {
-  "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
-  "summary": "Rally the ranks this GFN Thursday. Warhammer 40,000: Dawn of War IV is coming to GeForce NOW, allowing players to experience the battle for Kronus through cloud gaming. There’s more on the horizon, with NVIDIA DLSS 5 technology coming to War Thunder and Where Winds Meet. Meanwhile, Dragon’s Dogma 2: Dark Arisen brings new tales […]",
-  "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-12T14:00:59+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/GFN_Thursday-Dragons_Dogma-1680x840.jpg",
-  "id": "42899cb2010af537"
- },
- {
   "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
   "summary": "",
   "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
@@ -142,5 +94,101 @@
   "time": "2026-11-12T18:00:50+00:00",
   "image": "",
   "id": "4bad5afe01a19f79"
+ },
+ {
+  "title": "Introducing ChatGPT Wallet",
+  "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+  "url": "https://openai.com/index/introducing-chatgpt-wallet",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-13T15:00:00+00:00",
+  "image": "",
+  "id": "5bf4951adbe9698d"
+ },
+ {
+  "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+  "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI […]",
+  "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-13T13:00:42+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-at-9.25.28-AM-scaled.png",
+  "id": "a326fbf0621fc816"
+ },
+ {
+  "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+  "summary": "",
+  "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-13T18:00:39+00:00",
+  "image": "",
+  "id": "2427bacb74a96b4b"
+ },
+ {
+  "title": "XYBench: Helping with the problem behind the question",
+  "summary": "",
+  "url": "https://huggingface.co/blog/allenai/xybench",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-13T17:02:35+00:00",
+  "image": "",
+  "id": "8400bdfe1e2afd49"
+ },
+ {
+  "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+  "summary": "",
+  "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-13T14:05:22+00:00",
+  "image": "",
+  "id": "40e78db6601d46e6"
+ },
+ {
+  "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+  "summary": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users CNBC",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ?oc=5",
+  "source": "CNBC",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-13T15:00:01+00:00",
+  "image": "",
+  "id": "423adf6f811cef72"
+ },
+ {
+  "title": "OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases",
+  "summary": "OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases Reuters",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdjVJaENIMTQ3V1hXQ3pSLUh4SmRkcTdoVEx5el9kTU1fTFBsVVFpaVF5WkpKNTBtX3NYMEE2UEF4V3hkbWhRNzdFREtLZFJtSGtMRTF6RWlfNVowTUktR25NWnRjUEVIUm5TSm9EbE50UWt6cnFIem5XcFBfQWMyUV8xR0w4RWJGalB1TW80OXNsOWJ6RlNGOElzbThzMmt2aDBSTnVaWVliMVNNYXc?oc=5",
+  "source": "Reuters",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-13T15:45:24+00:00",
+  "image": "",
+  "id": "ab35997562fc4c7d"
+ },
+ {
+  "title": "ChatGPT Launches Wallet Feature Allowing Users to Pay With Agents",
+  "summary": "ChatGPT Launches Wallet Feature Allowing Users to Pay With Agents WSJ",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX1lrZjdhQ1pXM0JZVTNOWllBQ2FRcm9sWVd3cDlVN291R3lzS0JuZ3o5S0FybG5PdkgzZXdMTGtEcDFaZWtvLUtBZ0tzNTdvS29kXzRNQ2hXWEo0cGZ2R2RtVHlZNjQzOXZnT1FaelBQM18yTFhWdFJEVW5RSlRrQWloYTFLOWI1RXZMb2dBeS1ZZVZJbDVXXzRzVDVESTZmR09CRw?oc=5",
+  "source": "WSJ",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-13T17:05:00+00:00",
+  "image": "",
+  "id": "4cfb9585dc2feca4"
  }
 ]
