@@ -1,0 +1,38 @@
+[
+ {
+  "title": "Gondola doubles revenue as its team builds more with Codex",
+  "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+  "url": "https://openai.com/business/customer-stories/gondola",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-12T12:00:00+00:00",
+  "image": "",
+  "id": "90d79223706ea3ab"
+ },
+ {
+  "title": "Introducing Gemini 4 Hydrogen for Agentic Workflows",
+  "summary": "Introducing Gemini 4 Hydrogen for Agentic Workflows blog.google",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnlqelBIT1ZXblFBa25zdHlXalhPR2Z2b2xLZ2lmeEtFbUFXS3Mya3FtU0tyeGJrOXpHVEJOdFpDVUZSUTVOUHA0WjRiakw2a2hIRzc3ZHBfM3pDT3dKTDdfMExNQ2FnU1NWSHI3UGpXX2lVSEUxeVYwb2FfNE5vRGJnMjhWSzU5WkFrdmtOdW5Fb0lja1dFN3JUMkQ5R01JRXhNUA?oc=5",
+  "source": "blog.google",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-12T18:04:04+00:00",
+  "image": "",
+  "id": "744c5439251c3f10"
+ },
+ {
+  "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+  "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+  "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-12T22:42:51+00:00",
+  "image": "",
+  "id": "55d7d41513d8574a"
+ }
+]

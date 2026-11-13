@@ -1,6 +1,6 @@
-Thu Nov 12 21:26:57 UTC 2026
+Fri Nov 13 02:34:34 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 4 fresh
+OpenAI: 5 fresh
 Google: 3 fresh
 Google DeepMind: 0 fresh
 NVIDIA: 1 fresh
@@ -9,24 +9,24 @@ The Verge: 10 fresh
 TechCrunch: 20 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 1 fresh
-Product Hunt: 7 fresh
+Product Hunt: 6 fresh
 Anthropic: 26 links
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 17 fresh
-new items: 8
+Google News: 19 fresh
+new items: 3
 translated via clients5
 translated via clients5
-sent card What we’re worried about as Anthropic prepares for its publi
+sent photo Try Tabletop: Customizable, collaborative spaces for groups 
 translated via clients5
 translated via clients5
-sent card A Grok Vibe-Coding Agent Leaked Sensitive SpaceXSI Data
+sent photo Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnishe
 translated via clients5
 translated via clients5
-sent photo Gemini Decisions API: Fast, calibrated multimodal decisions
+sent card Google rolling out Gemini app for CarPlay
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
