@@ -1,94 +1,29 @@
-Fri Nov 13 12:06:02 UTC 2026
+Fri Nov 13 12:40:59 UTC 2026
+{'channel': 'set', 'owner': 'set'}
 Traceback (most recent call last):
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/urllib/request.py", line 1361, in do_open
-    h.request(req.get_method(), req.selector, req.data, headers,
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/http/client.py", line 1351, in request
-    self._send_request(method, url, body, headers, encode_chunked)
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/http/client.py", line 1397, in _send_request
-    self.endheaders(body, encode_chunked=encode_chunked)
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/http/client.py", line 1346, in endheaders
-    self._send_output(message_body, encode_chunked=encode_chunked)
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/http/client.py", line 1106, in _send_output
-    self.send(msg)
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/http/client.py", line 1044, in send
-    self.connect()
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/http/client.py", line 1523, in connect
-    self.sock = self._context.wrap_socket(self.sock,
-                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/ssl.py", line 517, in wrap_socket
-    return self.sslsocket_class._create(
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/ssl.py", line 1117, in _create
-    self.do_handshake()
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/ssl.py", line 1395, in do_handshake
-    self._sslobj.do_handshake()
-ConnectionResetError: [Errno 104] Connection reset by peer
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/runner/work/promptbot-app/promptbot-app/newsbot/discover.py", line 10, in <module>
-    data = json.loads(urllib.request.urlopen(f"https://api.telegram.org/bot{token}/getUpdates?allowed_updates=%5B%22message%22%2C%22channel_post%22%2C%22my_chat_member%22%5D", timeout=30).read())
-                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/urllib/request.py", line 216, in urlopen
-    return opener.open(url, data, timeout)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/urllib/request.py", line 519, in open
-    response = self._open(req, data)
-               ^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/urllib/request.py", line 536, in _open
-    result = self._call_chain(self.handle_open, protocol, protocol +
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/urllib/request.py", line 496, in _call_chain
-    result = func(*args)
-             ^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/urllib/request.py", line 1404, in https_open
-    return self.do_open(http.client.HTTPSConnection, req,
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.18/x64/lib/python3.11/urllib/request.py", line 1364, in do_open
-    raise URLError(err)
-urllib.error.URLError: <urlopen error [Errno 104] Connection reset by peer>
-OpenAI: 3 fresh
-Google: 1 fresh
-Google DeepMind: 1 fresh
-NVIDIA: 1 fresh
-Hugging Face: 1 fresh
-The Verge: 10 fresh
-TechCrunch: 20 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 1 fresh
-Product Hunt: 8 fresh
-Anthropic: 26 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 23 fresh
-new items: 1
-translated via clients5
-translated via clients5
-sent card Meta launches Muse AI agent for Apple Watch and Android Wear
-translated via clients5
-translated via clients5
-sent card Holiday Extras is rethinking what it can build with Codex
-translated via clients5
-translated via clients5
-sent card Catching rogue agents and preventing cyberattacks—quantum co
+  File "/home/runner/work/promptbot-app/promptbot-app/newsbot/schedule.py", line 74, in <module>
+    main(sys.argv[1])
+  File "/home/runner/work/promptbot-app/promptbot-app/newsbot/schedule.py", line 47, in main
+    items = sorted(load(os.path.join(HERE, "..", "content", "schedule.json"), []), key=lambda x: (x["date"], x["time"]))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/promptbot-app/promptbot-app/newsbot/schedule.py", line 47, in <lambda>
+    items = sorted(load(os.path.join(HERE, "..", "content", "schedule.json"), []), key=lambda x: (x["date"], x["time"]))
+                                                                                                  ~^^^^^^^^
+KeyError: 'date'
 promo sent yo-2026-10-23-short
-promo fail in-2026-10-28-reel <urlopen error [Errno 104] Connection reset by peer>
+promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
 promo sent yo-2026-10-29-short
 promo sent in-2026-10-30-reel
 promo sent yo-2026-10-30-short
 promo sent yo-2026-10-31-short
 promo sent in-2026-10-31-reel
-promo sent in-2026-11-01-reel
-promo fail yo-2026-11-01-short <urlopen error [Errno 104] Connection reset by peer>
+promo fail in-2026-11-01-reel <urlopen error [Errno 104] Connection reset by peer>
+promo sent yo-2026-11-01-short
 promo sent in-2026-11-02-reel
 promo sent yo-2026-11-02-short
 promo sent in-2026-11-03-reel
-promo fail in-2026-11-04-reel <urlopen error [Errno 104] Connection reset by peer>
+promo sent in-2026-11-04-reel
 promo sent in-2026-11-05-reel
 promo sent in-2026-11-06-reel
 promo sent in-2026-11-07-reel
