@@ -1,89 +1,5 @@
 [
  {
-  "title": "Google Says Gemini App Rolling Out on Apple CarPlay Starting Today",
-  "summary": "Google Says Gemini App Rolling Out on Apple CarPlay Starting Today MacRumors",
-  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40YXU0UHU0R25YbjZ6dno0TjA4bzlPcHdtWXB0bEtDQ001LUp6Zm9DQkxwQlo5LXBibjlfX3N0NjEwYUtacWhIb2Q2bllQa0J1S0FyZ0N3VWx0MTVuU2d5WWdQM21iUERuNWNGM1czRXRRUms?oc=5",
-  "source": "MacRumors",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-11T19:50:14+00:00",
-  "image": "",
-  "id": "30e59f0ba0076d23"
- },
- {
-  "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-  "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-  "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-  "source": "Google DeepMind",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-11T15:00:15+00:00",
-  "image": "",
-  "id": "5b916f1bea878c9c"
- },
- {
-  "title": "Meta launches Muse AI agent for Apple Watch and Android Wear OS — so now you can talk to your fluffy life assistant anywhere",
-  "summary": "Meta launches Muse AI agent for Apple Watch and Android Wear OS — so now you can talk to your fluffy life assistant anywhere TechRadar",
-  "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRnZrX20wQWtXVlpwY1lRS1EwTEx6WHRHR0d3LW55RFozOXI4aFZuM05ld3psQ1p4SUZQMmNlTy1YbDNsdXRkMTVwUk9GWG5nZW01Mmg5NmhTMC1tc3VtYU5tNHVBTHl5MFJLVEpkdkVzREtxenB0LU83SzZ4NGNiZ2NJVktsVVdGRHhxX0V1eTRYbWFSU3ZPWDBVUWg5R292TjJhWmh2V1BWVFRDamFmNWJtdmlqeGdmenJmbUI3bk5mMGNYd1ZvY3ZHWV9IVjF0a1BCZkFvZ2s5WUJwNlhMMi1LMmdiVElyWld5N2wtY3A5Tkozb2ZBa3ZwQ3ZRNWtfNmc?oc=5",
-  "source": "TechRadar",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-12T02:00:00+00:00",
-  "image": "",
-  "id": "38551b7704cb9108"
- },
- {
-  "title": "United won’t let your AI agent book your flight",
-  "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned […]",
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-  "source": "The Verge",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-11T21:54:21+00:00",
-  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0,0,100,100",
-  "id": "33bddd1c40023b58"
- },
- {
-  "title": "Holiday Extras is rethinking what it can build with Codex",
-  "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-  "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-12T09:30:00+00:00",
-  "image": "",
-  "id": "0990939c7d6ea9f7"
- },
- {
-  "title": "Supporting research on AI and children’s safety",
-  "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-  "url": "https://openai.com/index/children-first-declaration",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-12T00:00:00+00:00",
-  "image": "",
-  "id": "b06379671ede1f62"
- },
- {
-  "title": "Catching rogue agents and preventing cyberattacks—quantum computing is about to have its ‘ChatGPT moment’",
-  "summary": "Catching rogue agents and preventing cyberattacks—quantum computing is about to have its ‘ChatGPT moment’ Fortune",
-  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcFB0WkFsOXFBRnhrcWJlRDkwRGdPejBxVTNLU2VFdkxQQ0paX0oyMlBnbHRhQVBiOXM1YnhXUzVtRk1zWTE1U3JuM3lzTExVQmNxU0VxU2dqQ2MxZm91ak5kaWpRZzBQMDA5NS1mN3dFclFHLUhSNVR5VWktdjBpXzR4Y0FGbTN3SElWcUlVUFNKc0FBX25KQUQwMXlIUzY1NVA3TUV0ZkJabG9BY180OU52NUNES0M4bzcxUlMyV0pzSzQ5aGh3cC0xb3ZDd1NZ?oc=5",
-  "source": "Fortune",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-12T11:14:00+00:00",
-  "image": "",
-  "id": "7b653c678e0dfa89"
- },
- {
   "title": "From SpaceX to Anthropic, markets have a new playbook for mega-share debuts",
   "summary": "From SpaceX to Anthropic, markets have a new playbook for mega-share debuts Reuters",
   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVBKOUFhVENlOHhiWWtwTlhGOEdkTXJLaWRrV0I0a19lOGhsVWp6RFNkVHJVdWVYMUk5N3RkX1BueVUtcGV3dkRFeFdrZmdqR0tNWFViY01SZlhkcExlN3BTV1JWcDFTR3NXZDdURDBMY2tsN1U5bXRwOXRWY1BfZTFyTGlGMnhXT1N2SVRXX05UVV9oSmFSdlVBRnBaV1QzcFkwdnhzaS0?oc=5",
@@ -142,18 +58,6 @@
   "time": "2026-11-12T19:07:35+00:00",
   "image": "",
   "id": "a88bddb17214a029"
- },
- {
-  "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-  "summary": "",
-  "url": "https://huggingface.co/blog/3d-lora-finetuning",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-12T00:00:00+00:00",
-  "image": "",
-  "id": "56dac742ff29ffe2"
  },
  {
   "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
@@ -226,5 +130,17 @@
   "time": "2026-11-12T22:42:51+00:00",
   "image": "",
   "id": "55d7d41513d8574a"
+ },
+ {
+  "title": "Introducing Gemini 4 Hydrogen",
+  "summary": "",
+  "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+  "source": "Google DeepMind",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-12T18:00:50+00:00",
+  "image": "",
+  "id": "4bad5afe01a19f79"
  }
 ]
