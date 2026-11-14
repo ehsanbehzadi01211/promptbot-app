@@ -1,6 +1,6 @@
-Fri Nov 13 19:37:04 UTC 2026
+Sat Nov 14 00:51:34 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 4 fresh
+OpenAI: 3 fresh
 Google: 1 fresh
 Google DeepMind: 0 fresh
 NVIDIA: 2 fresh
@@ -9,24 +9,23 @@ The Verge: 10 fresh
 TechCrunch: 20 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 1 fresh
-Product Hunt: 5 fresh
+Product Hunt: 4 fresh
 Anthropic: 26 links
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 28 fresh
-new items: 8
+Google News: 27 fresh
+new items: 4
+translated via clients5
+sent photo LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B 
 translated via clients5
 translated via clients5
-sent card How Amplitude ships product improvements in 1–2 days with Op
+sent photo Nectar launches an AI agent to automate creator discovery an
 translated via clients5
 translated via clients5
-sent photo Google Search gets a major upgrade with Gemini 4 Hydrogen
-translated via clients5
-translated via clients5
-sent photo A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ 
+sent card OpenAI launches security products, tells orgs they’re doomed
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel

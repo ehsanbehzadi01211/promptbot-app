@@ -1,0 +1,50 @@
+[
+ {
+  "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+  "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+  "url": "https://openai.com/business/customer-stories/shield",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-13T08:00:00+00:00",
+  "image": "",
+  "id": "d1318183fe172893"
+ },
+ {
+  "title": "OpenAI Launches ChatGPT Wallet",
+  "summary": "OpenAI Launches ChatGPT Wallet The Information",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GRjdyY0JnVEZZaU1taW50ajZBdkl1N3ExVUNpNG5YSFpQcHNIOTF0S1Z6b1hZMHJGZ3VveWZhOHBRaUw2TVc3Y3FCVjFxZ25mWUU1NmZPazdzbUlsV0oySHkwckp6SFd3ODhEaWd1VDRwYUF3TmtpeWQwTQ?oc=5",
+  "source": "The Information",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-13T20:20:00+00:00",
+  "image": "",
+  "id": "9e917b9319096048"
+ },
+ {
+  "title": "AI agent startup LangChain hits $3B valuation",
+  "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+  "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-13T19:37:57+00:00",
+  "image": "",
+  "id": "645e798427f902eb"
+ },
+ {
+  "title": "Perplexity brings AI agents feature called Teammates to the Mac",
+  "summary": "Perplexity brings AI agents feature called Teammates to the Mac 9to5Mac",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbTR4RTRZeE1mdWViZTNNbHlxZHFja1VtOVlCeWpOUkZEbVdzWWpYMDFCb2JLbFlNWG4tQ3NSclR5TXhhTDJVb3BYNGdoQnZCWF9zeG05QUZHZFVIR0czLWJSY3NzNFZtajVFd3pFU2NnbzZoam9YQk5VanMtMlVtVnVSNjN2YmF1SV9SLWRHUDVSZUNvdy1NOGcybw?oc=5",
+  "source": "9to5Mac",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-13T19:31:00+00:00",
+  "image": "",
+  "id": "800cb9134fe72506"
+ }
+]

@@ -1,41 +1,5 @@
 [
  {
-  "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-  "summary": "",
-  "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-12T19:07:35+00:00",
-  "image": "",
-  "id": "a88bddb17214a029"
- },
- {
-  "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-  "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-  "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-  "source": "TechCrunch",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-12T19:11:00+00:00",
-  "image": "",
-  "id": "f7effce2db920f5c"
- },
- {
-  "title": "OpenAI launches security products, tells orgs they’re doomed if they don’t use them",
-  "summary": "OpenAI launches security products, tells orgs they’re doomed if they don’t use them The Register",
-  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWlRDS0FrQTVoOWtIT1JsRnJScy1vVzVGRnJOakd0bkllUHdTNkhJVzd3OWZ0X2FDb1g3cG1YOVM4Q1I0TW5tWGpBd21URFFaTDVkS1NNaVVxX19MVTY0dFlFZ055VVR2OWJNSkd2MXZ6NXBoMTVldGNEakNJbEd0TnAxa1loV1FWcjByWGpWVmpvc2o5VmJsR3Jlb0Q1QXBkcWtTVXg4ZHpETktma3R0Y3pVUEZPOE1meEdwS2R4NU96MUJiS0lDQnJ1NXZPTzMxdVE?oc=5",
-  "source": "The Register",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-12T20:48:45+00:00",
-  "image": "",
-  "id": "faba5b3286394b88"
- },
- {
   "title": "With IPO looming, Anthropic launches Claude product for manufacturers",
   "summary": "With IPO looming, Anthropic launches Claude product for manufacturers Business Insider",
   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVFzTkpNdV9uc2JnQUFWcTF0c0Y1UnRVcU1ETUZHRGZVUjlRNGpBWXI5UGF4TThRWEFEc1J2alNTbmFYSUEzXzNhb1p4RlRpRDdmd1BSdi1xeXB4aFgwQTlUalZYc19yM2U1S2JYWFVWQWRvSUM3RF9ETkN2bWY0T2g1ZEtWemNpYThCM3lBZFhMRlM5VHRuTG94WDA?oc=5",
@@ -46,18 +10,6 @@
   "time": "2026-11-12T17:00:00+00:00",
   "image": "",
   "id": "d399323c2ae5a5bf"
- },
- {
-  "title": "Gondola doubles revenue as its team builds more with Codex",
-  "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-  "url": "https://openai.com/business/customer-stories/gondola",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-12T12:00:00+00:00",
-  "image": "",
-  "id": "90d79223706ea3ab"
  },
  {
   "title": "Introducing Gemini 4 Hydrogen for Agentic Workflows",
@@ -190,5 +142,53 @@
   "time": "2026-11-13T17:05:00+00:00",
   "image": "",
   "id": "4cfb9585dc2feca4"
+ },
+ {
+  "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+  "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+  "url": "https://openai.com/business/customer-stories/shield",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-13T08:00:00+00:00",
+  "image": "",
+  "id": "d1318183fe172893"
+ },
+ {
+  "title": "OpenAI Launches ChatGPT Wallet",
+  "summary": "OpenAI Launches ChatGPT Wallet The Information",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GRjdyY0JnVEZZaU1taW50ajZBdkl1N3ExVUNpNG5YSFpQcHNIOTF0S1Z6b1hZMHJGZ3VveWZhOHBRaUw2TVc3Y3FCVjFxZ25mWUU1NmZPazdzbUlsV0oySHkwckp6SFd3ODhEaWd1VDRwYUF3TmtpeWQwTQ?oc=5",
+  "source": "The Information",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-13T20:20:00+00:00",
+  "image": "",
+  "id": "9e917b9319096048"
+ },
+ {
+  "title": "AI agent startup LangChain hits $3B valuation",
+  "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+  "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-13T19:37:57+00:00",
+  "image": "",
+  "id": "645e798427f902eb"
+ },
+ {
+  "title": "Perplexity brings AI agents feature called Teammates to the Mac",
+  "summary": "Perplexity brings AI agents feature called Teammates to the Mac 9to5Mac",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbTR4RTRZeE1mdWViZTNNbHlxZHFja1VtOVlCeWpOUkZEbVdzWWpYMDFCb2JLbFlNWG4tQ3NSclR5TXhhTDJVb3BYNGdoQnZCWF9zeG05QUZHZFVIR0czLWJSY3NzNFZtajVFd3pFU2NnbzZoam9YQk5VanMtMlVtVnVSNjN2YmF1SV9SLWRHUDVSZUNvdy1NOGcybw?oc=5",
+  "source": "9to5Mac",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-13T19:31:00+00:00",
+  "image": "",
+  "id": "800cb9134fe72506"
  }
 ]
