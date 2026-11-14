@@ -1,29 +1,15 @@
-Sat Nov 14 16:34:03 UTC 2026
+Sat Nov 14 18:00:46 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 2 fresh
-Google: 0 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 1 fresh
-Hugging Face: 3 fresh
-The Verge: 7 fresh
-TechCrunch: 8 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 0 fresh
-Product Hunt: 3 fresh
-Anthropic: 26 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 23 fresh
-Google News: 30 fresh
-Google News: 28 fresh
-Google News: 25 fresh
-new items: 3
-translated via clients5
-sent photo Build a Robot Pick-and-Place Simulation with SimReady Assets
-translated via clients5
-sent photo XYBench: Helping with the problem behind the question
-translated via clients5
-sent photo llama.cpp v1.0.0 : A stronger foundation for the local AI ec
+Traceback (most recent call last):
+  File "/home/runner/work/promptbot-app/promptbot-app/newsbot/schedule.py", line 74, in <module>
+    main(sys.argv[1])
+  File "/home/runner/work/promptbot-app/promptbot-app/newsbot/schedule.py", line 47, in main
+    items = sorted(load(os.path.join(HERE, "..", "content", "schedule.json"), []), key=lambda x: (x["date"], x["time"]))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/promptbot-app/promptbot-app/newsbot/schedule.py", line 47, in <lambda>
+    items = sorted(load(os.path.join(HERE, "..", "content", "schedule.json"), []), key=lambda x: (x["date"], x["time"]))
+                                                                                                  ~^^^^^^^^
+KeyError: 'date'
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
@@ -36,13 +22,13 @@ promo sent in-2026-11-01-reel
 promo sent yo-2026-11-01-short
 promo sent in-2026-11-02-reel
 promo sent yo-2026-11-02-short
-promo sent in-2026-11-03-reel
+promo fail in-2026-11-03-reel <urlopen error [Errno 104] Connection reset by peer>
 promo sent in-2026-11-04-reel
 promo sent in-2026-11-05-reel
 promo sent in-2026-11-06-reel
 promo sent in-2026-11-07-reel
-promo fail in-2026-10-29-v8imagetools HTTP Error 429: Too Many Requests
-promo fail in-2026-10-30-v8indicator HTTP Error 429: Too Many Requests
+promo sent in-2026-10-29-v8imagetools
+promo sent in-2026-10-30-v8indicator
 Traceback (most recent call last):
   File "/home/runner/work/promptbot-app/promptbot-app/newsbot/promo.py", line 77, in <module>
     main()
