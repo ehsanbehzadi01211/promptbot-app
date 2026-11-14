@@ -158,10 +158,10 @@ Every reel gets its OWN background track; never reuse one.
 * Uplika `media_from_url` (final URL, aiGenerated true) → `publish` to Instagram `conn_a8ade4f9de0c6bca`,
   `options.instagram.contentType: "reel"`, `isAiGenerated: true`, caption = hook line + body + keyword line +
   footer `📷 @ehbehzad` only (see 2c: no YouTube/Telegram lines in the caption) + at most 3 hashtags.
-* Slot (owner, 29 Oct): at most TWO Instagram reels per day, at 10:00 and 21:00 Tehran (the hours with the
-  most views/comments on our page; 17:00 was weak). New reels go at 21:00: take the first day from tomorrow on
-  with no reel at 21:00 UTC+03:30 (= 17:30 UTC) and fewer than 2 reels that day; check with
-  `list_posts status=scheduled sort=scheduled`. `scheduledAt` like `2026-11-08T21:00:00+03:30`.
+* Slot (owner, 14 Nov, from Instagram Insights: followers are most active 21:00-24:00 on Sun/Mon/Tue, and also high at 12:00, 15:00, 18:00):
+  publish ONE HOUR BEFORE the peak. At most TWO Instagram reels per day, at 11:00 and 20:00 Tehran (replaces the old 10:00/21:00).
+  New reels go at 20:00: take the first day from tomorrow on with no reel at 20:00 UTC+03:30 (= 16:30 UTC) and fewer than 2 reels that day; check with
+  `list_posts status=scheduled sort=scheduled`. `scheduledAt` like `2026-11-15T20:00:00+03:30`. Queue `when` uses `<day>T20:00`.
   Never schedule a third reel on a day; stories and YouTube don't count.
 * Then `create_comment_to_dm` on that post id: keywords (+ spelling variants), `requireFollow: true`,
   same message/button/publicReply wording as the existing v9 automations, deliver text + up to 3 link
@@ -217,11 +217,11 @@ Every new reel must also be added to `content/queue.json` (list, indent=2, ensur
 publisher task tracks it and also uploads it to YouTube. Append TWO items (`<day>` = the day you scheduled it):
 
 * Instagram (already scheduled by you in 5):
-  `{"platform":"instagram","kind":"reel","when":"<day>T21:00","topic":"<hook>","key":"v10_<key>",
+  `{"platform":"instagram","kind":"reel","when":"<day>T20:00","topic":"<hook>","key":"v10_<key>",
   "media":"<final Cloudinary URL>","status":"scheduled","id":"in-<day>-reel-v10","via":"uplika",
   "uplika_post":"<post id>","automation":"<automation id>"}`
 * YouTube Short (the publisher schedules it through Uplika):
-  `{"platform":"youtube","kind":"short","lang":"fa","when":"<day>T21:00","topic":"<hook>","key":"fa_v10_<key>",
+  `{"platform":"youtube","kind":"short","lang":"fa","when":"<day>T20:00","topic":"<hook>","key":"fa_v10_<key>",
   "media":"<final Cloudinary URL>","status":"queued","id":"yo-<day>-short-v10"}`
 * Add `pipeline/scripts_en.json["fa_v10_<key>"]` = `{"lang":"fa","title":"<Persian title, max 90 chars> #Shorts",
   "desc":"<2-4 Persian lines>\n\n▶️ یوتیوب: https://youtube.com/@ehbehzad\n📷 اینستاگرام: https://instagram.com/ehbehzad\n📢 تلگرام: https://t.me/ehbehzad_ai\n\n#Shorts #هوش_مصنوعی ...",
