@@ -1,77 +1,5 @@
 [
  {
-  "title": "With IPO looming, Anthropic launches Claude product for manufacturers",
-  "summary": "With IPO looming, Anthropic launches Claude product for manufacturers Business Insider",
-  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVFzTkpNdV9uc2JnQUFWcTF0c0Y1UnRVcU1ETUZHRGZVUjlRNGpBWXI5UGF4TThRWEFEc1J2alNTbmFYSUEzXzNhb1p4RlRpRDdmd1BSdi1xeXB4aFgwQTlUalZYc19yM2U1S2JYWFVWQWRvSUM3RF9ETkN2bWY0T2g1ZEtWemNpYThCM3lBZFhMRlM5VHRuTG94WDA?oc=5",
-  "source": "Business Insider",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-12T17:00:00+00:00",
-  "image": "",
-  "id": "d399323c2ae5a5bf"
- },
- {
-  "title": "Introducing Gemini 4 Hydrogen for Agentic Workflows",
-  "summary": "Introducing Gemini 4 Hydrogen for Agentic Workflows blog.google",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnlqelBIT1ZXblFBa25zdHlXalhPR2Z2b2xLZ2lmeEtFbUFXS3Mya3FtU0tyeGJrOXpHVEJOdFpDVUZSUTVOUHA0WjRiakw2a2hIRzc3ZHBfM3pDT3dKTDdfMExNQ2FnU1NWSHI3UGpXX2lVSEUxeVYwb2FfNE5vRGJnMjhWSzU5WkFrdmtOdW5Fb0lja1dFN3JUMkQ5R01JRXhNUA?oc=5",
-  "source": "blog.google",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-12T18:04:04+00:00",
-  "image": "",
-  "id": "744c5439251c3f10"
- },
- {
-  "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-  "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
-  "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-  "source": "TechCrunch",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-12T22:42:51+00:00",
-  "image": "",
-  "id": "55d7d41513d8574a"
- },
- {
-  "title": "Introducing Gemini 4 Hydrogen",
-  "summary": "",
-  "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-  "source": "Google DeepMind",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-12T18:00:50+00:00",
-  "image": "",
-  "id": "4bad5afe01a19f79"
- },
- {
-  "title": "Introducing ChatGPT Wallet",
-  "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-  "url": "https://openai.com/index/introducing-chatgpt-wallet",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-13T15:00:00+00:00",
-  "image": "",
-  "id": "5bf4951adbe9698d"
- },
- {
-  "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
-  "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI […]",
-  "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-13T13:00:42+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-at-9.25.28-AM-scaled.png",
-  "id": "a326fbf0621fc816"
- },
- {
   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
   "summary": "",
   "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
@@ -190,5 +118,17 @@
   "time": "2026-11-13T19:31:00+00:00",
   "image": "",
   "id": "800cb9134fe72506"
+ },
+ {
+  "title": "OpenAI launches ChatGPT Wallet, claiming it's a safe way to have AI shop for you",
+  "summary": "OpenAI launches ChatGPT Wallet, claiming it's a safe way to have AI shop for you Mashable",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHeTFKZ0NySWhLdXF5bXRNLU5MOHJUUU9WcTVwOGFOc2xNaEstLVp6cy1Ia3BKTzJFczNBY2NOTW56SHJIWXRzY2UxY2NhQmJnQUgtZG5MemVpOG5XcWtUdjhWUzRjbjQ?oc=5",
+  "source": "Mashable",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-14T07:20:13+00:00",
+  "image": "",
+  "id": "94e5a8db073299fa"
  }
 ]

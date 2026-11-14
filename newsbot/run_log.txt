@@ -1,31 +1,32 @@
-Sat Nov 14 00:51:34 UTC 2026
+Sat Nov 14 08:54:26 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 3 fresh
-Google: 1 fresh
+OpenAI: 2 fresh
+Google: 0 fresh
 Google DeepMind: 0 fresh
-NVIDIA: 2 fresh
-Hugging Face: 4 fresh
-The Verge: 10 fresh
-TechCrunch: 20 fresh
+NVIDIA: 1 fresh
+Hugging Face: 3 fresh
+The Verge: 6 fresh
+TechCrunch: 11 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 1 fresh
-Product Hunt: 4 fresh
+MIT Technology Review: 0 fresh
+Product Hunt: 5 fresh
 Anthropic: 26 links
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 30 fresh
+Google News: 29 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 27 fresh
-new items: 4
-translated via clients5
-sent photo LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B 
+new items: 1
 translated via clients5
 translated via clients5
-sent photo Nectar launches an AI agent to automate creator discovery an
+sent photo Democrats launch Nvidia investigation, write scathing letter
 translated via clients5
 translated via clients5
-sent card OpenAI launches security products, tells orgs they’re doomed
+sent card Introducing ChatGPT Wallet
+translated via clients5
+translated via clients5
+sent photo How AI Is Helping Care Teams Get Patients the Right Care, So
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
