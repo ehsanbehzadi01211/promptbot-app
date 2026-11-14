@@ -1,53 +1,5 @@
 [
  {
-  "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
-  "summary": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users CNBC",
-  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ?oc=5",
-  "source": "CNBC",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-13T15:00:01+00:00",
-  "image": "",
-  "id": "423adf6f811cef72"
- },
- {
-  "title": "OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases",
-  "summary": "OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases Reuters",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdjVJaENIMTQ3V1hXQ3pSLUh4SmRkcTdoVEx5el9kTU1fTFBsVVFpaVF5WkpKNTBtX3NYMEE2UEF4V3hkbWhRNzdFREtLZFJtSGtMRTF6RWlfNVowTUktR25NWnRjUEVIUm5TSm9EbE50UWt6cnFIem5XcFBfQWMyUV8xR0w4RWJGalB1TW80OXNsOWJ6RlNGOElzbThzMmt2aDBSTnVaWVliMVNNYXc?oc=5",
-  "source": "Reuters",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-13T15:45:24+00:00",
-  "image": "",
-  "id": "ab35997562fc4c7d"
- },
- {
-  "title": "ChatGPT Launches Wallet Feature Allowing Users to Pay With Agents",
-  "summary": "ChatGPT Launches Wallet Feature Allowing Users to Pay With Agents WSJ",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX1lrZjdhQ1pXM0JZVTNOWllBQ2FRcm9sWVd3cDlVN291R3lzS0JuZ3o5S0FybG5PdkgzZXdMTGtEcDFaZWtvLUtBZ0tzNTdvS29kXzRNQ2hXWEo0cGZ2R2RtVHlZNjQzOXZnT1FaelBQM18yTFhWdFJEVW5RSlRrQWloYTFLOWI1RXZMb2dBeS1ZZVZJbDVXXzRzVDVESTZmR09CRw?oc=5",
-  "source": "WSJ",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-13T17:05:00+00:00",
-  "image": "",
-  "id": "4cfb9585dc2feca4"
- },
- {
-  "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-  "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-  "url": "https://openai.com/business/customer-stories/shield",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-13T08:00:00+00:00",
-  "image": "",
-  "id": "d1318183fe172893"
- },
- {
   "title": "OpenAI Launches ChatGPT Wallet",
   "summary": "OpenAI Launches ChatGPT Wallet The Information",
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GRjdyY0JnVEZZaU1taW50ajZBdkl1N3ExVUNpNG5YSFpQcHNIOTF0S1Z6b1hZMHJGZ3VveWZhOHBRaUw2TVc3Y3FCVjFxZ25mWUU1NmZPazdzbUlsV0oySHkwckp6SFd3ODhEaWd1VDRwYUF3TmtpeWQwTQ?oc=5",
