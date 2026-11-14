@@ -1,32 +1,15 @@
-Sat Nov 14 08:54:26 UTC 2026
+Sat Nov 14 11:46:55 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-OpenAI: 2 fresh
-Google: 0 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 1 fresh
-Hugging Face: 3 fresh
-The Verge: 6 fresh
-TechCrunch: 11 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 0 fresh
-Product Hunt: 5 fresh
-Anthropic: 26 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 29 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 27 fresh
-new items: 1
-translated via clients5
-translated via clients5
-sent photo Democrats launch Nvidia investigation, write scathing letter
-translated via clients5
-translated via clients5
-sent card Introducing ChatGPT Wallet
-translated via clients5
-translated via clients5
-sent photo How AI Is Helping Care Teams Get Patients the Right Care, So
+Traceback (most recent call last):
+  File "/home/runner/work/promptbot-app/promptbot-app/newsbot/schedule.py", line 74, in <module>
+    main(sys.argv[1])
+  File "/home/runner/work/promptbot-app/promptbot-app/newsbot/schedule.py", line 47, in main
+    items = sorted(load(os.path.join(HERE, "..", "content", "schedule.json"), []), key=lambda x: (x["date"], x["time"]))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/promptbot-app/promptbot-app/newsbot/schedule.py", line 47, in <lambda>
+    items = sorted(load(os.path.join(HERE, "..", "content", "schedule.json"), []), key=lambda x: (x["date"], x["time"]))
+                                                                                                  ~^^^^^^^^
+KeyError: 'date'
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
@@ -44,8 +27,8 @@ promo sent in-2026-11-04-reel
 promo sent in-2026-11-05-reel
 promo sent in-2026-11-06-reel
 promo sent in-2026-11-07-reel
-promo fail in-2026-10-29-v8imagetools HTTP Error 429: Too Many Requests
-promo fail in-2026-10-30-v8indicator HTTP Error 429: Too Many Requests
+promo sent in-2026-10-29-v8imagetools
+promo sent in-2026-10-30-v8indicator
 Traceback (most recent call last):
   File "/home/runner/work/promptbot-app/promptbot-app/newsbot/promo.py", line 77, in <module>
     main()
