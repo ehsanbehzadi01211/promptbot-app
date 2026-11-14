@@ -1,41 +1,5 @@
 [
  {
-  "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-  "summary": "",
-  "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-13T18:00:39+00:00",
-  "image": "",
-  "id": "2427bacb74a96b4b"
- },
- {
-  "title": "XYBench: Helping with the problem behind the question",
-  "summary": "",
-  "url": "https://huggingface.co/blog/allenai/xybench",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-13T17:02:35+00:00",
-  "image": "",
-  "id": "8400bdfe1e2afd49"
- },
- {
-  "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-  "summary": "",
-  "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-13T14:05:22+00:00",
-  "image": "",
-  "id": "40e78db6601d46e6"
- },
- {
   "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
   "summary": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users CNBC",
   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ?oc=5",
@@ -130,5 +94,41 @@
   "time": "2026-11-14T07:20:13+00:00",
   "image": "",
   "id": "94e5a8db073299fa"
+ },
+ {
+  "title": "Trust ChatGPT With Your Payments? OpenAI Rolls Out ChatGPT Wallet",
+  "summary": "Trust ChatGPT With Your Payments? OpenAI Rolls Out ChatGPT Wallet PCMag",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdml5MXp1UVBjd2dBRTFCTlduVkFrajExVTh6cHZrS3pMcjFqeW5ZYWJPVW5iYjZXU281OENpeFZ5S053bXBGdV8xWXd6LVhfNkNsdWR3dGVGMVBYWjVERXRKLVdDVmFFNks5NlA0OFZJX3lNWFQ2N01HYUJUemhQUmRzNGFiRG9mcXJWMnRRRm1hNWYxMVE?oc=5",
+  "source": "PCMag",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-14T13:10:09+00:00",
+  "image": "",
+  "id": "63b30a132b58e726"
+ },
+ {
+  "title": "Canva Craft vs ChatGPT: I tested both free AI image generators with 5 prompts to see which is better",
+  "summary": "Canva Craft vs ChatGPT: I tested both free AI image generators with 5 prompts to see which is better TechRadar",
+  "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOblhPdHNseXdVSEZEZFJBcUJBNS1aVEprajFXaGNORnRGcUY3ZGJ2NTJvdFNzU1JhLW9xei1fSmhQWUxDRXBmWTc3UU1RZ3c3SnZ6ZGIzZTdiYmgwZXFNNVNaWGJTcG9nX01XTjZqak1iQU9tRFRIODJlQ296R1M1NHhreUNHcWdMaV9UQnpGX3U1eFVfMmNqYlYybGVSSUhKUjQxXzRhcG9tVjFFZ1Vwbkp0QTRXdlFwQVhnNENFUjZHV2NBWTJKMnpOazR5NVlzVTc5ZmNsbjFQYnRmcmVtOWx4RUtJdnBxS013YkJkdEN2ZUVOY3pDZ2d0YzBRNkdsUWt5N0pfbzZmWjl4NVk2OUFFV0FtTWg3Unh3WWpLcUJTNDBodGVyemhLY2VXT2NhVmJQclZpSEVUSzdQd1o4ZVhQMGx5MnVmRkhmY2NkYk1DemdHS2JtSFJjVkF5UFNrVmc?oc=5",
+  "source": "TechRadar",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-14T15:00:00+00:00",
+  "image": "",
+  "id": "bdb6c92ffd25d212"
+ },
+ {
+  "title": "Big Tech Wants Everyone to Use an AI Agent. But Who Shoulders the Cost?",
+  "summary": "Big Tech Wants Everyone to Use an AI Agent. But Who Shoulders the Cost? WSJ",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kbzZLWDVyaTBSdGpJcGZ5aVNQWV9lZnZrWTN6NmFDZG5lN2pQdF9leWZGWWVQUkQxaVprQ1FYVFlHS1RwNGlDOHk0R0hGVlR5LVJzVWhLbmtDZWpFYkxsVENIUmVqcXFYQlpnV0ZMSVlVcmM?oc=5",
+  "source": "WSJ",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-14T10:03:05+00:00",
+  "image": "",
+  "id": "80438de2d1f775b7"
  }
 ]
