@@ -3271,7 +3271,7 @@
     "w": 26,
     "tab": 0,
     "head": {
-     "kick": "<b>۱</b> · /yt-script",
+     "kick": "<b>۱</b> · yt-script",
      "h1": [
       [
        "اسکریپت",
@@ -3304,7 +3304,7 @@
     "w": 43,
     "tab": 1,
     "head": {
-     "kick": "<b>۲</b> · /yt-package",
+     "kick": "<b>۲</b> · yt-package",
      "h1": [
       [
        "عنوان",
@@ -3335,7 +3335,7 @@
     "w": 52,
     "tab": 2,
     "head": {
-     "kick": "<b>۳</b> · /yt-edit",
+     "kick": "<b>۳</b> · yt-edit",
      "h1": [
       [
        "از",
@@ -3369,7 +3369,7 @@
     "w": 63,
     "tab": 3,
     "head": {
-     "kick": "<b>۴</b> · /yt-retention",
+     "kick": "<b>۴</b> · yt-retention",
      "h1": [
       [
        "نمودار",
@@ -3406,7 +3406,7 @@
     "w": 74,
     "tab": 4,
     "head": {
-     "kick": "<b>۵</b> · /yt-shorts",
+     "kick": "<b>۵</b> · yt-shorts",
      "h1": [
       [
        "شورت‌های",
