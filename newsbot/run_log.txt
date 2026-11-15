@@ -1,15 +1,32 @@
-Sun Nov 15 04:50:17 UTC 2026
+Sun Nov 15 06:15:01 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-Traceback (most recent call last):
-  File "/home/runner/work/promptbot-app/promptbot-app/newsbot/schedule.py", line 74, in <module>
-    main(sys.argv[1])
-  File "/home/runner/work/promptbot-app/promptbot-app/newsbot/schedule.py", line 47, in main
-    items = sorted(load(os.path.join(HERE, "..", "content", "schedule.json"), []), key=lambda x: (x["date"], x["time"]))
-            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/promptbot-app/promptbot-app/newsbot/schedule.py", line 47, in <lambda>
-    items = sorted(load(os.path.join(HERE, "..", "content", "schedule.json"), []), key=lambda x: (x["date"], x["time"]))
-                                                                                                  ~^^^^^^^^
-KeyError: 'date'
+OpenAI: 0 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 0 fresh
+Hugging Face: 0 fresh
+The Verge: 4 fresh
+TechCrunch: 7 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 0 fresh
+Product Hunt: 1 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 26 fresh
+Google News: 24 fresh
+new items: 2
+translated via clients5
+translated via clients5
+sent card OpenAI Launches ChatGPT Wallet
+translated via clients5
+translated via clients5
+sent photo AI agent startup LangChain hits $3B valuation
+translated via clients5
+translated via clients5
+sent card Perplexity brings AI agents feature called Teammates to the 
 promo sent yo-2026-10-23-short
 promo sent in-2026-10-28-reel
 promo sent in-2026-10-29-reel
@@ -27,9 +44,9 @@ promo sent in-2026-11-03-reel
 promo sent in-2026-11-04-reel
 promo sent yo-2026-11-04-short
 promo sent in-2026-11-05-reel
-promo sent yo-2026-11-05-short
-promo sent yo-2026-11-06-short
-promo sent in-2026-11-06-reel
+promo fail yo-2026-11-05-short HTTP Error 429: Too Many Requests
+promo fail yo-2026-11-06-short HTTP Error 429: Too Many Requests
+promo fail in-2026-11-06-reel HTTP Error 429: Too Many Requests
 promo fail in-2026-11-07-reel HTTP Error 429: Too Many Requests
 promo fail in-2026-10-29-v8imagetools HTTP Error 429: Too Many Requests
 promo fail in-2026-10-30-v8indicator HTTP Error 429: Too Many Requests

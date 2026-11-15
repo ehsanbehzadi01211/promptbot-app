@@ -1,41 +1,5 @@
 [
  {
-  "title": "OpenAI Launches ChatGPT Wallet",
-  "summary": "OpenAI Launches ChatGPT Wallet The Information",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GRjdyY0JnVEZZaU1taW50ajZBdkl1N3ExVUNpNG5YSFpQcHNIOTF0S1Z6b1hZMHJGZ3VveWZhOHBRaUw2TVc3Y3FCVjFxZ25mWUU1NmZPazdzbUlsV0oySHkwckp6SFd3ODhEaWd1VDRwYUF3TmtpeWQwTQ?oc=5",
-  "source": "The Information",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-13T20:20:00+00:00",
-  "image": "",
-  "id": "9e917b9319096048"
- },
- {
-  "title": "AI agent startup LangChain hits $3B valuation",
-  "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-  "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-  "source": "TechCrunch",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-13T19:37:57+00:00",
-  "image": "",
-  "id": "645e798427f902eb"
- },
- {
-  "title": "Perplexity brings AI agents feature called Teammates to the Mac",
-  "summary": "Perplexity brings AI agents feature called Teammates to the Mac 9to5Mac",
-  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbTR4RTRZeE1mdWViZTNNbHlxZHFja1VtOVlCeWpOUkZEbVdzWWpYMDFCb2JLbFlNWG4tQ3NSclR5TXhhTDJVb3BYNGdoQnZCWF9zeG05QUZHZFVIR0czLWJSY3NzNFZtajVFd3pFU2NnbzZoam9YQk5VanMtMlVtVnVSNjN2YmF1SV9SLWRHUDVSZUNvdy1NOGcybw?oc=5",
-  "source": "9to5Mac",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-13T19:31:00+00:00",
-  "image": "",
-  "id": "800cb9134fe72506"
- },
- {
   "title": "OpenAI launches ChatGPT Wallet, claiming it's a safe way to have AI shop for you",
   "summary": "OpenAI launches ChatGPT Wallet, claiming it's a safe way to have AI shop for you Mashable",
   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHeTFKZ0NySWhLdXF5bXRNLU5MOHJUUU9WcTVwOGFOc2xNaEstLVp6cy1Ia3BKTzJFczNBY2NOTW56SHJIWXRzY2UxY2NhQmJnQUgtZG5MemVpOG5XcWtUdjhWUzRjbjQ?oc=5",
@@ -82,5 +46,28 @@
   "time": "2026-11-14T10:03:05+00:00",
   "image": "",
   "id": "80438de2d1f775b7"
+ },
+ {
+  "title": "Preparing for the 2026 US midterms",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/2026-us-midterms",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-11-15T06:15:02.390566+00:00",
+  "page": true,
+  "id": "c9ddbc2bb8934c94"
+ },
+ {
+  "title": "Google's Gemini 4 Hydrogen is free — here are 5 impressive things you can do with it",
+  "summary": "Google's Gemini 4 Hydrogen is free — here are 5 impressive things you can do with it Tom's Guide",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR3N4YlROTEk1cmQyWDlqLTdIcHhNdXZ2bjkzTTBhYUo5RDZJeFJxVUJxM01lejduTW5MVUJadG1IWGdzVm0xc2hzZHEtY1d3SWFtemhkbGpzU24xaEFWSDZYWjlvSlQ5ZXhRUDZUdlgxUVQ3NDhqTzEzbDR0ZlVlV19UeUg1bUFRSWhaUk1pekxkRGVfOFMwaEZ3VWJBOG9nM1RRZmo3dzc4VVlybGQ4a2FrYmlpMThkaElaR0pSU1FSQQ?oc=5",
+  "source": "Tom's Guide",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-15T05:45:00+00:00",
+  "image": "",
+  "id": "1f67ee1abf40fef7"
  }
 ]
