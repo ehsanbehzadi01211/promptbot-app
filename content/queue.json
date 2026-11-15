@@ -1714,5 +1714,34 @@
     "uplika_post": "post_9c36066c4fa07113",
     "workspace": "ws_680c8b2ee3656246",
     "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794716564/v10_xtool_final.mp4"
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "key": "v10_gh_prompts",
+    "id": "in-2026-11-17-reel-v10",
+    "caption": "دیگه پرامپت از خودت ننویس! بزرگ‌ترین کتابخونه‌ی پرامپت دنیا رایگانه 👇\nprompts.chat بزرگ‌ترین کتابخونه‌ی متن‌باز پرامپته؛ ۱۷۷K+ ستاره روی گیت‌هاب.\nکلمه‌ی «کتابخونه» رو کامنت کن تا لینک رو برات بفرستم 👇\n📷 @ehbehzad\n#هوش_مصنوعی #پرامپت #ChatGPT",
+    "keyword": "کتابخونه",
+    "account": "conn_a8ade4f9de0c6bca",
+    "automation": "af_335d36d8a2f6dcdf",
+    "lang": "fa",
+    "when": "2026-11-17T20:00",
+    "topic": "دیگه پرامپت از خودت ننویس! بزرگ‌ترین کتابخونه‌ی پرامپت دنیا رایگانه 👇",
+    "status": "scheduled",
+    "via": "uplika",
+    "uplika_post": "post_3b69f8fb2e2ff563",
+    "workspace": "ws_680c8b2ee3656246",
+    "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794731870/ehbehzad/v10_gh_prompts_final.mp4"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "key": "fa_v10_gh_prompts",
+    "id": "yo-2026-11-17-short-v10",
+    "lang": "fa",
+    "when": "2026-11-17T20:00",
+    "topic": "دیگه پرامپت از خودت ننویس! بزرگ‌ترین کتابخونه‌ی پرامپت دنیا رایگانه 👇",
+    "status": "queued",
+    "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794731870/ehbehzad/v10_gh_prompts_final.mp4"
   }
 ]
