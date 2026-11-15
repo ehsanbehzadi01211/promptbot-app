@@ -22,7 +22,14 @@ jobs:
           while read -r name url; do
             [ -z "$name" ] && continue
             ls footage/${name}_* >/dev/null 2>&1 && continue
-            yt-dlp -q --no-playlist -f "bv*[height<=1080][ext=mp4]/bv*[height<=1080]/b" -o "tmp/$name.%(ext)s" "$url" || { echo "fail $name"; continue; }
+            case "$url" in
+              rs:*) id=${url#rs:}; ok=0
+                    for v in en-us-1080p global-1080p en-us-2160p global-2160p en-us-720p global-720p; do
+                      curl -sSL --fail -o "tmp/$name.mp4" "https://videos-rockstargames-com.akamaized.net/v4/$id/flv/$v.mp4" && { echo "got $name $v"; ok=1; break; }
+                    done
+                    [ $ok = 1 ] || { echo "fail $name"; continue; } ;;
+              *) yt-dlp -q --no-playlist -f "bv*[height<=1080][ext=mp4]/bv*[height<=1080]/b" -o "tmp/$name.%(ext)s" "$url" || { echo "fail $name"; continue; } ;;
+            esac
             src=$(ls tmp/$name.* | head -1)
             ffmpeg -nostdin -v error -y -i "$src" -an -vf "scale=-2:1080,fps=30" -c:v libx264 -crf 24 -preset veryfast -pix_fmt yuv420p -f segment -segment_time 60 -reset_timestamps 1 "footage/${name}_%02d.mp4" && ls -la footage/${name}_*
           done < yt.txt
