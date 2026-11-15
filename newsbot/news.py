@@ -346,13 +346,13 @@ def fmt(it, summary_len=350):
 
 
 def post():
-    # owner, 15 Nov 2026: news posting is off while newsbot/NEWS_OFF exists. Same day the owner asked for GAME news
-    # (PES/eFootball, PC, Xbox, PlayStation, big titles) instead of AI news: sources.json is the game setup now
-    # (the AI setup is kept in sources_ai.json), at most 5 posts a day, 1 per run.
+    # owner, 15 Nov 2026: two feeds share the channel -- AI news (sources.json, state/, 1 post every 2 h run, max 12/day)
+    # and GAME news (sources_games.json: PES/eFootball, PC, Xbox, PlayStation, GTA; state_games/, 1 per run, max 5/day).
+    # A file newsbot/NEWS_OFF stops all news posting.
     if os.path.exists(os.path.join(HERE, "NEWS_OFF")):
         print("news posting is off (newsbot/NEWS_OFF)")
         return
-    chats = jload(os.path.join(STATE, "chats.json"), {})
+    chats = jload(os.path.join(HERE, "state", "chats.json"), {})
     channel = chats.get("channel")
     if not channel or not os.environ.get("TELEGRAM_BOT_TOKEN"):
         print("no channel or token yet; skipping post")
@@ -387,5 +387,17 @@ def post():
     jsave(os.path.join(STATE, "queue.json"), queue)
 
 
+FEEDS = (("sources.json", "state", "data"), ("sources_games.json", "state_games", "data_games"))
+
 if __name__ == "__main__":
-    {"fetch": fetch, "post": post}[sys.argv[1]]()
+    for cfg_name, st, dt_dir in FEEDS:
+        if not os.path.exists(os.path.join(HERE, cfg_name)):
+            continue
+        CFG = json.load(open(os.path.join(HERE, cfg_name)))
+        TRUSTED = {s.lower() for s in CFG["trusted_publishers"]}
+        STATE, DATA = os.path.join(HERE, st), os.path.join(HERE, dt_dir)
+        print("==", cfg_name)
+        try:
+            {"fetch": fetch, "post": post}[sys.argv[1]]()
+        except Exception as ex:
+            print("feed set failed", cfg_name, ex)
