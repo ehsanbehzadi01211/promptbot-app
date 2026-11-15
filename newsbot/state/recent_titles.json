@@ -1,5 +1,4 @@
 [
- "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
  "Ensemble forecasting with IBM Granite time-series models",
  "How are AI agents changing work inside Anthropic?",
  "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
@@ -298,5 +297,6 @@
  "Preparing for the 2026 US midterms",
  "Google's Gemini 4 Hydrogen is free — here are 5 impressive things you can do with it",
  "Airbnb is building an AI travel agent",
- "How I safely run my OpenClaw AI agent 24/7 on a Mac – with Claude Code standing guard"
+ "How I safely run my OpenClaw AI agent 24/7 on a Mac – with Claude Code standing guard",
+ "One compromised MCP server can trick an AI agent into misusing tools you already trust"
 ]
