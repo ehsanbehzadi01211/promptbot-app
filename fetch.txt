@@ -1,1 +1,1 @@
-xtool.mp3 https://elevenlabsusercontent.com/database/workspace/b0ead3f0aecf4caeb1f9371f42e45c3b/content_generation/40TVmPvi0E96WlsS87nG/EXHr2I0RbP5RSBPvmnVR/content.mp3?Expires=1794726000&KeyName=assets-cdn-key-1&Signature=4fKTtMW-dcxnQjA0wBp16RcxghY=
+music_gh_prompts.mp3 https://elevenlabsusercontent.com/database/workspace/b0ead3f0aecf4caeb1f9371f42e45c3b/content_generation/IG6Z4nWQ65CuFWyKJbj0/KdRfX83EFRhN0jFqNFuy/content.mp3?Expires=1794740400&KeyName=assets-cdn-key-1&Signature=ovQw47pfw7nog59h8z0PelbWRAc=
