@@ -265,7 +265,8 @@ def fetch():
     print(f"new items: {len(fresh)}")
 
 
-TAGS = {"OpenAI": "#OpenAI", "Anthropic": "#Claude", "Google": "#Gemini", "Google DeepMind": "#DeepMind",
+TAGS = {"Xbox Wire": "#Xbox", "PlayStation Blog": "#PlayStation", "Rockstar Games": "#GTA6", "PC Gamer": "#PC",
+        "OpenAI": "#OpenAI", "Anthropic": "#Claude", "Google": "#Gemini", "Google DeepMind": "#DeepMind",
         "Microsoft": "#Microsoft", "NVIDIA": "#NVIDIA", "Hugging Face": "#HuggingFace", "Product Hunt": "#ابزار_جدید"}
 
 
@@ -338,15 +339,16 @@ def fmt(it, summary_len=350):
     lines.append(f"<i>{html.escape(it['title'])}</i>")
     tag = TAGS.get(it["source"], "")
     lines.append(f"🔗 <a href=\"{html.escape(it['url'])}\">منبع: {html.escape(it['source'])}</a>")
-    lines.append(" ".join(x for x in ["#هوش_مصنوعی", tag, "#خبر"] if x))
+    lines.append(" ".join(x for x in [CFG.get("hashtag", "#هوش_مصنوعی"), tag, "#خبر"] if x))
     lines.append('📢 @ehbehzad_ai | 📷 <a href="https://instagram.com/ehbehzad">اینستاگرام</a> | '
                  '▶️ <a href="https://youtube.com/@ehbehzad">یوتیوب</a>')
     return "\n\n".join(lines)
 
 
 def post():
-    # owner, 15 Nov 2026: the channel was too busy. Only new videos are announced (promo.py); news posting is off
-    # while newsbot/NEWS_OFF exists. Delete that file to turn the news back on.
+    # owner, 15 Nov 2026: news posting is off while newsbot/NEWS_OFF exists. Same day the owner asked for GAME news
+    # (PES/eFootball, PC, Xbox, PlayStation, big titles) instead of AI news: sources.json is the game setup now
+    # (the AI setup is kept in sources_ai.json), at most 5 posts a day, 1 per run.
     if os.path.exists(os.path.join(HERE, "NEWS_OFF")):
         print("news posting is off (newsbot/NEWS_OFF)")
         return
