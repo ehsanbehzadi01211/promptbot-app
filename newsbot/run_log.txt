@@ -1,4 +1,4 @@
-Sun Nov 15 18:41:06 UTC 2026
+Sun Nov 15 18:42:25 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 Traceback (most recent call last):
   File "/home/runner/work/promptbot-app/promptbot-app/newsbot/schedule.py", line 74, in <module>
@@ -10,33 +10,5 @@ Traceback (most recent call last):
     items = sorted(load(os.path.join(HERE, "..", "content", "schedule.json"), []), key=lambda x: (x["date"], x["time"]))
                                                                                                   ~^^^^^^^^
 KeyError: 'date'
-promo sent yo-2026-10-23-short
-promo sent in-2026-10-28-reel
-promo sent in-2026-10-29-reel
-promo sent yo-2026-10-29-short
-promo sent in-2026-10-30-reel
-promo sent yo-2026-10-30-short
-promo sent yo-2026-10-31-short
-promo sent in-2026-10-31-reel
-promo sent in-2026-11-01-reel
-promo sent yo-2026-11-01-short
-promo sent in-2026-11-02-reel
-promo sent yo-2026-11-02-short
-promo sent yo-2026-11-03-short
-promo sent in-2026-11-03-reel
-promo sent in-2026-11-04-reel
-promo sent yo-2026-11-04-short
-promo sent in-2026-11-05-reel
-promo sent yo-2026-11-05-short
-promo sent yo-2026-11-06-short
-promo sent in-2026-11-06-reel
-promo fail in-2026-11-07-reel HTTP Error 429: Too Many Requests
-promo fail in-2026-10-29-v8imagetools HTTP Error 429: Too Many Requests
-promo fail in-2026-10-30-v8indicator HTTP Error 429: Too Many Requests
-Traceback (most recent call last):
-  File "/home/runner/work/promptbot-app/promptbot-app/newsbot/promo.py", line 77, in <module>
-    main()
-  File "/home/runner/work/promptbot-app/promptbot-app/newsbot/promo.py", line 33, in main
-    text = f"{label}\n\n<b>{html.escape(it['topic'])}</b>\n\n🔗 {html.escape(it['url'])}\n\n#هوش_مصنوعی @ehbehzad_ai"
-                                        ~~^^^^^^^^^
-KeyError: 'topic'
+promo sent post_3d2a6ae484472dc7
+promo sent post_2bea452ce340556c
