@@ -1,5 +1,49 @@
-Sun Nov 15 18:42:25 UTC 2026
+Sun Nov 15 18:43:18 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+== sources.json
+OpenAI: 0 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 0 fresh
+Hugging Face: 0 fresh
+The Verge: 3 fresh
+TechCrunch: 4 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 0 fresh
+Product Hunt: 3 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 25 fresh
+Google News: 30 fresh
+Google News: 24 fresh
+Google News: 27 fresh
+new items: 1
+== sources_games.json
+Xbox Wire: 1 fresh
+PlayStation Blog: 0 fresh
+feed fail Rockstar Games HTTP Error 404: Not Found
+IGN: 7 fresh
+GameSpot: 1 fresh
+PC Gamer: 21 fresh
+Eurogamer: 11 fresh
+VGC: 0 fresh
+Google News: 1 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 28 fresh
+Google News: 28 fresh
+Google News: 28 fresh
+new items: 6
+== sources.json
+translated via clients5
+translated via clients5
+card fail The read operation timed out
+sent text How I safely run my OpenClaw AI agent 24/7 on a Mac – with C
+== sources_games.json
+translated via clients5
+translated via clients5
+sent photo XBOX 25th Anniversary Magazine: Explore 25 Years of Games, S
 Traceback (most recent call last):
   File "/home/runner/work/promptbot-app/promptbot-app/newsbot/schedule.py", line 74, in <module>
     main(sys.argv[1])
@@ -10,5 +54,3 @@ Traceback (most recent call last):
     items = sorted(load(os.path.join(HERE, "..", "content", "schedule.json"), []), key=lambda x: (x["date"], x["time"]))
                                                                                                   ~^^^^^^^^
 KeyError: 'date'
-promo sent post_3d2a6ae484472dc7
-promo sent post_2bea452ce340556c
