@@ -345,6 +345,11 @@ def fmt(it, summary_len=350):
 
 
 def post():
+    # owner, 15 Nov 2026: the channel was too busy. Only new videos are announced (promo.py); news posting is off
+    # while newsbot/NEWS_OFF exists. Delete that file to turn the news back on.
+    if os.path.exists(os.path.join(HERE, "NEWS_OFF")):
+        print("news posting is off (newsbot/NEWS_OFF)")
+        return
     chats = jload(os.path.join(STATE, "chats.json"), {})
     channel = chats.get("channel")
     if not channel or not os.environ.get("TELEGRAM_BOT_TOKEN"):

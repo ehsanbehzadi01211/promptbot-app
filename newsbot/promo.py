@@ -25,19 +25,39 @@ def main():
     if not token or not channel:
         print("promo: no token/channel"); return
     sent = set(load(SENT, []))
-    for it in load(QUEUE, []):
-        if it.get("status") != "published" or not it.get("url") or it["id"] in sent:
+    queue = load(QUEUE, [])
+    # owner, 15 Nov 2026: only NEW VIDEOS, and ONE message per video. Instagram + YouTube of the same video go out
+    # at the same moment (same uplika_post), so both links go into a single message.
+    now = dt.datetime.now(TEHRAN).replace(tzinfo=None)
+    groups = {}
+    for it in queue:
+        if (it.get("platform"), it.get("kind")) not in (("instagram", "reel"), ("youtube", "short")):
             continue
-        label = LABEL.get((it["platform"], it["kind"]), "🆕 پست جدید")
-        if label:
-            text = f"{label}\n\n<b>{html.escape(it['topic'])}</b>\n\n🔗 {html.escape(it['url'])}\n\n#هوش_مصنوعی @ehbehzad_ai"
+        g = it.get("uplika_post") or it["id"]
+        groups.setdefault(g, []).append(it)
+    for g, items in groups.items():
+        pub = [it for it in items if it.get("status") == "published" and it.get("url")]
+        if not pub:
+            continue
+        if any(it["id"] in sent for it in items):  # this video was already announced once
+            sent.update(it["id"] for it in pub)
+            continue
+        try:  # old items (before today) are only marked, never announced late
+            old = dt.datetime.fromisoformat(items[0]["when"]) < now - dt.timedelta(days=2)
+        except Exception:
+            old = False
+        if not old:
+            links = "\n".join(("📷 اینستاگرام: " if it["platform"] == "instagram" else "▶️ یوتیوب: ") + html.escape(it["url"])
+                              for it in sorted(pub, key=lambda x: x["platform"]))
+            text = f"🎬 ویدیوی جدید\n\n<b>{html.escape(items[0].get('topic', ''))}</b>\n\n{links}\n\n@ehbehzad_ai"
             body = urllib.parse.urlencode({"chat_id": channel, "text": text, "parse_mode": "HTML"}).encode()
             try:
                 urllib.request.urlopen(f"https://api.telegram.org/bot{token}/sendMessage", data=body, timeout=30)
-                print("promo sent", it["id"])
+                print("promo sent", g)
             except Exception as ex:
-                print("promo fail", it["id"], ex); continue
-        sent.add(it["id"])
+                print("promo fail", g, ex); continue
+        for it in pub:
+            sent.add(it["id"])
     json.dump(sorted(sent), open(SENT, "w"), indent=1)
     stories(token, load(os.path.join(HERE, "state", "chats.json"), {}).get("owner"))
 
