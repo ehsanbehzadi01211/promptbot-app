@@ -1,2 +1,1 @@
-gta_a.mp3 https://elevenlabsusercontent.com/database/workspace/b0ead3f0aecf4caeb1f9371f42e45c3b/content_generation/QjtjJBbeVMterXpSdbF5/6iowS0HVUdWPAt6i85Zs/content.mp3?Expires=1794776400&KeyName=assets-cdn-key-1&Signature=PY3dmURSFdB3FKw7L9ZylRRvSG0=
-gta_b.mp3 https://elevenlabsusercontent.com/database/workspace/b0ead3f0aecf4caeb1f9371f42e45c3b/content_generation/HcqOuiP0dy74nUJLleOQ/yDlISLzSPOW1NLJ0sPsN/content.mp3?Expires=1794776400&KeyName=assets-cdn-key-1&Signature=gua-3Ox7nY6FJUVxS8O-oTk2cg4=
+gta_c.mp3 https://elevenlabsusercontent.com/database/workspace/b0ead3f0aecf4caeb1f9371f42e45c3b/content_generation/qySskTgNDQqcxBSKfM1A/dPS5a0bYcFVd03BtKRzd/content.mp3?Expires=1794776400&KeyName=assets-cdn-key-1&Signature=_fnvms8PB0ewjQfCCrHEYj307-o=
