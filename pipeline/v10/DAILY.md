@@ -166,8 +166,10 @@ Every reel gets its OWN background track; never reuse one.
 * Then `create_comment_to_dm` on that post id: keywords (+ spelling variants), `requireFollow: true`,
   same message/button/publicReply wording as the existing v9 automations, deliver text + up to 3 link
   buttons, `enabled: true`. (The `automation` field on `publish` does NOT create it for scheduled posts.)
-* YouTube (`conn_0518c6141bae7d86`) is optional: its daily slot 12:30 UTC is already filled until Nov 18 and
-  Uplika's shared YouTube quota fails often.
+* **Instagram and YouTube go out at the SAME moment (owner, 15 Nov).** Schedule both in ONE `publish` call with
+  accountIds [conn_a8ade4f9de0c6bca, conn_0518c6141bae7d86] and one scheduledAt (options.instagram + options.youtube).
+  Never schedule one platform without the other; if one is missing, add it with the same media at the same time.
+  Publish times are always at least one hour before a peak (20:00 / 11:00 Tehran), never later.
 
 
 ## 2d. Reach rules v2 (owner research request, 7 Nov)

@@ -1637,15 +1637,17 @@
   "platform": "youtube",
   "kind": "short",
   "lang": "fa",
-  "when": "2026-11-14T21:00",
+  "when": "2026-11-17T20:00",
   "topic": "prompts.chat – بزرگ‌ترین کتابخونه‌ی پرامپت متن‌باز با ۱۷۰K ستاره",
   "key": "fa_v10_gh_prompts",
-  "status": "needs_video_upload",
+  "status": "scheduled",
   "id": "yo-2026-11-14-short-v10gp",
-  "note": "same video as Instagram entry ig-2026-11-14-reel-v10gp; schedule after video upload",
+  "note": "added 15 Nov so YouTube goes out at the same moment as the Instagram reel",
   "media_pending": "https://res.cloudinary.com/qecsawrr/video/upload/l_ehbehzad:v10_voice_gh_prompts.mp3,fl_layer_apply/ehbehzad/v10_gh_prompts_nolvoice.mp4",
   "account": "conn_0518c6141bae7d86",
-  "workspace": "ws_680c8b2ee3656246"
+  "workspace": "ws_680c8b2ee3656246",
+  "via": "uplika",
+  "uplika_post": "post_0f81d1a623816fd4"
  },
  {
   "platform": "instagram",
@@ -1741,8 +1743,11 @@
   "lang": "fa",
   "when": "2026-11-17T20:00",
   "topic": "دیگه پرامپت از خودت ننویس! بزرگ‌ترین کتابخونه‌ی پرامپت دنیا رایگانه 👇",
-  "status": "queued",
-  "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794731870/ehbehzad/v10_gh_prompts_final.mp4"
+  "status": "scheduled",
+  "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794731870/ehbehzad/v10_gh_prompts_final.mp4",
+  "via": "uplika",
+  "uplika_post": "post_0f81d1a623816fd4",
+  "note": "added 15 Nov so YouTube goes out at the same moment as the Instagram reel"
  },
  {
   "platform": "instagram",
