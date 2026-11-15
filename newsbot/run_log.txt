@@ -1,4 +1,4 @@
-Sun Nov 15 04:24:22 UTC 2026
+Sun Nov 15 04:50:17 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 Traceback (most recent call last):
   File "/home/runner/work/promptbot-app/promptbot-app/newsbot/schedule.py", line 74, in <module>
@@ -22,13 +22,17 @@ promo sent in-2026-11-01-reel
 promo sent yo-2026-11-01-short
 promo sent in-2026-11-02-reel
 promo sent yo-2026-11-02-short
+promo sent yo-2026-11-03-short
 promo sent in-2026-11-03-reel
 promo sent in-2026-11-04-reel
+promo sent yo-2026-11-04-short
 promo sent in-2026-11-05-reel
+promo sent yo-2026-11-05-short
+promo sent yo-2026-11-06-short
 promo sent in-2026-11-06-reel
-promo sent in-2026-11-07-reel
-promo sent in-2026-10-29-v8imagetools
-promo sent in-2026-10-30-v8indicator
+promo fail in-2026-11-07-reel HTTP Error 429: Too Many Requests
+promo fail in-2026-10-29-v8imagetools HTTP Error 429: Too Many Requests
+promo fail in-2026-10-30-v8indicator HTTP Error 429: Too Many Requests
 Traceback (most recent call last):
   File "/home/runner/work/promptbot-app/promptbot-app/newsbot/promo.py", line 77, in <module>
     main()
