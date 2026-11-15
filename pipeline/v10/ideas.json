@@ -1403,6 +1403,23 @@
    "date": "2026-11-15",
    "automation": "af_842a827148a912ea",
    "final": "https://res.cloudinary.com/qecsawrr/video/upload/v1794679070/v10_ytskills_final.mp4"
+  },
+  {
+   "n": 69,
+   "key": "xtool",
+   "hook": "برای ساخت اپ آیفون دیگه مک لازم نداری",
+   "cat": "free-tool",
+   "format": "ui",
+   "keyword": "آیفون",
+   "ref": "https://www.instagram.com/reel/DfhXtpSRTRn/",
+   "status": "scheduled",
+   "host": "robot",
+   "len": 44,
+   "note": "Made from the owner's reference (15 Nov, @amirrezatube); original script verified against xtool.sh docs (MIT, Linux/WSL/macOS, needs Xcode.xip from Apple once). Credits used 541; music = built-in beat. Slot Mon 16 Nov 20:00.",
+   "post": "post_9c36066c4fa07113",
+   "date": "2026-11-16",
+   "automation": "af_6f7883944b4b18c1",
+   "final": "https://res.cloudinary.com/qecsawrr/video/upload/v1794716564/v10_xtool_final.mp4"
   }
  ]
 }

@@ -1670,5 +1670,39 @@
   "uplika_post": "post_4064cdafa00af9c0",
   "workspace": "ws_680c8b2ee3656246",
   "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794679070/v10_ytskills_final.mp4"
+ },
+ {
+  "platform": "instagram",
+  "kind": "reel",
+  "key": "v10_xtool",
+  "id": "ig-2026-11-16-reel-v10xt",
+  "caption": "برای ساخت اپ آیفون دیگه مک لازم نداری 📱\nایکس‌تول (xtool) با ویندوز یا لینوکس اپ سوئیفت رو می‌سازه، امضا می‌کنه و با کابل روی آیفونت نصب می‌کنه. کدش رو هم کلاد کد می‌نویسه.\nمتن‌باز و رایگانه (MIT). فقط یه بار باید فایل ایکس‌کد رو از سایت اپل دانلود کنی.\nکلمه‌ی «آیفون» رو کامنت کن تا لینک و مراحل نصبش رو برات بفرستم 👇\n📷 @ehbehzad\n#هوش_مصنوعی #آیفون #کلاد",
+  "keyword": "آیفون",
+  "account": "conn_a8ade4f9de0c6bca",
+  "automation": "af_6f7883944b4b18c1",
+  "lang": "fa",
+  "when": "2026-11-16T20:00",
+  "topic": "xtool: ساخت اپ آیفون بدون مک با ویندوز/لینوکس + Claude Code",
+  "status": "scheduled",
+  "via": "uplika",
+  "uplika_post": "post_9c36066c4fa07113",
+  "workspace": "ws_680c8b2ee3656246",
+  "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794716564/v10_xtool_final.mp4"
+ },
+ {
+  "platform": "youtube",
+  "kind": "short",
+  "key": "fa_v10_xtool",
+  "id": "yo-2026-11-16-short-v10xt",
+  "account": "conn_0518c6141bae7d86",
+  "note": "same Uplika post as the IG reel",
+  "lang": "fa",
+  "when": "2026-11-16T20:00",
+  "topic": "xtool: ساخت اپ آیفون بدون مک با ویندوز/لینوکس + Claude Code",
+  "status": "scheduled",
+  "via": "uplika",
+  "uplika_post": "post_9c36066c4fa07113",
+  "workspace": "ws_680c8b2ee3656246",
+  "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794716564/v10_xtool_final.mp4"
  }
 ]

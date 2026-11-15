@@ -2456,5 +2456,19 @@
    "YouTube",
    "Shorts"
   ]
+ },
+ "fa_v10_xtool": {
+  "lang": "fa",
+  "title": "ساخت اپ آیفون بدون مک با xtool و Claude Code #Shorts",
+  "desc": "xtool: ابزار متن‌باز (MIT) برای ساخت و نصب اپ آیفون با ویندوز (WSL)، لینوکس و مک.\n\n🔗 https://github.com/xtool-org/xtool",
+  "tags": [
+   "xtool",
+   "اپ آیفون",
+   "ساخت اپ iOS",
+   "سوئیفت",
+   "Claude Code",
+   "ویندوز",
+   "لینوکس"
+  ]
  }
 }
