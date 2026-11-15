@@ -1,41 +1,5 @@
 [
  {
-  "title": "OpenAI launches ChatGPT Wallet, claiming it's a safe way to have AI shop for you",
-  "summary": "OpenAI launches ChatGPT Wallet, claiming it's a safe way to have AI shop for you Mashable",
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHeTFKZ0NySWhLdXF5bXRNLU5MOHJUUU9WcTVwOGFOc2xNaEstLVp6cy1Ia3BKTzJFczNBY2NOTW56SHJIWXRzY2UxY2NhQmJnQUgtZG5MemVpOG5XcWtUdjhWUzRjbjQ?oc=5",
-  "source": "Mashable",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-14T07:20:13+00:00",
-  "image": "",
-  "id": "94e5a8db073299fa"
- },
- {
-  "title": "Trust ChatGPT With Your Payments? OpenAI Rolls Out ChatGPT Wallet",
-  "summary": "Trust ChatGPT With Your Payments? OpenAI Rolls Out ChatGPT Wallet PCMag",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdml5MXp1UVBjd2dBRTFCTlduVkFrajExVTh6cHZrS3pMcjFqeW5ZYWJPVW5iYjZXU281OENpeFZ5S053bXBGdV8xWXd6LVhfNkNsdWR3dGVGMVBYWjVERXRKLVdDVmFFNks5NlA0OFZJX3lNWFQ2N01HYUJUemhQUmRzNGFiRG9mcXJWMnRRRm1hNWYxMVE?oc=5",
-  "source": "PCMag",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-14T13:10:09+00:00",
-  "image": "",
-  "id": "63b30a132b58e726"
- },
- {
-  "title": "Canva Craft vs ChatGPT: I tested both free AI image generators with 5 prompts to see which is better",
-  "summary": "Canva Craft vs ChatGPT: I tested both free AI image generators with 5 prompts to see which is better TechRadar",
-  "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOblhPdHNseXdVSEZEZFJBcUJBNS1aVEprajFXaGNORnRGcUY3ZGJ2NTJvdFNzU1JhLW9xei1fSmhQWUxDRXBmWTc3UU1RZ3c3SnZ6ZGIzZTdiYmgwZXFNNVNaWGJTcG9nX01XTjZqak1iQU9tRFRIODJlQ296R1M1NHhreUNHcWdMaV9UQnpGX3U1eFVfMmNqYlYybGVSSUhKUjQxXzRhcG9tVjFFZ1Vwbkp0QTRXdlFwQVhnNENFUjZHV2NBWTJKMnpOazR5NVlzVTc5ZmNsbjFQYnRmcmVtOWx4RUtJdnBxS013YkJkdEN2ZUVOY3pDZ2d0YzBRNkdsUWt5N0pfbzZmWjl4NVk2OUFFV0FtTWg3Unh3WWpLcUJTNDBodGVyemhLY2VXT2NhVmJQclZpSEVUSzdQd1o4ZVhQMGx5MnVmRkhmY2NkYk1DemdHS2JtSFJjVkF5UFNrVmc?oc=5",
-  "source": "TechRadar",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-14T15:00:00+00:00",
-  "image": "",
-  "id": "bdb6c92ffd25d212"
- },
- {
   "title": "Big Tech Wants Everyone to Use an AI Agent. But Who Shoulders the Cost?",
   "summary": "Big Tech Wants Everyone to Use an AI Agent. But Who Shoulders the Cost? WSJ",
   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kbzZLWDVyaTBSdGpJcGZ5aVNQWV9lZnZrWTN6NmFDZG5lN2pQdF9leWZGWWVQUkQxaVprQ1FYVFlHS1RwNGlDOHk0R0hGVlR5LVJzVWhLbmtDZWpFYkxsVENIUmVqcXFYQlpnV0ZMSVlVcmM?oc=5",
@@ -69,5 +33,17 @@
   "time": "2026-11-15T05:45:00+00:00",
   "image": "",
   "id": "1f67ee1abf40fef7"
+ },
+ {
+  "title": "Airbnb is building an AI travel agent",
+  "summary": "Airbnb is building an AI travel agent Mashable",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xdjhJN2ZJM3ZJOG41UXk2SXRHRlRfMUE2UXA0UDZfdFgtLWw4bmI4ZHJxRHdiYXp3VVhQdHZWRzZIcnVWYWt1QTE3U1VaZS1TbE9uRURIZlZWbUNudE9RUmN1YUdlRFpTNkgzd3lhWGktQUVL?oc=5",
+  "source": "Mashable",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-15T03:22:05+00:00",
+  "image": "",
+  "id": "66103f25f1bf8172"
  }
 ]
