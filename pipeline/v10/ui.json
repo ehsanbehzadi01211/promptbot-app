@@ -3464,5 +3464,161 @@
     "dm": "لینک ریپو + روش نصب"
    }
   ]
+ },
+ "xtool": {
+  "keyword": "آیفون",
+  "accent": "#ff6a3d",
+  "host": "robot",
+  "bg": "cine",
+  "voice": "[excited] برای ساخت اپ آیفون، دیگه مک لازم نداری! با ویندوز یا لینوکس هم می‌تونی اپ بسازی و روی گوشی واقعی‌ات اجراش کنی. ابزارش ایکس‌تول‌ه؛ متن‌باز و رایگان، با لایسنس ام‌آی‌تی. کلاد کد اپ رو با سوئیفت می‌نویسه، ایکس‌تول به‌جای ایکس‌کد می‌سازتش، امضاش می‌کنه و با کابل روی آیفونت نصب می‌کنه. راه‌اندازیش سه مرحله‌ست. یک، سوئیفت رو نصب کن. دو، ایکس‌کد رو یه بار از سایت اپل دانلود کن. سه، ایکس‌تول ستاپ رو بزن و با اپل‌آیدی وارد شو. بعدش با ایکس‌تول دِو اپ روی گوشیت اجرا می‌شه. کلمه‌ی «آیفون» رو کامنت کن تا لینک و مراحل نصبش رو برات بفرستم.",
+  "tabs": [
+   "ابزار",
+   "جریان کار",
+   "نصب",
+   "اجرا"
+  ],
+  "scenes": [
+   {
+    "w": 0,
+    "head": {
+     "h1": [],
+     "top": 250
+    },
+    "stage_top": 330,
+    "els": [
+     {
+      "el": "html",
+      "html": "<div data-in=\"{w0+0.15}\" data-m=\"pop\" style=\"position:absolute;left:0;right:0;top:0px;text-align:center;direction:ltr\"><div style=\"display:inline-block;font-family:Vaz;font-weight:800;font-size:30px;color:#fff;background:var(--a);border-radius:30px;padding:8px 26px;box-shadow:0 10px 30px rgba(255,106,61,.5)\">NO MAC NEEDED</div><div style=\"font-family:Vaz;font-weight:900;font-size:120px;line-height:1.05;margin-top:18px;background:linear-gradient(180deg,#fff 20%,#ffb08a);-webkit-background-clip:text;color:transparent;filter:drop-shadow(0 0 40px rgba(255,106,61,.45))\">iPhone App<br>بدون Mac</div></div><div data-in=\"{w9}\" data-m=\"pop\" style=\"position:absolute;left:60px;top:560px;height:84px;padding:0 26px;border-radius:42px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;align-items:center;gap:12px;font-family:Vaz;font-weight:800;font-size:32px;color:#fff;\"><span style=\"width:40px;height:40px;border-radius:50%;background:#21b26b;display:flex;align-items:center;justify-content:center;font-size:24px\">✓</span>ویندوز</div><div data-in=\"{w11}\" data-m=\"pop\" style=\"position:absolute;left:360px;top:560px;height:84px;padding:0 26px;border-radius:42px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;align-items:center;gap:12px;font-family:Vaz;font-weight:800;font-size:32px;color:#fff;\"><span style=\"width:40px;height:40px;border-radius:50%;background:#21b26b;display:flex;align-items:center;justify-content:center;font-size:24px\">✓</span>لینوکس</div><div data-in=\"{w17}\" data-m=\"pop\" style=\"position:absolute;left:150px;top:670px;height:84px;padding:0 26px;border-radius:42px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;align-items:center;gap:12px;font-family:Vaz;font-weight:800;font-size:32px;color:#fff;\"><span style=\"width:40px;height:40px;border-radius:50%;background:#21b26b;display:flex;align-items:center;justify-content:center;font-size:24px\">✓</span>روی گوشی واقعی</div>"
+     }
+    ]
+   },
+   {
+    "w": 22,
+    "tab": 0,
+    "head": {
+     "kick": "<b>۱</b> · xtool",
+     "h1": [
+      [
+       "ابزارش",
+       22
+      ],
+      [
+       "ایکس‌تول‌ه",
+       23
+      ]
+     ],
+     "em": [
+      1
+     ]
+    },
+    "els": [
+     {
+      "el": "html",
+      "html": "<div data-in=\"{w23}\" data-m=\"pop\" style=\"position:absolute;left:130px;top:30px;width:660px;height:200px;border-radius:40px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;align-items:center;justify-content:center;gap:18px;font-family:Vaz;font-weight:800;font-size:34px;color:#fff;\"><span style=\"font-size:80px\">🛠️</span><span style=\"direction:ltr;font-size:90px;font-weight:900;background:linear-gradient(180deg,#fff,#ffb08a);-webkit-background-clip:text;color:transparent\">xtool</span></div><div data-in=\"{w24+0.2}\" data-m=\"pop\" style=\"position:absolute;left:40px;top:290px;height:84px;padding:0 26px;border-radius:42px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;align-items:center;gap:12px;font-family:Vaz;font-weight:800;font-size:32px;color:#fff;\"><span style=\"width:40px;height:40px;border-radius:50%;background:#21b26b;display:flex;align-items:center;justify-content:center;font-size:24px\">✓</span>متن‌باز</div><div data-in=\"{w26}\" data-m=\"pop\" style=\"position:absolute;left:350px;top:290px;height:84px;padding:0 26px;border-radius:42px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;align-items:center;gap:12px;font-family:Vaz;font-weight:800;font-size:32px;color:#fff;\"><span style=\"width:40px;height:40px;border-radius:50%;background:#21b26b;display:flex;align-items:center;justify-content:center;font-size:24px\">✓</span>رایگان</div><div data-in=\"{w28+0.2}\" data-m=\"pop\" style=\"position:absolute;left:640px;top:290px;height:84px;padding:0 26px;border-radius:42px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;align-items:center;gap:12px;font-family:Vaz;font-weight:800;font-size:32px;color:#fff;direction:ltr\"><span style=\"width:40px;height:40px;border-radius:50%;background:#21b26b;display:flex;align-items:center;justify-content:center;font-size:24px\">✓</span>MIT</div><div data-in=\"{w27}\" data-m=\"up\" style=\"position:absolute;left:130px;top:420px;width:660px;height:130px;border-radius:40px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;align-items:center;justify-content:center;gap:18px;font-family:Vaz;font-weight:800;font-size:34px;color:#fff;font-size:36px\">جایگزین Xcode ✨</div>"
+     }
+    ]
+   },
+   {
+    "w": 30,
+    "tab": 1,
+    "head": {
+     "kick": "<b>۲</b> · workflow",
+     "h1": [
+      [
+       "کلاد",
+       30
+      ],
+      [
+       "کد",
+       31
+      ],
+      [
+       "اپ",
+       32
+      ],
+      [
+       "رو",
+       33
+      ],
+      [
+       "می‌نویسه",
+       36
+      ]
+     ],
+     "em": [
+      0,
+      1
+     ]
+    },
+    "els": [
+     {
+      "el": "html",
+      "html": "<div data-in=\"{w30+0.2}\" data-m=\"pop\" style=\"position:absolute;left:40px;top:10px;width:400px;height:170px;border-radius:40px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;font-family:Vaz;font-weight:800;font-size:32px;color:#fff\"><div style=\"font-size:54px\">🤖</div>Claude Code</div><div data-in=\"{w35}\" data-m=\"pop\" style=\"position:absolute;left:480px;top:10px;width:400px;height:170px;border-radius:40px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;font-family:Vaz;font-weight:800;font-size:32px;color:#fff\"><div style=\"font-size:54px\">📝</div>Swift<div style=\"font-size:24px;color:#ffb08a\">کد اپ</div></div><div data-in=\"{w35+0.3}\" data-m=\"pop\" style=\"position:absolute;left:440px;top:70px;font-size:46px\">➡️</div><div data-in=\"{w37}\" data-m=\"pop\" style=\"position:absolute;left:230px;top:230px;width:460px;height:170px;border-radius:40px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;font-family:Vaz;font-weight:800;font-size:32px;color:#fff\"><div style=\"font-size:54px\">🛠️</div>xtool</div><div data-in=\"{w37+0.3}\" data-m=\"pop\" style=\"position:absolute;left:430px;top:185px;font-size:46px\">⬇️</div><div data-in=\"{w40}\" data-m=\"pop\" style=\"position:absolute;left:30px;top:430px;height:84px;padding:0 26px;border-radius:42px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;align-items:center;gap:12px;font-family:Vaz;font-weight:800;font-size:32px;color:#fff;font-size:28px;height:70px\">می‌سازه</div><div data-in=\"{w41}\" data-m=\"pop\" style=\"position:absolute;left:320px;top:430px;height:84px;padding:0 26px;border-radius:42px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;align-items:center;gap:12px;font-family:Vaz;font-weight:800;font-size:32px;color:#fff;font-size:28px;height:70px\">امضا می‌کنه</div><div data-in=\"{w43}\" data-m=\"pop\" style=\"position:absolute;left:650px;top:430px;height:84px;padding:0 26px;border-radius:42px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;align-items:center;gap:12px;font-family:Vaz;font-weight:800;font-size:32px;color:#fff;font-size:28px;height:70px\">کابل 🔌</div><div data-in=\"{w47}\" data-m=\"pop\" style=\"position:absolute;left:230px;top:540px;width:460px;height:190px;border-radius:40px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;font-family:Vaz;font-weight:800;font-size:32px;color:#fff\"><div style=\"font-size:54px\">📱</div>iPhone<div style=\"font-size:24px;color:#ffb08a\">نصب شد ✓</div></div>"
+     }
+    ]
+   },
+   {
+    "w": 50,
+    "tab": 2,
+    "head": {
+     "kick": "<b>۳</b> · setup",
+     "h1": [
+      [
+       "سه",
+       51
+      ],
+      [
+       "مرحله",
+       52
+      ]
+     ],
+     "em": [
+      0
+     ]
+    },
+    "els": [
+     {
+      "el": "html",
+      "html": "<div data-in=\"{w53}\" data-m=\"up\" style=\"position:absolute;left:50px;top:10px;width:820px;height:200px;border-radius:40px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;align-items:center;gap:26px;padding:0 34px;font-family:Vaz;color:#fff\"><div style=\"flex:none;width:96px;height:96px;border-radius:50%;background:var(--a);display:flex;align-items:center;justify-content:center;font-weight:900;font-size:56px;box-shadow:0 10px 40px rgba(255,106,61,.55)\">۱</div><div><div style=\"font-weight:800;font-size:38px\">سوئیفت رو نصب کن</div><div style=\"font-size:28px;color:#c9c2d6;margin-top:4px\">Swift toolchain</div></div></div><div data-in=\"{w58}\" data-m=\"up\" style=\"position:absolute;left:50px;top:250px;width:820px;height:200px;border-radius:40px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;align-items:center;gap:26px;padding:0 34px;font-family:Vaz;color:#fff\"><div style=\"flex:none;width:96px;height:96px;border-radius:50%;background:var(--a);display:flex;align-items:center;justify-content:center;font-weight:900;font-size:56px;box-shadow:0 10px 40px rgba(255,106,61,.55)\">۲</div><div><div style=\"font-weight:800;font-size:38px\">ایکس‌کد رو یه بار دانلود کن</div><div style=\"font-size:28px;color:#c9c2d6;margin-top:4px\">Xcode.xip از سایت اپل</div></div></div><div data-in=\"{w68}\" data-m=\"up\" style=\"position:absolute;left:50px;top:490px;width:820px;height:200px;border-radius:40px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);display:flex;align-items:center;gap:26px;padding:0 34px;font-family:Vaz;color:#fff\"><div style=\"flex:none;width:96px;height:96px;border-radius:50%;background:var(--a);display:flex;align-items:center;justify-content:center;font-weight:900;font-size:56px;box-shadow:0 10px 40px rgba(255,106,61,.55)\">۳</div><div><div style=\"font-weight:800;font-size:38px\">ورود با اپل‌آیدی</div><div style=\"font-size:28px;color:#c9c2d6;margin-top:4px\"></div><div style=\"font-family:JetBrains Mono,monospace;font-size:28px;color:#ffb08a;direction:ltr;margin-top:6px\">$ xtool setup</div></div></div>"
+     }
+    ]
+   },
+   {
+    "w": 78,
+    "tab": 3,
+    "head": {
+     "kick": "<b>۴</b> · run",
+     "h1": [
+      [
+       "اجرا",
+       78
+      ],
+      [
+       "روی",
+       83
+      ],
+      [
+       "گوشی",
+       84
+      ]
+     ],
+     "em": [
+      2
+     ]
+    },
+    "els": [
+     {
+      "el": "html",
+      "html": "<div data-in=\"{w80+0.2}\" data-m=\"left\" style=\"position:absolute;left:40px;top:40px;width:470px;height:300px;border-radius:40px;background:linear-gradient(160deg,rgba(255,255,255,.12),rgba(255,255,255,.04));border:1.5px solid rgba(255,255,255,.15);box-shadow:0 24px 60px rgba(0,0,0,.5),inset 0 1px 0 rgba(255,255,255,.18);padding:30px;font-family:JetBrains Mono,monospace;font-size:34px;color:#fff;direction:ltr;line-height:1.7\"><div style=\"color:#a39cb0;font-size:24px\">terminal</div><div><span style=\"color:#ffb08a\">$</span> xtool dev</div><div data-in=\"{w82}\" data-m=\"pop\" style=\"color:#21b26b;font-size:28px\">▶ building…</div><div data-in=\"{w84}\" data-m=\"pop\" style=\"color:#21b26b;font-size:28px\">✓ installed</div></div><div data-in=\"{w84}\" data-m=\"right\" style=\"position:absolute;left:560px;top:10px;width:300px;height:600px;border-radius:56px;background:linear-gradient(160deg,rgba(255,255,255,.14),rgba(255,255,255,.04));border:3px solid rgba(255,255,255,.25);box-shadow:0 30px 70px rgba(0,0,0,.55);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:22px;font-family:Vaz;font-weight:800;font-size:30px;color:#fff\"><div style=\"width:120px;height:120px;border-radius:30px;background:linear-gradient(135deg,#ff6a3d,#7b3fe4);display:flex;align-items:center;justify-content:center;font-size:64px\">🚀</div>اپ باز شد ✓</div>"
+     }
+    ]
+   },
+   {
+    "w": 87,
+    "type": "cta",
+    "keyword": "آیفون",
+    "dm": "لینک xtool + مراحل نصب"
+   }
+  ]
  }
 }
