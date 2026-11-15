@@ -11,11 +11,6 @@
    "official": true
   },
   {
-   "name": "Rockstar Games",
-   "url": "https://www.rockstargames.com/newswire.rss",
-   "official": true
-  },
-  {
    "name": "IGN",
    "url": "https://feeds.feedburner.com/ign/games-all",
    "official": false
@@ -39,16 +34,22 @@
    "name": "VGC",
    "url": "https://www.videogameschronicle.com/feed/",
    "official": false
+  },
+  {
+   "name": "Push Square",
+   "url": "https://www.pushsquare.com/feeds/latest",
+   "official": false
   }
  ],
  "pages": [],
  "google_news": [
-  "eFootball OR \"PES 2026\" OR \"Pro Evolution Soccer\" Konami",
   "\"GTA 6\" OR \"GTA VI\" OR \"Grand Theft Auto VI\"",
   "\"Xbox Game Pass\" OR \"Xbox Series X\" OR Xbox new game",
   "Steam PC game release OR \"PC port\" OR \"PC version\"",
   "PS5 OR \"PlayStation 5\" new game OR update",
-  "\"EA Sports FC\" OR \"Call of Duty\" OR Fortnite OR Minecraft update"
+  "\"EA Sports FC\" OR \"Call of Duty\" OR Fortnite OR Minecraft update",
+  "\"PlayStation Plus\" OR \"PS5 Pro\" OR \"PlayStation Store\" OR Sony PlayStation",
+  "\"GTA 6\" release PS5 OR Xbox"
  ],
  "launch_words": [
   "launch",
@@ -89,9 +90,6 @@
   "ps4",
   "pc",
   "steam",
-  "efootball",
-  "pes",
-  "konami",
   "gta",
   "rockstar",
   "nintendo",
@@ -106,7 +104,10 @@
   "gameplay",
   "trailer",
   "dlc",
-  "console"
+  "console",
+  "ps plus",
+  "playstation plus",
+  "sony"
  ],
  "block_words": [
   "price prediction",
@@ -153,7 +154,6 @@
   "IGN",
   "InfoWorld",
   "Insider Gaming",
-  "Konami",
   "Kotaku",
   "MIT Technology Review",
   "MacRumors",
