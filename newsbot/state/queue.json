@@ -1,17 +1,5 @@
 [
  {
-  "title": "Our new blog for science",
-  "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-  "url": "https://openai.com/index/our-new-blog-for-science",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-15T22:00:00+00:00",
-  "image": "",
-  "id": "4b0fc5b701ffd77d"
- },
- {
   "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
   "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai […]",
   "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
@@ -34,5 +22,41 @@
   "time": "2026-11-15T23:00:00+00:00",
   "image": "",
   "id": "1b6eeb4e825a21a9"
+ },
+ {
+  "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+  "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+  "url": "https://openai.com/index/lvmh-media-division-partnership",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-16T09:00:00+00:00",
+  "image": "",
+  "id": "91e58e2ea930c2fa"
+ },
+ {
+  "title": "The King’s Trust and OpenAI launch £1m partnership",
+  "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+  "url": "https://openai.com/index/the-kings-trust-and-openai",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-16T00:00:00+00:00",
+  "image": "",
+  "id": "e3915f7e4cf071c4"
+ },
+ {
+  "title": "Apple launches new app to study how people use AI for health",
+  "summary": "Apple's new app for a study will answer everyday medical questions",
+  "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-16T01:30:00+00:00",
+  "image": "",
+  "id": "77828770ffb5c4ae"
  }
 ]
