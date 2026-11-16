@@ -1309,10 +1309,11 @@
   "media": "youtube/shorts/fa_no.mp4",
   "metricool_uuid": "-3634242468234639708",
   "metricool_date": "2026-10-29T16:00",
-  "status": "scheduled",
+  "status": "published",
   "id": "yo-2026-11-07-short",
   "via": "uplika",
-  "uplika_post": "post_dbe05a8d143053ab"
+  "uplika_post": "post_dbe05a8d143053ab",
+  "url": "https://www.youtube.com/watch?v=S6H65Lixt3s"
  },
  {
   "platform": "youtube",
@@ -1661,11 +1662,12 @@
   "lang": "fa",
   "when": "2026-11-15T20:00",
   "topic": "YouTube Agent Skills: ۱۱ مهارت رایگان (MIT) برای کانال یوتیوب توی Claude",
-  "status": "scheduled",
+  "status": "published",
   "via": "uplika",
   "uplika_post": "post_4064cdafa00af9c0",
   "workspace": "ws_680c8b2ee3656246",
-  "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794679070/v10_ytskills_final.mp4"
+  "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794679070/v10_ytskills_final.mp4",
+  "url": "https://www.instagram.com/reel/DfxNxQljKDF/"
  },
  {
   "platform": "youtube",
@@ -1677,11 +1679,12 @@
   "lang": "fa",
   "when": "2026-11-15T20:00",
   "topic": "YouTube Agent Skills: ۱۱ مهارت رایگان (MIT) برای کانال یوتیوب توی Claude",
-  "status": "scheduled",
+  "status": "published",
   "via": "uplika",
   "uplika_post": "post_4064cdafa00af9c0",
   "workspace": "ws_680c8b2ee3656246",
-  "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794679070/v10_ytskills_final.mp4"
+  "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794679070/v10_ytskills_final.mp4",
+  "url": "https://www.youtube.com/watch?v=qSrFOhc8q_U"
  },
  {
   "platform": "instagram",
