@@ -194,5 +194,6 @@
  "max_new_per_fetch": 8,
  "max_queue_age_hours": 36,
  "hashtag": "#گیم",
- "mode": "games"
+ "mode": "games",
+ "min_gap_minutes": 170
 }

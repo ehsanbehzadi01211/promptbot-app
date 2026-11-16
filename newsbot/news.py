@@ -360,6 +360,12 @@ def post():
     queue = jload(os.path.join(STATE, "queue.json"), [])
     stale = (NOW - timedelta(hours=CFG["max_queue_age_hours"])).isoformat()
     queue = [it for it in queue if it["time"] > stale and relevant(it)]
+    # GitHub runs the cron hourly (it often skips runs); keep the channel at one post per feed every ~2 h
+    last = jload(os.path.join(STATE, "last_post.json"), {}).get("t")
+    gap = CFG.get("min_gap_minutes", 110)
+    if last and NOW - datetime.fromisoformat(last) < timedelta(minutes=gap):
+        print(f"last post {last}; waiting for the {gap}-minute gap")
+        return
     log = jload(os.path.join(STATE, "posted.json"), {})
     today = NOW.strftime("%Y-%m-%d")
     done_today = log.get(today, 0)
@@ -382,6 +388,8 @@ def post():
         except Exception as ex:
             print("send fail", ex)
         time.sleep(3)
+    if sent:
+        jsave(os.path.join(STATE, "last_post.json"), {"t": NOW.isoformat()})
     log[today] = done_today + sent
     jsave(os.path.join(STATE, "posted.json"), dict(list(log.items())[-14:]))
     jsave(os.path.join(STATE, "queue.json"), queue)
