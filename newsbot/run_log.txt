@@ -1,46 +1,4 @@
-Mon Nov 16 01:55:30 UTC 2026
+Mon Nov 16 04:47:07 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-== sources.json
-OpenAI: 2 fresh
-Google: 0 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 1 fresh
-Hugging Face: 0 fresh
-The Verge: 5 fresh
-TechCrunch: 7 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 0 fresh
-Product Hunt: 2 fresh
-Anthropic: 26 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 26 fresh
-Google News: 30 fresh
-Google News: 22 fresh
-Google News: 27 fresh
-new items: 4
-== sources_games.json
-Xbox Wire: 1 fresh
-PlayStation Blog: 0 fresh
-IGN: 11 fresh
-GameSpot: 1 fresh
-PC Gamer: 19 fresh
-Eurogamer: 6 fresh
-VGC: 0 fresh
-Push Square: 4 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 27 fresh
-Google News: 24 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-new items: 3
-== sources.json
-translated via clients5
-translated via clients5
-sent card A step toward defining the Standard Model on a lattice
-== sources_games.json
-translated via clients5
-translated via clients5
-sent photo League of Legends: New Dawn Unveiled With Debut Trailer, Rio
+promo sent post_dbe05a8d143053ab
+promo sent post_4064cdafa00af9c0
