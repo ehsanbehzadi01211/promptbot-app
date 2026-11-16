@@ -44,7 +44,7 @@ def main(mode):
     chats = load(os.path.join(HERE, "state", "chats.json"), {})
     if not chats.get("owner"):
         print("owner chat unknown; send /start to the bot"); return
-    items = sorted(load(os.path.join(HERE, "..", "content", "schedule.json"), []), key=lambda x: (x["date"], x["time"]))
+    items = sorted([x for x in load(os.path.join(HERE, "..", "content", "schedule.json"), []) if isinstance(x, dict) and x.get("date") and x.get("time")], key=lambda x: (x["date"], x["time"]))
     sent_path = os.path.join(HERE, "state", "sched_sent.json")
     sent = set(load(sent_path, []))
     key = lambda it: f"{it['date']} {it['time']} {it['platform']} {it['topic']}"
