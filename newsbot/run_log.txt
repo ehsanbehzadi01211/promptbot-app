@@ -1,46 +1,4 @@
-Mon Nov 16 22:52:33 UTC 2026
+Tue Nov 17 04:48:44 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-== sources.json
-OpenAI: 11 fresh
-Google: 1 fresh
-Google DeepMind: 0 fresh
-NVIDIA: 8 fresh
-Hugging Face: 1 fresh
-The Verge: 10 fresh
-TechCrunch: 16 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 3 fresh
-Product Hunt: 6 fresh
-Anthropic: 26 links
-Google News: 30 fresh
-feed fail Google News HTTP Error 429: Too Many Requests
-Google News: 25 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 22 fresh
-new items: 8
-== sources_games.json
-Xbox Wire: 3 fresh
-PlayStation Blog: 0 fresh
-IGN: 20 fresh
-GameSpot: 14 fresh
-PC Gamer: 29 fresh
-Eurogamer: 14 fresh
-VGC: 8 fresh
-Push Square: 14 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 29 fresh
-Google News: 28 fresh
-Google News: 26 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-new items: 8
-== sources.json
-translated via clients5
-translated via clients5
-sent photo AI Day Seoul Brings Together Korea’s Industry Leaders, Start
-== sources_games.json
-translated via clients5
-translated via clients5
-sent photo The latest GTA 6 leak comes in the form of a 34-song trackli
+promo sent post_e080268a59667f34
+promo sent post_9c36066c4fa07113
