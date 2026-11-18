@@ -1,19 +1,36 @@
-OpenAI: 2 fresh
-Google: 0 fresh
+== sources.json
+OpenAI: 7 fresh
+Google: 1 fresh
 Google DeepMind: 0 fresh
-feed fail Microsoft HTTP Error 410: Gone
-NVIDIA: 0 fresh
-Hugging Face: 1 fresh
-The Verge: 8 fresh
-TechCrunch: 11 fresh
+NVIDIA: 3 fresh
+Hugging Face: 0 fresh
+The Verge: 10 fresh
+TechCrunch: 20 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 1 fresh
-Product Hunt: 11 fresh
-Anthropic: 11 links
+MIT Technology Review: 2 fresh
+Product Hunt: 7 fresh
+Anthropic: 26 links
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
+Google News: 25 fresh
+new items: 8
+== sources_games.json
+Xbox Wire: 8 fresh
+PlayStation Blog: 2 fresh
+IGN: 20 fresh
+GameSpot: 13 fresh
+PC Gamer: 30 fresh
+Eurogamer: 19 fresh
+VGC: 10 fresh
+Push Square: 24 fresh
 Google News: 30 fresh
-new items: 6
+Google News: 30 fresh
+Google News: 29 fresh
+Google News: 30 fresh
+Google News: 24 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 8

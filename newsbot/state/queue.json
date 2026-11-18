@@ -142,5 +142,101 @@
   "time": "2026-11-16T23:00:05+00:00",
   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nv-blog-1280x680-1.jpg",
   "id": "23e0c35a1797098e"
+ },
+ {
+  "title": "Introducing GPT-6.2 Astra and Sol",
+  "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+  "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-17T17:45:00+00:00",
+  "image": "",
+  "id": "549a77347d5e1e5f"
+ },
+ {
+  "title": "Introducing ChatGPT for Sales",
+  "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+  "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-17T08:00:00+00:00",
+  "image": "",
+  "id": "c6c361c53bc4ce2d"
+ },
+ {
+  "title": "Introducing OpenAI for Chile",
+  "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+  "url": "https://openai.com/index/introducing-openai-for-chile",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-17T00:00:00+00:00",
+  "image": "",
+  "id": "58da9c66b1456ac9"
+ },
+ {
+  "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+  "summary": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance […]",
+  "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-17T14:00:10+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Buck-Talk-SC26-scaled.jpeg",
+  "id": "b198e88d7ab77bde"
+ },
+ {
+  "title": "Strengthening NATO and allied cyber defenses with AI",
+  "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+  "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-17T00:00:00+00:00",
+  "image": "",
+  "id": "590cb0b9c5dd23f2"
+ },
+ {
+  "title": "Astra for Law leads in legal intelligence",
+  "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+  "url": "https://openai.com/index/astra-law-6-2",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-17T00:00:00+00:00",
+  "image": "",
+  "id": "0604bc2b50fc0c3b"
+ },
+ {
+  "title": "Put Gemini to work for you",
+  "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+  "source": "Google",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-17T17:00:00+00:00",
+  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp",
+  "id": "357d085ae06f4ca2"
+ },
+ {
+  "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+  "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US […]",
+  "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+  "source": "The Verge",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-17T18:58:01+00:00",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Tasks-in-Gemini.png?quality=90&strip=all&crop=0,0,100,100",
+  "id": "72284a47c9d975a2"
  }
 ]
