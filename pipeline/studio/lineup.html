@@ -1,0 +1,30 @@
+<!doctype html><html><head><meta charset="utf-8">
+<style>@font-face{font-family:Vaz;src:url(vazirmatn-arabic-900-normal.woff2)}@font-face{font-family:VazL;src:url(vazirmatn-latin-900-normal.woff2)}
+html,body{margin:0;background:#000;width:1920px;height:1080px;overflow:hidden}#lab{position:absolute;inset:0;pointer-events:none}
+.n{position:absolute;transform:translateX(-50%);text-align:center;font-family:Vaz,VazL;color:#fff;text-shadow:0 3px 0 #000}
+.n b{display:block;font-size:40px}.n i{font-style:normal;display:block;font-size:22px;color:#ffd34d;font-family:VazL,Vaz}</style>
+<script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.js"}}</script></head>
+<body><div id="lab"></div><script type="module">
+import * as THREE from 'three'; import { makeChar, pose, CAST, pix, solid } from './chars.js';
+const R = new THREE.WebGLRenderer({ antialias: true, preserveDrawingBuffer: true }); R.setSize(1920, 1080); R.shadowMap.enabled = true; R.shadowMap.type = THREE.PCFSoftShadowMap; R.outputColorSpace = THREE.SRGBColorSpace; R.toneMapping = THREE.ACESFilmicToneMapping; document.body.prepend(R.domElement);
+const S = new THREE.Scene(); S.background = new THREE.Color('#0b0f1a'); S.fog = new THREE.Fog('#0b0f1a', 8, 20);
+const C = new THREE.PerspectiveCamera(30, 1920 / 1080, .1, 100); const Q=new URLSearchParams(location.search);const CL=Q.get('cam')==='claude'; if(CL){C.position.set(-3.2,1.75,3.0);C.lookAt(-3.75,1.55,0);}else{C.position.set(0, 1.6, 10.2); C.lookAt(0, 1.15, 0);}
+S.add(new THREE.HemisphereLight('#bcd2ff', '#2a1a10', .9));
+const key = new THREE.DirectionalLight('#fff1dc', 2.4); key.position.set(3, 6, 5); key.castShadow = true; key.shadow.mapSize.set(2048, 2048); Object.assign(key.shadow.camera, { left: -6, right: 6, top: 4, bottom: -2 }); S.add(key);
+const rim = new THREE.PointLight('#ff7a3d', 30, 12); rim.position.set(-4, 3, -2); S.add(rim); const rim2 = new THREE.PointLight('#3d8bff', 30, 12); rim2.position.set(4, 3, -2); S.add(rim2);
+// floor: checker blocks
+const ft = pix(16, (x) => { for (let i = 0; i < 16; i++) for (let j = 0; j < 16; j++) { x.fillStyle = ((i >> 2) + (j >> 2)) % 2 ? '#2a2f3d' : '#232836'; x.fillRect(i, j, 1, 1); } }); ft.wrapS = ft.wrapT = THREE.RepeatWrapping; ft.repeat.set(10, 5);
+const floor = new THREE.Mesh(new THREE.BoxGeometry(20, .2, 10), new THREE.MeshStandardMaterial({ map: ft, roughness: .6 })); floor.position.y = -.1; floor.receiveShadow = true; S.add(floor);
+// back wall of blocks + neon sign
+const wt = pix(16, (x) => { for (let i = 0; i < 16; i++) for (let j = 0; j < 16; j++) { x.fillStyle = (i % 8 === 0 || j % 4 === 0) ? '#141a2a' : '#1c2338'; x.fillRect(i, j, 1, 1); } }); wt.wrapS = wt.wrapT = THREE.RepeatWrapping; wt.repeat.set(10, 3);
+const wall = new THREE.Mesh(new THREE.BoxGeometry(20, 6, .3), new THREE.MeshStandardMaterial({ map: wt })); wall.position.set(0, 3, -3); wall.receiveShadow = true; S.add(wall);
+await document.fonts.load('900 40px VazL'); await document.fonts.load('900 40px Vaz');
+const sc = document.createElement('canvas'); sc.width = 1024; sc.height = 256; const sx = sc.getContext('2d'); sx.font = '900 150px VazL, Vaz'; sx.textAlign = 'center'; sx.textBaseline = 'middle'; sx.shadowColor = '#ff7a3d'; sx.shadowBlur = 40; sx.fillStyle = '#ffb08a'; sx.fillText('STUDIO AI', 512, 135);
+const sign = new THREE.Mesh(new THREE.PlaneGeometry(4, 1), new THREE.MeshBasicMaterial({ map: new THREE.CanvasTexture(sc), transparent: true })); sign.position.set(0, 3.25, -2.8); S.add(sign);
+const keys = Object.keys(CAST), chars = [], N = keys.length, sp = 1.25;
+keys.forEach((k, i) => { const ch = makeChar(CAST[k]); ch.scale.setScalar(1.05); ch.position.x = (i - (N - 1) / 2) * sp; ch.rotation.y = -(i - (N - 1) / 2) * .06; if(i===0){ch.position.z=.7; ch.rotation.y=.35;} S.add(ch); chars.push(ch);
+  const d = document.createElement('div'); if(CL) d.style.display='none'; d.className = 'n'; d.innerHTML = `<b>${CAST[k].name}</b><i>${CAST[k].role}</i>`; document.getElementById('lab').append(d); ch.userData.lab = d; });
+window.render = (t) => { chars.forEach((c, i) => pose(c, t, i === 0 ? .7 : 0, { phase: i * 1.7, wave: i === 0, hold: true })); R.render(S, C);
+  chars.forEach(c => { const v = new THREE.Vector3(c.position.x, -.12, .6).project(C); c.userData.lab.style.left = ((v.x + 1) / 2 * 1920) + 'px'; c.userData.lab.style.top = ((1 - v.y) / 2 * 1080) + 'px'; }); };
+await document.fonts.load('900 40px Vaz'); await document.fonts.load('900 40px VazL'); window.render(1.3); window.READY = true;
+</script></body></html>
