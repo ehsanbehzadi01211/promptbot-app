@@ -1341,10 +1341,11 @@
     "media": "youtube/shorts/fa_rewrite.mp4",
     "metricool_uuid": "983693442281655736",
     "metricool_date": "2026-10-10T10:00",
-    "status": "scheduled",
+    "status": "published",
     "id": "yo-2026-11-09-short",
     "via": "uplika",
-    "uplika_post": "post_2133532171237521"
+    "uplika_post": "post_2133532171237521",
+    "url": "https://www.youtube.com/watch?v=DJ90x2ZcnKU"
   },
   {
     "platform": "youtube",
@@ -1735,11 +1736,12 @@
     "lang": "fa",
     "when": "2026-11-17T20:00",
     "topic": "دیگه پرامپت از خودت ننویس! بزرگ‌ترین کتابخونه‌ی پرامپت دنیا رایگانه 👇",
-    "status": "scheduled",
+    "status": "failed",
     "via": "uplika",
     "uplika_post": "post_3b69f8fb2e2ff563",
     "workspace": "ws_680c8b2ee3656246",
-    "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794731870/ehbehzad/v10_gh_prompts_final.mp4"
+    "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794731870/ehbehzad/v10_gh_prompts_final.mp4",
+    "note": "account_expired: Instagram token expired at 2026-11-17T20:00 Tehran; reconnect conn_a8ade4f9de0c6bca at https://uplika.com/dashboard/connections"
   },
   {
     "platform": "youtube",
@@ -1749,11 +1751,12 @@
     "lang": "fa",
     "when": "2026-11-17T20:00",
     "topic": "دیگه پرامپت از خودت ننویس! بزرگ‌ترین کتابخونه‌ی پرامپت دنیا رایگانه 👇",
-    "status": "scheduled",
+    "status": "published",
     "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794731870/ehbehzad/v10_gh_prompts_final.mp4",
     "via": "uplika",
     "uplika_post": "post_0f81d1a623816fd4",
-    "note": "added 15 Nov so YouTube goes out at the same moment as the Instagram reel"
+    "note": "added 15 Nov so YouTube goes out at the same moment as the Instagram reel",
+    "url": "https://www.youtube.com/watch?v=18Aa_SbNMoY"
   },
   {
     "platform": "instagram",
@@ -1764,12 +1767,13 @@
     "lang": "fa",
     "when": "2026-11-17T11:00",
     "topic": "GTA 6: رکوردها و هیاهوی عرضه",
-    "status": "scheduled",
+    "status": "published",
     "via": "uplika",
     "uplika_post": "post_ab485c934773e1b9",
     "workspace": "ws_680c8b2ee3656246",
     "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794767800/v10_gta_b_final.mp4",
-    "note": "GTA VI series (owner, 15 Nov): official Rockstar footage, no comment keyword/DM"
+    "note": "GTA VI series (owner, 15 Nov): official Rockstar footage, no comment keyword/DM",
+    "url": "https://www.instagram.com/reel/Df1Zh59irEv/"
   },
   {
     "platform": "youtube",
@@ -1780,12 +1784,13 @@
     "lang": "fa",
     "when": "2026-11-17T11:00",
     "topic": "GTA 6: رکوردها و هیاهوی عرضه",
-    "status": "scheduled",
+    "status": "published",
     "via": "uplika",
     "uplika_post": "post_ab485c934773e1b9",
     "workspace": "ws_680c8b2ee3656246",
     "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794767800/v10_gta_b_final.mp4",
-    "note": "GTA VI series (owner, 15 Nov): official Rockstar footage, no comment keyword/DM"
+    "note": "GTA VI series (owner, 15 Nov): official Rockstar footage, no comment keyword/DM",
+    "url": "https://www.youtube.com/watch?v=XfFnqWE7CBM"
   },
   {
     "platform": "instagram",
