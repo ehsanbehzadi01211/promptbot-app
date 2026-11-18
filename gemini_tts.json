@@ -1,0 +1,108 @@
+[
+ {
+  "name": "s_claude",
+  "voice": "Puck",
+  "lines": [
+   {
+    "text": "سلام سلام! به استودیو ای‌آی خوش اومدید! بیست و شش روز، بیست و شش ابزار برای ساختن ویدیو با هوش مصنوعی. من کلادم، مجری برنامه!",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent. Energetic friendly TV show host"
+   }
+  ]
+ },
+ {
+  "name": "s_frame",
+  "voice": "Fenrir",
+  "lines": [
+   {
+    "text": "سلام کلاد! من فریم‌ام، از طرف هایپرفریمز. تو فقط بگو چی می‌خوای، من با کد اچ‌تی‌ام‌ال برات ویدیو می‌سازم!",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent. Excited, fast, enthusiastic"
+   }
+  ]
+ },
+ {
+  "name": "s_remotion",
+  "voice": "Laomedeia",
+  "lines": [
+   {
+    "text": "سلام! من ری‌موشنم. با من، هوش مصنوعی ویدیو رو مثل یه سایت ری‌اکت می‌سازه.",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent. Upbeat young creator"
+   }
+  ]
+ },
+ {
+  "name": "s_tag",
+  "voice": "Zubenelgenubi",
+  "lines": [
+   {
+    "text": "سلام رفقا! من تگم. اچ‌تی‌ام‌ال بده، ویدیو تحویل بگیر. همین روی لپ‌تاپ خودت.",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent. Casual, relaxed, a bit cheeky"
+   }
+  ]
+ },
+ {
+  "name": "s_mani",
+  "voice": "Sadaltager",
+  "lines": [
+   {
+    "text": "سلام. من مانی‌ام. ریاضی و علم رو با انیمیشن‌های تمیز و دقیق توضیح می‌دم.",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent. Knowledgeable calm teacher"
+   }
+  ]
+ },
+ {
+  "name": "s_lemo",
+  "voice": "Aoede",
+  "lines": [
+   {
+    "text": "سلام عزیزم! من لِموام. چهل تا سبک سینمایی دارم؛ از نقاشی رنگ‌روغن تا آبرنگ.",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent. Breezy artistic, dreamy"
+   }
+  ]
+ },
+ {
+  "name": "s_onetake",
+  "voice": "Algenib",
+  "lines": [
+   {
+    "text": "من وان‌تیکم. یه برداشت، یه دوربین، بدون هیچ کاتی. حرکت دوربین با من.",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent. Gravelly confident cameraman"
+   }
+  ]
+ },
+ {
+  "name": "s_narrator",
+  "voice": "Alnilam",
+  "lines": [
+   {
+    "text": "در هفته‌ای که گذشت... شش مهمان... شش ابزار... و یک استودیو که دیگه مثل قبل نیست.",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent. Epic movie-trailer narrator, dramatic pauses, deep and intense"
+   }
+  ]
+ },
+ {
+  "name": "s_dialog",
+  "speakers": [
+   {
+    "speaker": "Claude",
+    "voice": "Puck"
+   },
+   {
+    "speaker": "Frame",
+    "voice": "Fenrir"
+   }
+  ],
+  "style": "Speak in Persian (Farsi), natural Tehrani accent. A lively TV talk show",
+  "lines": [
+   {
+    "speaker": "Claude",
+    "text": "خب فریم جان، خوش اومدی! بگو ببینم دقیقاً چی کار می‌کنی؟",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent. energetic host"
+   },
+   {
+    "speaker": "Frame",
+    "text": "ممنون کلاد! من صفحه‌ی وب رو به ویدیو تبدیل می‌کنم. هر چی تو مرورگر بسازی، من ازش فیلم می‌گیرم!",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent. excited guest"
+   }
+  ]
+ }
+]

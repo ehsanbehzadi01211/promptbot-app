@@ -1,0 +1,30 @@
+name: gemini-tts
+on:
+  push:
+    branches: [reels-media]
+    paths: [gemini_tts.json]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  tts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: reels-media
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -q requests
+      - run: python tools/gemini_tts.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      - name: Commit
+        if: always()
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add media/gtts || true
+          git commit -m "Gemini TTS" || exit 0
+          for i in 1 2 3 4 5; do git pull --rebase -q origin reels-media && git push && break; sleep 5; done
