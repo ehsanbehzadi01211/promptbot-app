@@ -154,5 +154,101 @@
   "time": "2026-11-18T10:45:50+00:00",
   "image": "",
   "id": "7c602e2b418cd16b"
+ },
+ {
+  "title": "The Gemini app is now available on lower-memory Android devices.",
+  "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+  "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+  "source": "Google",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-18T17:00:00+00:00",
+  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp",
+  "id": "03ca256a4adf4087"
+ },
+ {
+  "title": "Introducing Gemini 4 Neon",
+  "summary": "",
+  "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+  "source": "Google DeepMind",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-18T21:35:43+00:00",
+  "image": "",
+  "id": "0c3c8b23c6caec3f"
+ },
+ {
+  "title": "Genie 4 is now available",
+  "summary": "",
+  "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+  "source": "Google DeepMind",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-18T18:13:42+00:00",
+  "image": "",
+  "id": "652211f5c064d475"
+ },
+ {
+  "title": "The Silent Consensus",
+  "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+  "url": "https://openai.com/index/the-silent-consensus",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-18T10:00:00+00:00",
+  "image": "",
+  "id": "e683d40fba103b5f"
+ },
+ {
+  "title": "Inside the Codex sandbox",
+  "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+  "url": "https://openai.com/index/inside-the-codex-sandbox",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-18T08:00:00+00:00",
+  "image": "",
+  "id": "53f2a14376dda94d"
+ },
+ {
+  "title": "Managing frontier AI risk: From training to deployment",
+  "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+  "url": "https://openai.com/index/managing-frontier-ai-risk",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-18T06:00:00+00:00",
+  "image": "",
+  "id": "8b6ac2940fdc0d0e"
+ },
+ {
+  "title": "Advancing chip design with OpenAI models",
+  "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+  "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-18T00:00:00+00:00",
+  "image": "",
+  "id": "c7d3ecb006439a13"
+ },
+ {
+  "title": "NVIDIA RTX Spark Compact Desktops Out Now",
+  "summary": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development […]",
+  "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-18T14:00:31+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nv-blog-1280x680-2-1.jpg",
+  "id": "2f5d6d63b0593aac"
  }
 ]
