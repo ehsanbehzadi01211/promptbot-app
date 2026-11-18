@@ -104,5 +104,125 @@
     "style": "Speak in Persian (Farsi), natural Tehrani accent. excited guest"
    }
   ]
+ },
+ {
+  "name": "e01_01",
+  "voice": "Puck",
+  "lines": [
+   {
+    "text": "سلام، سلام! به استودیو ای‌آی خوش اومدید! بیست و شش روز، بیست و شش ابزار، برای ساختن ویدیو با هوش مصنوعی. من کلادم، و امروز روز اوله!",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent, TV talk show. Energetic, warm, charismatic TV host"
+   }
+  ]
+ },
+ {
+  "name": "e01_02",
+  "voice": "Puck",
+  "lines": [
+   {
+    "text": "مهمون امروزمون یه ستاره‌ی واقعیه؛ بیشتر از هشتاد و شش هزار ستاره توی گیت‌هاب! لطفاً تشویق کنید... فریم!",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent, TV talk show. Energetic, warm, charismatic TV host"
+   }
+  ]
+ },
+ {
+  "name": "e01_03",
+  "voice": "Fenrir",
+  "lines": [
+   {
+    "text": "سلام کلاد! سلام به همه! خیلی خوشحالم که اولین مهمون استودیو ای‌آی‌ام!",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent, TV talk show. Excited, enthusiastic, fast guest"
+   }
+  ]
+ },
+ {
+  "name": "e01_04",
+  "voice": "Puck",
+  "lines": [
+   {
+    "text": "خب فریم جان، خودتو معرفی کن. کی هستی؟",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent, TV talk show. Energetic, warm, charismatic TV host"
+   }
+  ]
+ },
+ {
+  "name": "e01_05",
+  "voice": "Fenrir",
+  "lines": [
+   {
+    "text": "من نماینده‌ی هایپرفریمزم؛ یه ابزار رایگان و متن‌باز از تیم هِی‌جِن. شعار من اینه: اچ‌تی‌ام‌ال بنویس، ویدیو تحویل بگیر!",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent, TV talk show. Excited, enthusiastic, fast guest"
+   }
+  ]
+ },
+ {
+  "name": "e01_06",
+  "voice": "Puck",
+  "lines": [
+   {
+    "text": "یعنی چی؟ یعنی دیگه افترافکت لازم نیست؟",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent, TV talk show. Energetic, warm, charismatic TV host"
+   }
+  ]
+ },
+ {
+  "name": "e01_07",
+  "voice": "Fenrir",
+  "lines": [
+   {
+    "text": "دقیقاً! هوش مصنوعی، متن و انیمیشن و صحنه رو مثل یه صفحه‌ی وب با کد می‌نویسه، و من همون رو فریم به فریم به یه فایل ویدیو تبدیل می‌کنم. هر بار هم دقیقاً همون نتیجه.",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent, TV talk show. Excited, enthusiastic, fast guest"
+   }
+  ]
+ },
+ {
+  "name": "e01_08",
+  "voice": "Puck",
+  "lines": [
+   {
+    "text": "واقعاً؟ می‌تونی همین الان نشون بدی؟",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent, TV talk show. Energetic, warm, charismatic TV host"
+   }
+  ]
+ },
+ {
+  "name": "e01_09",
+  "voice": "Fenrir",
+  "lines": [
+   {
+    "text": "حتماً! این ویدیو رو همین امروز با من ساختیم. به مانیتور نگاه کن!",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent, TV talk show. Excited, enthusiastic, fast guest"
+   }
+  ]
+ },
+ {
+  "name": "e01_10",
+  "voice": "Puck",
+  "lines": [
+   {
+    "text": "عالیه! حالا بیننده‌ها چطوری نصبت کنن؟",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent, TV talk show. Energetic, warm, charismatic TV host"
+   }
+  ]
+ },
+ {
+  "name": "e01_11",
+  "voice": "Fenrir",
+  "lines": [
+   {
+    "text": "به کلاد کد بگو پلاگین هایپرفریمز رو نصب کنه. یا توی ترمینال بزن: ان‌پی‌اِکس اسکیلز اَد، هِی‌جِن، هایپرفریمز. بعدش فقط بگو چه ویدیویی می‌خوای!",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent, TV talk show. Excited, enthusiastic, fast guest"
+   }
+  ]
+ },
+ {
+  "name": "e01_12",
+  "voice": "Puck",
+  "lines": [
+   {
+    "text": "ممنون فریم! دوستان، فردا مهمون ما ری‌موشنه. استودیو ای‌آی رو دنبال کنید. فعلاً خداحافظ!",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent, TV talk show. Energetic, warm, charismatic TV host"
+   }
+  ]
  }
 ]
