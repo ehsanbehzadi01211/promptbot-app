@@ -1,161 +1,5 @@
 [
  {
-  "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-  "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-  "url": "https://openai.com/index/lvmh-media-division-partnership",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-16T09:00:00+00:00",
-  "image": "",
-  "id": "91e58e2ea930c2fa"
- },
- {
-  "title": "The King’s Trust and OpenAI launch £1m partnership",
-  "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-  "url": "https://openai.com/index/the-kings-trust-and-openai",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-16T00:00:00+00:00",
-  "image": "",
-  "id": "e3915f7e4cf071c4"
- },
- {
-  "title": "Apple launches new app to study how people use AI for health",
-  "summary": "Apple's new app for a study will answer everyday medical questions",
-  "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-  "source": "TechCrunch",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-16T01:30:00+00:00",
-  "image": "",
-  "id": "77828770ffb5c4ae"
- },
- {
-  "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
-  "summary": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows. As agents help scientists and engineers explore more candidate materials, molecules and designs, they rely on simulations to test those ideas and guide their next […]",
-  "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-16T16:00:01+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/hpc-blog-rubin-hpc-gpu-1920x1080-5957124-1.jpg",
-  "id": "13aacf9f27d87578"
- },
- {
-  "title": "Advancing computer-use agents for healthcare teams",
-  "summary": "",
-  "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-16T06:00:00+00:00",
-  "image": "",
-  "id": "b0ded74e06b06613"
- },
- {
-  "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
-  "summary": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in throughput per watt for agentic AI — measuring how much agentic […]",
-  "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-16T16:00:25+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/vera-rubin-mlperf-training-endpoints.png",
-  "id": "3197bf91500d6695"
- },
- {
-  "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
-  "summary": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology. The speedups are helping scientists analyze larger datasets and model more complex systems. The new libraries give AI agents the tools to help researchers make discoveries […]",
-  "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-16T16:00:16+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/hpc-for-dev-tech-blog-cuda-x-sc26-1920x1080-5818376.jpg",
-  "id": "7ffe4f27310feb57"
- },
- {
-  "title": "Broadening access to AI for scientists",
-  "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-  "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-16T17:00:00+00:00",
-  "image": "",
-  "id": "f26f2a4dfd6b9b95"
- },
- {
-  "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-  "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-  "url": "https://openai.com/index/strengthening-online-child-safety",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-16T17:00:00+00:00",
-  "image": "",
-  "id": "b1c71d07875ac772"
- },
- {
-  "title": "Science at the Frontier: How scientists use ChatGPT",
-  "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-  "url": "https://openai.com/index/science-at-the-frontier",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-16T12:00:00+00:00",
-  "image": "",
-  "id": "f891bd93f3d21469"
- },
- {
-  "title": "Our first phase of embedded assessments",
-  "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
-  "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-16T08:00:00+00:00",
-  "image": "",
-  "id": "ebd9eb94963902d2"
- },
- {
-  "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
-  "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK installation playbook coming […]",
-  "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-16T23:00:05+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nv-blog-1280x680-1.jpg",
-  "id": "23e0c35a1797098e"
- },
- {
-  "title": "Introducing GPT-6.2 Astra and Sol",
-  "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-  "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-17T17:45:00+00:00",
-  "image": "",
-  "id": "549a77347d5e1e5f"
- },
- {
   "title": "Introducing ChatGPT for Sales",
   "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
   "url": "https://openai.com/index/introducing-chatgpt-for-sales",
@@ -168,18 +12,6 @@
   "id": "c6c361c53bc4ce2d"
  },
  {
-  "title": "Introducing OpenAI for Chile",
-  "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-  "url": "https://openai.com/index/introducing-openai-for-chile",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-17T00:00:00+00:00",
-  "image": "",
-  "id": "58da9c66b1456ac9"
- },
- {
   "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
   "summary": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance […]",
   "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
@@ -190,30 +22,6 @@
   "time": "2026-11-17T14:00:10+00:00",
   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Buck-Talk-SC26-scaled.jpeg",
   "id": "b198e88d7ab77bde"
- },
- {
-  "title": "Strengthening NATO and allied cyber defenses with AI",
-  "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-  "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-17T00:00:00+00:00",
-  "image": "",
-  "id": "590cb0b9c5dd23f2"
- },
- {
-  "title": "Astra for Law leads in legal intelligence",
-  "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-  "url": "https://openai.com/index/astra-law-6-2",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-17T00:00:00+00:00",
-  "image": "",
-  "id": "0604bc2b50fc0c3b"
  },
  {
   "title": "Put Gemini to work for you",
@@ -238,5 +46,65 @@
   "time": "2026-11-17T18:58:01+00:00",
   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Tasks-in-Gemini.png?quality=90&strip=all&crop=0,0,100,100",
   "id": "72284a47c9d975a2"
+ },
+ {
+  "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+  "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+  "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-18T00:00:00+00:00",
+  "image": "",
+  "id": "6cab9c8cd38347e3"
+ },
+ {
+  "title": "Microsoft launches MAI Code 2 models to challenge OpenAI and Anthropic in AI coding",
+  "summary": "Microsoft launches MAI Code 2 models to challenge OpenAI and Anthropic in AI coding InfoWorld",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR1Y0SWNrRFdxeWtFRkxJTGVuNElGM25QSjdFQ0FoZEQ4c1pHc0VLdEtGbTh0UHExemRDQm1Zc2dnRUFXWmgxVVJjS2o1Y1hqT09GNmZjV0pDam9PV2xVODdFU1pJS25DUnhjcWZNd3RvOHlCQjhtQjAtb0EzNkxwekR0cVpHQzMwNFZGMVdETXRKbEhYekFmdkdaN1lwcEEtYk1IMXZuSzBOMEtrM3V1LUVHTUhzTE84V21rekdoVFBGbWYwRlZxUnBB?oc=5",
+  "source": "InfoWorld",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-18T11:45:23+00:00",
+  "image": "",
+  "id": "cce10abce97f63d7"
+ },
+ {
+  "title": "Meta to release Muse Charm, a Tamagotchi-like device for the Muse AI agent",
+  "summary": "Meta to release Muse Charm, a Tamagotchi-like device for the Muse AI agent Mashable",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wbjVQWGtia1ZlQm5LRF9qWUJNU3V1NTFVVzc0SXdaNjlhSFJXZTRFUTM3b0FnVDFITEhveEtGZnc0Z21VZjVTd2VkTS1ad1hnX0tNV2pVYzJJRDNja0MySFhKTkVpR3BpUDF5b3h3?oc=5",
+  "source": "Mashable",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-18T09:00:00+00:00",
+  "image": "",
+  "id": "1ee5bd085150af97"
+ },
+ {
+  "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+  "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+  "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-18T12:00:00+00:00",
+  "image": "",
+  "id": "620756f297e99f3c"
+ },
+ {
+  "title": "\"The bare minimum\": Democrats demand transparency ahead of Anthropic's $1T debut.",
+  "summary": "\"The bare minimum\": Democrats demand transparency ahead of Anthropic's $1T debut. Axios",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wSERnVnI0c3Rkd05mTlhnT1dnSUVNNWtuUlBEb0JDVXdoNEJZYVFPNjdHMjlLMWZaTWRfUFpUOTAwOXZEZjVNWWlfbS11U3JZdl9hLWdyRm1FaS1SY2Jfc1VjeHhOaXJOMzdUaE9aY3NBenhxcWR4WThBSDBBRGc?oc=5",
+  "source": "Axios",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-18T10:45:50+00:00",
+  "image": "",
+  "id": "7c602e2b418cd16b"
  }
 ]

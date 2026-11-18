@@ -94,5 +94,65 @@
   "time": "2026-11-17T18:58:01+00:00",
   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Tasks-in-Gemini.png?quality=90&strip=all&crop=0,0,100,100",
   "id": "72284a47c9d975a2"
+ },
+ {
+  "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+  "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+  "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-18T00:00:00+00:00",
+  "image": "",
+  "id": "6cab9c8cd38347e3"
+ },
+ {
+  "title": "Microsoft launches MAI Code 2 models to challenge OpenAI and Anthropic in AI coding",
+  "summary": "Microsoft launches MAI Code 2 models to challenge OpenAI and Anthropic in AI coding InfoWorld",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR1Y0SWNrRFdxeWtFRkxJTGVuNElGM25QSjdFQ0FoZEQ4c1pHc0VLdEtGbTh0UHExemRDQm1Zc2dnRUFXWmgxVVJjS2o1Y1hqT09GNmZjV0pDam9PV2xVODdFU1pJS25DUnhjcWZNd3RvOHlCQjhtQjAtb0EzNkxwekR0cVpHQzMwNFZGMVdETXRKbEhYekFmdkdaN1lwcEEtYk1IMXZuSzBOMEtrM3V1LUVHTUhzTE84V21rekdoVFBGbWYwRlZxUnBB?oc=5",
+  "source": "InfoWorld",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-18T11:45:23+00:00",
+  "image": "",
+  "id": "cce10abce97f63d7"
+ },
+ {
+  "title": "Meta to release Muse Charm, a Tamagotchi-like device for the Muse AI agent",
+  "summary": "Meta to release Muse Charm, a Tamagotchi-like device for the Muse AI agent Mashable",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wbjVQWGtia1ZlQm5LRF9qWUJNU3V1NTFVVzc0SXdaNjlhSFJXZTRFUTM3b0FnVDFITEhveEtGZnc0Z21VZjVTd2VkTS1ad1hnX0tNV2pVYzJJRDNja0MySFhKTkVpR3BpUDF5b3h3?oc=5",
+  "source": "Mashable",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-18T09:00:00+00:00",
+  "image": "",
+  "id": "1ee5bd085150af97"
+ },
+ {
+  "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+  "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+  "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-18T12:00:00+00:00",
+  "image": "",
+  "id": "620756f297e99f3c"
+ },
+ {
+  "title": "\"The bare minimum\": Democrats demand transparency ahead of Anthropic's $1T debut.",
+  "summary": "\"The bare minimum\": Democrats demand transparency ahead of Anthropic's $1T debut. Axios",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wSERnVnI0c3Rkd05mTlhnT1dnSUVNNWtuUlBEb0JDVXdoNEJZYVFPNjdHMjlLMWZaTWRfUFpUOTAwOXZEZjVNWWlfbS11U3JZdl9hLWdyRm1FaS1SY2Jfc1VjeHhOaXJOMzdUaE9aY3NBenhxcWR4WThBSDBBRGc?oc=5",
+  "source": "Axios",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-18T10:45:50+00:00",
+  "image": "",
+  "id": "7c602e2b418cd16b"
  }
 ]
