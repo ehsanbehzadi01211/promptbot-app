@@ -1,0 +1,61 @@
+[
+ {
+  "title": "Preparing for the 2026 US midterms",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/2026-us-midterms",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-11-15T06:15:02.390566+00:00",
+  "page": true,
+  "id": "c9ddbc2bb8934c94"
+ },
+ {
+  "title": "Google's Gemini 4 Hydrogen is free — here are 5 impressive things you can do with it",
+  "summary": "Google's Gemini 4 Hydrogen is free — here are 5 impressive things you can do with it Tom's Guide",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR3N4YlROTEk1cmQyWDlqLTdIcHhNdXZ2bjkzTTBhYUo5RDZJeFJxVUJxM01lejduTW5MVUJadG1IWGdzVm0xc2hzZHEtY1d3SWFtemhkbGpzU24xaEFWSDZYWjlvSlQ5ZXhRUDZUdlgxUVQ3NDhqTzEzbDR0ZlVlV19UeUg1bUFRSWhaUk1pekxkRGVfOFMwaEZ3VWJBOG9nM1RRZmo3dzc4VVlybGQ4a2FrYmlpMThkaElaR0pSU1FSQQ?oc=5",
+  "source": "Tom's Guide",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-15T05:45:00+00:00",
+  "image": "",
+  "id": "1f67ee1abf40fef7"
+ },
+ {
+  "title": "Airbnb is building an AI travel agent",
+  "summary": "Airbnb is building an AI travel agent Mashable",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xdjhJN2ZJM3ZJOG41UXk2SXRHRlRfMUE2UXA0UDZfdFgtLWw4bmI4ZHJxRHdiYXp3VVhQdHZWRzZIcnVWYWt1QTE3U1VaZS1TbE9uRURIZlZWbUNudE9RUmN1YUdlRFpTNkgzd3lhWGktQUVL?oc=5",
+  "source": "Mashable",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-15T03:22:05+00:00",
+  "image": "",
+  "id": "66103f25f1bf8172"
+ },
+ {
+  "title": "How I safely run my OpenClaw AI agent 24/7 on a Mac – with Claude Code standing guard",
+  "summary": "How I safely run my OpenClaw AI agent 24/7 on a Mac – with Claude Code standing guard ZDNET",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16NTdZTDZ3c0d3WWRGbkwxSGZjM00xREszeEVBNENVN2M0RlljbU1hSzFWbHY4TWdjaTBhTXYydHZReV9UQTI0SG9ZMVVncjZqZ2hQa3pHYjB1NnlzbHhDZ2hRU0llcTNMcjlyUjBiQjMzWTNlYUdQNFZKdHY0ZDg?oc=5",
+  "source": "ZDNET",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-15T17:05:00+00:00",
+  "image": "",
+  "id": "e7027ee62c56e807"
+ },
+ {
+  "title": "One compromised MCP server can trick an AI agent into misusing tools you already trust",
+  "summary": "One compromised MCP server can trick an AI agent into misusing tools you already trust VentureBeat",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNmkwanhHbjBxWlFHSTFMMTBsV05hWHM3NHRfTFYxZS1xVTVOTXh5aWRUTkxSNTJ2WEtyeU5aOUdKT1F0V0dBa3BUSUozcE9hcjYtWlFRWUtYaW4yb3BCbC0wWDhsWjNrbVJlOEM3X0FqRmU4dlNWb2FaNThQei1KbVZwVExuRTNaZFNiMEc0R05FcTNObHNLdGFhQm1PeHpWdGxGeEVONHhQeUlfaHlfcWZzZHNlYzRudmJpZVVMc3Rmdw?oc=5",
+  "source": "VentureBeat",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-15T20:00:00+00:00",
+  "image": "",
+  "id": "d3d4e60169423744"
+ }
+]

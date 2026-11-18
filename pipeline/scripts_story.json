@@ -1,0 +1,182 @@
+{
+ "st_notebook": {
+  "tag": "ابزار",
+  "accent": "#22d3ee",
+  "accent2": "#ffffff",
+  "chrome": false,
+  "story": "ابزار رایگان امروز",
+  "silent": 8.8,
+  "scuts": [
+   2.7
+  ],
+  "scenes": [
+   {
+    "type": "hook",
+    "title": "PDF بده\n[[پادکست بگیر]]",
+    "sub": "Gemini Notebook",
+    "bg": "s624757079",
+    "voice": "a"
+   },
+   {
+    "type": "tool",
+    "name": "Gemini Notebook",
+    "aka": "اسم قبلی: NotebookLM",
+    "inp": "جزوه یا فایل PDF",
+    "out": "گفت‌وگوی صوتی، حتی فارسی",
+    "note": "رایگان · از گوگل",
+    "bg": "s720437119",
+    "voice": "b"
+   }
+  ]
+ },
+ "st_turboscribe": {
+  "tag": "ابزار",
+  "accent": "#ffd23f",
+  "accent2": "#ffffff",
+  "chrome": false,
+  "story": "ابزار رایگان امروز",
+  "silent": 8.8,
+  "scuts": [
+   2.7
+  ],
+  "scenes": [
+   {
+    "type": "hook",
+    "title": "ویس و ویدیو رو\n[[متن کن]]",
+    "sub": "TurboScribe",
+    "bg": "s539410140",
+    "voice": "a"
+   },
+   {
+    "type": "tool",
+    "name": "TurboScribe",
+    "aka": "",
+    "inp": "فایل صوتی یا ویدیو",
+    "out": "متن کامل و زیرنویس، فارسی هم",
+    "note": "رایگان: روزی ۳ فایل",
+    "bg": "s619849758",
+    "voice": "b"
+   }
+  ]
+ },
+ "st_suno": {
+  "tag": "ابزار",
+  "accent": "#ff4f9a",
+  "accent2": "#ffffff",
+  "chrome": false,
+  "story": "ابزار رایگان امروز",
+  "silent": 8.8,
+  "scuts": [
+   2.7
+  ],
+  "scenes": [
+   {
+    "type": "hook",
+    "title": "یه جمله بنویس\n[[آهنگ بگیر]]",
+    "sub": "Suno",
+    "bg": "s685769725",
+    "voice": "a"
+   },
+   {
+    "type": "tool",
+    "name": "Suno",
+    "aka": "",
+    "inp": "توضیح آهنگ، توی یه جمله",
+    "out": "آهنگ کامل با ساز و خواننده",
+    "note": "رایگان: حدود ۱۰ آهنگ در روز",
+    "bg": "s739776879",
+    "voice": "b"
+   }
+  ]
+ },
+ "st_gamma": {
+  "tag": "ابزار",
+  "accent": "#b07cff",
+  "accent2": "#ffffff",
+  "chrome": false,
+  "story": "ابزار رایگان امروز",
+  "silent": 8.8,
+  "scuts": [
+   2.7
+  ],
+  "scenes": [
+   {
+    "type": "hook",
+    "title": "موضوع بده\n[[اسلاید بگیر]]",
+    "sub": "Gamma",
+    "bg": "s750974928",
+    "voice": "a"
+   },
+   {
+    "type": "tool",
+    "name": "Gamma",
+    "aka": "",
+    "inp": "موضوع ارائه‌ت",
+    "out": "اسلاید طراحی‌شده، فارسی هم",
+    "note": "۴۰۰ اعتبار رایگان برای شروع",
+    "bg": "s774208663",
+    "voice": "b"
+   }
+  ]
+ },
+ "st_napkin": {
+  "tag": "ابزار",
+  "accent": "#3ddc97",
+  "accent2": "#ffffff",
+  "chrome": false,
+  "story": "ابزار رایگان امروز",
+  "silent": 8.8,
+  "scuts": [
+   2.7
+  ],
+  "scenes": [
+   {
+    "type": "hook",
+    "title": "متن بده\n[[نمودار بگیر]]",
+    "sub": "Napkin AI",
+    "bg": "s1785822976",
+    "voice": "a"
+   },
+   {
+    "type": "tool",
+    "name": "Napkin AI",
+    "aka": "",
+    "inp": "یه پاراگراف متن",
+    "out": "نمودار و اینفوگرافیک",
+    "note": "رایگان: ۵۰۰ اعتبار در هفته",
+    "bg": "s538935488",
+    "voice": "b"
+   }
+  ]
+ },
+ "st_perplexity": {
+  "tag": "ابزار",
+  "accent": "#ff8a3d",
+  "accent2": "#ffffff",
+  "chrome": false,
+  "story": "ابزار رایگان امروز",
+  "silent": 8.8,
+  "scuts": [
+   2.7
+  ],
+  "scenes": [
+   {
+    "type": "hook",
+    "title": "جواب بدون منبع؟\n[[قبول نکن]]",
+    "sub": "Perplexity",
+    "bg": "s539514486",
+    "voice": "a"
+   },
+   {
+    "type": "tool",
+    "name": "Perplexity",
+    "aka": "",
+    "inp": "سؤالت",
+    "out": "جواب با لینک منبع",
+    "note": "جست‌وجوی ساده رایگانه",
+    "bg": "s740481635",
+    "voice": "b"
+   }
+  ]
+ }
+}

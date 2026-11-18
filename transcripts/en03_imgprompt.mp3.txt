@@ -1,0 +1,24 @@
+[0.00-1.86] Your chat GPT images look boring?
+   Your(0.81) chat(0.91) GPT(1.00) images(1.00) look(1.00) boring?(1.00)
+[2.10-3.66] The problem is your prompt.
+   The(1.00) problem(1.00) is(1.00) your(1.00) prompt.(1.00)
+[3.80-5.44] Use this four-part formula.
+   Use(1.00) this(1.00) four(0.92) -part(0.98) formula.(1.00)
+[6.14-8.06] Subject, exactly what you want.
+   Subject,(0.98) exactly(1.00) what(1.00) you(1.00) want.(1.00)
+[8.28-14.54] Style, photo, watercolor, or 3D, light, like golden sunset light.
+   Style,(0.99) photo,(0.98) watercolor,(0.99) or(1.00) 3D,(1.00) light,(1.00) like(1.00) golden(1.00) sunset(1.00) light.(1.00)
+[15.24-18.54] And frame, close-up or wide, vertical or horizontal.
+   And(1.00) frame,(1.00) close(1.00) -up(0.91) or(1.00) wide,(1.00) vertical(1.00) or(1.00) horizontal.(1.00)
+[19.52-21.20] Instead of, draw a cat.
+   Instead(1.00) of,(1.00) draw(1.00) a(1.00) cat.(1.00)
+[21.46-27.46] Write, an orange cat on a window ledge, watercolor style, sunset light, close-up.
+   Write,(0.77) an(1.00) orange(1.00) cat(1.00) on(1.00) a(1.00) window(1.00) ledge,(1.00) watercolor(1.00) style,(1.00) sunset(1.00) light,(1.00) close(1.00) -up.(1.00)
+[27.84-28.70] Don't like it?
+   Don't(1.00) like(1.00) it?(1.00)
+[29.22-29.94] Don't start over.
+   Don't(0.79) start(1.00) over.(1.00)
+[30.20-32.20] Just say, same, but at night.
+   Just(1.00) say,(1.00) same,(0.59) but(1.00) at(1.00) night.(1.00)
+[33.14-34.24] Save this and try it today.
+   Save(1.00) this(1.00) and(1.00) try(1.00) it(1.00) today.(1.00)

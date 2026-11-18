@@ -1,0 +1,24 @@
+[0.00-2.42] Five things AI can do for you in one minute.
+   Five(0.71) things(0.96) AI(0.97) can(1.00) do(1.00) for(1.00) you(1.00) in(1.00) one(0.98) minute.(1.00)
+[2.94-6.10] 1. Summarize a long text.
+   1.(0.48) Summarize(1.00) a(1.00) long(1.00) text.(1.00)
+[6.98-9.36] A 10-page article in five lines.
+   A(0.98) 10(0.89) -page(1.00) article(1.00) in(1.00) five(0.79) lines.(1.00)
+[10.60-12.00] 2. Reply to emails.
+   2.(1.00) Reply(1.00) to(1.00) emails.(1.00)
+[13.10-14.40] Polite, short, and professional.
+   Polite,(0.97) short,(1.00) and(1.00) professional.(1.00)
+[15.30-17.18] 3. Plan your week.
+   3.(1.00) Plan(1.00) your(1.00) week.(1.00)
+[17.40-19.28] List your tasks, get a schedule.
+   List(0.97) your(1.00) tasks,(1.00) get(1.00) a(1.00) schedule.(1.00)
+[20.02-23.86] 4. Translate with a natural tone, not word for word.
+   4.(1.00) Translate(1.00) with(1.00) a(1.00) natural(1.00) tone,(1.00) not(1.00) word(1.00) for(0.93) word.(1.00)
+[24.48-26.34] 5. Brainstorm.
+   5.(1.00) Brainstorm.(1.00)
+[26.86-29.62] 10 ideas for names, captions, or GIFs.
+   10(0.99) ideas(0.98) for(1.00) names,(1.00) captions,(1.00) or(1.00) GIFs.(0.98)
+[30.00-31.22] Which one will you try today?
+   Which(0.82) one(1.00) will(1.00) you(1.00) try(1.00) today?(1.00)
+[32.16-33.12] Send this to a friend.
+   Send(0.99) this(1.00) to(1.00) a(1.00) friend.(1.00)

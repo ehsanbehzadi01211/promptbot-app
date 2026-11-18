@@ -1,0 +1,14 @@
+[
+ {
+  "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+  "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK installation playbook coming […]",
+  "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-16T23:00:05+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nv-blog-1280x680-1.jpg",
+  "id": "23e0c35a1797098e"
+ }
+]

@@ -1,0 +1,26 @@
+[0.00-1.60] Does ChatGPT really think?
+   Does(0.85) ChatGPT(0.97) really(0.99) think?(1.00)
+[2.38-4.22] Here's the answer in 30 seconds.
+   Here's(1.00) the(1.00) answer(1.00) in(1.00) 30(1.00) seconds.(1.00)
+[5.00-8.12] First, these models are trained on a huge amount of text.
+   First,(1.00) these(1.00) models(1.00) are(1.00) trained(1.00) on(1.00) a(1.00) huge(1.00) amount(1.00) of(1.00) text.(1.00)
+[8.30-10.08] Books, websites, articles.
+   Books,(1.00) websites,(1.00) articles.(1.00)
+[11.00-12.34] Then, they do one thing.
+   Then,(1.00) they(1.00) do(1.00) one(1.00) thing.(1.00)
+[12.52-13.72] Predict the next word.
+   Predict(1.00) the(1.00) next(1.00) word.(1.00)
+[14.20-16.14] Today, the weather is really hot.
+   Today,(1.00) the(1.00) weather(1.00) is(1.00) really(1.00) hot.(0.97)
+[16.60-18.54] Word by word, very fast.
+   Word(1.00) by(0.98) word,(1.00) very(1.00) fast.(1.00)
+[18.98-20.78] That's how the whole answer gets built.
+   That's(1.00) how(1.00) the(1.00) whole(1.00) answer(1.00) gets(1.00) built.(1.00)
+[21.06-23.22] That's why it's sometimes confidently wrong.
+   That's(1.00) why(1.00) it's(1.00) sometimes(1.00) confidently(1.00) wrong.(1.00)
+[23.60-26.96] It looks for the likely answer, not always the true one.
+   It(1.00) looks(1.00) for(1.00) the(1.00) likely(1.00) answer,(1.00) not(1.00) always(1.00) the(1.00) true(1.00) one.(1.00)
+[27.64-30.84] So use it for ideas and drafts, but check the facts yourself.
+   So(0.80) use(0.66) it(1.00) for(1.00) ideas(0.99) and(0.92) drafts,(1.00) but(1.00) check(1.00) the(1.00) facts(1.00) yourself.(0.99)
+[31.84-33.08] Subscribe to learn more.
+   Subscribe(0.98) to(1.00) learn(1.00) more.(1.00)

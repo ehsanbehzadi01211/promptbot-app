@@ -1,0 +1,16 @@
+[0.00-3.44] Saying no is hard? Let AI handle it, so.
+   Saying(0.96) no(0.96) is(0.97) hard?(1.00) Let(0.99) AI(0.97) handle(1.00) it,(1.00) so.(0.68)
+[4.32-7.32] Write, I want to tell my co-worker I can't do this task.
+   Write,(0.94) I(0.98) want(0.86) to(1.00) tell(1.00) my(1.00) co(0.22) -worker(1.00) I(0.99) can't(1.00) do(1.00) this(1.00) task.(1.00)
+[7.62-9.78] Write a respectful but firm message.
+   Write(1.00) a(1.00) respectful(1.00) but(0.99) firm(1.00) message.(1.00)
+[10.34-12.32] Two versions, formal and friendly.
+   Two(0.99) versions,(1.00) formal(1.00) and(1.00) friendly.(1.00)
+[13.00-18.62] Instead of, I can't, I'm busy, you get a reply that's respectful and doesn't hurt the relationship.
+   Instead(1.00) of,(1.00) I(1.00) can't,(1.00) I'm(1.00) busy,(1.00) you(1.00) get(1.00) a(1.00) reply(1.00) that's(1.00) respectful(1.00) and(1.00) doesn't(1.00) hurt(1.00) the(1.00) relationship.(1.00)
+[19.48-21.30] It works for emails and messages.
+   It(1.00) works(1.00) for(1.00) emails(0.99) and(1.00) messages.(1.00)
+[22.16-24.36] You can even practice before a tough call.
+   You(1.00) can(1.00) even(1.00) practice(1.00) before(1.00) a(1.00) tough(1.00) call.(1.00)
+[24.84-26.84] Send this to someone who can't say no.
+   Send(1.00) this(1.00) to(1.00) someone(1.00) who(1.00) can't(1.00) say(1.00) no.(1.00)

@@ -1,0 +1,18 @@
+[0.00-4.16] Claude just landed inside Google Docs and Sheets and Slides.
+   Claude(0.63) just(0.99) landed(1.00) inside(1.00) Google(0.99) Docs(0.99) and(0.36) Sheets(0.97) and(0.97) Slides.(1.00)
+[4.90-6.40] No more copy and paste.
+   No(1.00) more(1.00) copy(0.98) and(0.96) paste.(1.00)
+[7.16-8.84] Here's what it does in each one.
+   Here's(0.99) what(1.00) it(1.00) does(1.00) in(1.00) each(1.00) one.(1.00)
+[10.02-12.30] In Docs, it fixes and rewrites your sentences.
+   In(1.00) Docs,(0.99) it(1.00) fixes(1.00) and(1.00) rewrites(1.00) your(1.00) sentences.(0.99)
+[13.60-15.84] In Sheets, Formulas, Pivot Tables, and Charts.
+   In(1.00) Sheets,(1.00) Formulas,(0.83) Pivot(0.99) Tables,(0.92) and(1.00) Charts.(1.00)
+[17.16-20.42] In Slides, it builds slides in your own template and relax.
+   In(1.00) Slides,(1.00) it(1.00) builds(1.00) slides(0.99) in(1.00) your(1.00) own(1.00) template(1.00) and(0.97) relax.(0.98)
+[21.14-24.20] By default, it asks before every edit.
+   By(1.00) default,(1.00) it(1.00) asks(1.00) before(1.00) every(1.00) edit.(1.00)
+[24.32-26.74] For now, it's in beta for paid Claude plans.
+   For(1.00) now,(1.00) it's(1.00) in(1.00) beta(0.90) for(1.00) paid(0.97) Claude(1.00) plans.(0.98)
+[27.86-31.08] Which one do you use the most? Tell me in the comments.
+   Which(0.63) one(0.97) do(0.99) you(1.00) use(1.00) the(0.98) most?(1.00) Tell(0.97) me(1.00) in(1.00) the(0.99) comments.(1.00)

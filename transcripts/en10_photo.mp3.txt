@@ -1,0 +1,20 @@
+[0.00-3.00] Did you know you can send AI just a photo and get an answer?
+   Did(0.98) you(1.00) know(1.00) you(0.99) can(1.00) send(1.00) AI(0.99) just(1.00) a(1.00) photo(1.00) and(1.00) get(1.00) an(1.00) answer?(1.00)
+[4.30-6.62] 1. Snap your fridge and ask what to cook.
+   1.(0.85) Snap(0.99) your(0.99) fridge(1.00) and(1.00) ask(1.00) what(1.00) to(1.00) cook.(1.00)
+[7.22-8.42] You get meal ideas.
+   You(1.00) get(1.00) meal(1.00) ideas.(1.00)
+[9.72-12.80] 2. Screenshot an error message on your phone or computer.
+   2.(1.00) Screenshot(1.00) an(1.00) error(1.00) message(1.00) on(1.00) your(1.00) phone(1.00) or(1.00) computer.(1.00)
+[13.22-15.46] It tells you what to do, do, step by step.
+   It(1.00) tells(1.00) you(1.00) what(1.00) to(1.00) do,(1.00) do,(0.95) step(1.00) by(0.98) step.(1.00)
+[17.06-19.42] 3. Traveling? Snap the restaurant menu.
+   3.(1.00) Traveling?(0.99) Snap(1.00) the(1.00) restaurant(1.00) menu.(1.00)
+[19.80-22.24] It translates it and explains each dish.
+   It(1.00) translates(1.00) it(1.00) and(1.00) explains(1.00) each(1.00) dish.(1.00)
+[22.42-26.12] Just remember, never send photos of your ID or bank cards.
+   Just(1.00) remember,(1.00) never(1.00) send(1.00) photos(1.00) of(1.00) your(1.00) ID(1.00) or(1.00) bank(1.00) cards.(1.00)
+[26.80-28.26] What if you asked it with a photo?
+   What(1.00) if(0.59) you(1.00) asked(1.00) it(1.00) with(1.00) a(1.00) photo?(1.00)
+[28.84-29.84] Tell me in the comments.
+   Tell(0.86) me(1.00) in(1.00) the(1.00) comments.(1.00)
