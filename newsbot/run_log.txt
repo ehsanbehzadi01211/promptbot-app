@@ -1,2 +1,46 @@
-Thu Nov 19 13:56:46 UTC 2026
+Thu Nov 19 21:28:05 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+== sources.json
+OpenAI: 2 fresh
+Google: 3 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 4 fresh
+Hugging Face: 3 fresh
+The Verge: 10 fresh
+TechCrunch: 20 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 2 fresh
+Product Hunt: 14 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 22 fresh
+new items: 8
+== sources_games.json
+Xbox Wire: 2 fresh
+PlayStation Blog: 1 fresh
+IGN: 20 fresh
+GameSpot: 14 fresh
+PC Gamer: 30 fresh
+Eurogamer: 30 fresh
+VGC: 10 fresh
+Push Square: 24 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 25 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 8
+== sources.json
+translated via clients5
+translated via clients5
+sent photo Felicis leads $7.5M bet on Unsiloed AI to make enterprise do
+== sources_games.json
+translated via clients5
+translated via clients5
+sent card What's coming in the next Minecraft update 26.4, Deep Freeze
