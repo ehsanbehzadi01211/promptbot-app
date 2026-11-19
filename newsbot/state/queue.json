@@ -1,17 +1,5 @@
 [
  {
-  "title": "Put Gemini to work for you",
-  "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
-  "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
-  "source": "Google",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-17T17:00:00+00:00",
-  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp",
-  "id": "357d085ae06f4ca2"
- },
- {
   "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
   "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US […]",
   "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
@@ -178,5 +166,64 @@
   "time": "2026-11-18T14:00:31+00:00",
   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nv-blog-1280x680-2-1.jpg",
   "id": "2f5d6d63b0593aac"
+ },
+ {
+  "title": "Research acceleration: The jagged frontier",
+  "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+  "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-18T08:00:00+00:00",
+  "image": "",
+  "id": "9fa731b0ef6c1da9"
+ },
+ {
+  "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+  "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+  "url": "https://openai.com/business/customer-stories/sumitomo-life",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-18T08:00:00+00:00",
+  "image": "",
+  "id": "b527b6f0ddceafec"
+ },
+ {
+  "title": "Anthropic prices initial public offering",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-11-19T03:20:05.375732+00:00",
+  "page": true,
+  "id": "909b75797cd1319b"
+ },
+ {
+  "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+  "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+  "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-18T22:58:11+00:00",
+  "image": "",
+  "id": "f7885a7f892bd839"
+ },
+ {
+  "title": "Anthropic’s Public Debut Sets Up ‘Experiment’ in Corporate Power",
+  "summary": "Anthropic’s Public Debut Sets Up ‘Experiment’ in Corporate Power The New York Times",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVUQyQ0JQSHpaYy0zQWtFemxqSnhlM2VXVUhMb1VMVkNrZ1pGX3N1QlI3SmdkamdRQmZ0QU1mVUZuNVJNWnhnOFg2d2V5bXdrdUVoVHFhVnkxeVRIQWMycFpxMjA1VTRkTG1KU1NzYy1jLThsTVlvTV9vaDFXbVM1X1BZc0ZsQXRkbTVR?oc=5",
+  "source": "The New York Times",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-18T21:41:59+00:00",
+  "image": "",
+  "id": "4fa0034a1507c248"
  }
 ]
