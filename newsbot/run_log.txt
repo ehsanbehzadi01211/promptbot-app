@@ -1,4 +1,46 @@
-Thu Nov 19 04:50:26 UTC 2026
+Thu Nov 19 12:56:09 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-promo sent post_04b0910ee996a3a7
-promo sent post_1426a5c7fc2cd446
+== sources.json
+OpenAI: 5 fresh
+Google: 1 fresh
+Google DeepMind: 2 fresh
+NVIDIA: 1 fresh
+Hugging Face: 3 fresh
+The Verge: 10 fresh
+TechCrunch: 19 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 2 fresh
+Product Hunt: 13 fresh
+Anthropic: 26 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 21 fresh
+new items: 2
+== sources_games.json
+Xbox Wire: 0 fresh
+PlayStation Blog: 1 fresh
+IGN: 20 fresh
+GameSpot: 15 fresh
+PC Gamer: 30 fresh
+Eurogamer: 24 fresh
+VGC: 10 fresh
+Push Square: 19 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 28 fresh
+Google News: 30 fresh
+Google News: 27 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 6
+== sources.json
+translated via clients5
+translated via clients5
+sent card Microsoft launches MAI Code 2 models to challenge OpenAI and
+== sources_games.json
+translated via clients5
+translated via clients5
+sent card PS5 gets its third system software update in a month, right 

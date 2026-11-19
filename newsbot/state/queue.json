@@ -1,41 +1,5 @@
 [
  {
-  "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-  "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US […]",
-  "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-  "source": "The Verge",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-17T18:58:01+00:00",
-  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Tasks-in-Gemini.png?quality=90&strip=all&crop=0,0,100,100",
-  "id": "72284a47c9d975a2"
- },
- {
-  "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-  "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-  "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-18T00:00:00+00:00",
-  "image": "",
-  "id": "6cab9c8cd38347e3"
- },
- {
-  "title": "Microsoft launches MAI Code 2 models to challenge OpenAI and Anthropic in AI coding",
-  "summary": "Microsoft launches MAI Code 2 models to challenge OpenAI and Anthropic in AI coding InfoWorld",
-  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR1Y0SWNrRFdxeWtFRkxJTGVuNElGM25QSjdFQ0FoZEQ4c1pHc0VLdEtGbTh0UHExemRDQm1Zc2dnRUFXWmgxVVJjS2o1Y1hqT09GNmZjV0pDam9PV2xVODdFU1pJS25DUnhjcWZNd3RvOHlCQjhtQjAtb0EzNkxwekR0cVpHQzMwNFZGMVdETXRKbEhYekFmdkdaN1lwcEEtYk1IMXZuSzBOMEtrM3V1LUVHTUhzTE84V21rekdoVFBGbWYwRlZxUnBB?oc=5",
-  "source": "InfoWorld",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-18T11:45:23+00:00",
-  "image": "",
-  "id": "cce10abce97f63d7"
- },
- {
   "title": "Meta to release Muse Charm, a Tamagotchi-like device for the Muse AI agent",
   "summary": "Meta to release Muse Charm, a Tamagotchi-like device for the Muse AI agent Mashable",
   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wbjVQWGtia1ZlQm5LRF9qWUJNU3V1NTFVVzc0SXdaNjlhSFJXZTRFUTM3b0FnVDFITEhveEtGZnc0Z21VZjVTd2VkTS1ad1hnX0tNV2pVYzJJRDNja0MySFhKTkVpR3BpUDF5b3h3?oc=5",
@@ -144,18 +108,6 @@
   "id": "8b6ac2940fdc0d0e"
  },
  {
-  "title": "Advancing chip design with OpenAI models",
-  "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-  "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-18T00:00:00+00:00",
-  "image": "",
-  "id": "c7d3ecb006439a13"
- },
- {
   "title": "NVIDIA RTX Spark Compact Desktops Out Now",
   "summary": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development […]",
   "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
@@ -225,5 +177,29 @@
   "time": "2026-11-18T21:41:59+00:00",
   "image": "",
   "id": "4fa0034a1507c248"
+ },
+ {
+  "title": "Anthropic's historic debut to put AI's promise and peril on Wall St trial",
+  "summary": "Anthropic's historic debut to put AI's promise and peril on Wall St trial Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5",
+  "source": "Reuters",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-19T12:39:45+00:00",
+  "image": "",
+  "id": "92376b4ef31c68ef"
+ },
+ {
+  "title": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
+  "summary": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards The New York Times",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FMG1KU0o0NERzUTNyMkszYVJhbGNJd2hnd3BGQ21uSFUtWC1KOUNCSkhxczlKQlVCVmoxZDhqRUMtOThWZGlXWnVCVjRYYlJQaENHN1hsUUp5RXdMQzF2Z0wwYW9wdVl4b1VrdG4tSXpHUVQxTnJZNVk2N0I2dw?oc=5",
+  "source": "The New York Times",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-19T10:03:26+00:00",
+  "image": "",
+  "id": "127bb676b564d488"
  }
 ]
