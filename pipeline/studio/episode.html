@@ -1,0 +1,125 @@
+<!doctype html><html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Vaz;src:url(vazirmatn-arabic-900-normal.woff2)}@font-face{font-family:VazL;src:url(vazirmatn-latin-900-normal.woff2)}
+html,body{margin:0;background:#000;overflow:hidden}
+#wrap{position:relative;overflow:hidden}
+#ui{position:absolute;inset:0;pointer-events:none;font-family:Vaz,VazL;color:#fff}
+.bug{position:absolute;top:36px;right:44px;display:flex;gap:14px;align-items:center;font:900 30px VazL,Vaz;letter-spacing:1px}
+.bug .live{background:#ff3b3b;border-radius:8px;padding:4px 14px;font-size:22px}
+.bug .day{background:rgba(0,0,0,.55);border:3px solid #ffb08a;border-radius:10px;padding:4px 16px;font:900 26px Vaz;direction:rtl}
+.lower{position:absolute;left:70px;bottom:330px;transform-origin:left;display:flex;align-items:stretch;direction:rtl}
+.lower .nm{background:#ff7a3d;color:#111;font:900 50px Vaz;padding:6px 28px 10px;border:5px solid #111;box-shadow:8px 8px 0 #111}
+.lower .rl{background:#111;color:#ffd34d;font:900 32px VazL,Vaz;padding:14px 24px;border:5px solid #111;box-shadow:8px 8px 0 #111;direction:ltr;display:flex;align-items:center}
+#sub{position:absolute;left:14%;right:14%;bottom:56px;text-align:center;direction:ltr;font:800 46px VazL,Vaz;line-height:1.4;padding:10px 30px;background:rgba(8,10,18,.72);border-radius:14px;border:3px solid rgba(255,255,255,.12)}
+#sub .w{opacity:.5}#sub .w.on{opacity:1}
+#sub .who{color:#ffb08a;margin-right:12px}#sub.g .who{color:#7fe3d6}
+#card{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:18px;background:radial-gradient(circle at 50% 45%,#1d2540,#06080f 70%)}
+#card .big{font:900 170px VazL;letter-spacing:-4px;text-shadow:0 0 40px #ff7a3d,0 8px 0 #000;color:#ffd0b8}
+#card .s1{font:900 54px Vaz;direction:rtl;color:#fff}
+#card .s2{font:900 36px Vaz;direction:rtl;color:#ffd34d}
+#card .tiny{font:700 22px Vaz;direction:rtl;color:#8b93a7;position:absolute;bottom:40px}
+#demo{position:absolute;inset:0;background:#000 center/cover no-repeat}
+#demo .lab{position:absolute;top:30px;left:40px;background:#ff3b3b;font:900 28px Vaz;padding:6px 18px;border-radius:8px;direction:rtl}
+</style>
+<script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.js"}}</script></head>
+<body><div id="wrap"><div id="ui">
+<div class="bug"><span class="day" id="day"></span><span>STUDIO AI</span><span class="live">● LIVE</span></div>
+<div class="lower" id="lower"><div class="nm" id="lnm"></div><div class="rl" id="lrl"></div></div>
+<div id="sub"></div>
+<div id="demo"><div class="lab" id="dlab"></div></div>
+<div id="card"></div>
+</div></div>
+<script type="module">
+import * as THREE from 'three'; import { makeChar, pose, CAST, pix } from './chars.js';
+const Q = new URLSearchParams(location.search), EP = await (await fetch(Q.get('ep') || 'ep01.json')).json();
+const W = +(Q.get('w') || 1920), H = +(Q.get('h') || 1080), VERT = H > W;
+document.getElementById('wrap').style.cssText = `width:${W}px;height:${H}px`;
+const R = new THREE.WebGLRenderer({ antialias: true, preserveDrawingBuffer: true }); R.setSize(W, H); R.shadowMap.enabled = true; R.shadowMap.type = THREE.PCFSoftShadowMap; R.outputColorSpace = THREE.SRGBColorSpace; R.toneMapping = THREE.ACESFilmicToneMapping; document.getElementById('wrap').prepend(R.domElement);
+const S = new THREE.Scene(); S.background = new THREE.Color('#0b0f1a'); S.fog = new THREE.Fog('#0b0f1a', 10, 24);
+const C = new THREE.PerspectiveCamera(VERT ? 50 : 32, W / H, .05, 100);
+S.add(new THREE.HemisphereLight('#bcd2ff', '#2a1a10', .85));
+const key = new THREE.DirectionalLight('#fff1dc', 2.3); key.position.set(3, 6, 6); key.castShadow = true; key.shadow.mapSize.set(2048, 2048); Object.assign(key.shadow.camera, { left: -7, right: 7, top: 5, bottom: -2 }); S.add(key);
+const rimA = new THREE.PointLight('#ff7a3d', 34, 13); rimA.position.set(-4.5, 3.2, -1.5); S.add(rimA); const rimB = new THREE.PointLight('#3d8bff', 34, 13); rimB.position.set(4.5, 3.2, -1.5); S.add(rimB);
+await document.fonts.load('900 40px Vaz'); await document.fonts.load('900 40px VazL');
+// set
+const ft = pix(16, (x) => { for (let i = 0; i < 16; i++) for (let j = 0; j < 16; j++) { x.fillStyle = ((i >> 2) + (j >> 2)) % 2 ? '#2a2f3d' : '#232836'; x.fillRect(i, j, 1, 1); } }); ft.wrapS = ft.wrapT = THREE.RepeatWrapping; ft.repeat.set(12, 6);
+const floor = new THREE.Mesh(new THREE.BoxGeometry(24, .2, 12), new THREE.MeshStandardMaterial({ map: ft, roughness: .55, metalness: .1 })); floor.position.y = -.1; floor.receiveShadow = true; S.add(floor);
+const wt = pix(16, (x) => { for (let i = 0; i < 16; i++) for (let j = 0; j < 16; j++) { x.fillStyle = (i % 8 === 0 || j % 4 === 0) ? '#141a2a' : '#1c2338'; x.fillRect(i, j, 1, 1); } }); wt.wrapS = wt.wrapT = THREE.RepeatWrapping; wt.repeat.set(12, 4);
+const wall = new THREE.Mesh(new THREE.BoxGeometry(24, 8, .3), new THREE.MeshStandardMaterial({ map: wt })); wall.position.set(0, 4, -3.2); wall.receiveShadow = true; S.add(wall);
+// neon sign
+const sc = document.createElement('canvas'); sc.width = 1024; sc.height = 256; const sx = sc.getContext('2d'); sx.font = '900 150px VazL'; sx.textAlign = 'center'; sx.textBaseline = 'middle'; sx.shadowColor = '#ff7a3d'; sx.shadowBlur = 40; sx.fillStyle = '#ffb08a'; sx.fillText('STUDIO AI', 512, 135);
+const sign = new THREE.Mesh(new THREE.PlaneGeometry(4, 1), new THREE.MeshBasicMaterial({ map: new THREE.CanvasTexture(sc), transparent: true })); sign.position.set(0, 4.35, -3.0); S.add(sign);
+// big monitor (demo frames go here)
+const mon = new THREE.Group(); const bez = new THREE.Mesh(new THREE.BoxGeometry(3.6, 2.15, .18), new THREE.MeshStandardMaterial({ color: '#111318', roughness: .4 })); mon.add(bez);
+const scrC = document.createElement('canvas'); scrC.width = 960; scrC.height = 540; const scrX = scrC.getContext('2d'); const scrT = new THREE.CanvasTexture(scrC); scrT.colorSpace = THREE.SRGBColorSpace;
+const scr = new THREE.Mesh(new THREE.PlaneGeometry(3.4, 1.9125), new THREE.MeshBasicMaterial({ map: scrT, toneMapped: false })); scr.position.z = .095; mon.add(scr); mon.position.set(0, 2.45, -2.95); S.add(mon);
+function idleScreen(t) { const g = scrX.createLinearGradient(0, 0, 960, 540); g.addColorStop(0, '#1b1036'); g.addColorStop(1, '#0d2a3a'); scrX.fillStyle = g; scrX.fillRect(0, 0, 960, 540);
+  for (let i = 0; i < 18; i++) { scrX.fillStyle = `hsla(${(i * 40 + t * 40) % 360},80%,60%,.18)`; scrX.fillRect(((i * 97 + t * 60) % 1100) - 80, (i * 53) % 540, 60, 60); }
+  scrX.font = '900 110px VazL'; scrX.textAlign = 'center'; scrX.textBaseline = 'middle'; scrX.fillStyle = '#ffd0b8'; scrX.fillText('STUDIO AI', 480, 230); scrX.font = '900 46px Vaz'; scrX.fillStyle = '#fff'; scrX.direction = 'rtl'; scrX.fillText(EP.dayLabel, 480, 340); scrT.needsUpdate = true; }
+// block plants + lights + door
+const leaf = pix(16, (x) => { for (let i = 0; i < 16; i++) for (let j = 0; j < 16; j++) { x.fillStyle = ['#2f7a3a', '#3a9a48', '#24602e'][(i * 7 + j * 3) % 3]; x.fillRect(i, j, 1, 1); } }), pot = pix(16, (x) => { x.fillStyle = '#8a5a3a'; x.fillRect(0, 0, 16, 16); x.fillStyle = '#6a4228'; x.fillRect(0, 0, 16, 3); });
+[-4.2, 4.2].forEach(px => { const p = new THREE.Mesh(new THREE.BoxGeometry(.6, .6, .6), new THREE.MeshStandardMaterial({ map: pot })); p.position.set(px, .3, -2.2); p.castShadow = true; S.add(p); const l = new THREE.Mesh(new THREE.BoxGeometry(.9, .9, .9), new THREE.MeshStandardMaterial({ map: leaf })); l.position.set(px, 1.05, -2.2); l.castShadow = true; S.add(l); const l2 = l.clone(); l2.scale.setScalar(.6); l2.position.y = 1.7; S.add(l2); });
+const doorT = pix(16, (x) => { x.fillStyle = '#5a3a24'; x.fillRect(0, 0, 16, 16); x.fillStyle = '#4a2e1c'; for (let j = 0; j < 16; j += 4) x.fillRect(0, j, 16, 1); x.fillStyle = '#ffd34d'; x.fillRect(12, 8, 2, 2); });
+const door = new THREE.Mesh(new THREE.BoxGeometry(1.4, 2.6, .2), new THREE.MeshStandardMaterial({ map: doorT })); door.position.set(5.6, 1.3, -3.0); S.add(door);
+const doorLight = new THREE.PointLight('#ffe6a8', 0, 6); doorLight.position.set(5.6, 2.6, -2.2); S.add(doorLight);
+// spotlights cones (fake)
+// cast
+const host = makeChar(CAST.claude), guest = makeChar(CAST[EP.guest]); [host, guest].forEach(c => { c.scale.setScalar(1.1); S.add(c); });
+host.position.set(-1.15, 0, 0); host.rotation.y = .35;
+const GX = 1.15;
+// ----- timeline helpers -----
+const L = EP.lines; const T = EP.t; // T: {intro, enter:[a,b], demo:[a,b], outro, dur}
+const ease = x => x < .5 ? 4 * x * x * x : 1 - Math.pow(-2 * x + 2, 3) / 2, clamp = (x, a = 0, b = 1) => Math.min(b, Math.max(a, x)), seg = (t, a, b) => clamp((t - a) / (b - a));
+const V = (x, y, z) => new THREE.Vector3(x, y, z);
+const SHOT = VERT ? {
+  wide: [V(0, 2.0, 10.5), V(0, 1.5, 0)], host: [V(-.85, 1.75, 3.4), V(-1.15, 1.55, 0)], guest: [V(.85, 1.75, 3.4), V(GX, 1.55, 0)], two: [V(0, 1.7, 7.2), V(0, 1.4, 0)],
+  door: [V(2.8, 1.8, 7.5), V(3.5, 1.3, -1)], mon: [V(0, 2.45, 1.4), V(0, 2.45, -3)] } : {
+  wide: [V(0, 2.2, 10.8), V(0, 1.75, 0)], host: [V(-.75, 2.05, 4.6), V(-1.15, 1.8, 0)], guest: [V(.75, 2.05, 4.6), V(GX, 1.8, 0)], two: [V(0, 1.95, 7.4), V(0, 1.6, 0)],
+  door: [V(1.6, 1.7, 7), V(3.6, 1.35, -1)], mon: [V(0, 2.45, 1.9), V(0, 2.45, -3)] };
+// shot list from lines
+const shots = [{ t: 0, s: 'wide' }];
+L.forEach((l, i) => { let s = l.spk === 'claude' ? 'host' : 'guest'; if (i === 1) s = 'two'; if (l.shot) s = l.shot; shots.push({ t: l.start - .15, s }); });
+shots.push({ t: T.enter[0], s: 'door' }); shots.push({ t: T.enter[1] - .6, s: 'two' }); shots.push({ t: T.demo[0] - .7, s: 'mon' }); shots.push({ t: T.demo[1], s: 'two' }); shots.push({ t: T.outro - .1, s: 'wide' });
+shots.sort((a, b) => a.t - b.t);
+function camAt(t) { let i = 0; for (let k = 0; k < shots.length; k++) if (t >= shots[k].t) i = k; const a = shots[Math.max(0, i - 1)], b = shots[i];
+  const k = ease(seg(t, b.t, b.t + .55)), A = SHOT[a.s], B = SHOT[b.s];
+  const p = A[0].clone().lerp(B[0], k), q = A[1].clone().lerp(B[1], k); const drift = Math.sin(t * .4) * .06; p.x += drift; p.y += Math.sin(t * .3) * .03; return [p, q]; }
+function envAt(l, t) { const i = Math.floor((t - l.start) * 30); return (i >= 0 && i < l.env.length) ? l.env[i] : 0; }
+// UI elements
+const dayEl = document.getElementById('day'), lower = document.getElementById('lower'), lnm = document.getElementById('lnm'), lrl = document.getElementById('lrl'), sub = document.getElementById('sub'), card = document.getElementById('card'), demo = document.getElementById('demo');
+dayEl.textContent = EP.dayLabel; document.getElementById('dlab').textContent = EP.demoLabel || 'نمایش واقعی · ساخته‌شده با HyperFrames';
+if (VERT) { sub.style.bottom = '300px'; sub.style.fontSize = '50px'; sub.style.left = '5%'; sub.style.right = '5%'; lower.style.bottom = '520px'; lower.style.left = '50px'; }
+const demoImgs = []; for (let i = 0; i < EP.demoFrames; i++) { const im = new Image(); im.src = `${EP.demoDir || 'demo'}/f_${String(i + 1).padStart(4, '0')}.jpg`; demoImgs.push(im); }
+await Promise.all(demoImgs.map(im => im.decode().catch(() => {})));
+let subKey = '';
+window.render = (t) => {
+  // guest walk in
+  const wk = seg(t, T.enter[0] + .2, T.enter[1]); const gx = 5.6 + (GX - 5.6) * ease(wk), gz = -2.2 + 2.2 * ease(wk);
+  guest.position.set(gx, 0, gz); guest.rotation.y = wk < 1 ? -Math.PI / 2 + .25 : -.35; guest.visible = t > T.enter[0];
+  doorLight.intensity = 14 * Math.sin(Math.PI * seg(t, T.enter[0] - .3, T.enter[1] + .3));
+  let talkH = 0, talkG = 0, cur = null;
+  for (const l of L) { if (t >= l.start && t < l.start + l.dur) { cur = l; const e = envAt(l, t); if (l.spk === 'claude') talkH = e; else talkG = e; } }
+  pose(host, t, talkH, { phase: 0, hold: true, wave: (t > .2 && t < 2.2) || (t > T.outro - .2 && t < T.outro + 1.6), look: cur && cur.spk !== 'claude' ? -.25 : (t > T.enter[0] && t < T.enter[1] ? -.6 : 0) });
+  pose(guest, t, talkG, { phase: 2, walk: wk > 0 && wk < 1 ? 1 : 0, hold: true, look: cur && cur.spk === 'claude' ? .25 : 0, wave: t > T.enter[1] - .3 && t < T.enter[1] + 1.2 });
+  // screen
+  const inDemo = t >= T.demo[0] - .7 && t < T.demo[1]; const di = Math.floor((t - T.demo[0]) * 30);
+  if (t >= T.demo[0] && di < EP.demoFrames && demoImgs[di]) { scrX.drawImage(demoImgs[Math.max(0, di)], 0, 0, 960, 540); scrT.needsUpdate = true; } else idleScreen(t);
+  const [p, q] = camAt(t); C.position.copy(p); C.lookAt(q); R.render(S, C);
+  // full-screen demo after push-in
+  const fs = seg(t, T.demo[0] + .15, T.demo[0] + .45) * (1 - seg(t, T.demo[1] - .35, T.demo[1] - .05));
+  demo.style.opacity = fs; if (fs > 0 && di >= 0 && demoImgs[Math.min(di, EP.demoFrames - 1)]) demo.style.backgroundImage = `url(${demoImgs[Math.min(di, EP.demoFrames - 1)].src})`;
+  // lower thirds
+  let lt = null; if (t > 2.4 && t < 6.6) lt = ['کلاد', 'مجری · STUDIO AI']; else if (t > T.enter[1] + .3 && t < T.enter[1] + 5.3) lt = [CAST[EP.guest].name, EP.guestRole];
+  const lk = lt ? Math.min(seg(t, (lt[0] === 'کلاد' ? 2.4 : T.enter[1] + .3), (lt[0] === 'کلاد' ? 2.4 : T.enter[1] + .3) + .35), 1 - seg(t, (lt[0] === 'کلاد' ? 6.2 : T.enter[1] + 4.9), (lt[0] === 'کلاد' ? 6.6 : T.enter[1] + 5.3))) : 0;
+  lower.style.opacity = lk; lower.style.transform = `scaleX(${.6 + .4 * lk})`; if (lt) { lnm.textContent = lt[0]; lrl.textContent = lt[1]; }
+  // subtitles: word reveal proportional to time
+  if (cur && fs < .5) { const ws = (cur.en || cur.text).split(' '), n = Math.ceil(ws.length * clamp((t - cur.start) / (cur.dur * .92))); const k2 = (cur.en || cur.text) + n;
+    if (k2 !== subKey) { subKey = k2; sub.className = cur.spk === 'claude' ? '' : 'g'; sub.innerHTML = `<span class="who">${cur.spk === 'claude' ? 'Claude:' : (EP.guestEn || 'Guest') + ':'}</span>` + ws.map((w, i) => `<span class="w${i < n ? ' on' : ''}">${w}</span>`).join(' '); }
+    sub.style.opacity = 1; } else sub.style.opacity = 0;
+  // intro / outro cards
+  let ck = 0; if (t < T.intro) { ck = 1 - seg(t, T.intro - .45, T.intro); card.innerHTML = `<div class="big" style="transform:scale(${.85 + .15 * ease(seg(t, 0, .6))})">STUDIO AI</div><div class="s1">۲۶ روز · ۲۶ ابزار ساخت ویدیو</div><div class="s2">${EP.dayLabel}</div><div class="tiny">برنامه‌ی مستقل @ehbehzad · وابسته به هیچ شرکتی نیست</div>`; }
+  else if (t > T.outro + 1.8) { ck = seg(t, T.outro + 1.8, T.outro + 2.2); card.innerHTML = `<div class="s2">فردا در STUDIO AI</div><div class="big" style="font-size:120px">${EP.next}</div><div class="s1">@ehbehzad رو دنبال کن 🔔</div><div class="tiny">برنامه‌ی مستقل · وابسته به هیچ شرکتی نیست</div>`; }
+  card.style.opacity = ck;
+};
+window.DUR = T.dur; window.render(0); window.READY = true;
+</script></body></html>
