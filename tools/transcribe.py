@@ -13,6 +13,7 @@ for name in open("transcribe.txt").read().split():
         out.append(f"[{s.start:.2f}-{s.end:.2f}] {s.text.strip()}")
         out.append("   " + " ".join(f"{w.word.strip()}({w.probability:.2f})" for w in s.words))
         words += [[w.word.strip(), round(w.start, 2), round(w.end, 2), round(w.probability, 2)] for w in s.words]
+    os.makedirs(os.path.dirname(os.path.join("transcripts", name)), exist_ok=True)
     open(os.path.join("transcripts", name + ".txt"), "w").write("\n".join(out) + "\n")
     json.dump(words, open(os.path.join("transcripts", name + ".json"), "w"))
     print(name, "ok", flush=True)
