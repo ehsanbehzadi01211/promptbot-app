@@ -1357,10 +1357,11 @@
     "media": "youtube/shorts/fa_aijob.mp4",
     "metricool_uuid": "-2782222933212837040",
     "metricool_date": "2026-10-10T22:15",
-    "status": "scheduled",
+    "status": "published",
     "id": "yo-2026-11-10-short",
     "via": "uplika",
-    "uplika_post": "post_04b0910ee996a3a7"
+    "uplika_post": "post_04b0910ee996a3a7",
+    "url": "https://www.youtube.com/watch?v=lIxwW_oyTzU"
   },
   {
     "platform": "instagram",
@@ -1801,12 +1802,13 @@
     "lang": "fa",
     "when": "2026-11-18T20:00",
     "topic": "GTA 6: ۵ چیز قبل از عرضه",
-    "status": "scheduled",
+    "status": "published",
     "via": "uplika",
     "uplika_post": "post_1426a5c7fc2cd446",
     "workspace": "ws_680c8b2ee3656246",
     "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794767769/v10_gta_a_final.mp4",
-    "note": "GTA VI series (owner, 15 Nov): official Rockstar footage, no comment keyword/DM"
+    "note": "GTA VI series (owner, 15 Nov): official Rockstar footage, no comment keyword/DM",
+    "url": "https://www.instagram.com/reel/Df48HS0kSvf/"
   },
   {
     "platform": "youtube",
@@ -1817,12 +1819,13 @@
     "lang": "fa",
     "when": "2026-11-18T20:00",
     "topic": "GTA 6: ۵ چیز قبل از عرضه",
-    "status": "scheduled",
+    "status": "published",
     "via": "uplika",
     "uplika_post": "post_1426a5c7fc2cd446",
     "workspace": "ws_680c8b2ee3656246",
     "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794767769/v10_gta_a_final.mp4",
-    "note": "GTA VI series (owner, 15 Nov): official Rockstar footage, no comment keyword/DM"
+    "note": "GTA VI series (owner, 15 Nov): official Rockstar footage, no comment keyword/DM",
+    "url": "https://www.youtube.com/watch?v=29L4n-B9WTA"
   },
   {
     "platform": "instagram",
