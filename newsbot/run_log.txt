@@ -1,46 +1,4 @@
-Thu Nov 19 03:20:04 UTC 2026
+Thu Nov 19 04:50:26 UTC 2026
 {'channel': 'set', 'owner': 'set'}
-== sources.json
-OpenAI: 8 fresh
-Google: 2 fresh
-Google DeepMind: 2 fresh
-NVIDIA: 1 fresh
-Hugging Face: 5 fresh
-The Verge: 10 fresh
-TechCrunch: 20 fresh
-feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 2 fresh
-Product Hunt: 8 fresh
-Anthropic: 26 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 23 fresh
-new items: 5
-== sources_games.json
-Xbox Wire: 7 fresh
-PlayStation Blog: 1 fresh
-IGN: 20 fresh
-GameSpot: 15 fresh
-PC Gamer: 30 fresh
-Eurogamer: 24 fresh
-VGC: 10 fresh
-Push Square: 25 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 26 fresh
-Google News: 30 fresh
-Google News: 29 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-new items: 4
-== sources.json
-translated via clients5
-translated via clients5
-sent photo Put Gemini to work for you
-== sources_games.json
-translated via clients5
-translated via clients5
-sent photo How to Get Ready for November 19
+promo sent post_04b0910ee996a3a7
+promo sent post_1426a5c7fc2cd446
