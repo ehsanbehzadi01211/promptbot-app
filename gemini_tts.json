@@ -224,5 +224,127 @@
     "style": "Speak in Persian (Farsi), natural Tehrani accent, TV talk show. Energetic, warm, charismatic TV host"
    }
   ]
+ },
+ {
+  "name": "e01_10b",
+  "voice": "Puck",
+  "no_fallback": true,
+  "lines": [
+   {
+    "text": "عالیه! حالا بیننده‌ها چطوری نصبت کنن؟",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent, TV talk show. Energetic, warm, charismatic TV host"
+   }
+  ]
+ },
+ {
+  "name": "e01_11b",
+  "voice": "Fenrir",
+  "no_fallback": true,
+  "lines": [
+   {
+    "text": "به کلاد کد بگو پلاگین هایپرفریمز رو نصب کنه. یا توی ترمینال بزن: ان‌پی‌اِکس اسکیلز اَد، هِی‌جِن، هایپرفریمز. بعدش فقط بگو چه ویدیویی می‌خوای!",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent, TV talk show. Excited, enthusiastic, fast guest"
+   }
+  ]
+ },
+ {
+  "name": "e01_12b",
+  "voice": "Puck",
+  "no_fallback": true,
+  "lines": [
+   {
+    "text": "ممنون فریم! دوستان، فردا مهمون ما ری‌موشنه. استودیو ای‌آی رو دنبال کنید. فعلاً خداحافظ!",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent, TV talk show. Energetic, warm, charismatic TV host"
+   }
+  ]
+ },
+ {
+  "name": "e02_dialog",
+  "no_fallback": true,
+  "speakers": [
+   {
+    "speaker": "Claude",
+    "voice": "Puck"
+   },
+   {
+    "speaker": "Remotion",
+    "voice": "Laomedeia"
+   }
+  ],
+  "style": "Speak in Persian (Farsi), natural Tehrani accent, TV talk show. Claude is an energetic, warm, charismatic TV host; Remotion is an upbeat, friendly young female guest. Leave a short natural pause between turns.",
+  "lines": [
+   {
+    "speaker": "Claude",
+    "text": "سلام، سلام! به استودیو ای‌آی خوش اومدید! بیست و شش روز، بیست و شش ابزار برای ساختن ویدیو با هوش مصنوعی. امروز روز دومه!"
+   },
+   {
+    "speaker": "Claude",
+    "text": "دیروز فریم اومد و نشون داد چطور با اچ‌تی‌ام‌ال ویدیو بسازیم. مهمون امروز از خانواده‌ی ریموشنه؛ ابزاری که خودش بیشتر از هفتاد و چهار هزار ستاره توی گیت‌هاب داره! تشویق کنید... ری‌موشن!"
+   },
+   {
+    "speaker": "Remotion",
+    "text": "سلام کلاد! سلام به همه! ممنون که دعوتم کردی."
+   },
+   {
+    "speaker": "Claude",
+    "text": "خوش اومدی! خودتو معرفی کن."
+   },
+   {
+    "speaker": "Remotion",
+    "text": "من نماینده‌ی اسکیل‌های رسمی ریموشنم. ریموشن ویدیو رو با ری‌اکت می‌سازه، یعنی با کد جاوااسکریپت. من یه بسته اسکیلم که به کلاد کد یاد می‌ده درست و حرفه‌ای با ریموشن کار کنه."
+   },
+   {
+    "speaker": "Claude",
+    "text": "اسکیل یعنی چی دقیقاً؟"
+   },
+   {
+    "speaker": "Remotion",
+    "text": "اسکیل یعنی یه دفترچه‌ی دستورالعمل برای ایجنت. وقتی بگی یه ویدیو بساز، کلاد اول اسکیل رو می‌خونه و بعد طبق بهترین روش‌ها کد می‌نویسه؛ دیگه حدس نمی‌زنه."
+   },
+   {
+    "speaker": "Claude",
+    "text": "چه کارهایی بلدی؟"
+   },
+   {
+    "speaker": "Remotion",
+    "text": "کلی کار! ساختن پروژه، انیمیشن و تایپوگرافی، زیرنویس خودکار، انیمیشن نقشه و مسیر، پیش‌نمایش توی استودیو و رندر نهایی. حتی مستندات ریموشن رو هم برات می‌گردم."
+   },
+   {
+    "speaker": "Claude",
+    "text": "فرقت با فریم که دیروز اومد چیه؟"
+   },
+   {
+    "speaker": "Remotion",
+    "text": "سؤال خوبیه! فریم با اچ‌تی‌ام‌ال ساده کار می‌کنه، من با ری‌اکت. پس اگه ری‌اکت بلدی، یا می‌خوای ویدیوها رو خودکار و از روی داده بسازی، من خیلی قوی‌ام."
+   },
+   {
+    "speaker": "Claude",
+    "text": "می‌تونی یه نمونه نشون بدی؟"
+   },
+   {
+    "speaker": "Remotion",
+    "text": "حتماً! این ویدیو رو همین امروز با ریموشن ساختیم. به مانیتور نگاه کن!"
+   },
+   {
+    "speaker": "Claude",
+    "text": "عالیه! هزینه‌اش چقدره؟"
+   },
+   {
+    "speaker": "Remotion",
+    "text": "اسکیل‌ها رایگانن. خود ریموشن هم برای افراد و شرکت‌های تا سه نفر رایگانه؛ شرکت‌های بزرگ‌تر باید لایسنس بخرن."
+   },
+   {
+    "speaker": "Claude",
+    "text": "خب، چطوری نصبت کنیم؟"
+   },
+   {
+    "speaker": "Remotion",
+    "text": "توی ترمینال بزن: ان‌پی‌اِکس اسکیلز اَد، ریموشن دِو، اسکیلز. بعد به کلاد کد بگو: با ریموشن یه ویدیو برام بساز."
+   },
+   {
+    "speaker": "Claude",
+    "text": "ممنون ری‌موشن! دوستان، فردا مهمون ما تگه؛ ابزاری که اچ‌تی‌ام‌ال رو روی لپ‌تاپ خودت به ویدیو تبدیل می‌کنه. استودیو ای‌آی رو دنبال کنید. فعلاً خداحافظ!"
+   }
+  ]
  }
 ]

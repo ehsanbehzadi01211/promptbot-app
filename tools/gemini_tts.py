@@ -39,14 +39,19 @@ for it in json.load(open('gemini_tts.json')):
     out = f"media/gtts/{it['name']}.wav"
     if os.path.exists(out): continue
     log = []
-    for how, model in [('interactions', it.get('model', 'gemini-3.8-flash-tts')), ('classic', it.get('model', 'gemini-3.8-flash-tts')), ('classic', 'gemini-2.5-flash-preview-tts')]:
+    m = it.get('model', 'gemini-3.8-flash-tts')
+    order = [('classic', m), ('interactions', m)] if 'speakers' in it else [('interactions', m), ('classic', m)]
+    if not it.get('no_fallback'): order.append(('classic', 'gemini-2.5-flash-preview-tts'))
+    for how, model in order:
         r = (interactions if how == 'interactions' else classic)(it, model)
         try: j = r.json()
         except Exception: j = {'raw': r.text[:500]}
         a = find_audio(j)
         if r.ok and a:
             b = base64.b64decode(a)
-            open(out, 'wb').write(b if b[:4] == b'RIFF' else wav(b)); print(it['name'], how, model, len(b)); break
+            open(out, 'wb').write(b if b[:4] == b'RIFF' else wav(b)); print(it['name'], how, model, len(b))
+            if log: open(f"media/gtts/{it['name']}.log.txt", 'w').write('\n\n'.join(log))
+            break
         log.append(f'{how} {model} HTTP {r.status_code}: ' + json.dumps(strip(j), ensure_ascii=False)[:1500])
     else:
         open(f"media/gtts/{it['name']}.err.txt", 'w').write('\n\n'.join(log)); print(it['name'], 'FAILED')
