@@ -1,1 +1,1 @@
-gtts/e02_dialog.wav 
+gtts/tz01_narr.wav gtts/tz02_narr.wav
