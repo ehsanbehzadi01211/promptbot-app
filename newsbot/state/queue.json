@@ -1,29 +1,5 @@
 [
  {
-  "title": "\"The bare minimum\": Democrats demand transparency ahead of Anthropic's $1T debut.",
-  "summary": "\"The bare minimum\": Democrats demand transparency ahead of Anthropic's $1T debut. Axios",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wSERnVnI0c3Rkd05mTlhnT1dnSUVNNWtuUlBEb0JDVXdoNEJZYVFPNjdHMjlLMWZaTWRfUFpUOTAwOXZEZjVNWWlfbS11U3JZdl9hLWdyRm1FaS1SY2Jfc1VjeHhOaXJOMzdUaE9aY3NBenhxcWR4WThBSDBBRGc?oc=5",
-  "source": "Axios",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-18T10:45:50+00:00",
-  "image": "",
-  "id": "7c602e2b418cd16b"
- },
- {
-  "title": "The Gemini app is now available on lower-memory Android devices.",
-  "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-  "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-  "source": "Google",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-18T17:00:00+00:00",
-  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp",
-  "id": "03ca256a4adf4087"
- },
- {
   "title": "Introducing Gemini 4 Neon",
   "summary": "",
   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
@@ -46,30 +22,6 @@
   "time": "2026-11-18T18:13:42+00:00",
   "image": "",
   "id": "652211f5c064d475"
- },
- {
-  "title": "The Silent Consensus",
-  "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-  "url": "https://openai.com/index/the-silent-consensus",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-18T10:00:00+00:00",
-  "image": "",
-  "id": "e683d40fba103b5f"
- },
- {
-  "title": "NVIDIA RTX Spark Compact Desktops Out Now",
-  "summary": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development […]",
-  "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-18T14:00:31+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nv-blog-1280x680-2-1.jpg",
-  "id": "2f5d6d63b0593aac"
  },
  {
   "title": "Anthropic prices initial public offering",
@@ -225,5 +177,101 @@
   "time": "2026-11-19T21:01:02+00:00",
   "image": "",
   "id": "c2349998771cb9ed"
+ },
+ {
+  "title": "Deploying Daybreak Red",
+  "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+  "url": "https://openai.com/business/learn/deploying-daybreak-red",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-19T00:00:00+00:00",
+  "image": "",
+  "id": "4b08ec50268e04a4"
+ },
+ {
+  "title": "See PR scans in action",
+  "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+  "url": "https://openai.com/business/learn/pr-scans-demo",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-19T00:00:00+00:00",
+  "image": "",
+  "id": "cb99e2baa62e7866"
+ },
+ {
+  "title": "Explore the Codex Security Plugin",
+  "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+  "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-19T00:00:00+00:00",
+  "image": "",
+  "id": "e29ac258c013c12c"
+ },
+ {
+  "title": "Get started with Daybreak Blue",
+  "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+  "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-19T00:00:00+00:00",
+  "image": "",
+  "id": "a2fb00344062975f"
+ },
+ {
+  "title": "Apple is hiring engineers to build its own AI agent",
+  "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. […]",
+  "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+  "source": "The Verge",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-19T22:31:41+00:00",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "id": "a22c687c439c6aed"
+ },
+ {
+  "title": "Apple may be developing its own AI agent that runs your Mac",
+  "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+  "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-20T00:56:01+00:00",
+  "image": "",
+  "id": "8f4728ffc5b95bfc"
+ },
+ {
+  "title": "These tech outages are giving Y2K, AI agent style",
+  "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+  "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-19T21:42:31+00:00",
+  "image": "",
+  "id": "f2dddf2ea7d8bc56"
+ },
+ {
+  "title": "Apple Developing AI Agent to Rival Meta and OpenAI",
+  "summary": "Apple Developing AI Agent to Rival Meta and OpenAI The Information",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTDFnNjhGLUwyN1Z5c2ZSOWJZd19SZkV6Vl94MDhmZWtPajRKaGozV090MWx0ZkxJa2VSRUtoU19zQzZCeWFHNTlGNkxmblhFakRMQWFVSE9fY3pZUlNsTHVqRWVSbmdrTU5NV2VNZ1FDM3FLeDFkUWNRWHlNdEJBUlJiV3I5WFYwbEhJdQ?oc=5",
+  "source": "The Information",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-19T22:49:00+00:00",
+  "image": "",
+  "id": "4c68f834074cdfb6"
  }
 ]
