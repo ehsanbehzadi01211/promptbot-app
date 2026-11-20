@@ -346,5 +346,27 @@
     "text": "ممنون ری‌موشن! دوستان، فردا مهمون ما تگه؛ ابزاری که اچ‌تی‌ام‌ال رو روی لپ‌تاپ خودت به ویدیو تبدیل می‌کنه. استودیو ای‌آی رو دنبال کنید. فعلاً خداحافظ!"
    }
   ]
+ },
+ {
+  "name": "tz01_narr",
+  "voice": "Alnilam",
+  "no_fallback": true,
+  "lines": [
+   {
+    "text": "استودیو ای‌آی. روز اول... بیست و شش روز، بیست و شش ابزار ساخت ویدیو. امروز: هایپرفریمز. فقط اچ‌تی‌ام‌ال بنویس... و ویدیو تحویل بگیر. رایگان. متن‌باز. از تیم هِی‌جِن. نصبش فقط یه خطه. قسمت کامل رو توی یوتیوب ببین.",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent. Epic movie-trailer narrator: deep, intense, dramatic, with clear pauses between phrases."
+   }
+  ]
+ },
+ {
+  "name": "tz02_narr",
+  "voice": "Alnilam",
+  "no_fallback": true,
+  "lines": [
+   {
+    "text": "استودیو ای‌آی. روز دوم... بیست و شش روز، بیست و شش ابزار ساخت ویدیو. امروز: ریموشن. ویدیو با ری‌اکت... حتی از روی داده. اسکیل رسمی و رایگان. نصبش فقط یه خطه. قسمت کامل رو توی یوتیوب ببین.",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent. Epic movie-trailer narrator: deep, intense, dramatic, with clear pauses between phrases."
+   }
+  ]
  }
 ]
