@@ -118,5 +118,88 @@
   "time": "2026-11-19T23:22:04+00:00",
   "image": "",
   "id": "fedbce0332fe9550"
+ },
+ {
+  "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+  "summary": "",
+  "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-20T00:00:00+00:00",
+  "image": "",
+  "id": "211fbe8009a45ecd"
+ },
+ {
+  "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of…",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/ipo-close",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-11-20T20:05:15.128113+00:00",
+  "page": true,
+  "id": "9afed0143cc7325c"
+ },
+ {
+  "title": "Combatting adversarial distillation",
+  "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+  "url": "https://openai.com/index/combatting-adversarial-distillation",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-20T10:00:00+00:00",
+  "image": "",
+  "id": "3ea993db7e3c60d1"
+ },
+ {
+  "title": "Can AI help scientists identify promising drug candidates?",
+  "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+  "url": "https://openai.com/index/introducing-medchembench",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-20T00:00:00+00:00",
+  "image": "",
+  "id": "f4784c30400364a2"
+ },
+ {
+  "title": "The most misunderstood graph in AI just got a major update",
+  "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…",
+  "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+  "source": "MIT Technology Review",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-20T18:15:15+00:00",
+  "image": "",
+  "id": "01449c61c8b86a22"
+ },
+ {
+  "title": "Watch Apple Working on Own AI Agent to Rival OpenAI and Anthropic",
+  "summary": "Watch Apple Working on Own AI Agent to Rival OpenAI and Anthropic Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORGRsVHY3NlVvcnhJdWRjQnliaU9JLWJxelBjUjhFSVFLRzF0czdXcThNQ00tQ01paE1rdlRQNTFNQ2RzVUFJbFlwQ2trSHNfdTNGZ3BhTVItakZjQl9Wb2tuZHI5MEhSSm42VVpzYk9PYmJNdWd2SjIyck1lTXdFWW9LeVdhWmhHTFR0bV9IbjBkbGYtcFI1TWk5eHc3RkJOb1ZEYTl3?oc=5",
+  "source": "Bloomberg.com",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-20T17:59:39+00:00",
+  "image": "",
+  "id": "74305df29160db59"
+ },
+ {
+  "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
+  "summary": "Anthropic's post-debut stumble delivers reality check for AI trade Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWtIWXhnWHpsWWZSZ2dFVFRFSXBHaUxOWlp1VnFSZEoycGRtMDE1NVhuM2NEa2ZUTHlLN0lFbG5aX295SThLcFVXMEV3VmJidHF2amdDelVYWWprLXRsNWpodU9LcERma2xnc2pWaTZGbmNHZnYwREdjQnBOcGR0S0JSdnZTaC1aYmtBWXdRXzJiVDhHbFBEZ3lDdWhzS3Q3dnFMY3d3cjZIdw?oc=5",
+  "source": "Reuters",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-20T18:16:04+00:00",
+  "image": "",
+  "id": "7c8b7caaf20788c3"
  }
 ]
