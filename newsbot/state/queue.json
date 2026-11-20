@@ -1,64 +1,5 @@
 [
  {
-  "title": "Introducing Gemini 4 Neon",
-  "summary": "",
-  "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-  "source": "Google DeepMind",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-18T21:35:43+00:00",
-  "image": "",
-  "id": "0c3c8b23c6caec3f"
- },
- {
-  "title": "Genie 4 is now available",
-  "summary": "",
-  "url": "https://deepmind.google/blog/genie-4-is-now-available/",
-  "source": "Google DeepMind",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-18T18:13:42+00:00",
-  "image": "",
-  "id": "652211f5c064d475"
- },
- {
-  "title": "Anthropic prices initial public offering",
-  "summary": "",
-  "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-  "source": "Anthropic",
-  "official": true,
-  "tools": false,
-  "time": "2026-11-19T03:20:05.375732+00:00",
-  "page": true,
-  "id": "909b75797cd1319b"
- },
- {
-  "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-  "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-  "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-  "source": "TechCrunch",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-18T22:58:11+00:00",
-  "image": "",
-  "id": "f7885a7f892bd839"
- },
- {
-  "title": "Anthropic’s Public Debut Sets Up ‘Experiment’ in Corporate Power",
-  "summary": "Anthropic’s Public Debut Sets Up ‘Experiment’ in Corporate Power The New York Times",
-  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVUQyQ0JQSHpaYy0zQWtFemxqSnhlM2VXVUhMb1VMVkNrZ1pGX3N1QlI3SmdkamdRQmZ0QU1mVUZuNVJNWnhnOFg2d2V5bXdrdUVoVHFhVnkxeVRIQWMycFpxMjA1VTRkTG1KU1NzYy1jLThsTVlvTV9vaDFXbVM1X1BZc0ZsQXRkbTVR?oc=5",
-  "source": "The New York Times",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-18T21:41:59+00:00",
-  "image": "",
-  "id": "4fa0034a1507c248"
- },
- {
   "title": "Anthropic's historic debut to put AI's promise and peril on Wall St trial",
   "summary": "Anthropic's historic debut to put AI's promise and peril on Wall St trial Reuters",
   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5",
@@ -273,5 +214,29 @@
   "time": "2026-11-19T22:49:00+00:00",
   "image": "",
   "id": "4c68f834074cdfb6"
+ },
+ {
+  "title": "OpenAI Is Testing Dots Personal Agents On Its $20 Per Month Plus Tier",
+  "summary": "OpenAI Is Testing Dots Personal Agents On Its $20 Per Month Plus Tier Engadget",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmRSbmQ3VFZuUkpoaE8yRTdvVFp1eEs1T3JuVmhtLWFfQVBqQ3VWNUU2WkZTeFF1QVRTQTJ6bV9DS2V2c01tUDJlNG9GTkZ4SUkwSlo1YkxsTl9LeDdLWXF3RnhJVjZEWnZ0dlFHXzZERWJJWDBnUDNJUGtmNFVnU3N6UlE1Vk1oNS1rTm1rem00MlhjbVAwcWZhcEFrMGhfd1JpRQ?oc=5",
+  "source": "Engadget",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-20T07:31:25+00:00",
+  "image": "",
+  "id": "3a0628e499510add"
+ },
+ {
+  "title": "Anthropic's $1.5 trillion debut rewrites venture capital's playbook",
+  "summary": "Anthropic's $1.5 trillion debut rewrites venture capital's playbook Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVk2clRUVFZnTGJTcG1qOWpTRmlSQmRjTXdoVFhIMGQ1cU1idU5RTVFqOVhob2NMQXYyWlVTeEhpU2N2cEk5d0pJSlhic2NSaHJ2M0V1b3N2WW9BalFiZ3VnQnpuY1VKV3Fwd1pkMWw0N1FnRlNPZmdXRFVudkhGOHA5OHNsVzBPWnRWaWNnTmRTNFBQQTVKSEF1WndCeVhnSmZ3S1ZCVzBtcDBWSk9VS3ViTnY5UThFaHFz?oc=5",
+  "source": "Reuters",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-19T23:22:04+00:00",
+  "image": "",
+  "id": "fedbce0332fe9550"
  }
 ]
