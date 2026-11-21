@@ -18,6 +18,9 @@ html,body{margin:0;background:#000;overflow:hidden}
 #card .s1{font:900 54px Vaz;direction:rtl;color:#fff}
 #card .s2{font:900 36px Vaz;direction:rtl;color:#ffd34d}
 #card .tiny{font:700 22px Vaz;direction:rtl;color:#8b93a7;position:absolute;bottom:40px}
+#beat{position:absolute;left:7%;right:7%;bottom:12%;background:rgba(6,8,15,.88);border:4px solid #ff7a3d;border-radius:28px;padding:26px 10px;text-align:center;font:900 96px Vaz,VazL;line-height:1.25;color:#fff;text-shadow:0 6px 0 #000,0 0 30px rgba(255,122,61,.7);direction:rtl}
+#beat b{color:#ffd34d}
+#beat .cmd{font:700 50px 'DejaVu Sans Mono',monospace;direction:ltr;display:block;background:#0d1117;border-radius:20px;padding:20px;color:#7ee787;text-shadow:none}
 #demo{position:absolute;inset:0;background:#000 center/cover no-repeat}
 #demo .lab{position:absolute;top:30px;left:40px;background:#ff3b3b;font:900 28px Vaz;padding:6px 18px;border-radius:8px;direction:rtl}
 </style>
@@ -27,7 +30,7 @@ html,body{margin:0;background:#000;overflow:hidden}
 <div class="lower" id="lower"><div class="nm" id="lnm"></div><div class="rl" id="lrl"></div></div>
 <div id="sub"></div>
 <div id="demo"><div class="lab" id="dlab"></div></div>
-<div id="card"></div>
+<div id="beat"></div><div id="card"></div>
 </div></div>
 <script type="module">
 import * as THREE from 'three'; import { makeChar, pose, CAST, pix } from './chars.js';
@@ -49,13 +52,16 @@ const wall = new THREE.Mesh(new THREE.BoxGeometry(24, 8, .3), new THREE.MeshStan
 // neon sign
 const sc = document.createElement('canvas'); sc.width = 1024; sc.height = 256; const sx = sc.getContext('2d'); sx.font = '900 150px VazL'; sx.textAlign = 'center'; sx.textBaseline = 'middle'; sx.shadowColor = '#ff7a3d'; sx.shadowBlur = 40; sx.fillStyle = '#ffb08a'; sx.fillText('STUDIO AI', 512, 135);
 const sign = new THREE.Mesh(new THREE.PlaneGeometry(4, 1), new THREE.MeshBasicMaterial({ map: new THREE.CanvasTexture(sc), transparent: true })); sign.position.set(0, 4.35, -3.0); S.add(sign);
+// channel id under the sign (orange)
+const ic = document.createElement('canvas'); ic.width = 1024; ic.height = 160; const ix = ic.getContext('2d'); ix.font = '900 96px VazL'; ix.textAlign = 'center'; ix.textBaseline = 'middle'; ix.shadowColor = '#ff4a00'; ix.shadowBlur = 24; ix.fillStyle = '#ff6a00'; ix.fillText('@ehbehzad', 512, 85);
+const idSign = new THREE.Mesh(new THREE.PlaneGeometry(4, 0.625), new THREE.MeshBasicMaterial({ map: new THREE.CanvasTexture(ic), transparent: true, toneMapped: false, color: 0xffa070 })); idSign.position.set(0, 3.72, -3.0); S.add(idSign);
 // big monitor (demo frames go here)
 const mon = new THREE.Group(); const bez = new THREE.Mesh(new THREE.BoxGeometry(3.6, 2.15, .18), new THREE.MeshStandardMaterial({ color: '#111318', roughness: .4 })); mon.add(bez);
 const scrC = document.createElement('canvas'); scrC.width = 960; scrC.height = 540; const scrX = scrC.getContext('2d'); const scrT = new THREE.CanvasTexture(scrC); scrT.colorSpace = THREE.SRGBColorSpace;
 const scr = new THREE.Mesh(new THREE.PlaneGeometry(3.4, 1.9125), new THREE.MeshBasicMaterial({ map: scrT, toneMapped: false })); scr.position.z = .095; mon.add(scr); mon.position.set(0, 2.45, -2.95); S.add(mon);
 function idleScreen(t) { const g = scrX.createLinearGradient(0, 0, 960, 540); g.addColorStop(0, '#1b1036'); g.addColorStop(1, '#0d2a3a'); scrX.fillStyle = g; scrX.fillRect(0, 0, 960, 540);
   for (let i = 0; i < 18; i++) { scrX.fillStyle = `hsla(${(i * 40 + t * 40) % 360},80%,60%,.18)`; scrX.fillRect(((i * 97 + t * 60) % 1100) - 80, (i * 53) % 540, 60, 60); }
-  scrX.font = '900 110px VazL'; scrX.textAlign = 'center'; scrX.textBaseline = 'middle'; scrX.fillStyle = '#ffd0b8'; scrX.fillText('STUDIO AI', 480, 230); scrX.font = '900 46px Vaz'; scrX.fillStyle = '#fff'; scrX.direction = 'rtl'; scrX.fillText(EP.dayLabel, 480, 340); scrT.needsUpdate = true; }
+  scrX.font = '900 110px VazL'; scrX.textAlign = 'center'; scrX.textBaseline = 'middle'; scrX.fillStyle = '#ffd0b8'; scrX.fillText('STUDIO AI', 480, 230); scrX.direction = 'ltr'; scrX.font = '900 52px VazL'; scrX.fillStyle = '#ff6a00'; scrX.fillText('@ehbehzad', 480, 292); scrX.font = '900 46px Vaz'; scrX.fillStyle = '#fff'; scrX.direction = 'rtl'; scrX.fillText(EP.dayLabel, 480, 370); scrT.needsUpdate = true; }
 // block plants + lights + door
 const leaf = pix(16, (x) => { for (let i = 0; i < 16; i++) for (let j = 0; j < 16; j++) { x.fillStyle = ['#2f7a3a', '#3a9a48', '#24602e'][(i * 7 + j * 3) % 3]; x.fillRect(i, j, 1, 1); } }), pot = pix(16, (x) => { x.fillStyle = '#8a5a3a'; x.fillRect(0, 0, 16, 16); x.fillStyle = '#6a4228'; x.fillRect(0, 0, 16, 3); });
 [-4.2, 4.2].forEach(px => { const p = new THREE.Mesh(new THREE.BoxGeometry(.6, .6, .6), new THREE.MeshStandardMaterial({ map: pot })); p.position.set(px, .3, -2.2); p.castShadow = true; S.add(p); const l = new THREE.Mesh(new THREE.BoxGeometry(.9, .9, .9), new THREE.MeshStandardMaterial({ map: leaf })); l.position.set(px, 1.05, -2.2); l.castShadow = true; S.add(l); const l2 = l.clone(); l2.scale.setScalar(.6); l2.position.y = 1.7; S.add(l2); });
@@ -80,6 +86,7 @@ const SHOT = VERT ? {
 const shots = [{ t: 0, s: 'wide' }];
 L.forEach((l, i) => { let s = l.spk === 'claude' ? 'host' : 'guest'; if (i === 1) s = 'two'; if (l.shot) s = l.shot; shots.push({ t: l.start - .15, s }); });
 shots.push({ t: T.enter[0], s: 'door' }); shots.push({ t: T.enter[1] - .6, s: 'two' }); shots.push({ t: T.demo[0] - .7, s: 'mon' }); shots.push({ t: T.demo[1], s: 'two' }); shots.push({ t: T.outro - .1, s: 'wide' });
+if (EP.shots) { shots.length = 0; EP.shots.forEach(x => shots.push(x)); }
 shots.sort((a, b) => a.t - b.t);
 function camAt(t) { let i = 0; for (let k = 0; k < shots.length; k++) if (t >= shots[k].t) i = k; const a = shots[Math.max(0, i - 1)], b = shots[i];
   const k = ease(seg(t, b.t, b.t + .55)), A = SHOT[a.s], B = SHOT[b.s];
@@ -88,7 +95,7 @@ function envAt(l, t) { const i = Math.floor((t - l.start) * 30); return (i >= 0 
 // UI elements
 const dayEl = document.getElementById('day'), lower = document.getElementById('lower'), lnm = document.getElementById('lnm'), lrl = document.getElementById('lrl'), sub = document.getElementById('sub'), card = document.getElementById('card'), demo = document.getElementById('demo');
 dayEl.textContent = EP.dayLabel; document.getElementById('dlab').textContent = EP.demoLabel || 'نمایش واقعی · ساخته‌شده با HyperFrames';
-if (VERT) { sub.style.bottom = '300px'; sub.style.fontSize = '50px'; sub.style.left = '5%'; sub.style.right = '5%'; lower.style.bottom = '520px'; lower.style.left = '50px'; }
+if (VERT) { demo.style.backgroundSize = 'contain'; demo.style.backgroundColor = '#06080f'; sub.style.bottom = '300px'; sub.style.fontSize = '50px'; sub.style.left = '5%'; sub.style.right = '5%'; lower.style.bottom = '520px'; lower.style.left = '50px'; }
 const demoImgs = []; for (let i = 0; i < EP.demoFrames; i++) { const im = new Image(); im.src = `${EP.demoDir || 'demo'}/f_${String(i + 1).padStart(4, '0')}.jpg`; demoImgs.push(im); }
 await Promise.all(demoImgs.map(im => im.decode().catch(() => {})));
 let subKey = '';
@@ -110,15 +117,18 @@ window.render = (t) => {
   demo.style.opacity = fs; if (fs > 0 && di >= 0 && demoImgs[Math.min(di, EP.demoFrames - 1)]) demo.style.backgroundImage = `url(${demoImgs[Math.min(di, EP.demoFrames - 1)].src})`;
   // lower thirds
   let lt = null; if (t > 2.4 && t < 6.6) lt = ['کلاد', 'مجری · STUDIO AI']; else if (t > T.enter[1] + .3 && t < T.enter[1] + 5.3) lt = [CAST[EP.guest].name, EP.guestRole];
-  const lk = lt ? Math.min(seg(t, (lt[0] === 'کلاد' ? 2.4 : T.enter[1] + .3), (lt[0] === 'کلاد' ? 2.4 : T.enter[1] + .3) + .35), 1 - seg(t, (lt[0] === 'کلاد' ? 6.2 : T.enter[1] + 4.9), (lt[0] === 'کلاد' ? 6.6 : T.enter[1] + 5.3))) : 0;
-  lower.style.opacity = lk; lower.style.transform = `scaleX(${.6 + .4 * lk})`; if (lt) { lnm.textContent = lt[0]; lrl.textContent = lt[1]; }
+  let lk = lt ? Math.min(seg(t, (lt[0] === 'کلاد' ? 2.4 : T.enter[1] + .3), (lt[0] === 'کلاد' ? 2.4 : T.enter[1] + .3) + .35), 1 - seg(t, (lt[0] === 'کلاد' ? 6.2 : T.enter[1] + 4.9), (lt[0] === 'کلاد' ? 6.6 : T.enter[1] + 5.3))) : 0;
+  if (EP.teaser) lk = 0; lower.style.opacity = lk; lower.style.transform = `scaleX(${.6 + .4 * lk})`; if (lt) { lnm.textContent = lt[0]; lrl.textContent = lt[1]; }
   // subtitles: word reveal proportional to time
   if (cur && fs < .5) { const ws = (cur.en || cur.text).split(' '), n = Math.ceil(ws.length * clamp((t - cur.start) / (cur.dur * .92))); const k2 = (cur.en || cur.text) + n;
     if (k2 !== subKey) { subKey = k2; sub.className = cur.spk === 'claude' ? '' : 'g'; sub.innerHTML = `<span class="who">${cur.spk === 'claude' ? 'Claude:' : (EP.guestEn || 'Guest') + ':'}</span>` + ws.map((w, i) => `<span class="w${i < n ? ' on' : ''}">${w}</span>`).join(' '); }
     sub.style.opacity = 1; } else sub.style.opacity = 0;
+  const beatEl = document.getElementById('beat'); let bt = null; (EP.beats || []).forEach(b => { if (t >= b[0] && t < b[1]) bt = b; });
+  if (bt) { const k = Math.min(seg(t, bt[0], bt[0] + .2), 1 - seg(t, bt[1] - .2, bt[1])); beatEl.innerHTML = bt[2]; beatEl.style.opacity = k; beatEl.style.transform = `scale(${.7 + .3 * ease(seg(t, bt[0], bt[0] + .25))})`; } else beatEl.style.opacity = 0;
   // intro / outro cards
   let ck = 0; if (t < T.intro) { ck = 1 - seg(t, T.intro - .45, T.intro); card.innerHTML = `<div class="big" style="transform:scale(${.85 + .15 * ease(seg(t, 0, .6))})">STUDIO AI</div><div class="s1">۲۶ روز · ۲۶ ابزار ساخت ویدیو</div><div class="s2">${EP.dayLabel}</div><div class="tiny">برنامه‌ی مستقل @ehbehzad · وابسته به هیچ شرکتی نیست</div>`; }
-  else if (t > T.outro + 1.8) { ck = seg(t, T.outro + 1.8, T.outro + 2.2); card.innerHTML = `<div class="s2">فردا در STUDIO AI</div><div class="big" style="font-size:120px">${EP.next}</div><div class="s1">@ehbehzad رو دنبال کن 🔔</div><div class="tiny">برنامه‌ی مستقل · وابسته به هیچ شرکتی نیست</div>`; }
+  else if (EP.teaser && t > T.outro) { ck = seg(t, T.outro, T.outro + .35); card.innerHTML = `<div class="big" style="font-size:${VERT ? 120 : 160}px">STUDIO AI</div><div class="s1">قسمت کامل در یوتیوب ▶</div><div class="s2">youtube.com/@ehbehzad</div><div class="tiny">برنامه‌ی مستقل · وابسته به هیچ شرکتی نیست</div>`; }
+  else if (!EP.teaser && t > T.outro + 1.8) { ck = seg(t, T.outro + 1.8, T.outro + 2.2); card.innerHTML = `<div class="s2">فردا در STUDIO AI</div><div class="big" style="font-size:120px">${EP.next}</div><div class="s1">@ehbehzad رو دنبال کن 🔔</div><div class="tiny">برنامه‌ی مستقل · وابسته به هیچ شرکتی نیست</div>`; }
   card.style.opacity = ck;
 };
 window.DUR = T.dur; window.render(0); window.READY = true;
