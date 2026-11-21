@@ -1,28 +1,5 @@
 [
  {
-  "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of…",
-  "summary": "",
-  "url": "https://www.anthropic.com/news/ipo-close",
-  "source": "Anthropic",
-  "official": true,
-  "tools": false,
-  "time": "2026-11-20T20:05:15.128113+00:00",
-  "page": true,
-  "id": "9afed0143cc7325c"
- },
- {
-  "title": "Combatting adversarial distillation",
-  "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-  "url": "https://openai.com/index/combatting-adversarial-distillation",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-20T10:00:00+00:00",
-  "image": "",
-  "id": "3ea993db7e3c60d1"
- },
- {
   "title": "The most misunderstood graph in AI just got a major update",
   "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…",
   "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
@@ -197,5 +174,53 @@
   "time": "2026-11-21T16:57:13+00:00",
   "image": "",
   "id": "68c961b3fe0c2a6f"
+ },
+ {
+  "title": "Here are the top AI agents that can live in your text messages",
+  "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+  "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-21T17:00:00+00:00",
+  "image": "",
+  "id": "01945f6a907c7618"
+ },
+ {
+  "title": "Gemini app rolls out very slick camera redesign on Android",
+  "summary": "Gemini app rolls out very slick camera redesign on Android 9to5Google",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtS1hqLVBkSE54X0tEeENIOU8wNjU0c0VrU1JqdVZmZ21qRWItTGxzWVZ1NXNJX2dNQmdKUHFfVW5iZ2hoTUc5bEc4YVpTWHNUQmI1Tjd0NW9KdlNTakM4MmRGakJBQktJ?oc=5",
+  "source": "9to5Google",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-21T20:52:00+00:00",
+  "image": "",
+  "id": "98573c3e1f2f9b41"
+ },
+ {
+  "title": "'This seems like an extreme privacy violation.' Surprising messages from the Muse AI agent are unnerving Meta's own employees, report says",
+  "summary": "'This seems like an extreme privacy violation.' Surprising messages from the Muse AI agent are unnerving Meta's own employees, report says Fortune",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd2ZwRFpsTk5lTHR6UjAtR2ZkTlRXVURpWXo4ZVJDMjFLZGx4eXYtQVpldFJsaV85b3ZFZkc5dlk0eFFXdUg4ZTVyRDlwRXQ0WHJyVXFtMUEtSjhVejA4SDhmNVAyZ1VMV1NfakcxSlB0OGRqSmUyOW5BemkxdzhMZ0pVd0oyVC1HU1oyNXBoOVRFNG4xbERHeEpadDhNanRya0pwS1RoU0d4cXctRUFQNGxR?oc=5",
+  "source": "Fortune",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-21T17:28:00+00:00",
+  "image": "",
+  "id": "0dae70719cf149c2"
+ },
+ {
+  "title": "As Meta bets big on Muse AI agent, early safety mishaps surface",
+  "summary": "As Meta bets big on Muse AI agent, early safety mishaps surface Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIM2l0VXBDVDktMzJmcGtkTHktcG9McmpPdXMzcWNlRHZJSUpWcDdOSm9KNEZSNkU5QklaUVNWYXM1SnVaY0dOUWM2RjJqcV8yLUhDWlB5dVlRNzY3VkJ1SHlDUzg3dm8?oc=5",
+  "source": "Reuters",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-21T00:17:01+00:00",
+  "image": "",
+  "id": "af92f426aef1e5b4"
  }
 ]
