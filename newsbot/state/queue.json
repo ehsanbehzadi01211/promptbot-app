@@ -1,89 +1,5 @@
 [
  {
-  "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-  "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
-  "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
-  "source": "Google",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-19T17:00:00+00:00",
-  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp",
-  "id": "c3e7758a237362e2"
- },
- {
-  "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
-  "summary": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial systems and Windows PCs. At Microsoft Ignite, the companies are expanding access to Azure virtual machines powered by NVIDIA Vera Rubin NVL72 systems, as well as adding customer availability to […]",
-  "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-19T20:00:15+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nvidia-microsoft.png",
-  "id": "fe6303fbf7c42e1c"
- },
- {
-  "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
-  "summary": "GeForce NOW is kicking off Black Friday with more reasons to make time for gaming. Six-month memberships are back for a limited time. Save 30% on the first six-month term of a Performance or Ultimate membership. Big gaming plans, smaller price tag. Keep the holiday savings going: Check out more NVIDIA holiday deals for gamers, […]",
-  "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
-  "source": "NVIDIA",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-19T14:00:12+00:00",
-  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/GFN_Thursday_November_19.jpg",
-  "id": "b6fd646548695355"
- },
- {
-  "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-  "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
-  "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-  "source": "TechCrunch",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-19T17:38:40+00:00",
-  "image": "",
-  "id": "2919f418f3f51682"
- },
- {
-  "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
-  "summary": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool The Decoder",
-  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOGNMTkNiSXdDbk9LU2VqY3VBNnoteFpqQksxcl90dlhPenRTajNNSjkxYUR5OHJnNzVKNFY4SG1hOEdubzhqQl9Udmc1OXo3anB1RDBaWWotUzBIcDdqNkg0OEoyR0MzOEt2UEZkSzdwTEdsMlFUek5GbjFpQzRpNGUyWXdpRmZNcHlXT0FkaklPMVNxY0EwVmxQcjQ3SjExZ1hnOHpNbHJvVnR2R3ZiYWwzNEFPQndpckd3QWJYUHZubms5Z0lKOHRTSHk?oc=5",
-  "source": "The Decoder",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-19T21:17:50+00:00",
-  "image": "",
-  "id": "a38485d54ebe8baa"
- },
- {
-  "title": "Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor",
-  "summary": "Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
-  "source": "Reuters",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-19T21:01:02+00:00",
-  "image": "",
-  "id": "c2349998771cb9ed"
- },
- {
-  "title": "Apple is hiring engineers to build its own AI agent",
-  "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. […]",
-  "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-  "source": "The Verge",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-19T22:31:41+00:00",
-  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0,0,100,100",
-  "id": "a22c687c439c6aed"
- },
- {
   "title": "Apple may be developing its own AI agent that runs your Mac",
   "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
   "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
@@ -282,5 +198,17 @@
   "time": "2026-11-21T01:28:48.355177+00:00",
   "page": true,
   "id": "8676e164bad0d388"
+ },
+ {
+  "title": "The Blame Game Has Begun Over Anthropic’s Turbulent Trading Debut",
+  "summary": "The Blame Game Has Begun Over Anthropic’s Turbulent Trading Debut WSJ",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd0p4QVlqUGxNcEQwUVJFWkU2cnBwOGRoMjk0ZDRSaFlNZzZMdmt5d3p0QzZzeDZXZks1TGhyN1JPNDI0clRKSHMtSWpOdHNMeUMyNHU5YlpJY0NITnJ4MUhJeTByWmtKdU9QdlZIZGtvYmJlZW1oTjVKZ25WRGowQVRXSWp1cDZYLTRONXRoVkRSc3ZjdDNvWE5jLUhnY2lHd202LXd5Umk3ZlQt?oc=5",
+  "source": "WSJ",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-21T02:16:00+00:00",
+  "image": "",
+  "id": "ffcd24b1a705c005"
  }
 ]
