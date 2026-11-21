@@ -1,2 +1,46 @@
-Sat Nov 21 13:04:12 UTC 2026
+Sat Nov 21 17:25:49 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+== sources.json
+OpenAI: 1 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 0 fresh
+Hugging Face: 0 fresh
+The Verge: 6 fresh
+TechCrunch: 6 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 1 fresh
+Product Hunt: 1 fresh
+Anthropic: 27 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 22 fresh
+Google News: 30 fresh
+new items: 8
+== sources_games.json
+Xbox Wire: 1 fresh
+PlayStation Blog: 2 fresh
+IGN: 20 fresh
+GameSpot: 11 fresh
+PC Gamer: 30 fresh
+Eurogamer: 22 fresh
+VGC: 10 fresh
+Push Square: 13 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 28 fresh
+Google News: 29 fresh
+Google News: 29 fresh
+Google News: 30 fresh
+feed fail Google News HTTP Error 429: Too Many Requests
+new items: 5
+== sources.json
+translated via clients5
+translated via clients5
+sent card OpenAI Is Testing Dots Personal Agents On Its $20 Per Month 
+== sources_games.json
+translated via clients5
+translated via clients5
+sent photo Cyberleek Returns for GTA 6 Launch to Reportedly Release a N
