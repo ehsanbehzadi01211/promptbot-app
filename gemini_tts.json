@@ -584,5 +584,16 @@
     "style": "Speak in Persian (Farsi), natural Tehrani accent. Epic movie-trailer narrator: deep, intense, dramatic, with clear pauses between phrases."
    }
   ]
+ },
+ {
+  "name": "e04_13b",
+  "voice": "Puck",
+  "no_fallback": true,
+  "lines": [
+   {
+    "text": "محشره! هزینه‌ات چقدره؟",
+    "style": "Speak in Persian (Farsi), natural Tehrani accent, TV talk show. Energetic, warm, charismatic host, impressed and excited."
+   }
+  ]
  }
 ]
