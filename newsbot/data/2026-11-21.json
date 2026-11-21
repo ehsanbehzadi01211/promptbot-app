@@ -1,0 +1,59 @@
+[
+ {
+  "title": "Announcements",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/announcements",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-11-21T01:28:48.355177+00:00",
+  "page": true,
+  "id": "10310c209328b333"
+ },
+ {
+  "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+  "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+  "url": "https://openai.com/business/customer-stories/hebbia",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-20T00:00:00+00:00",
+  "image": "",
+  "id": "d15c45643214b444"
+ },
+ {
+  "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+  "summary": "",
+  "url": "https://huggingface.co/blog/inkling2mini",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-20T00:00:00+00:00",
+  "image": "",
+  "id": "80d31a6dee298bbd"
+ },
+ {
+  "title": "Partnerships",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/partnerships",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-11-21T01:28:48.355177+00:00",
+  "page": true,
+  "id": "31508cd64d59a827"
+ },
+ {
+  "title": "Product",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/product",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-11-21T01:28:48.355177+00:00",
+  "page": true,
+  "id": "8676e164bad0d388"
+ }
+]

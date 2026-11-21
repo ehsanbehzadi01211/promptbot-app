@@ -1,46 +1,46 @@
-Fri Nov 20 20:05:14 UTC 2026
+Sat Nov 21 01:28:47 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 == sources.json
-OpenAI: 2 fresh
+OpenAI: 3 fresh
 Google: 2 fresh
 Google DeepMind: 0 fresh
 NVIDIA: 3 fresh
-Hugging Face: 1 fresh
+Hugging Face: 2 fresh
 The Verge: 10 fresh
 TechCrunch: 18 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 1 fresh
-Product Hunt: 13 fresh
+Product Hunt: 9 fresh
 Anthropic: 27 links
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 30 fresh
-Google News: 24 fresh
-new items: 7
+Google News: 28 fresh
+Google News: 15 fresh
+new items: 5
 == sources_games.json
 Xbox Wire: 3 fresh
 PlayStation Blog: 2 fresh
 IGN: 20 fresh
 GameSpot: 14 fresh
 PC Gamer: 30 fresh
-Eurogamer: 30 fresh
+Eurogamer: 27 fresh
 VGC: 10 fresh
-Push Square: 17 fresh
+Push Square: 18 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 30 fresh
-Google News: 27 fresh
 Google News: 29 fresh
+Google News: 30 fresh
+Google News: 28 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 new items: 8
 == sources.json
 translated via clients5
 translated via clients5
-sent card Anthropic's historic debut to put AI's promise and peril on 
+sent photo Introducing Tool Retrieval in the Gemini API
 == sources_games.json
 translated via clients5
 translated via clients5
-sent photo GTA 6 Estimated to Have Reached 20 Million Preorders Ahead o
+sent photo Free Play Days – Deadlink, Slayers X: Terminal Aftermath: Ve

@@ -1,29 +1,5 @@
 [
  {
-  "title": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
-  "summary": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards The New York Times",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FMG1KU0o0NERzUTNyMkszYVJhbGNJd2hnd3BGQ21uSFUtWC1KOUNCSkhxczlKQlVCVmoxZDhqRUMtOThWZGlXWnVCVjRYYlJQaENHN1hsUUp5RXdMQzF2Z0wwYW9wdVl4b1VrdG4tSXpHUVQxTnJZNVk2N0I2dw?oc=5",
-  "source": "The New York Times",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-19T10:03:26+00:00",
-  "image": "",
-  "id": "127bb676b564d488"
- },
- {
-  "title": "Introducing Tool Retrieval in the Gemini API",
-  "summary": "Gemini spark on a space background",
-  "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-  "source": "Google",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-19T18:00:00+00:00",
-  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp",
-  "id": "57728669e04868ae"
- },
- {
   "title": "Walter Isaacson on curiosity and creativity in the AI age.",
   "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
   "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
@@ -249,5 +225,62 @@
   "time": "2026-11-20T18:16:04+00:00",
   "image": "",
   "id": "7c8b7caaf20788c3"
+ },
+ {
+  "title": "Announcements",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/announcements",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-11-21T01:28:48.355177+00:00",
+  "page": true,
+  "id": "10310c209328b333"
+ },
+ {
+  "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+  "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+  "url": "https://openai.com/business/customer-stories/hebbia",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-20T00:00:00+00:00",
+  "image": "",
+  "id": "d15c45643214b444"
+ },
+ {
+  "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+  "summary": "",
+  "url": "https://huggingface.co/blog/inkling2mini",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-20T00:00:00+00:00",
+  "image": "",
+  "id": "80d31a6dee298bbd"
+ },
+ {
+  "title": "Partnerships",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/partnerships",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-11-21T01:28:48.355177+00:00",
+  "page": true,
+  "id": "31508cd64d59a827"
+ },
+ {
+  "title": "Product",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/product",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-11-21T01:28:48.355177+00:00",
+  "page": true,
+  "id": "8676e164bad0d388"
  }
 ]
