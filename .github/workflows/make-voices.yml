@@ -1,0 +1,32 @@
+name: ساخت صداهای شاهو (Gemini TTS)
+
+on:
+  workflow_dispatch:
+    inputs:
+      test:
+        description: "فقط ۴ جملهٔ تستی؟"
+        type: boolean
+        default: true
+
+jobs:
+  voices:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -U google-genai
+      - name: ساخت صداها
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          if [ "${{ inputs.test }}" = "true" ]; then
+            python shaho/make_voices_ep01.py --test
+          else
+            python shaho/make_voices_ep01.py
+          fi
+      - uses: actions/upload-artifact@v4
+        with:
+          name: voices_ep01
+          path: voices_ep01/
