@@ -15,9 +15,9 @@
 (مثلاً 03_07_shaho.wav یعنی صحنهٔ ۳، دیالوگ ۷، شاهو) + فایل lines.csv
 فایل‌هایی که قبلاً ساخته شده‌اند دوباره ساخته نمی‌شوند؛ برای ساخت دوباره، پاکشان کن.
 """
-import argparse, csv, os, sys, time
+import argparse, csv, os, sys, time, wave
 
-MODEL = "gemini-3.8-flash-tts"   # اگر خطای مدل داد: "gemini-3.1-flash-tts-preview"
+MODELS = ["gemini-2.5-flash-preview-tts", "gemini-2.5-flash-tts", "gemini-2.5-pro-preview-tts"]
 OUT = "voices_ep01"
 
 # صدای پایه و توصیف هر شخصیت. صداها را می‌توانی عوض کنی.
@@ -101,6 +101,40 @@ LINES = [
  (7,"zangar","low, slow, menacing, from the darkness","همم… سبزدره. زیر این همه چمن، چقدر الماس خوابیده؟"),
 ]
 
+MODEL_USED = [None]
+
+def synth(client, voice, style, text):
+    from google.genai import types
+    cfg = types.GenerateContentConfig(
+        response_modalities=["AUDIO"],
+        speech_config=types.SpeechConfig(
+            voice_config=types.VoiceConfig(
+                prebuilt_voice_config=types.PrebuiltVoiceConfig(voice_name=voice))))
+    prompt = f"Read the following Persian (Farsi) line aloud. Voice and acting: {style}\n\n{text}"
+    models = [MODEL_USED[0]] if MODEL_USED[0] else MODELS
+    last = None
+    for m in models:
+        try:
+            r = client.models.generate_content(model=m, contents=prompt, config=cfg)
+            part = r.candidates[0].content.parts[0].inline_data
+            MODEL_USED[0] = m
+            return part.data, (part.mime_type or "")
+        except Exception as e:
+            last = e
+            if MODEL_USED[0] or not any(k in str(e) for k in ("404", "NOT_FOUND", "not found", "not supported")):
+                raise
+    raise last
+
+def save(path, data, mime):
+    if data[:4] == b"RIFF":
+        open(path, "wb").write(data); return
+    rate = 24000
+    if "rate=" in mime:
+        try: rate = int(mime.split("rate=")[1].split(";")[0])
+        except ValueError: pass
+    with wave.open(path, "wb") as w:
+        w.setnchannels(1); w.setsampwidth(2); w.setframerate(rate); w.writeframes(data)
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--test", action="store_true", help="فقط چند جملهٔ تستی")
@@ -126,19 +160,13 @@ def main():
         style = f"{base}. Delivery: {mood}. Speak in natural spoken Persian (Farsi)."
         for attempt in range(4):
             try:
-                resp = client.models.generate_content(
-                    model=MODEL,
-                    contents=[{"role": "user", "parts": [{"text": text, "speech_metadata": {"style": style}}]}],
-                    config={"response_modalities": ["AUDIO"], "speech_config": {"voice_config": {"voice": voice}}},
-                )
-                data = resp.candidates[0].content.parts[0].inline_data.data
-                with open(path, "wb") as f:
-                    f.write(data)
-                print(f"[{i}/{len(todo)}] {fname} ساخته شد")
+                data, mime = synth(client, voice, style, text)
+                save(path, data, mime)
+                print(f"[{i}/{len(todo)}] {fname} ساخته شد ({MODEL_USED[0]})")
                 break
             except Exception as e:
-                wait = 5 * (attempt + 1)
-                print(f"   خطا در {fname}: {e}  (تلاش دوباره تا {wait} ثانیه دیگر)")
+                wait = 8 * (attempt + 1)
+                print(f"   خطا در {fname}: {str(e)[:300]}  (تلاش دوباره تا {wait} ثانیه دیگر)")
                 time.sleep(wait)
         else:
             print(f"   {fname} ساخته نشد، بعداً دوباره اجرا کن")
