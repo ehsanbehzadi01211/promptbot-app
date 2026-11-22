@@ -103,22 +103,40 @@ LINES = [
 
 MODEL_USED = [None]
 
+API = "https://generativelanguage.googleapis.com/v1beta"
+
+def _post(model, body):
+    import json, urllib.request, urllib.error
+    req = urllib.request.Request(f"{API}/models/{model}:generateContent",
+        data=json.dumps(body).encode(), method="POST",
+        headers={"Content-Type": "application/json", "x-goog-api-key": os.environ["GEMINI_API_KEY"]})
+    try:
+        with urllib.request.urlopen(req, timeout=120) as r:
+            return json.loads(r.read())
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"{e.code} {e.read().decode()[:400]}")
+
+def list_tts_models():
+    import json, urllib.request
+    req = urllib.request.Request(f"{API}/models?pageSize=200", headers={"x-goog-api-key": os.environ["GEMINI_API_KEY"]})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        ms = json.loads(r.read()).get("models", [])
+    return [m["name"].split("/")[-1] for m in ms if "tts" in m["name"]]
+
 def synth(client, voice, style, text):
-    from google.genai import types
-    cfg = types.GenerateContentConfig(
-        response_modalities=["AUDIO"],
-        speech_config=types.SpeechConfig(
-            voice_config=types.VoiceConfig(
-                prebuilt_voice_config=types.PrebuiltVoiceConfig(voice_name=voice))))
+    import base64
     prompt = f"Read the following Persian (Farsi) line aloud. Voice and acting: {style}\n\n{text}"
+    body = {"contents": [{"parts": [{"text": prompt}]}],
+            "generationConfig": {"responseModalities": ["AUDIO"],
+                "speechConfig": {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": voice}}}}}
     models = [MODEL_USED[0]] if MODEL_USED[0] else MODELS
     last = None
     for m in models:
         try:
-            r = client.models.generate_content(model=m, contents=prompt, config=cfg)
-            part = r.candidates[0].content.parts[0].inline_data
+            r = _post(m, body)
+            part = r["candidates"][0]["content"]["parts"][0]["inlineData"]
             MODEL_USED[0] = m
-            return part.data, (part.mime_type or "")
+            return base64.b64decode(part["data"]), part.get("mimeType", "")
         except Exception as e:
             last = e
             if MODEL_USED[0] or not any(k in str(e) for k in ("404", "NOT_FOUND", "not found", "not supported")):
@@ -139,13 +157,16 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--test", action="store_true", help="فقط چند جملهٔ تستی")
     a = ap.parse_args()
-    try:
-        from google import genai
-    except ImportError:
-        sys.exit("اول نصب کن:  pip install -U google-genai")
     if not os.environ.get("GEMINI_API_KEY"):
         sys.exit("کلید API را تنظیم کن:  $env:GEMINI_API_KEY=\"...\"")
-    client = genai.Client()
+    client = None
+    try:
+        found = list_tts_models()
+        print("مدل‌های TTS در دسترس:", found)
+        global MODELS
+        MODELS = [m for m in MODELS if m in found] + [m for m in found if m not in MODELS] or MODELS
+    except Exception as e:
+        print("فهرست مدل‌ها گرفته نشد:", e)
     os.makedirs(OUT, exist_ok=True)
     counter, rows = {}, []
     for scene, who, mood, text in LINES:
