@@ -1,50 +1,5 @@
 [
  {
-  "title": "Partnerships",
-  "summary": "",
-  "url": "https://www.anthropic.com/news/partnerships",
-  "source": "Anthropic",
-  "official": true,
-  "tools": false,
-  "time": "2026-11-21T01:28:48.355177+00:00",
-  "page": true,
-  "id": "31508cd64d59a827"
- },
- {
-  "title": "Product",
-  "summary": "",
-  "url": "https://www.anthropic.com/news/product",
-  "source": "Anthropic",
-  "official": true,
-  "tools": false,
-  "time": "2026-11-21T01:28:48.355177+00:00",
-  "page": true,
-  "id": "8676e164bad0d388"
- },
- {
-  "title": "The Blame Game Has Begun Over Anthropic’s Turbulent Trading Debut",
-  "summary": "The Blame Game Has Begun Over Anthropic’s Turbulent Trading Debut WSJ",
-  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd0p4QVlqUGxNcEQwUVJFWkU2cnBwOGRoMjk0ZDRSaFlNZzZMdmt5d3p0QzZzeDZXZks1TGhyN1JPNDI0clRKSHMtSWpOdHNMeUMyNHU5YlpJY0NITnJ4MUhJeTByWmtKdU9QdlZIZGtvYmJlZW1oTjVKZ25WRGowQVRXSWp1cDZYLTRONXRoVkRSc3ZjdDNvWE5jLUhnY2lHd202LXd5Umk3ZlQt?oc=5",
-  "source": "WSJ",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-21T02:16:00+00:00",
-  "image": "",
-  "id": "ffcd24b1a705c005"
- },
- {
-  "title": "Features",
-  "summary": "",
-  "url": "https://www.anthropic.com/news/features",
-  "source": "Anthropic",
-  "official": true,
-  "tools": false,
-  "time": "2026-11-21T17:25:49.972430+00:00",
-  "page": true,
-  "id": "94cadd3b5f06d67b"
- },
- {
   "title": "An agent used DNS to reach an external chatbot",
   "summary": "An agent used DNS to reach an external chatbot OpenAI",
   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMzZyLXVQQnZxSkpqSkRZdlV6YVAtMUlCXzlmM3BvdnFpdHdWMFFsTFp3d3lQanIxbjlkUXg1LThOOWFjeXFVLUVyM3FfdUc3NTFtQ2N4eUN3M3gwcm80Tndwc1dmRU9sVjhLS0N6Z0M5NXRiQXU1bERmMUx4NXhTLWItYTVrdF81VjAtRDFNcFR0VE5EcXB4eTBTX2JKMlVZTFVQQlFVdw?oc=5",
@@ -105,18 +60,6 @@
   "id": "c6a092f28daa03dc"
  },
  {
-  "title": "Signal slams door on prying AI agents to protect privacy",
-  "summary": "Signal slams door on prying AI agents to protect privacy The Register",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRzV5YVlLRDNWWFBUYlNHS2RpMGZJTnE0ZWd3bUJJdGN6aU9HN3JQek4tUDdmVWVTTUR6MGJSUTJuUlJuYWYzZnNlcG9RVDJkVkpLZFBPM2dYeVQxU0ZKbjhVaF9Tbnh6akhnUnpXXzRMZzVQTHVkb2c0RmhXaVNpSkYwRkNlOG5FUTlDWmtqZEttVDZ5X09BSzVua3dNZDB4aXVQMG56YzNXQzg0NVM3YVdn?oc=5",
-  "source": "The Register",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-20T20:42:04+00:00",
-  "image": "",
-  "id": "63fcf6123a6b4b74"
- },
- {
   "title": "AI agents gain ground with consumers",
   "summary": "AI agents gain ground with consumers Axios",
   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWZrX3FJdU1WU2NsSWM4eGgweHRZUzFZZFBhZXM4Nk0wUHRoRGh6bm5yNVFoam8zdEJMaTU1bDRabmZkZHRtNlh1cVlRSXJvUDBDaG5nRlVYejUxX05FS08wWUtJd2U1dnhTRTVpbDRxUGw4QnRjZXFJY2pWallVRkdETW5qc3d4ekRoRlJ1MUoydzlNbjRwMw?oc=5",
@@ -165,15 +108,15 @@
   "id": "0dae70719cf149c2"
  },
  {
-  "title": "As Meta bets big on Muse AI agent, early safety mishaps surface",
-  "summary": "As Meta bets big on Muse AI agent, early safety mishaps surface Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIM2l0VXBDVDktMzJmcGtkTHktcG9McmpPdXMzcWNlRHZJSUpWcDdOSm9KNEZSNkU5QklaUVNWYXM1SnVaY0dOUWM2RjJqcV8yLUhDWlB5dVlRNzY3VkJ1SHlDUzg3dm8?oc=5",
-  "source": "Reuters",
+  "title": "Apple Risks Losing the AI Agent War With an Outdated Playbook",
+  "summary": "Apple Risks Losing the AI Agent War With an Outdated Playbook Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY0NlQ2FFZWVRd2FPTTJ4cjhKU3Vjb1hXdlZ2R1pfN2IxdlBxMDRZWmRMS1FyNXFSamtldk5GcVVPdnlxOFc2cmRsbS12TnFSdGhKeUx5NEF5dFJHUE12WDR2NGpZckk5cm5Ha3YzeXp0RkR2Y1BuTnhDWDczS18tTTlTWFplX0oyQy1SRDhFRS1jbzY3RnlIMWU1eHB1UktHWmpMT003MXV4d2l0bEg0QVp2bWJrWFUzQ3Rsdk5UbG9zNS1rLWlZV0pjejZQUQ?oc=5",
+  "source": "Bloomberg.com",
   "official": false,
   "tools": false,
   "gnews": true,
-  "time": "2026-11-21T00:17:01+00:00",
+  "time": "2026-11-22T15:00:01+00:00",
   "image": "",
-  "id": "af92f426aef1e5b4"
+  "id": "4632fa1c9823aa16"
  }
 ]
