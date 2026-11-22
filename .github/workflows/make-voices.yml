@@ -40,6 +40,7 @@ jobs:
             python shaho/make_voices_ep01.py
           fi
       - name: ذخیره در شاخهٔ voices
+        if: always()
         run: |
           cd store
           git add -A

@@ -173,6 +173,7 @@ def main():
         counter[scene] = counter.get(scene, 0) + 1
         rows.append((f"{scene:02d}_{counter[scene]:02d}_{who}.wav", scene, who, mood, text))
     todo = [rows[i] for i in (0, 12, 16, 59)] if a.test else rows
+    made, hits429, quota_done = 0, 0, False
     for i, (fname, scene, who, mood, text) in enumerate(todo, 1):
         path = os.path.join(OUT, fname)
         if os.path.exists(path):
@@ -183,14 +184,27 @@ def main():
             try:
                 data, mime = synth(client, voice, style, text)
                 save(path, data, mime)
+                made += 1
                 print(f"[{i}/{len(todo)}] {fname} ساخته شد ({MODEL_USED[0]})")
                 break
             except Exception as e:
+                if "429" in str(e):
+                    hits429 += 1
+                    if hits429 >= 2:
+                        print(f"   سهمیهٔ امروز Gemini تمام شد. {made} فایل ساخته شد؛ بقیه در اجرای بعدی.")
+                        quota_done = True
+                        break
+                    print("   محدودیت سرعت؛ ۶۵ ثانیه صبر...")
+                    time.sleep(65)
+                    continue
                 wait = 8 * (attempt + 1)
                 print(f"   خطا در {fname}: {str(e)[:300]}  (تلاش دوباره تا {wait} ثانیه دیگر)")
                 time.sleep(wait)
         else:
             print(f"   {fname} ساخته نشد، بعداً دوباره اجرا کن")
+        if quota_done:
+            break
+        hits429 = 0
         time.sleep(7)
     with open(os.path.join(OUT, "lines.csv"), "w", newline="", encoding="utf-8-sig") as f:
         w = csv.writer(f); w.writerow(["file", "scene", "character", "delivery", "text"]); w.writerows(rows)
