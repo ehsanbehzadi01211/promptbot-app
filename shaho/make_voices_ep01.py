@@ -191,7 +191,7 @@ def main():
                 time.sleep(wait)
         else:
             print(f"   {fname} ساخته نشد، بعداً دوباره اجرا کن")
-        time.sleep(1)
+        time.sleep(7)
     with open(os.path.join(OUT, "lines.csv"), "w", newline="", encoding="utf-8-sig") as f:
         w = csv.writer(f); w.writerow(["file", "scene", "character", "delivery", "text"]); w.writerows(rows)
     print(f"\nتمام. فایل‌ها در پوشهٔ {OUT}")
