@@ -8,6 +8,9 @@ on:
         type: boolean
         default: true
 
+permissions:
+  contents: write
+
 jobs:
   voices:
     runs-on: ubuntu-latest
@@ -16,17 +19,29 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install -U google-genai
+      - name: آماده کردن شاخهٔ voices
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@users.noreply.github.com"
+          if git fetch --depth 1 origin voices:voices; then
+            git worktree add store voices
+          else
+            git worktree add --detach store
+            cd store && git checkout --orphan voices && git rm -rfq . && cd ..
+          fi
       - name: ساخت صداها
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          VOICES_OUT: ${{ inputs.test && 'store/test_ep01' || 'store/voices_ep01' }}
         run: |
           if [ "${{ inputs.test }}" = "true" ]; then
             python shaho/make_voices_ep01.py --test
           else
             python shaho/make_voices_ep01.py
           fi
-      - uses: actions/upload-artifact@v4
-        with:
-          name: voices_ep01
-          path: voices_ep01/
+      - name: ذخیره در شاخهٔ voices
+        run: |
+          cd store
+          git add -A
+          git commit -m "صداهای شاهو $(date -u +%F_%H%M)" || echo "چیز جدیدی نبود"
+          git push origin voices

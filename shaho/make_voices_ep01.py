@@ -18,7 +18,7 @@
 import argparse, csv, os, sys, time, wave
 
 MODELS = ["gemini-2.5-flash-preview-tts", "gemini-2.5-flash-tts", "gemini-2.5-pro-preview-tts"]
-OUT = "voices_ep01"
+OUT = os.environ.get("VOICES_OUT", "voices_ep01")
 
 # صدای پایه و توصیف هر شخصیت. صداها را می‌توانی عوض کنی.
 # فهرست صداها: Zephyr, Puck, Charon, Kore, Fenrir, Leda, Orus, Aoede, Callirrhoe, Autonoe,
