@@ -1,45 +1,46 @@
-Sun Nov 22 15:15:16 UTC 2026
+Sun Nov 22 21:44:37 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 == sources.json
-OpenAI: 0 fresh
+OpenAI: 1 fresh
 Google: 0 fresh
 Google DeepMind: 0 fresh
 NVIDIA: 0 fresh
 Hugging Face: 0 fresh
-The Verge: 4 fresh
-TechCrunch: 4 fresh
+The Verge: 5 fresh
+TechCrunch: 6 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 0 fresh
-Product Hunt: 3 fresh
+Product Hunt: 2 fresh
 Anthropic: 27 links
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 20 fresh
+Google News: 12 fresh
 Google News: 30 fresh
-Google News: 24 fresh
 Google News: 30 fresh
+Google News: 29 fresh
 new items: 1
 == sources_games.json
 Xbox Wire: 0 fresh
 PlayStation Blog: 0 fresh
-IGN: 12 fresh
+IGN: 16 fresh
 GameSpot: 0 fresh
-PC Gamer: 27 fresh
+PC Gamer: 30 fresh
 Eurogamer: 12 fresh
 VGC: 10 fresh
 Push Square: 7 fresh
 Google News: 30 fresh
+Google News: 28 fresh
+Google News: 30 fresh
 Google News: 26 fresh
 Google News: 30 fresh
-Google News: 25 fresh
-Google News: 29 fresh
+Google News: 27 fresh
 Google News: 30 fresh
-Google News: 30 fresh
-new items: 4
+new items: 3
 == sources.json
 translated via clients5
-sent photo Features
+translated via clients5
+sent card An agent used DNS to reach an external chatbot
 == sources_games.json
 translated via clients5
 translated via clients5
-sent card Star Wars Zero Company Releases For Xbox In August 2026, Gam
+sent photo PS5 Survives GTA 6's Unfathomably Humongous Launch without a

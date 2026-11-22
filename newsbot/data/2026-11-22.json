@@ -10,5 +10,17 @@
   "time": "2026-11-22T15:00:01+00:00",
   "image": "",
   "id": "4632fa1c9823aa16"
+ },
+ {
+  "title": "Perplexity and Intelligence",
+  "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+  "url": "https://openai.com/index/perplexity-and-intelligence",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-22T00:00:00+00:00",
+  "image": "",
+  "id": "de5cd1a6d51dc917"
  }
 ]

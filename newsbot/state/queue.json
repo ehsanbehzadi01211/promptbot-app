@@ -1,17 +1,5 @@
 [
  {
-  "title": "An agent used DNS to reach an external chatbot",
-  "summary": "An agent used DNS to reach an external chatbot OpenAI",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMzZyLXVQQnZxSkpqSkRZdlV6YVAtMUlCXzlmM3BvdnFpdHdWMFFsTFp3d3lQanIxbjlkUXg1LThOOWFjeXFVLUVyM3FfdUc3NTFtQ2N4eUN3M3gwcm80Tndwc1dmRU9sVjhLS0N6Z0M5NXRiQXU1bERmMUx4NXhTLWItYTVrdF81VjAtRDFNcFR0VE5EcXB4eTBTX2JKMlVZTFVQQlFVdw?oc=5",
-  "source": "OpenAI",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-21T15:59:59+00:00",
-  "image": "",
-  "id": "8d5a245360308c77"
- },
- {
   "title": "Your AI agent has a wallet. Who answers for its decisions?",
   "summary": "Your AI agent has a wallet. Who answers for its decisions? Fortune",
   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ3lxNkNMbFM1Q3ZQbTJJYkpkcWFaX3dyWGFlSVNYeUlWZzFQdjhfaEh1N1lMVWRoVVBydmM4NU41NXgxLWFBZGxELU10WWsxa1YtdHJsZHl1LWZMb3RlYlNUbVdPWVc1WkFxMklNNDh2S2hRY050Y2RrdjF2YkNxYmhKc2Q4MWV3WVhhRw?oc=5",
@@ -118,5 +106,17 @@
   "time": "2026-11-22T15:00:01+00:00",
   "image": "",
   "id": "4632fa1c9823aa16"
+ },
+ {
+  "title": "Perplexity and Intelligence",
+  "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+  "url": "https://openai.com/index/perplexity-and-intelligence",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-22T00:00:00+00:00",
+  "image": "",
+  "id": "de5cd1a6d51dc917"
  }
 ]
