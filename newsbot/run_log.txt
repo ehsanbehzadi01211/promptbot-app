@@ -1,4 +1,4 @@
-Sat Nov 21 23:08:56 UTC 2026
+Sun Nov 22 06:38:24 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 == sources.json
 OpenAI: 0 fresh
@@ -6,40 +6,40 @@ Google: 0 fresh
 Google DeepMind: 0 fresh
 NVIDIA: 0 fresh
 Hugging Face: 0 fresh
-The Verge: 7 fresh
-TechCrunch: 9 fresh
+The Verge: 4 fresh
+TechCrunch: 6 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 1 fresh
+MIT Technology Review: 0 fresh
 Product Hunt: 1 fresh
 Anthropic: 27 links
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 27 fresh
+Google News: 26 fresh
+Google News: 29 fresh
 Google News: 30 fresh
-Google News: 22 fresh
 Google News: 30 fresh
-new items: 4
+new items: 0
 == sources_games.json
-Xbox Wire: 1 fresh
-PlayStation Blog: 2 fresh
-IGN: 20 fresh
-GameSpot: 11 fresh
-PC Gamer: 30 fresh
-Eurogamer: 20 fresh
+Xbox Wire: 0 fresh
+PlayStation Blog: 0 fresh
+IGN: 16 fresh
+GameSpot: 4 fresh
+PC Gamer: 29 fresh
+Eurogamer: 9 fresh
 VGC: 10 fresh
-Push Square: 12 fresh
+Push Square: 10 fresh
 Google News: 30 fresh
-Google News: 27 fresh
+Google News: 28 fresh
 Google News: 30 fresh
+Google News: 25 fresh
+Google News: 28 fresh
+Google News: 26 fresh
 Google News: 30 fresh
-Google News: 30 fresh
-Google News: 27 fresh
-Google News: 30 fresh
-new items: 2
+new items: 0
 == sources.json
 translated via clients5
-sent photo Anthropic announces closing of initial public offering, incl
+sent photo Announcements
 == sources_games.json
 translated via clients5
 translated via clients5
-sent card GTA VI books record $3.79 billion in sales on first day of l
+sent photo GTA 6 is officially the biggest entertainment launch of all 

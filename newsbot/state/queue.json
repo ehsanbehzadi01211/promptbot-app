@@ -1,52 +1,5 @@
 [
  {
-  "title": "The most misunderstood graph in AI just got a major update",
-  "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…",
-  "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-  "source": "MIT Technology Review",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-20T18:15:15+00:00",
-  "image": "",
-  "id": "01449c61c8b86a22"
- },
- {
-  "title": "Watch Apple Working on Own AI Agent to Rival OpenAI and Anthropic",
-  "summary": "Watch Apple Working on Own AI Agent to Rival OpenAI and Anthropic Bloomberg.com",
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORGRsVHY3NlVvcnhJdWRjQnliaU9JLWJxelBjUjhFSVFLRzF0czdXcThNQ00tQ01paE1rdlRQNTFNQ2RzVUFJbFlwQ2trSHNfdTNGZ3BhTVItakZjQl9Wb2tuZHI5MEhSSm42VVpzYk9PYmJNdWd2SjIyck1lTXdFWW9LeVdhWmhHTFR0bV9IbjBkbGYtcFI1TWk5eHc3RkJOb1ZEYTl3?oc=5",
-  "source": "Bloomberg.com",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-20T17:59:39+00:00",
-  "image": "",
-  "id": "74305df29160db59"
- },
- {
-  "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
-  "summary": "Anthropic's post-debut stumble delivers reality check for AI trade Reuters",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWtIWXhnWHpsWWZSZ2dFVFRFSXBHaUxOWlp1VnFSZEoycGRtMDE1NVhuM2NEa2ZUTHlLN0lFbG5aX295SThLcFVXMEV3VmJidHF2amdDelVYWWprLXRsNWpodU9LcERma2xnc2pWaTZGbmNHZnYwREdjQnBOcGR0S0JSdnZTaC1aYmtBWXdRXzJiVDhHbFBEZ3lDdWhzS3Q3dnFMY3d3cjZIdw?oc=5",
-  "source": "Reuters",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-20T18:16:04+00:00",
-  "image": "",
-  "id": "7c8b7caaf20788c3"
- },
- {
-  "title": "Announcements",
-  "summary": "",
-  "url": "https://www.anthropic.com/news/announcements",
-  "source": "Anthropic",
-  "official": true,
-  "tools": false,
-  "time": "2026-11-21T01:28:48.355177+00:00",
-  "page": true,
-  "id": "10310c209328b333"
- },
- {
   "title": "Partnerships",
   "summary": "",
   "url": "https://www.anthropic.com/news/partnerships",
