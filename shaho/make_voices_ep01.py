@@ -105,11 +105,26 @@ MODEL_USED = [None]
 
 API = "https://generativelanguage.googleapis.com/v1beta"
 
+def _keys():
+    names = sorted(k for k, v in os.environ.items() if k.startswith("GEMINI_API_KEY") and v.strip())
+    seen, out = set(), []
+    for n in names:
+        v = os.environ[n].strip()
+        if v not in seen:
+            seen.add(v); out.append((n, v))
+    return out
+
+KEYS = []
+KEY_IDX = [0]
+
+def _key():
+    return KEYS[KEY_IDX[0]][1]
+
 def _post(model, body):
     import json, urllib.request, urllib.error
     req = urllib.request.Request(f"{API}/models/{model}:generateContent",
         data=json.dumps(body).encode(), method="POST",
-        headers={"Content-Type": "application/json", "x-goog-api-key": os.environ["GEMINI_API_KEY"]})
+        headers={"Content-Type": "application/json", "x-goog-api-key": _key()})
     try:
         with urllib.request.urlopen(req, timeout=120) as r:
             return json.loads(r.read())
@@ -118,7 +133,7 @@ def _post(model, body):
 
 def list_tts_models():
     import json, urllib.request
-    req = urllib.request.Request(f"{API}/models?pageSize=200", headers={"x-goog-api-key": os.environ["GEMINI_API_KEY"]})
+    req = urllib.request.Request(f"{API}/models?pageSize=200", headers={"x-goog-api-key": _key()})
     with urllib.request.urlopen(req, timeout=60) as r:
         ms = json.loads(r.read()).get("models", [])
     return [m["name"].split("/")[-1] for m in ms if "tts" in m["name"]]
@@ -157,8 +172,10 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--test", action="store_true", help="فقط چند جملهٔ تستی")
     a = ap.parse_args()
-    if not os.environ.get("GEMINI_API_KEY"):
+    KEYS.extend(_keys())
+    if not KEYS:
         sys.exit("کلید API را تنظیم کن:  $env:GEMINI_API_KEY=\"...\"")
+    print("تعداد کلیدها:", len(KEYS), [n for n, _ in KEYS])
     client = None
     try:
         found = list_tts_models()
@@ -180,7 +197,7 @@ def main():
             print(f"[{i}/{len(todo)}] {fname} قبلاً ساخته شده"); continue
         voice, base = CAST[who]
         style = f"{base}. Delivery: {mood}. Speak in natural spoken Persian (Farsi)."
-        for attempt in range(4):
+        for attempt in range(4 + 2 * len(KEYS)):
             try:
                 data, mime = synth(client, voice, style, text)
                 save(path, data, mime)
@@ -191,7 +208,12 @@ def main():
                 if "429" in str(e):
                     hits429 += 1
                     if hits429 >= 2:
-                        print(f"   سهمیهٔ امروز Gemini تمام شد. {made} فایل ساخته شد؛ بقیه در اجرای بعدی.")
+                        if KEY_IDX[0] + 1 < len(KEYS):
+                            KEY_IDX[0] += 1
+                            hits429 = 0
+                            print(f"   سهمیهٔ این کلید تمام شد؛ رفتن به کلید بعدی ({KEYS[KEY_IDX[0]][0]})")
+                            continue
+                        print(f"   سهمیهٔ امروز همهٔ کلیدها تمام شد. {made} فایل ساخته شد؛ بقیه در اجرای بعدی.")
                         quota_done = True
                         break
                     print("   محدودیت سرعت؛ ۶۵ ثانیه صبر...")
