@@ -1,0 +1,61 @@
+﻿file,scene,character,delivery,text
+00_01_shaho.wav,0,shaho,"heroic, shouting like a movie hero",سبزدره آروم باش! شاهوی شجاع اینجاست! از هیچی نمی‌ترسه، نه از تاریکی، نه از هیولا، نه از…
+00_02_nokhodi.wav,0,nokhodi,"laughing, calling out",مامان! شاهوی شجاع بازم از یه پروانه شکست خورد!
+00_03_shaho.wav,0,shaho,"embarrassed, defensive",شکست نخوردم! داشتم… تمرین افتادن می‌کردم!
+01_01_nasim.wav,1,nasim,"smiling, teasing gently",صبح بخیر قهرمان. تمرینت چطور بود؟
+01_02_shaho.wav,1,shaho,proud and eager,عالی! مامان، من دیگه بزرگ شدم. یه کار مهم بهم بدین.
+01_03_nokhodi.wav,1,nokhodi,"excited, mouth full",فردا تولد منه! من کیک عسلی می‌خوام!
+01_04_nasim.wav,1,nasim,warm,چشم خانم کوچولو. فقط عسلمون تموم شده. باید از تپهٔ زنبورها بیاریم.
+01_05_shaho.wav,1,shaho,"jumping up, excited",من می‌رم! من می‌رم می‌آرم!
+01_06_sanjar.wav,1,sanjar,"calm, not looking up",تپهٔ زنبورها اون طرف روده، شاهو. پل قدیمی رو بارون بهاری برد.
+01_07_shaho.wav,1,shaho,stubborn,خب… یه جوری می‌پرم اون طرف!
+01_08_sanjar.wav,1,sanjar,calm but firm,امروز آب تنده. من فردا صبح پل تازه رو می‌سازم، بعد با هم می‌ریم عسل می‌آریم. قبول؟
+01_09_shaho.wav,1,shaho,"frustrated, whiny",فردا؟! ولی کیک باید امشب پخته بشه! بابا، من دیگه بچه نیستم!
+01_10_sanjar.wav,1,sanjar,"gentle, loving",می‌دونم پسرم. ولی پل خوب رو یه‌شبه نمی‌سازن. قول بده تنهایی نزدیک رود نمی‌ری.
+01_11_shaho.wav,1,shaho,"mumbling, reluctant",باشه…
+02_01_parpari.wav,2,parpari,"very excited, shouting news",خبر داغ! خبر داغ! رود امروز مثل اژدها غرش می‌کنه! خودم دیدم یه کدوی به این گندگی رو یه لقمه کرد!
+02_02_laki.wav,2,laki,"calm, correcting",کدو نبود، پرپری. یه برگ بود. ولی راست می‌گه، بعد از بارون آب دو برابر شده.
+02_03_vezvez.wav,2,vezvez,"scared, trembling",من که اصلاً از اینجا تکون نمی‌خورم…
+02_04_shaho.wav,2,shaho,"excited, like a leader",بچه‌ها، یه ماموریت مهم داریم! باید بریم تپهٔ زنبورها عسل بیاریم، برای کیک نخودی.
+02_05_vezvez.wav,2,vezvez,"worried, rambling",ولی… تپهٔ ما اون طرف روده! من هم که از آب می‌ترسم، تازه سه روزه هم اومدم این طرف مهمونی و برگشتم گیر افتاده…
+02_06_laki.wav,2,laki,suspicious,بابات چی گفت؟
+02_07_shaho.wav,2,shaho,"avoiding, then clever",گفت… گفت تنهایی نرم. خب ما که تنها نیستیم! چهار نفریم!
+02_08_parpari.wav,2,parpari,cheerful,من میام! ولی از بالا نگاه می‌کنم، پرهام نباید خیس بشه!
+02_09_laki.wav,2,laki,sighing,کسی باید مراقب شماها باشه. من هم میام.
+03_01_abi.wav,3,abi,"playful, laughing",سلام خشکی‌نشین‌ها! شنا می‌کنین؟
+03_02_vezvez.wav,3,vezvez,squeaking,آییی! خیس شدم! بالم خیس شد!
+03_03_shaho.wav,3,shaho,determined,آبی، می‌خوایم بریم اون طرف رود. از روی این سنگ‌ها و تنه‌ها.
+03_04_abi.wav,3,abi,"laugh stops, serious",از روی اونا؟ شاهو، اون تنه‌ها امروز هیچ‌کدومشون سر جاش بند نیست. زیر آب هم انگار یه غول داره هلشون می‌ده.
+03_05_laki.wav,3,laki,"calm, persuading",بیا برگردیم. فردا با بابات میایم.
+03_06_shaho.wav,3,shaho,"brave, cocky",ترس؟ ترس دیگه چیه! شما همین‌جا بمونین، من می‌رم عسل می‌آرم.
+03_07_shaho.wav,3,shaho,"proud, showing off",دیدین؟ راحته! من دیگه بزرگ…
+03_08_shaho.wav,3,shaho,"scared, voice trembling, almost whispering",چوب‌دستیم…
+04_01_laki.wav,4,laki,loud but calm,شاهو! تکون نخور! هرچی شد، از روی سنگ تکون نخور!
+04_02_parpari.wav,4,parpari,"panicking, very fast",چیکار کنیم؟ چیکار کنیم؟ آب داره بالا میاد!
+04_03_laki.wav,4,laki,"firm, clear",پرپری، تو از همهٔ ما تندتری. پرواز کن برو بابا سنجر رو بیار. این دفعه همونی که دیدی رو بگو، نه ده برابرش رو!
+04_04_parpari.wav,4,parpari,"serious, focused",همونی که دیدم. فهمیدم!
+04_05_abi.wav,4,abi,"soft, reassuring, not joking",من همین‌جام، باشه؟ نگاه آب نکن. نگاه من کن.
+04_06_shaho.wav,4,shaho,"sad, quiet",آبی… من فقط می‌خواستم نشون بدم بزرگ شدم.
+04_07_abi.wav,4,abi,"kind, then a small smile",می‌دونم. ولی بزرگ‌ترها از روی تنهٔ لق نمی‌پرن. حتی من، که ماهی‌ام!
+04_08_shaho.wav,4,shaho,small laugh through fear,تو که ماهی نیستی.
+04_09_abi.wav,4,abi,"whispering, playful",هیسس! به کسی نگو.
+04_10_vezvez.wav,4,vezvez,trembling but trying to be brave,شاهو! من… من هم همین‌جام! خیلی هم نمی‌ترسم! فقط… یه کمی!
+05_01_sanjar.wav,5,sanjar,"calm, steady, reassuring",شاهو، همون‌جا بمون. دارم میام.
+05_02_shaho.wav,5,shaho,"quiet, ashamed",ببخشید بابا… قولم رو شکستم.
+05_03_sanjar.wav,5,sanjar,"after a pause, soft",ترسیدی؟
+05_04_shaho.wav,5,shaho,"quiet, honest",اوهوم.
+05_05_sanjar.wav,5,sanjar,"warm, approving",خوبه. یعنی عقلت کار می‌کنه.
+05_06_shaho.wav,5,shaho,surprised,خوبه؟
+05_07_sanjar.wav,5,sanjar,"warm, inviting",حالا که پل هست، بریم عسل بیاریم؟ این دفعه تو جلو برو.
+06_01_vezvez.wav,6,vezvez,proud and happy,بهترین عسل تپه، برای تولد نخودی! مامانم گفت این جایزهٔ منه، چون امروز نزدیک آب رفتم!
+06_02_shaho.wav,6,shaho,sincere,وزوز، تو امروز از من شجاع‌تر بودی.
+06_03_vezvez.wav,6,vezvez,"shy, flustered",من؟ من که همه‌ش لرزیدم!
+06_04_sanjar.wav,6,sanjar,"wise, gentle",همین که با لرزیدن هم اومدی، یعنی شجاعی.
+07_01_nokhodi.wav,7,nokhodi,"teasing, giggling",شاهو، تو همون شاهوی شجاعی که از پروانه می‌ترسه؟
+07_02_nasim.wav,7,nasim,"warm, proud",بابات تعریف می‌کرد امروز چقدر شجاع بودی.
+07_03_shaho.wav,7,shaho,surprised,من؟ من که گیر افتادم!
+07_04_sanjar.wav,7,sanjar,"slow, wise, warm",گیر افتادن شجاعت نمی‌خواد. اون لحظه‌ای شجاع بودی که به حرف لاکی گوش دادی، تکون نخوردی و منتظر کمک موندی. شجاعت یعنی بدونی کی بپری، و کی کمک بخوای.
+07_05_shaho.wav,7,shaho,"thinking, then smiling",پس ترس… ترس یه چیزیه.
+07_06_laki.wav,7,laki,"calm, mouth full of cake",این بهترین جمله‌ای بود که تا حالا گفتی.
+07_07_shaho.wav,7,shaho,"cheerful, all together",تولدت مبارک نخودی!
+07_08_zangar.wav,7,zangar,"low, slow, menacing, from the darkness",همم… سبزدره. زیر این همه چمن، چقدر الماس خوابیده؟
