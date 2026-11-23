@@ -1,65 +1,5 @@
 [
  {
-  "title": "Here are the top AI agents that can live in your text messages",
-  "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-  "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-  "source": "TechCrunch",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-21T17:00:00+00:00",
-  "image": "",
-  "id": "01945f6a907c7618"
- },
- {
-  "title": "Gemini app rolls out very slick camera redesign on Android",
-  "summary": "Gemini app rolls out very slick camera redesign on Android 9to5Google",
-  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtS1hqLVBkSE54X0tEeENIOU8wNjU0c0VrU1JqdVZmZ21qRWItTGxzWVZ1NXNJX2dNQmdKUHFfVW5iZ2hoTUc5bEc4YVpTWHNUQmI1Tjd0NW9KdlNTakM4MmRGakJBQktJ?oc=5",
-  "source": "9to5Google",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-21T20:52:00+00:00",
-  "image": "",
-  "id": "98573c3e1f2f9b41"
- },
- {
-  "title": "'This seems like an extreme privacy violation.' Surprising messages from the Muse AI agent are unnerving Meta's own employees, report says",
-  "summary": "'This seems like an extreme privacy violation.' Surprising messages from the Muse AI agent are unnerving Meta's own employees, report says Fortune",
-  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd2ZwRFpsTk5lTHR6UjAtR2ZkTlRXVURpWXo4ZVJDMjFLZGx4eXYtQVpldFJsaV85b3ZFZkc5dlk0eFFXdUg4ZTVyRDlwRXQ0WHJyVXFtMUEtSjhVejA4SDhmNVAyZ1VMV1NfakcxSlB0OGRqSmUyOW5BemkxdzhMZ0pVd0oyVC1HU1oyNXBoOVRFNG4xbERHeEpadDhNanRya0pwS1RoU0d4cXctRUFQNGxR?oc=5",
-  "source": "Fortune",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-21T17:28:00+00:00",
-  "image": "",
-  "id": "0dae70719cf149c2"
- },
- {
-  "title": "Apple Risks Losing the AI Agent War With an Outdated Playbook",
-  "summary": "Apple Risks Losing the AI Agent War With an Outdated Playbook Bloomberg.com",
-  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY0NlQ2FFZWVRd2FPTTJ4cjhKU3Vjb1hXdlZ2R1pfN2IxdlBxMDRZWmRMS1FyNXFSamtldk5GcVVPdnlxOFc2cmRsbS12TnFSdGhKeUx5NEF5dFJHUE12WDR2NGpZckk5cm5Ha3YzeXp0RkR2Y1BuTnhDWDczS18tTTlTWFplX0oyQy1SRDhFRS1jbzY3RnlIMWU1eHB1UktHWmpMT003MXV4d2l0bEg0QVp2bWJrWFUzQ3Rsdk5UbG9zNS1rLWlZV0pjejZQUQ?oc=5",
-  "source": "Bloomberg.com",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-22T15:00:01+00:00",
-  "image": "",
-  "id": "4632fa1c9823aa16"
- },
- {
-  "title": "Perplexity and Intelligence",
-  "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-  "url": "https://openai.com/index/perplexity-and-intelligence",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-22T00:00:00+00:00",
-  "image": "",
-  "id": "de5cd1a6d51dc917"
- },
- {
   "title": "Donating Agent Skills to the Agentic AI Foundation",
   "summary": "",
   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
@@ -69,5 +9,16 @@
   "time": "2026-11-23T02:41:13.359019+00:00",
   "page": true,
   "id": "86405d6d1e9fb855"
+ },
+ {
+  "title": "Open call for guest investigators in the life sciences",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-11-23T12:21:54.454552+00:00",
+  "page": true,
+  "id": "98d45c75b11c937c"
  }
 ]
