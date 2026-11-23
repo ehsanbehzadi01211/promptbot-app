@@ -1,4 +1,4 @@
-Sun Nov 22 21:44:37 UTC 2026
+Mon Nov 23 02:41:12 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 == sources.json
 OpenAI: 1 fresh
@@ -7,14 +7,14 @@ Google DeepMind: 0 fresh
 NVIDIA: 0 fresh
 Hugging Face: 0 fresh
 The Verge: 5 fresh
-TechCrunch: 6 fresh
+TechCrunch: 7 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 0 fresh
 Product Hunt: 2 fresh
 Anthropic: 27 links
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 12 fresh
+Google News: 10 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 29 fresh
@@ -22,25 +22,25 @@ new items: 1
 == sources_games.json
 Xbox Wire: 0 fresh
 PlayStation Blog: 0 fresh
-IGN: 16 fresh
+IGN: 14 fresh
 GameSpot: 0 fresh
 PC Gamer: 30 fresh
-Eurogamer: 12 fresh
+Eurogamer: 9 fresh
 VGC: 10 fresh
 Push Square: 7 fresh
 Google News: 30 fresh
+Google News: 30 fresh
+Google News: 28 fresh
 Google News: 28 fresh
 Google News: 30 fresh
-Google News: 26 fresh
 Google News: 30 fresh
-Google News: 27 fresh
 Google News: 30 fresh
 new items: 3
 == sources.json
 translated via clients5
 translated via clients5
-sent card An agent used DNS to reach an external chatbot
+sent card AI agents gain ground with consumers
 == sources_games.json
 translated via clients5
 translated via clients5
-sent photo PS5 Survives GTA 6's Unfathomably Humongous Launch without a
+sent card 50 Of The Best Discounted Games From Xbox's Black Friday 202
