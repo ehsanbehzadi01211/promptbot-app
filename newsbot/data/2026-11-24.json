@@ -130,5 +130,101 @@
   "time": "2026-11-23T17:45:00+00:00",
   "image": "",
   "id": "5e25ec4bc0c09d42"
+ },
+ {
+  "title": "How iFood scales coding agents across 15,000 repositories",
+  "summary": "",
+  "url": "https://openai.com/business/customer-stories/ifood",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-24T00:00:00+00:00",
+  "image": "",
+  "id": "7a6462e387eb267a"
+ },
+ {
+  "title": "Searching for distant planets with Astra",
+  "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+  "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-24T11:00:00+00:00",
+  "image": "",
+  "id": "f3aa9260f1094b37"
+ },
+ {
+  "title": "How Intentful uses dots to make more time for growth",
+  "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+  "url": "https://openai.com/business/customer-stories/intentful-dots",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-24T00:00:00+00:00",
+  "image": "",
+  "id": "ec442b764e041cd2"
+ },
+ {
+  "title": "How Gemini is changing the game for Golden State's organization and fans.",
+  "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+  "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+  "source": "Google",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-24T16:00:00+00:00",
+  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-600x600.format-webp.webp",
+  "id": "8d6c7c64bc859895"
+ },
+ {
+  "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+  "summary": "",
+  "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-24T16:34:13+00:00",
+  "image": "",
+  "id": "16565a3f5dc091b0"
+ },
+ {
+  "title": "Meta's Muse Personal AI Agent Launches in the UK",
+  "summary": "Meta's Muse Personal AI Agent Launches in the UK MacRumors",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV0gxOHpkTnZTUy1yQmliN0lnSEtpajFWVGR6Wm5ZT1Y3bFQ2eVdsMnQzblhzcE5ZUDFiTS10UGwwMUtFT0FNa3VQcUlkd0RtZTNaQkFHT3YxXzNTUEU3Z0Fla2tHQUFNaHJiZjNoWDFCeVczeEt5NWx5UlpHQkRTWXYxeGluSnNaTDhsZ0Jn?oc=5",
+  "source": "MacRumors",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-24T11:15:45+00:00",
+  "image": "",
+  "id": "094c023f63138faa"
+ },
+ {
+  "title": "Exein launches Ray AI agent to show manufacturers which firmware weaknesses to fix first",
+  "summary": "Exein launches Ray AI agent to show manufacturers which firmware weaknesses to fix first SiliconANGLE",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZThWSjQwYmJ4NkxsQWRBUmZnMU05aW9JY01HcTNzLWJkRGtKNzZib2NyZjdSY3g3ZG5CMER6MmRaa1Z2S3ZFMVR4NDlGTkcwLTdZdnNpVC13YkY0ZS00Rmt5b3dCbEhkci1hZTExUXJDYUIyNXdXd1BFdklWTmxMcG14U1BxdDZYSDdaZlVGRm5kTGxtSWtieURSN2FiQUxTYlN6aDB2RXhqZVR3UTdOdGMwM2djM1ZjUWloM2RfNDhPbEE?oc=5",
+  "source": "SiliconANGLE",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-24T12:00:00+00:00",
+  "image": "",
+  "id": "14e0c663d45b7ad4"
+ },
+ {
+  "title": "The New York Times warns photographers not to update Photoshop over AI features",
+  "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and Josh […]",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+  "source": "The Verge",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-24T16:09:23+00:00",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "id": "dc69597abec1a000"
  }
 ]

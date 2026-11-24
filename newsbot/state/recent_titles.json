@@ -1,12 +1,4 @@
 [
- "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
- "How we detect frontier model misalignment",
- "How Ropes & Gray is developing AI for transactional diligence",
- "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
- "Mistral’s New ‘Le Chonk’ AI Model Is Big, Open and Now Available for Download",
- "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
- "Making it easier for websites to express AI training preferences",
- "Community safety report and new protections for teens",
  "nemotron-halloween",
  "Zest’s new AI agent finds restaurants and books reservations over text",
  "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
@@ -298,5 +290,13 @@
  "RoboTrack: Point tracking for real-world robotic manipulation",
  "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
  "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release",
- "Google's Gemini Spark is now available to more users"
+ "Google's Gemini Spark is now available to more users",
+ "How iFood scales coding agents across 15,000 repositories",
+ "Searching for distant planets with Astra",
+ "How Intentful uses dots to make more time for growth",
+ "How Gemini is changing the game for Golden State's organization and fans.",
+ "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+ "Meta's Muse Personal AI Agent Launches in the UK",
+ "Exein launches Ray AI agent to show manufacturers which firmware weaknesses to fix first",
+ "The New York Times warns photographers not to update Photoshop over AI features"
 ]
