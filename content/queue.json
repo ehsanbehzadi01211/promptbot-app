@@ -1860,5 +1860,38 @@
     "media": "https://res.cloudinary.com/qecsawrr/video/upload/v1794767822/v10_gta_c_final.mp4",
     "note": "GTA VI series (owner, 15 Nov): official Rockstar footage, no comment keyword/DM",
     "url": "https://www.youtube.com/watch?v=K7F29O_X-3g"
+  },
+  {
+    "platform": "instagram",
+    "kind": "reel",
+    "key": "v10_voicestudio",
+    "id": "ig-2026-11-24-reel-v10voicestudio",
+    "account": "conn_a8ade4f9de0c6bca",
+    "lang": "fa",
+    "when": "2026-11-24T10:00",
+    "topic": "پول ElevenLabs رو نده! (VoiceStudio)",
+    "status": "scheduled",
+    "via": "uplika",
+    "uplika_post": "post_bf853b81bc1d0b90",
+    "workspace": "ws_680c8b2ee3656246",
+    "media": "https://cdn.uplika.com/ws_680c8b2ee3656246/202611/med_0fb9f80113cfcd04.mov",
+    "keyword": "ویس",
+    "note": "automation comment-to-DM for ویس not yet created"
+  },
+  {
+    "platform": "youtube",
+    "kind": "short",
+    "key": "fa_v10_voicestudio",
+    "id": "yo-2026-11-24-short-v10voicestudio",
+    "account": "conn_0518c6141bae7d86",
+    "lang": "fa",
+    "when": "2026-11-24T10:00",
+    "topic": "پول ElevenLabs رو نده! (VoiceStudio)",
+    "status": "scheduled",
+    "via": "uplika",
+    "uplika_post": "post_bf853b81bc1d0b90",
+    "workspace": "ws_680c8b2ee3656246",
+    "media": "https://cdn.uplika.com/ws_680c8b2ee3656246/202611/med_0fb9f80113cfcd04.mov",
+    "note": "automation comment-to-DM for ویس not yet created"
   }
 ]
