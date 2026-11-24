@@ -94,5 +94,41 @@
   "time": "2026-11-23T17:20:37+00:00",
   "image": "",
   "id": "ca38829e73128713"
+ },
+ {
+  "title": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
+  "summary": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnNPV3c5WnFtTU5oUUFrMDU5ZXpxTWljNm9hZHhlUFFtNDBEclNETVF5RGc1ei04dlNPbGZLazJRLUEwMkdCbDZkckE1UUNBU1R3QkpYR3JORDZkNnJMckFCelFldldjRElLWmxLbllyNHU3cFQ2d1AwMGItU205eWhRZFF2WFd1MFdTbzVBNXBGdTdiVlhEaWVrZnZUN2V0SFpOSFFn?oc=5",
+  "source": "The Guardian",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-24T06:02:00+00:00",
+  "image": "",
+  "id": "1578070c5a50c444"
+ },
+ {
+  "title": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release",
+  "summary": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release Axios",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWnJmY2hLTWlhTHcwN3pVSEhYOXlYUThYQXJ3RWxobVlPR2lweWpSQUY1NklSLVNVUHI4c0wwdnN3azBiV05wTVV6ZmRMTllRR1dvcmNYdjRheHZDOUNVaTBxUFpuS3BZUVBvZ2tpMlpTSS1oYWZ3SC16RVZEME51a0FB?oc=5",
+  "source": "Axios",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-24T10:49:26+00:00",
+  "image": "",
+  "id": "ba4322098de37e67"
+ },
+ {
+  "title": "Google's Gemini Spark is now available to more users",
+  "summary": "Google's Gemini Spark is now available to more users Mashable",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NYXRqbnMxZGRNMXdjZTFyYm9qNkZyVXp1QlZtRXhiaXBuYVUtd00tRHprTnNQaFBhZlZWaHB3d3BpU2M3ZHE1aVZYSjJrM2c2TWlYT0JqT1Q?oc=5",
+  "source": "Mashable",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-23T17:45:00+00:00",
+  "image": "",
+  "id": "5e25ec4bc0c09d42"
  }
 ]
