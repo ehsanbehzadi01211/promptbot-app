@@ -1,16 +1,5 @@
 [
  {
-  "title": "Donating Agent Skills to the Agentic AI Foundation",
-  "summary": "",
-  "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-  "source": "Anthropic",
-  "official": true,
-  "tools": false,
-  "time": "2026-11-23T02:41:13.359019+00:00",
-  "page": true,
-  "id": "86405d6d1e9fb855"
- },
- {
   "title": "Open call for guest investigators in the life sciences",
   "summary": "",
   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
@@ -20,5 +9,101 @@
   "time": "2026-11-23T12:21:54.454552+00:00",
   "page": true,
   "id": "98d45c75b11c937c"
+ },
+ {
+  "title": "OpenAI and Cisco introduce Shirudo",
+  "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+  "url": "https://openai.com/index/introducing-shirudo",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-23T21:20:00+00:00",
+  "image": "",
+  "id": "1d0c151fefed0dea"
+ },
+ {
+  "title": "Finding faster quantum algorithms with agents and formal verification",
+  "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+  "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+  "source": "Google DeepMind",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-23T16:59:40+00:00",
+  "image": "",
+  "id": "9dddeb89e408dae0"
+ },
+ {
+  "title": "How to build and maintain an agentic evaluation",
+  "summary": "",
+  "url": "https://huggingface.co/blog/agentic-evals",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-23T00:00:00+00:00",
+  "image": "",
+  "id": "6fd4c32fe34a4cba"
+ },
+ {
+  "title": "Connected intelligence for in-house legal",
+  "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+  "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-23T08:00:00+00:00",
+  "image": "",
+  "id": "f8a4e02f42124693"
+ },
+ {
+  "title": "Richpanel helps companies automate 50% of support in 30 days",
+  "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+  "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+  "source": "OpenAI",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-23T08:00:00+00:00",
+  "image": "",
+  "id": "680b35173b971311"
+ },
+ {
+  "title": "A more tailored Google Search that’s uniquely yours",
+  "summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo icons",
+  "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+  "source": "Google",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-23T17:00:00+00:00",
+  "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.max-600x600.format-webp.webp",
+  "id": "c5903c8754bbbfd5"
+ },
+ {
+  "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+  "summary": "The elves don’t have to be the only ones busy in the workshop this holiday season. With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the next level. For some, that means diving into a new game. […]",
+  "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-23T17:00:08+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/nvidia-holiday26-gfn-nv-blog-preview-1280x680-1.jpg",
+  "id": "5080a13c0be9c9f6"
+ },
+ {
+  "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+  "summary": "",
+  "url": "https://huggingface.co/blog/allenai/robotrack",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-23T17:20:37+00:00",
+  "image": "",
+  "id": "ca38829e73128713"
  }
 ]
