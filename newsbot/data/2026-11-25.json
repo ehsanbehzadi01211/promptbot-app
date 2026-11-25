@@ -94,5 +94,77 @@
   "time": "2026-11-25T01:41:00+00:00",
   "image": "",
   "id": "0a42031c7023b435"
+ },
+ {
+  "title": "An Indic Voice Agent with CUGA",
+  "summary": "",
+  "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-25T10:22:09+00:00",
+  "image": "",
+  "id": "d0a3a7f662b58965"
+ },
+ {
+  "title": "Meta's new AI agent launches in UK, but is it helpful?",
+  "summary": "Meta's new AI agent launches in UK, but is it helpful? BBC",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzbllTYWhOY1lxRVlvcVFDak0wZHpJWG1LMmoxTlFSM0JEcGhkSVJzR1VMX09ZRXNDbnpfdmEyN0d4c0l1dEhJVHNobnV1cG5lN2h5RDlUY0NNR0E?oc=5",
+  "source": "BBC",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-24T18:51:10+00:00",
+  "image": "",
+  "id": "c9168e694b61c54f"
+ },
+ {
+  "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+  "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+  "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+  "source": "TechCrunch",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-25T14:10:18+00:00",
+  "image": "",
+  "id": "61cb6e1f95ec64ca"
+ },
+ {
+  "title": "The OpenAI hacking case shows corporate liability can work. It doesn’t cover AI agents with no owner",
+  "summary": "The OpenAI hacking case shows corporate liability can work. It doesn’t cover AI agents with no owner Fortune",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU0dGeXFIRkpfRkhva250bUtxczBJZl84d2xTVWFyRXdtckNjQmptcklzeGxPeWhreWl1dlFBdzl4ZXJoNEJxdEVuWHN2QjNqN2lERklReGJPZVBOcWpoenlOZklLNDdENV8xVG5xdUpISFYwMXJ5MnNvUHNYa0N0cXZERlJ2WlVyYkpKczhVWHA0RFNr?oc=5",
+  "source": "Fortune",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-25T13:01:44+00:00",
+  "image": "",
+  "id": "381fa695404fbe7e"
+ },
+ {
+  "title": "Google Messages gets Gemini Tasks integration for delivery updates, price alerts, and more",
+  "summary": "Google Messages gets Gemini Tasks integration for delivery updates, price alerts, and more Android Authority",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fWjNzekc2ZnF2QWJlck5QbE9rM0FtbVZSb1ZabklRNkdyLUd5NnhfY2RieFJzakEzeVNRSzlLMXZNLUdPaWtmM1F1ZHJPX0NQUzE4S2JxaFpLVTY1QktfX2RPSjB2LUFYSE13cGJIM2JPOFkwUWhib3J3?oc=5",
+  "source": "Android Authority",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-25T06:58:00+00:00",
+  "image": "",
+  "id": "48766b5ec085e2af"
+ },
+ {
+  "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+  "summary": "All the latest news on Meta’s cute, creepy Muse AI agent The Verge",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlWUtkMVdfazhRYVRqeE84TkVSeXpSd2s5ZE9Wb0psMUd5MkRrMi1pdlAwenRfSlJJNGJaaFM1WDJQakJITU51S0R2Y1VUeUdkSk9ZOEFfQUc5V3M2c0pkU09Fek4teC1CTjVXX2FyOE9uQWh3R3NLYXBVOTU?oc=5",
+  "source": "The Verge",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-25T08:20:30+00:00",
+  "image": "",
+  "id": "5f41e4e44638fe0b"
  }
 ]

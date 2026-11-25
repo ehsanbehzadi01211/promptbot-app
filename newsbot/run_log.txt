@@ -1,2 +1,46 @@
-Wed Nov 25 15:00:15 UTC 2026
+Wed Nov 25 15:32:37 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+== sources.json
+OpenAI: 2 fresh
+Google: 1 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 0 fresh
+Hugging Face: 2 fresh
+The Verge: 7 fresh
+TechCrunch: 15 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 1 fresh
+Product Hunt: 13 fresh
+Anthropic: 27 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 6
+== sources_games.json
+Xbox Wire: 4 fresh
+PlayStation Blog: 0 fresh
+IGN: 20 fresh
+GameSpot: 15 fresh
+PC Gamer: 23 fresh
+Eurogamer: 25 fresh
+VGC: 10 fresh
+Push Square: 19 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 28 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 4
+== sources.json
+translated via clients5
+translated via clients5
+sent card Meta launches Muse in UK – the AI agent that can do your Chr
+== sources_games.json
+translated via clients5
+translated via clients5
+sent photo Modders already have GTA 6 running on PC, after CyberLeek re
