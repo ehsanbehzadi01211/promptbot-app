@@ -1,16 +1,16 @@
-Tue Nov 24 21:08:40 UTC 2026
+Wed Nov 25 04:53:16 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 == sources.json
-OpenAI: 4 fresh
+OpenAI: 6 fresh
 Google: 2 fresh
-Google DeepMind: 1 fresh
+Google DeepMind: 0 fresh
 NVIDIA: 1 fresh
 Hugging Face: 2 fresh
 The Verge: 10 fresh
 TechCrunch: 20 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 2 fresh
-Product Hunt: 11 fresh
+Product Hunt: 5 fresh
 Anthropic: 27 links
 Google News: 30 fresh
 Google News: 30 fresh
@@ -25,22 +25,23 @@ PlayStation Blog: 1 fresh
 IGN: 20 fresh
 GameSpot: 15 fresh
 PC Gamer: 30 fresh
-Eurogamer: 28 fresh
+Eurogamer: 20 fresh
 VGC: 10 fresh
-Push Square: 23 fresh
+Push Square: 19 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 27 fresh
+Google News: 29 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-new items: 8
+new items: 3
 == sources.json
 translated via clients5
 translated via clients5
-sent card OpenAI and Cisco introduce Shirudo
+sent card Finding faster quantum algorithms with agents and formal ver
 == sources_games.json
 translated via clients5
 translated via clients5
-sent card GTA 6 New Update Releasing in Phases; Size Revealed
+sent photo Thank you for making Grand Theft Auto VI the biggest launch 
+promo sent post_bf853b81bc1d0b90
