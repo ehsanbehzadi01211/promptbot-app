@@ -2,3 +2,4 @@ gtts/tz04_narr.wav
 gtts/e05_dialog.wav
 gtts/tz05_narr.wav
 gtts/e06_dialog.wav
+gtts/e07_dialog.wav
