@@ -70,5 +70,29 @@
   "time": "2026-11-25T16:44:37+00:00",
   "image": "",
   "id": "1e37912d14f774c8"
+ },
+ {
+  "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+  "summary": "",
+  "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-26T05:05:36+00:00",
+  "image": "",
+  "id": "d3aa48daa62df585"
+ },
+ {
+  "title": "AI agents promise to transform work. Big Tech wants to collect the tolls.",
+  "summary": "AI agents promise to transform work. Big Tech wants to collect the tolls. Business Insider",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObVliT05sekNtYS1adENYOHZ2N0ctVFdDV3FSRGpfZl8ySUJXQnJnVHRuUjd3dXl0ZkZ1bDF0dVp1anlwc2JRSmo1Smo4U1hGNXFFcm1GY3FQYnV0QmxkekY4UDBfbmVTU0dGaTg5NWp2ZE5LR216TXYycnNmTlQzVDE4NGJXQzh5dlVRRmdZLTQzZy1tbHRPOTk2cU44MVVCdl9JRWlpVQ?oc=5",
+  "source": "Business Insider",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-25T18:13:00+00:00",
+  "image": "",
+  "id": "8e922c4405eba150"
  }
 ]

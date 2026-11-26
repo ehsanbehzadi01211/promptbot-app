@@ -1,53 +1,5 @@
 [
  {
-  "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-  "summary": "",
-  "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-24T16:34:13+00:00",
-  "image": "",
-  "id": "16565a3f5dc091b0"
- },
- {
-  "title": "The New York Times warns photographers not to update Photoshop over AI features",
-  "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and Josh […]",
-  "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-  "source": "The Verge",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-24T16:09:23+00:00",
-  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0,0,100,100",
-  "id": "dc69597abec1a000"
- },
- {
-  "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-  "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
-  "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-  "source": "OpenAI",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-24T13:00:00+00:00",
-  "image": "",
-  "id": "3c6728c1bfd19879"
- },
- {
-  "title": "Even the best AI agents struggle with everyday life",
-  "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
-  "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-  "source": "TechCrunch",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-24T21:33:29+00:00",
-  "image": "",
-  "id": "6e5f032fb046721a"
- },
- {
   "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
   "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
   "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
@@ -60,18 +12,6 @@
   "id": "42cb577d7e7884cb"
  },
  {
-  "title": "OpenAI Preps ‘Athena’ Data Tool to Make its Agents More Accurate",
-  "summary": "OpenAI Preps ‘Athena’ Data Tool to Make its Agents More Accurate The Information",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVGUxS1JOMUQ2NExpN2pkYVEzcEVkZkJLRkxGb08yeFF5WEFpRXV5V09WSTJTZEJtMkZYS04wdGlMa193Y0NBcjBtVzJma1pBcHRCSUtFMHJyOFZEaDdYMnhvbndoTjUzU3QtVmE0Q2dOSUNEY3NySW1OWWlEbndvU2xjVHNPNlQtcnpOdGtpZFMwMVE5SGt0c2djWnAxcmp1ajVreHJESQ?oc=5",
-  "source": "The Information",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-24T21:26:00+00:00",
-  "image": "",
-  "id": "a233426110424af1"
- },
- {
   "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
   "summary": "Saudi national charged in OpenAI bugging to be released on $1 million bond CNBC",
   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pdXZBMHRlenptLXduWlZuVzlDS1VuRzgyc3RxVUZHQ254YmpVM21lOU1Pd0pJSU1HTDZ2YTdfRjBSUGFZSUFIYVc3RjlvTlhCcmpzaFloYmZQWDEyamd0OExnSTZSYWFqekJ0TFAzQ0pHY045MXJJWWx3WTU0QdIBgwFBVV95cUxPWl81RnJfSUhQMnBTLUhlUXZUMEI5NjE1ckRxTUZrcW5XckxsLWVCbktmSHd1M01QZjZKc2g2bHBYVW16NWlHRDNXd282eTh1TEhzaFNnS2V0SGUyYzEzNjY2QjJnUkduXzFvWjFkRWRTTXZyU21XaVFYZE5uN3pPTWk2MA?oc=5",
@@ -82,18 +22,6 @@
   "time": "2026-11-24T21:45:49+00:00",
   "image": "",
   "id": "b28cfcb4604ce77f"
- },
- {
-  "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
-  "summary": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving WIRED",
-  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5raGMwUGJ3QjQwRzZaMTJEb2tUWUhETlBpWUxuTFNmUWdjWG1qM1VEaXM5Yml2SjZLSW9MOWd3SVdKaEthOHgwaVNVWE13N2VGbkJDNmZfVE5rang3cGN0V2c5SW1URGc0QU0xOXNWUldlU1E?oc=5",
-  "source": "WIRED",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-24T16:00:00+00:00",
-  "image": "",
-  "id": "6e470d0977c7899a"
  },
  {
   "title": "Staff at Anthropic and Open AI sound alarm on advanced models too powerful to release",
@@ -118,18 +46,6 @@
   "time": "2026-11-25T10:22:09+00:00",
   "image": "",
   "id": "d0a3a7f662b58965"
- },
- {
-  "title": "Meta's new AI agent launches in UK, but is it helpful?",
-  "summary": "Meta's new AI agent launches in UK, but is it helpful? BBC",
-  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzbllTYWhOY1lxRVlvcVFDak0wZHpJWG1LMmoxTlFSM0JEcGhkSVJzR1VMX09ZRXNDbnpfdmEyN0d4c0l1dEhJVHNobnV1cG5lN2h5RDlUY0NNR0E?oc=5",
-  "source": "BBC",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-24T18:51:10+00:00",
-  "image": "",
-  "id": "c9168e694b61c54f"
  },
  {
   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
@@ -192,18 +108,6 @@
   "id": "37b5c9ba93266751"
  },
  {
-  "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
-  "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
-  "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
-  "source": "Google DeepMind",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-24T13:07:53+00:00",
-  "image": "",
-  "id": "dd94f7af62fb3fa3"
- },
- {
   "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
   "summary": "",
   "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
@@ -250,5 +154,29 @@
   "time": "2026-11-25T16:44:37+00:00",
   "image": "",
   "id": "1e37912d14f774c8"
+ },
+ {
+  "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+  "summary": "",
+  "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-26T05:05:36+00:00",
+  "image": "",
+  "id": "d3aa48daa62df585"
+ },
+ {
+  "title": "AI agents promise to transform work. Big Tech wants to collect the tolls.",
+  "summary": "AI agents promise to transform work. Big Tech wants to collect the tolls. Business Insider",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObVliT05sekNtYS1adENYOHZ2N0ctVFdDV3FSRGpfZl8ySUJXQnJnVHRuUjd3dXl0ZkZ1bDF0dVp1anlwc2JRSmo1Smo4U1hGNXFFcm1GY3FQYnV0QmxkekY4UDBfbmVTU0dGaTg5NWp2ZE5LR216TXYycnNmTlQzVDE4NGJXQzh5dlVRRmdZLTQzZy1tbHRPOTk2cU44MVVCdl9JRWlpVQ?oc=5",
+  "source": "Business Insider",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-25T18:13:00+00:00",
+  "image": "",
+  "id": "8e922c4405eba150"
  }
 ]
