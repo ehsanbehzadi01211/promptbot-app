@@ -1,7 +1,4 @@
 [
- "LifeVal",
- "Qodo builds context into AI code review with Codex",
- "Anthropic’s growth slowed and costs jumped in the third quarter, updated IPO filing shows",
  "DeepSeek Boosts AI Agent Offering With New Creator Mode",
  "Scaling Git at OpenAI",
  "Rewarding defenders with bigger bug bounties",
@@ -298,5 +295,8 @@
  "Anthropic CEO pushes back on Axios reporting on AI and free will",
  "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
  "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
- "AI agents promise to transform work. Big Tech wants to collect the tolls."
+ "AI agents promise to transform work. Big Tech wants to collect the tolls.",
+ "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+ "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+ "Come for the Games, Stay for the Community With GeForce NOW"
 ]

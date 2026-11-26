@@ -1,2 +1,45 @@
-Thu Nov 26 14:30:53 UTC 2026
+Thu Nov 26 19:35:33 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+== sources.json
+OpenAI: 0 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 1 fresh
+Hugging Face: 5 fresh
+The Verge: 6 fresh
+TechCrunch: 10 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 1 fresh
+Product Hunt: 18 fresh
+Anthropic: 27 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 29 fresh
+new items: 3
+== sources_games.json
+Xbox Wire: 3 fresh
+PlayStation Blog: 1 fresh
+IGN: 20 fresh
+GameSpot: 14 fresh
+PC Gamer: 27 fresh
+Eurogamer: 30 fresh
+VGC: 10 fresh
+Push Square: 22 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 28 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 8
+== sources.json
+translated via clients5
+sent photo An Indic Voice Agent with CUGA
+== sources_games.json
+translated via clients5
+translated via clients5
+sent photo Achievement Unlocked: An Interview with the First XBOX Playe

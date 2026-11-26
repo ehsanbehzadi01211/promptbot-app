@@ -1,53 +1,5 @@
 [
  {
-  "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-  "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
-  "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-  "source": "TechCrunch",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-24T21:32:38+00:00",
-  "image": "",
-  "id": "42cb577d7e7884cb"
- },
- {
-  "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
-  "summary": "Saudi national charged in OpenAI bugging to be released on $1 million bond CNBC",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pdXZBMHRlenptLXduWlZuVzlDS1VuRzgyc3RxVUZHQ254YmpVM21lOU1Pd0pJSU1HTDZ2YTdfRjBSUGFZSUFIYVc3RjlvTlhCcmpzaFloYmZQWDEyamd0OExnSTZSYWFqekJ0TFAzQ0pHY045MXJJWWx3WTU0QdIBgwFBVV95cUxPWl81RnJfSUhQMnBTLUhlUXZUMEI5NjE1ckRxTUZrcW5XckxsLWVCbktmSHd1M01QZjZKc2g2bHBYVW16NWlHRDNXd282eTh1TEhzaFNnS2V0SGUyYzEzNjY2QjJnUkduXzFvWjFkRWRTTXZyU21XaVFYZE5uN3pPTWk2MA?oc=5",
-  "source": "CNBC",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-24T21:45:49+00:00",
-  "image": "",
-  "id": "b28cfcb4604ce77f"
- },
- {
-  "title": "Staff at Anthropic and Open AI sound alarm on advanced models too powerful to release",
-  "summary": "Staff at Anthropic and Open AI sound alarm on advanced models too powerful to release SiliconANGLE",
-  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQXpHa0RwVHVTMDFmaVpkVzZBRmNxdmJuTVlPUDV0UWl2c0xzeERhY1VyQ2x3cng4QTRpMTB2MzNnclNDOHJCNWhSNlhsY3QxMXFxU1dMYnBLNVVBa3RiamcxMFd4cVd1ZFVOcFJEcVFNR29PR051c3NMRllTczlqVUlUUzVGUDBObmZJRVplbkZTVlRVdlZFU014aEJJTEVwM1lfYWpydU9LY1BraG1vNjZoY1d1S2g3U1RsSTF1RQ?oc=5",
-  "source": "SiliconANGLE",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-25T01:41:00+00:00",
-  "image": "",
-  "id": "0a42031c7023b435"
- },
- {
-  "title": "An Indic Voice Agent with CUGA",
-  "summary": "",
-  "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-25T10:22:09+00:00",
-  "image": "",
-  "id": "d0a3a7f662b58965"
- },
- {
   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
   "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
   "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
@@ -72,18 +24,6 @@
   "id": "381fa695404fbe7e"
  },
  {
-  "title": "Google Messages gets Gemini Tasks integration for delivery updates, price alerts, and more",
-  "summary": "Google Messages gets Gemini Tasks integration for delivery updates, price alerts, and more Android Authority",
-  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fWjNzekc2ZnF2QWJlck5QbE9rM0FtbVZSb1ZabklRNkdyLUd5NnhfY2RieFJzakEzeVNRSzlLMXZNLUdPaWtmM1F1ZHJPX0NQUzE4S2JxaFpLVTY1QktfX2RPSjB2LUFYSE13cGJIM2JPOFkwUWhib3J3?oc=5",
-  "source": "Android Authority",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-25T06:58:00+00:00",
-  "image": "",
-  "id": "48766b5ec085e2af"
- },
- {
   "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
   "summary": "All the latest news on Meta’s cute, creepy Muse AI agent The Verge",
   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlWUtkMVdfazhRYVRqeE84TkVSeXpSd2s5ZE9Wb0psMUd5MkRrMi1pdlAwenRfSlJJNGJaaFM1WDJQakJITU51S0R2Y1VUeUdkSk9ZOEFfQUc5V3M2c0pkU09Fek4teC1CTjVXX2FyOE9uQWh3R3NLYXBVOTU?oc=5",
@@ -106,18 +46,6 @@
   "time": "2026-11-25T18:52:55+00:00",
   "image": "",
   "id": "37b5c9ba93266751"
- },
- {
-  "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
-  "summary": "",
-  "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-25T00:00:00+00:00",
-  "image": "",
-  "id": "d8d6777ecf090783"
  },
  {
   "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
@@ -178,5 +106,41 @@
   "time": "2026-11-25T18:13:00+00:00",
   "image": "",
   "id": "8e922c4405eba150"
+ },
+ {
+  "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+  "summary": "",
+  "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-26T11:37:17+00:00",
+  "image": "",
+  "id": "02a088434703556c"
+ },
+ {
+  "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+  "summary": "",
+  "url": "https://huggingface.co/blog/training-swarms",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-26T00:00:00+00:00",
+  "image": "",
+  "id": "c01600d4160315a4"
+ },
+ {
+  "title": "Come for the Games, Stay for the Community With GeForce NOW",
+  "summary": "Good games bring people together. This GFN Thursday, GeForce NOW is celebrating the members, creators and community moderators who turn every session into something worth sharing. From friendships formed in online lobbies to new worlds explored on everyday devices, GeForce NOW Ambassadors share their reasons to love cloud gaming. Those ready to find their own […]",
+  "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-26T14:00:22+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/GFN_Thursday-November_26.jpg",
+  "id": "99043acd3b6a9c06"
  }
 ]

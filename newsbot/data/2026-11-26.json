@@ -94,5 +94,41 @@
   "time": "2026-11-25T18:13:00+00:00",
   "image": "",
   "id": "8e922c4405eba150"
+ },
+ {
+  "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+  "summary": "",
+  "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-26T11:37:17+00:00",
+  "image": "",
+  "id": "02a088434703556c"
+ },
+ {
+  "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+  "summary": "",
+  "url": "https://huggingface.co/blog/training-swarms",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-26T00:00:00+00:00",
+  "image": "",
+  "id": "c01600d4160315a4"
+ },
+ {
+  "title": "Come for the Games, Stay for the Community With GeForce NOW",
+  "summary": "Good games bring people together. This GFN Thursday, GeForce NOW is celebrating the members, creators and community moderators who turn every session into something worth sharing. From friendships formed in online lobbies to new worlds explored on everyday devices, GeForce NOW Ambassadors share their reasons to love cloud gaming. Those ready to find their own […]",
+  "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
+  "source": "NVIDIA",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-26T14:00:22+00:00",
+  "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/GFN_Thursday-November_26.jpg",
+  "id": "99043acd3b6a9c06"
  }
 ]
