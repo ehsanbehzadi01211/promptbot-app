@@ -1,0 +1,74 @@
+[
+ {
+  "title": "Where scientists draw the line on AI agents",
+  "summary": "",
+  "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-25T18:52:55+00:00",
+  "image": "",
+  "id": "37b5c9ba93266751"
+ },
+ {
+  "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+  "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+  "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+  "source": "Google DeepMind",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-24T13:07:53+00:00",
+  "image": "",
+  "id": "dd94f7af62fb3fa3"
+ },
+ {
+  "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+  "summary": "",
+  "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-25T00:00:00+00:00",
+  "image": "",
+  "id": "d8d6777ecf090783"
+ },
+ {
+  "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
+  "summary": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release CNBC",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2g1bERMSlZJUWZRQ0hCcURVVUJnUXRxZWlGNDVORlE0Yko1RkNXZE10VW1EUnpsQUxUOXl0Ulg0bjlzUXRNcGpleDdDWXJoVEJuUld2ZHRrb3prOWdQMnI4ZUVPZ1JyeGprUG5nNmFxMENkckE5amRqbkxkZ1Rid2VfUmrSAYoBQVVfeXFMT0pGcEgwaDgwQU9OVUh3R0QyWGNTVXVIVVJkbEY5Yi1qMG1vS3d2b1dva3pJRzE2YUdpUEVsa3Naalc0ZXJfTmpxZTNEZnRyVFk1V0dPeW9MSHNJdEJhUjhnV3IyVWZQVWdXQlo2aUU5Q21VQTB4T0R3RDJ4c2RKQVVXbGc2cGVacjRB?oc=5",
+  "source": "CNBC",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-25T18:14:03+00:00",
+  "image": "",
+  "id": "93c34efffbbaa645"
+ },
+ {
+  "title": "Anthropic CEO pushes back on Axios reporting on AI and free will",
+  "summary": "Anthropic CEO pushes back on Axios reporting on AI and free will Axios",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTFlLeVdXV0Q3U2lsUlVFNmtzekFOd0xLQ092OExYRzlCckFRb0RZVTJuWXdQQVpFNG1Td1ZaZHIyYy1RbGY1WTJIUDlLYWx1R2c4aDRqUERmZkNweW16NUk4a0tTajZhSF9pSUtBVG43VkxVcG1Qc0d1azlhSlliSV9wZ1VOeVcz?oc=5",
+  "source": "Axios",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-25T21:05:47+00:00",
+  "image": "",
+  "id": "6b70e6e5b7e839b4"
+ },
+ {
+  "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
+  "summary": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store. The Decoder",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeGo2RnJ1SlhabnBnTlp1d2lkcEFsVG51Qy1mQmVlbnlDcnVOdEpFd0lEdTdseHBsXzVaSFZQdEU2dElWWUVyWjVEWVNkd1g1bW5lTE12UDN4Z0h4dV9rWDFJN1hNbEFaVE5idmdTUkFLWDVsQkhqY1hGWWJKem1iSVVydXpPUWtLbmd2SHpCUzVNWXNSUHF6Q0l3UEU5dnk3TkJuSHlXeDNDR2gwUnBuaUtKeDNRWU5qanZnWUxSUV9EcHB3?oc=5",
+  "source": "The Decoder",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-25T16:44:37+00:00",
+  "image": "",
+  "id": "1e37912d14f774c8"
+ }
+]
