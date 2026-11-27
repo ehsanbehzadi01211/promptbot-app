@@ -1,2 +1,45 @@
-Fri Nov 27 14:24:44 UTC 2026
+Fri Nov 27 21:12:43 UTC 2026
 {'channel': 'set', 'owner': 'set'}
+== sources.json
+OpenAI: 0 fresh
+Google: 0 fresh
+Google DeepMind: 0 fresh
+NVIDIA: 1 fresh
+Hugging Face: 2 fresh
+The Verge: 2 fresh
+TechCrunch: 2 fresh
+feed fail VentureBeat HTTP Error 429: Too Many Requests
+MIT Technology Review: 0 fresh
+Product Hunt: 5 fresh
+Anthropic: 27 links
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 24 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 26 fresh
+new items: 2
+== sources_games.json
+Xbox Wire: 3 fresh
+PlayStation Blog: 2 fresh
+IGN: 20 fresh
+GameSpot: 3 fresh
+PC Gamer: 26 fresh
+Eurogamer: 27 fresh
+VGC: 10 fresh
+Push Square: 17 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 29 fresh
+Google News: 30 fresh
+Google News: 22 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 8
+== sources.json
+translated via clients5
+sent photo Introducing the llama.cpp benchmark dashboard for AMD Ryzen 
+== sources_games.json
+translated via clients5
+translated via clients5
+sent photo Free Play Days – Warhammer 40,000: Mechanicus and Little Roc

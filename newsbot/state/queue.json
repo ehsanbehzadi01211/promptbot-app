@@ -1,17 +1,5 @@
 [
  {
-  "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-  "summary": "",
-  "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-26T11:37:17+00:00",
-  "image": "",
-  "id": "02a088434703556c"
- },
- {
   "title": "Come for the Games, Stay for the Community With GeForce NOW",
   "summary": "Good games bring people together. This GFN Thursday, GeForce NOW is celebrating the members, creators and community moderators who turn every session into something worth sharing. From friendships formed in online lobbies to new worlds explored on everyday devices, GeForce NOW Ambassadors share their reasons to love cloud gaming. Those ready to find their own […]",
   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
@@ -80,5 +68,29 @@
   "time": "2026-11-27T12:05:32.628090+00:00",
   "page": true,
   "id": "edf59637f599d673"
+ },
+ {
+  "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+  "summary": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork The Decoder",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTk85RFhOaVQ1UzZ5ZmN5cjd1ZWhGSXlfR1hEZEYtelMzb3M3a3B2RWlFaWlxMUYtbnlWSHZwdVhjMWR2cXBIVmtaTGUtbzRhVVRBWFF2VDlVaGh4OXVJVVlSdFJBN1kwVEJ3QXpjeVNYWlBJQmJKSVFrX0F5cUFwVk9mdXZDcTJLNXJROGFPeVJpeF9fbXZxYnZBOFBEd2c?oc=5",
+  "source": "The Decoder",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-27T16:05:23+00:00",
+  "image": "",
+  "id": "f0ed0630e88187a7"
+ },
+ {
+  "title": "Gemini Live is testing a new Activity tab for all your agentic tasks",
+  "summary": "Gemini Live is testing a new Activity tab for all your agentic tasks Android Authority",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNak5JR29nVHl6SkdwSm9iWjBRc2VEUmtYS3hfYzdVczRQZmgwaXliNnBnenBTWjlSb0pUbnRuZGRxYVVtdWprNmhRYWlrNkMwLVFuYUtaR2RFenliOXlPZ21uRW5rRXdwb0x0SDBpd2VzdWlaY3NXejNib1hnRzY5SmhseThpV0lOTTlBeHBKb2s2MjYtRlpLTDg1U0NTbHZneHYw?oc=5",
+  "source": "Android Authority",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-27T13:18:00+00:00",
+  "image": "",
+  "id": "b734fd26d7572399"
  }
 ]
