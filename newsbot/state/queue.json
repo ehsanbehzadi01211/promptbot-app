@@ -1,65 +1,5 @@
 [
  {
-  "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
-  "summary": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release CNBC",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2g1bERMSlZJUWZRQ0hCcURVVUJnUXRxZWlGNDVORlE0Yko1RkNXZE10VW1EUnpsQUxUOXl0Ulg0bjlzUXRNcGpleDdDWXJoVEJuUld2ZHRrb3prOWdQMnI4ZUVPZ1JyeGprUG5nNmFxMENkckE5amRqbkxkZ1Rid2VfUmrSAYoBQVVfeXFMT0pGcEgwaDgwQU9OVUh3R0QyWGNTVXVIVVJkbEY5Yi1qMG1vS3d2b1dva3pJRzE2YUdpUEVsa3Naalc0ZXJfTmpxZTNEZnRyVFk1V0dPeW9MSHNJdEJhUjhnV3IyVWZQVWdXQlo2aUU5Q21VQTB4T0R3RDJ4c2RKQVVXbGc2cGVacjRB?oc=5",
-  "source": "CNBC",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-25T18:14:03+00:00",
-  "image": "",
-  "id": "93c34efffbbaa645"
- },
- {
-  "title": "Anthropic CEO pushes back on Axios reporting on AI and free will",
-  "summary": "Anthropic CEO pushes back on Axios reporting on AI and free will Axios",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTFlLeVdXV0Q3U2lsUlVFNmtzekFOd0xLQ092OExYRzlCckFRb0RZVTJuWXdQQVpFNG1Td1ZaZHIyYy1RbGY1WTJIUDlLYWx1R2c4aDRqUERmZkNweW16NUk4a0tTajZhSF9pSUtBVG43VkxVcG1Qc0d1azlhSlliSV9wZ1VOeVcz?oc=5",
-  "source": "Axios",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-25T21:05:47+00:00",
-  "image": "",
-  "id": "6b70e6e5b7e839b4"
- },
- {
-  "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
-  "summary": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store. The Decoder",
-  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeGo2RnJ1SlhabnBnTlp1d2lkcEFsVG51Qy1mQmVlbnlDcnVOdEpFd0lEdTdseHBsXzVaSFZQdEU2dElWWUVyWjVEWVNkd1g1bW5lTE12UDN4Z0h4dV9rWDFJN1hNbEFaVE5idmdTUkFLWDVsQkhqY1hGWWJKem1iSVVydXpPUWtLbmd2SHpCUzVNWXNSUHF6Q0l3UEU5dnk3TkJuSHlXeDNDR2gwUnBuaUtKeDNRWU5qanZnWUxSUV9EcHB3?oc=5",
-  "source": "The Decoder",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-25T16:44:37+00:00",
-  "image": "",
-  "id": "1e37912d14f774c8"
- },
- {
-  "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-  "summary": "",
-  "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-26T05:05:36+00:00",
-  "image": "",
-  "id": "d3aa48daa62df585"
- },
- {
-  "title": "AI agents promise to transform work. Big Tech wants to collect the tolls.",
-  "summary": "AI agents promise to transform work. Big Tech wants to collect the tolls. Business Insider",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObVliT05sekNtYS1adENYOHZ2N0ctVFdDV3FSRGpfZl8ySUJXQnJnVHRuUjd3dXl0ZkZ1bDF0dVp1anlwc2JRSmo1Smo4U1hGNXFFcm1GY3FQYnV0QmxkekY4UDBfbmVTU0dGaTg5NWp2ZE5LR216TXYycnNmTlQzVDE4NGJXQzh5dlVRRmdZLTQzZy1tbHRPOTk2cU44MVVCdl9JRWlpVQ?oc=5",
-  "source": "Business Insider",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-25T18:13:00+00:00",
-  "image": "",
-  "id": "8e922c4405eba150"
- },
- {
   "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
   "summary": "",
   "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
@@ -70,18 +10,6 @@
   "time": "2026-11-26T11:37:17+00:00",
   "image": "",
   "id": "02a088434703556c"
- },
- {
-  "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-  "summary": "",
-  "url": "https://huggingface.co/blog/training-swarms",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-26T00:00:00+00:00",
-  "image": "",
-  "id": "c01600d4160315a4"
  },
  {
   "title": "Come for the Games, Stay for the Community With GeForce NOW",
@@ -129,5 +57,28 @@
   "time": "2026-11-26T20:30:43+00:00",
   "image": "",
   "id": "8b8cb652101b3d33"
+ },
+ {
+  "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+  "summary": "",
+  "url": "https://huggingface.co/blog/video-trainium3",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-27T00:00:00+00:00",
+  "image": "",
+  "id": "2d7f8b4f8454af31"
+ },
+ {
+  "title": "Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities…",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/s1-sec",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-11-27T12:05:32.628090+00:00",
+  "page": true,
+  "id": "edf59637f599d673"
  }
 ]

@@ -33,5 +33,28 @@
   "time": "2026-11-26T20:30:43+00:00",
   "image": "",
   "id": "8b8cb652101b3d33"
+ },
+ {
+  "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+  "summary": "",
+  "url": "https://huggingface.co/blog/video-trainium3",
+  "source": "Hugging Face",
+  "official": true,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-27T00:00:00+00:00",
+  "image": "",
+  "id": "2d7f8b4f8454af31"
+ },
+ {
+  "title": "Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities…",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/s1-sec",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-11-27T12:05:32.628090+00:00",
+  "page": true,
+  "id": "edf59637f599d673"
  }
 ]
