@@ -1,45 +1,45 @@
-Thu Nov 26 19:35:33 UTC 2026
+Fri Nov 27 02:49:17 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 == sources.json
 OpenAI: 0 fresh
 Google: 0 fresh
 Google DeepMind: 0 fresh
 NVIDIA: 1 fresh
-Hugging Face: 5 fresh
-The Verge: 6 fresh
-TechCrunch: 10 fresh
+Hugging Face: 4 fresh
+The Verge: 4 fresh
+TechCrunch: 9 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
-MIT Technology Review: 1 fresh
-Product Hunt: 18 fresh
+MIT Technology Review: 0 fresh
+Product Hunt: 15 fresh
 Anthropic: 27 links
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 30 fresh
-Google News: 29 fresh
-new items: 3
-== sources_games.json
-Xbox Wire: 3 fresh
-PlayStation Blog: 1 fresh
-IGN: 20 fresh
-GameSpot: 14 fresh
-PC Gamer: 27 fresh
-Eurogamer: 30 fresh
-VGC: 10 fresh
-Push Square: 22 fresh
-Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 28 fresh
 Google News: 30 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-new items: 8
+new items: 3
+== sources_games.json
+Xbox Wire: 3 fresh
+PlayStation Blog: 2 fresh
+IGN: 20 fresh
+GameSpot: 14 fresh
+PC Gamer: 30 fresh
+Eurogamer: 23 fresh
+VGC: 10 fresh
+Push Square: 18 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 24 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 5
 == sources.json
 translated via clients5
-sent photo An Indic Voice Agent with CUGA
+sent photo Where scientists draw the line on AI agents
 == sources_games.json
 translated via clients5
 translated via clients5
-sent photo Achievement Unlocked: An Interview with the First XBOX Playe
+sent photo PlayStation Plus Monthly Games for December: Tony Hawk’s Pro

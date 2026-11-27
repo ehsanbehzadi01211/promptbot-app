@@ -1,53 +1,5 @@
 [
  {
-  "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-  "summary": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
-  "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-  "source": "TechCrunch",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-25T14:10:18+00:00",
-  "image": "",
-  "id": "61cb6e1f95ec64ca"
- },
- {
-  "title": "The OpenAI hacking case shows corporate liability can work. It doesn’t cover AI agents with no owner",
-  "summary": "The OpenAI hacking case shows corporate liability can work. It doesn’t cover AI agents with no owner Fortune",
-  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU0dGeXFIRkpfRkhva250bUtxczBJZl84d2xTVWFyRXdtckNjQmptcklzeGxPeWhreWl1dlFBdzl4ZXJoNEJxdEVuWHN2QjNqN2lERklReGJPZVBOcWpoenlOZklLNDdENV8xVG5xdUpISFYwMXJ5MnNvUHNYa0N0cXZERlJ2WlVyYkpKczhVWHA0RFNr?oc=5",
-  "source": "Fortune",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-25T13:01:44+00:00",
-  "image": "",
-  "id": "381fa695404fbe7e"
- },
- {
-  "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
-  "summary": "All the latest news on Meta’s cute, creepy Muse AI agent The Verge",
-  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlWUtkMVdfazhRYVRqeE84TkVSeXpSd2s5ZE9Wb0psMUd5MkRrMi1pdlAwenRfSlJJNGJaaFM1WDJQakJITU51S0R2Y1VUeUdkSk9ZOEFfQUc5V3M2c0pkU09Fek4teC1CTjVXX2FyOE9uQWh3R3NLYXBVOTU?oc=5",
-  "source": "The Verge",
-  "official": false,
-  "tools": false,
-  "gnews": true,
-  "time": "2026-11-25T08:20:30+00:00",
-  "image": "",
-  "id": "5f41e4e44638fe0b"
- },
- {
-  "title": "Where scientists draw the line on AI agents",
-  "summary": "",
-  "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-  "source": "Hugging Face",
-  "official": true,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-25T18:52:55+00:00",
-  "image": "",
-  "id": "37b5c9ba93266751"
- },
- {
   "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
   "summary": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release CNBC",
   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb2g1bERMSlZJUWZRQ0hCcURVVUJnUXRxZWlGNDVORlE0Yko1RkNXZE10VW1EUnpsQUxUOXl0Ulg0bjlzUXRNcGpleDdDWXJoVEJuUld2ZHRrb3prOWdQMnI4ZUVPZ1JyeGprUG5nNmFxMENkckE5amRqbkxkZ1Rid2VfUmrSAYoBQVVfeXFMT0pGcEgwaDgwQU9OVUh3R0QyWGNTVXVIVVJkbEY5Yi1qMG1vS3d2b1dva3pJRzE2YUdpUEVsa3Naalc0ZXJfTmpxZTNEZnRyVFk1V0dPeW9MSHNJdEJhUjhnV3IyVWZQVWdXQlo2aUU5Q21VQTB4T0R3RDJ4c2RKQVVXbGc2cGVacjRB?oc=5",
@@ -142,5 +94,40 @@
   "time": "2026-11-26T14:00:22+00:00",
   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/GFN_Thursday-November_26.jpg",
   "id": "99043acd3b6a9c06"
+ },
+ {
+  "title": "An update on independent evaluators",
+  "summary": "",
+  "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+  "source": "Anthropic",
+  "official": true,
+  "tools": false,
+  "time": "2026-11-27T02:49:18.392305+00:00",
+  "page": true,
+  "id": "dc9ed14da7f573e5"
+ },
+ {
+  "title": "‘We’ve fixed this now, so the same work will use more of your plan’s usage allowance’: OpenAI admits it made a mistake when launching GPT-6.2 — and now, paying ChatGPT users could hit their usage limits up to 40% faster",
+  "summary": "‘We’ve fixed this now, so the same work will use more of your plan’s usage allowance’: OpenAI admits it made a mistake when launching GPT-6.2 — and now, paying ChatGPT users could hit their usage limits up to 40% faster TechRadar",
+  "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNa25Kbkt6cl9rTlExMXBrZ0FNXzBjMjM3RHY1UHdrWmxDajQ2cno0MmVGaHBuLXNQR0ppTUJISzB3NU92aTlrcEx0MmNwSDJTY1p6NXpueDlHZnN0OXBpNzRaMHJVV1FjeGNBMXBjSFZibks4aHdtTDNsNFJ5TUMzT1c2bjVUcHFTWU9FU1pIZGpxbXZJeGNDZTJLQ0xCTFhrekl6N3k1NjdQODhPNno5UGtORktVU3Q0Q0tCSV9qN2k4VUpuS21GY0FsbW5BWWtYdWdmbWhQLWcxd3FFR0l0R25PSE5Uc09FLVVSZ3VEdjlPVnVSZm1UTkE0RlFCbUwwaGpzQ21vU1NkVTRheWh6dlVzcks1OWZnVEcycHMwQTJDQmFJRXNqMlVpSWR5ZWMxVmRJVERkYmN1QzNfMVZ0S1l4bFVqY2FwLVl1QU56WWRUbXA2UVZ2bXZ4Rlhudm12TlZkN05lWHFYNUsyZXZPLTlaUjh5eHptNjJtMUpKSG9HRlZQRk1VTy1mbw?oc=5",
+  "source": "TechRadar",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-26T11:50:59+00:00",
+  "image": "",
+  "id": "78cc0e653146bed3"
+ },
+ {
+  "title": "ChatGPT Ads adds audience metrics and expands Business Agents",
+  "summary": "ChatGPT Ads adds audience metrics and expands Business Agents Search Engine Land",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOUNQNm9SSXJqd09NMVdLSUtJSXVSLThWb2Q4TWNEdjVRdmx5TWhLRy1lMWpmaDFwUFJJUEN3aGYydkVycHd5emRhSEx6dS1Ta1l1LXR0dmJFVWV1NGNtdm93a21YOTRaRjVveE8xSFl4dmtPOUtBNHVmMUNmWThaRWdkQ09MNGNtUmVVTUJ2cGFGeExyT2t1YjZ2TENoQQ?oc=5",
+  "source": "Search Engine Land",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-26T20:30:43+00:00",
+  "image": "",
+  "id": "8b8cb652101b3d33"
  }
 ]

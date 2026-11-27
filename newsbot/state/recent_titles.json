@@ -1,7 +1,4 @@
 [
- "DeepSeek Boosts AI Agent Offering With New Creator Mode",
- "Scaling Git at OpenAI",
- "Rewarding defenders with bigger bug bounties",
  "Preparing our next security sprint to harden OpenAI",
  "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
  "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
@@ -298,5 +295,8 @@
  "AI agents promise to transform work. Big Tech wants to collect the tolls.",
  "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
  "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
- "Come for the Games, Stay for the Community With GeForce NOW"
+ "Come for the Games, Stay for the Community With GeForce NOW",
+ "An update on independent evaluators",
+ "‘We’ve fixed this now, so the same work will use more of your plan’s usage allowance’: OpenAI admits it made a mistake when launching GPT-6.2 — and now, paying ChatGPT users could hit their usage limits up to 40% faster",
+ "ChatGPT Ads adds audience metrics and expands Business Agents"
 ]
