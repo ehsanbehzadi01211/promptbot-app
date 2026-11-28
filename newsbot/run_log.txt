@@ -1,12 +1,12 @@
-Fri Nov 27 21:12:43 UTC 2026
+Sat Nov 28 03:52:51 UTC 2026
 {'channel': 'set', 'owner': 'set'}
 == sources.json
 OpenAI: 0 fresh
 Google: 0 fresh
 Google DeepMind: 0 fresh
-NVIDIA: 1 fresh
-Hugging Face: 2 fresh
-The Verge: 2 fresh
+NVIDIA: 0 fresh
+Hugging Face: 1 fresh
+The Verge: 1 fresh
 TechCrunch: 2 fresh
 feed fail VentureBeat HTTP Error 429: Too Many Requests
 MIT Technology Review: 0 fresh
@@ -16,30 +16,30 @@ Google News: 30 fresh
 Google News: 30 fresh
 Google News: 24 fresh
 Google News: 30 fresh
-Google News: 30 fresh
-Google News: 26 fresh
-new items: 2
+Google News: 28 fresh
+Google News: 28 fresh
+new items: 1
 == sources_games.json
-Xbox Wire: 3 fresh
+Xbox Wire: 2 fresh
 PlayStation Blog: 2 fresh
 IGN: 20 fresh
-GameSpot: 3 fresh
-PC Gamer: 26 fresh
-Eurogamer: 27 fresh
+GameSpot: 2 fresh
+PC Gamer: 25 fresh
+Eurogamer: 17 fresh
 VGC: 10 fresh
-Push Square: 17 fresh
+Push Square: 16 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-Google News: 29 fresh
-Google News: 30 fresh
-Google News: 22 fresh
 Google News: 30 fresh
 Google News: 30 fresh
-new items: 8
+Google News: 30 fresh
+Google News: 30 fresh
+Google News: 30 fresh
+new items: 3
 == sources.json
 translated via clients5
-sent photo Introducing the llama.cpp benchmark dashboard for AMD Ryzen 
+sent photo An update on independent evaluators
 == sources_games.json
 translated via clients5
 translated via clients5
-sent photo Free Play Days – Warhammer 40,000: Mechanicus and Little Roc
+sent photo Infinity Nikki Version 3.0 “Of Yesterday and Tomorrow” updat
