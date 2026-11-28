@@ -1,41 +1,5 @@
 [
  {
-  "title": "Lucia Actress Manni L. Perez Issues First Statement Since GTA 6 Launch",
-  "summary": "Manni L. Perez, the actress who plays Lucia in GTA 6, has issued her first statement since the game came out.",
-  "url": "https://www.ign.com/articles/lucia-actress-manni-l-perez-issues-first-statement-since-gta-6-launch",
-  "source": "IGN",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-26T21:02:21+00:00",
-  "image": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-38-1795726955205.jpg",
-  "id": "f3e432c39e1a745b"
- },
- {
-  "title": "Vermintide 2 mod tools get a public release, and the game's 90% off on Steam too",
-  "summary": "Holy Sigmar, bless this ravaged body.",
-  "url": "https://www.pcgamer.com/games/fps/vermintide-2-mod-tools-get-a-public-release-and-the-games-90-percent-off-on-steam-too/",
-  "source": "PC Gamer",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-27T01:28:24+00:00",
-  "image": "https://cdn.mos.cms.futurecdn.net/SubVYEY5D6vgzjDNu7QSST-1920-80.jpg",
-  "id": "8b1321cbfb158903"
- },
- {
-  "title": "'Blizzard I'm looking at you': Path of Exile 2 boss criticizes 'truly terrible' game announcements that hold the juiciest details until the end",
-  "summary": "Grinding Gear Games' Jonathan Rogers urges devs to lead with their best stuff.",
-  "url": "https://www.pcgamer.com/games/rpg/blizzard-im-looking-at-you-path-of-exile-2-boss-criticizes-truly-terrible-game-announcements-that-hold-the-juiciest-details-until-the-end/",
-  "source": "PC Gamer",
-  "official": false,
-  "tools": false,
-  "gnews": false,
-  "time": "2026-11-26T23:00:00+00:00",
-  "image": "https://cdn.mos.cms.futurecdn.net/HMRK6xpxefVxP2MDgUaKmG-1920-80.jpg",
-  "id": "10997620eef029b4"
- },
- {
   "title": "The New York Times Book of Puzzle Games Drops to a New Low Price",
   "summary": "",
   "url": "https://www.ign.com/articles/the-new-york-times-book-of-word-puzzle-games-black-friday-deal-2026",
@@ -238,5 +202,41 @@
   "time": "2026-11-27T21:58:05+00:00",
   "image": "",
   "id": "80be6e58de712747"
+ },
+ {
+  "title": "ArcheAge Chronicles developer XL Games faces major layoffs and possible closure after disappointing sales",
+  "summary": "XL Games, the South Korean studio behind ArcheAge Chronicles, is planning a major restructuring and has not ruled out closing altogether after the game failed to meet sales expectations. Read more",
+  "url": "https://www.eurogamer.net/archeage-chronicles-xl-games-restructuring-layoffs-closure",
+  "source": "Eurogamer",
+  "official": false,
+  "tools": false,
+  "gnews": false,
+  "time": "2026-11-28T10:44:50+00:00",
+  "image": "https://assetsio.gnwcdn.com/ss_92e884b876577a333b3fb6d34775f2e793d58917.1920x1080.jpg?width=690&quality=85&format=jpg&auto=webp",
+  "id": "9cbd02bd4578fe1d"
+ },
+ {
+  "title": "Everything you need to know about unofficial GTA 6 PC ports — including how they're happening so fast, how Rockstar is dealing with them, and what this might mean for the official release",
+  "summary": "Everything you need to know about unofficial GTA 6 PC ports — including how they're happening so fast, how Rockstar is dealing with them, and what this might mean for the official release TechRadar",
+  "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONHpjV2dNYTRjX1M3TXp4MG1ESmVRdURucnNmM1IxMklTaTU0amRjN0xjWS15M0NrSXBGUDRwSW5NTkxuY2NKOWJEeng2anc1OEY3QVZKZGpCTHVtRTdkMF83b0xiSk41Y1JmSTIwb2RPbEdpdUMyUUk4RkVQVnZCMWdIVFJteWFldkU2SURZSHZLcE8tajZZci1iVXdRR2JvSmw4bkNqRkRmVndXMl9xQlFMTFctQlpUcjNQVVMxUWlBSDNJc2dMbmZpbHpWeUZLc21fLUVTQzd1Q3lDNUxJUW8xTlkzWVdWbmNVUy01RDhYNFctTVVTM2VnOA?oc=5",
+  "source": "TechRadar",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-28T11:00:00+00:00",
+  "image": "",
+  "id": "5d89922caffa6a9d"
+ },
+ {
+  "title": "PS Plus Essential Games for December 2026 Announced",
+  "summary": "PS Plus Essential Games for December 2026 Announced Push Square",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTkVQLWFpWEpzNVEzemxmaUQzNDhUaFkxalItVlFXWlpoSUVVYXNNSU9DU0dWWlVNbmZ2SG1UNHB5TkFBX2VqX0JTWmVaM200UzVTNDEtVGotRFZyU0hpUXpqb1FJRkRFaElDTlh5WVdFLS1DNHpHN19KUjBpTzBrck9hSkZNLXVFcVYxQkpEeHVfVTJIZVE?oc=5",
+  "source": "Push Square",
+  "official": false,
+  "tools": false,
+  "gnews": true,
+  "time": "2026-11-28T09:40:43+00:00",
+  "image": "",
+  "id": "b252ca67831fb0f8"
  }
 ]
